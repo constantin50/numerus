@@ -258,6 +258,9 @@
 	  
 	  document.getElementById("bt1").addEventListener("click", function(){
 		    
+		   	/* to clear previous input */
+		   	document.getElementById("num").reset();
+
 		   	var a1 = document.getElementById("ans1");
 		    a1.style.display = 'none'
 		    var a2 = document.getElementById("ans2");
@@ -297,7 +300,6 @@
 
 	  	/* take numbers issued by user */
 	  	var input = document.getElementById("num");
-
 
 	  	/* check-button is hidden */
 	  	var x = document.getElementById("bt2");
