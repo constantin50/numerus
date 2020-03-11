@@ -189,9 +189,9 @@
 	    <i class="fa fa-caret-down"></i>
 	  </button>
 	  <div class="dropdown-content" id="myDropdown">
-	    <a href="#">русский</a>
-		<a href="#">english</a>
-		<a href="#">français</a>
+	    <a href="C:\projects\project01\web\main_ru.html">русский</a>
+		<a href="C:\projects\project01\web\main_en.html">english</a>
+		<a href="C:\projects\project01\web\main_fr.html">français</a>
 	  </div>
 	  </div> 
 	</div>
@@ -319,17 +319,22 @@
 	  	phrase = data_fr[id][4];
 	  	var flag = 0;
 	  	for (i = 0; i < input.length ;i++) {
-		    if (phrase.includes(input.elements[i].value)){
-		    	var a = document.getElementById("ans1");
-		    	a.style.display = 'block'
+		    if (z.innerHTML.includes(input.elements[i].value) & 
+		    	input.elements[i].value != ""){
+		    	var a1 = document.getElementById("ans1");
+		    	a1.style.display = 'block'
 		    	flag = 1;
 		    }
 		}
 
 		if (flag == 0){
-			var a = document.getElementById("ans2");
-		    a.style.display = 'block'
+			var a2 = document.getElementById("ans2");
+		    a2.style.display = 'block'
 		}
+
+		document.getElementById("bt3").addEventListener("click", function(){
+
+			alert("Report was sent. Thank you!");
 	  
 	  });
 
