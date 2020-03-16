@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Page Title</title>
+		<title>Numerus | Русский</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 			<style>
@@ -15,7 +15,7 @@
 				margin-left: 20%;
 				margin-top: 2%;
 				text-align: left; /* center the text */
-				background: #4c8f97; /* green background */
+				background: #588BAE; /* green background */
 				color: white; /* white text color */
 			}
 
@@ -26,7 +26,7 @@
 
 			.navbar {
 			  overflow: hidden;
-			  background-color: #4c8f97;
+			  background-color: #588BAE ;
 			  margin-left: 20%;
   			  margin-right: 20%;
   			  margin-bottom: 5%;
@@ -91,10 +91,10 @@
 			  display: block;
 			}
 
-			.video{
-				text-align: center; /* center the text */
-				margin-left: 10%;
-  			  	margin-right: 10%;
+			.player{
+		
+				margin-left: 32%;
+  			  	margin-right: 30%;
 			}
 
 			.subs{
@@ -108,7 +108,7 @@
 			}
 
 			.next_button {
-			  background-color: #4c8f97; /* Green */
+			  background-color: #588BAE; /* Green */
 			  border: none;
 			  color: white;
 			  padding: 10px 28px;
@@ -118,7 +118,7 @@
 			  font-size: 16px;
 			  margin: 4px 2px;
 			  cursor: pointer;
-			  margin-left: 49%;
+			  margin-left: 47%;
   			  margin-right: 55%;
   			  margin-top: 7%;
   			  display: none;
@@ -134,8 +134,8 @@
 			  display: inline-block;
 			  font-size: 16px;
 			  margin: 4px 2px;
-			  margin-left: 48%;
-			  margin-right: 48%;
+			  margin-left: 46%;
+			  margin-right: 47%;
 			  margin-top: 3%;
 			  margin-bottom: 35%;
 			  cursor: pointer;
@@ -143,7 +143,7 @@
 			}
 
 			.check_button {
-			  background-color: #4c8f97; /* Green */
+			  background-color: #588BAE; /* Green */
 			  border: none;
 			  color: white;
 			  padding: 10px 28px;
@@ -173,7 +173,7 @@
 			.right_answer{
 			  color: #73f06f;
 			  text-align: center; /* center the text */
-			  margin-left: 35%;
+			  margin-left: 30%;
   			  margin-right: 30%;
   			  margin-top: 3%;
   			  margin-bottom: 1%;
@@ -183,7 +183,7 @@
 			.wrong_answer{
 			  color: #f06f6f;
 			  text-align: center; /* center the text */
-			  margin-left: 35%;
+			  margin-left: 30%;
   			  margin-right: 30%;
   			  margin-top: 3%;
   			  margin-bottom: 1%;  			  
@@ -196,7 +196,7 @@
 	<body>
 
 	<div class="header">
-		<a href="C:\projects\project01\web\main_en.html" style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
+		<a href="C:\projects\project01\web\main_ru.html" style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
 	</div>
 
 	<div class="navbar">
@@ -215,7 +215,7 @@
 	</div>
 
 
-	<div class = "video" id="video"></div>
+<div class = "player" id="player"></div>
 	<div class = "subs" id="subs"></div>
 
 	<form id="num">
@@ -232,144 +232,194 @@
 	<div class="report_button" id="bt3"><u>Report_an_Error</u></div>
 
 	<script>
-		/* When the user clicks on the button, 
-		toggle between hiding and showing the dropdown content */
-		function myFunction() {
-		  document.getElementById("myDropdown").classList.toggle("show");
-		}
 
-		// Close the dropdown if the user clicks outside of it
-		window.onclick = function(e) {
-		  if (!e.target.matches('.dropbtn')) {
-		  var myDropdown = document.getElementById("myDropdown");
-		    if (myDropdown.classList.contains('show')) {
-		      myDropdown.classList.remove('show');
-		    }
-		  }
-		}
 
-	    async function /*Promise<string>*/ getTextAsync(url) {
-	    let response = await fetch(url);
-	    if (response.ok) {
-	        let text = await response.text();
-	        return text;
+	/* When the user clicks on the button, 
+	toggle between hiding and showing the dropdown content */
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
+
+	// Close the dropdown if the user clicks outside of it
+	window.onclick = function(e) {
+	  if (!e.target.matches('.dropbtn')) {
+	  var myDropdown = document.getElementById("myDropdown");
+	    if (myDropdown.classList.contains('show')) {
+	      myDropdown.classList.remove('show');
 	    }
-	    else throw new Error(`${response.status}: ${response.statusText}`);
-		}
+	  }
+	}
 
-		(async function main() {
+	var tag = document.createElement('script');
 
-		  let str = await getTextAsync("https://raw.githubusercontent.com/constantin50/numerus/master/data/data_ru.txt");
-		  console.log(str);
-		  data_en = str.split('#')
-		  for (i = 0; i < data_en.length; i++) 
-		    data_en[i] = data_en[i].split(',')
-		  var id = Math.floor(Math.random() * data_en.length);
-		  
-		  var video = data_en[id][1];
-		  var timecode = data_en[id][2];
-		  var number = data_en[id][3];
-		  var phrase = data_en[id][4];
-		  document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-		  document.getElementById('video').innerHTML='<iframe width="560" height="315" src="https://www.youtube.com/embed/'+video+'?autoplay=1&start='+Math.round(timecode)+'"</iframe>'
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '315',
+          width: '560',
+          videoId: video,
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
 
-		  
-		  document.getElementById("bt1").addEventListener("click", function(){
-			    
-			   	/* to clear previous input */
-			   	document.getElementById("num").reset();
+        });
+      }
 
-			   	var a1 = document.getElementById("ans1");
-			    a1.style.display = 'none'
-			    var a2 = document.getElementById("ans2");
-			    a2.style.display = 'none'
+      function onPlayerReady(event) {
+	    player.loadVideoById({'videoId':video, 
+                  	'startSeconds':timecode_start, 
+                    'endSeconds':timecode_end, 
+                    'suggestedQuality':'low'})
+        player.playVideo();
+      }
 
-			   	/* check-button is shown */
-			  	var x = document.getElementById("bt2");
-			  	x.style.display = 'inline';
+     
+      function onPlayerStateChange(event) {
+      	 if (event.data != YT.PlayerState.PLAYING) {
+      	 	 player.seekTo(timecode_start);
 
-			  	/* form is shown */
-			  	var v = document.getElementById("num");
-			  	v.style.display = 'inline';
+      	 }
+	    }  
 
-			   	/* next-button is hidden */
-			  	var y = document.getElementById("bt1");
-			  	y.style.display = 'none';
+      function stopVideo() {
+        player.stopVideo();
+      }
 
-			  	/* subs are hidden */
-			  	var z = document.getElementById("subs");
-			 	z.style.display = 'none';
 
-			 	/* report-buttom is hidden */
-			 	var u = document.getElementById("bt3");
-			 	u.style.display = 'none';
+    async function /*Promise<string>*/ getTextAsync(url) {
+    let response = await fetch(url);
+    if (response.ok) {
+        let text = await response.text();
+        return text;
+    }
+    else throw new Error(`${response.status}: ${response.statusText}`);
+	}
 
-			  	/* pick a random video */
-			    var id = Math.floor(Math.random() * data_en.length);
-		  
-				video = data_en[id][1];
-				timecode = data_en[id][2];
-				number = data_en[id][3];
-				phrase = data_en[id][4];
+	var video;
+	var timecode_start;
+	var timecode_end;
+	var phrase;
 
-				document.getElementById('subs').innerHTML='<br>'+phrase
+	(async function main() {
 
-			    document.getElementById('video').innerHTML='<iframe width="560" height="315" src="https://www.youtube.com/embed/'+video+'?autoplay=1&start='+Math.round(timecode)+'"</iframe>'
+	  let str = await getTextAsync("https://raw.githubusercontent.com/constantin50/numerus/master/data/data_ru.txt");
+	  console.log(str);
+	  data_en = str.split('#')
+	  for (i = 0; i < data_en.length; i++) 
+	    data_en[i] = data_en[i].split(',')
+	  var id = Math.floor(Math.random() * data_en.length);
+	  
+	  video = data_en[id][1];
+	  timecode_start = parseInt(data_en[id][2]);
+	  timecode_end = timecode_start + 8;
+      phrase = data_en[id][4];
+
+
+
+	  document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
+	  
+	  document.getElementById("bt1").addEventListener("click", function(){
+		    
+		   	/* to clear previous input */
+		   	document.getElementById("num").reset();
+
+		   	var a1 = document.getElementById("ans1");
+		    a1.style.display = 'none'
+		    var a2 = document.getElementById("ans2");
+		    a2.style.display = 'none'
+
+		   	/* check-button is shown */
+		  	var x = document.getElementById("bt2");
+		  	x.style.display = 'inline';
+
+		  	/* form is shown */
+		  	var v = document.getElementById("num");
+		  	v.style.display = 'inline';
+
+		   	/* next-button is hidden */
+		  	var y = document.getElementById("bt1");
+		  	y.style.display = 'none';
+
+		  	/* subs are hidden */
+		  	var z = document.getElementById("subs");
+		 	z.style.display = 'none';
+
+		 	/* report-buttom is hidden */
+		 	var u = document.getElementById("bt3");
+		 	u.style.display = 'none';
+
+		  	/* pick a random video */
+		    var id = Math.floor(Math.random() * data_en.length);
+	  
+			video = data_en[id][1];
+			timecode_start = parseInt(data_en[id][2]);
+	  		timecode_end = timecode_start + 8;
+			phrase = data_en[id][4];
+
+			document.getElementById('subs').innerHTML='<br>'+phrase
+			player.loadVideoById({'videoId':video, 
+		                  	'startSeconds':timecode_start, 
+		                    'endSeconds':timecode_end, 
+		                    'suggestedQuality':'low'})
+
 			});
 
-		  document.getElementById("bt2").addEventListener("click", function(){
-		  		  	
+	  document.getElementById("bt2").addEventListener("click", function(){
+	  		  	
 
-		  	/* take numbers issued by user */
-		  	var input = document.getElementById("num");
+	  	/* take numbers issued by user */
+	  	var input = document.getElementById("num");
 
-		  	/* check-button is hidden */
-		  	var x = document.getElementById("bt2");
-		  	x.style.display = 'none';
+	  	/* check-button is hidden */
+	  	var x = document.getElementById("bt2");
+	  	x.style.display = 'none';
 
-		  	/* report-button is shown */
-		  	var h = document.getElementById("bt3");
-		  	h.style.display = 'inline';
+	  	/* report-button is shown */
+	  	var h = document.getElementById("bt3");
+	  	h.style.display = 'inline';
 
-		  	/* subs is shown */
-			var z = document.getElementById("subs");
-			 z.style.display = 'block';
+	  	/* subs is shown */
+		var z = document.getElementById("subs");
+		 z.style.display = 'block';
 
-		  	/* next-button is shown */
-		  	var y = document.getElementById("bt1");
-		  	y.style.display = 'inline';
-		  	/* form is hidden */
-		  	input.style.display = 'none';
+	  	/* next-button is shown */
+	  	var y = document.getElementById("bt1");
+	  	y.style.display = 'inline';
+	  	/* form is hidden */
+	  	input.style.display = 'none';
 
 
-		  	phrase = data_en[id][4];
-		  	var flag = 0;
-		  	for (i = 0; i < input.length ;i++) {
-			    if (z.innerHTML.includes(input.elements[i].value) & 
-			    	input.elements[i].value != ""){
-			    	var a1 = document.getElementById("ans1");
-			    	a1.style.display = 'block'
-			    	flag = 1;
-			    }
-			}
+	  	phrase = data_en[id][4];
+	  	var flag = 0;
+	  	for (i = 0; i < input.length ;i++) {
+		    if (z.innerHTML.includes(input.elements[i].value) & 
+		    	input.elements[i].value != ""){
+		    	var a1 = document.getElementById("ans1");
+		    	a1.style.display = 'block'
+		    	flag = 1;
+		    }
+		}
 
-			if (flag == 0){
-				var a2 = document.getElementById("ans2");
-			    a2.style.display = 'block'
-			}
-		  
-		  });
+		if (flag == 0){
+			var a2 = document.getElementById("ans2");
+		    a2.style.display = 'block'
+		}
 
-		  document.getElementById("bt3").addEventListener("click", function(){
+		document.getElementById("bt3").addEventListener("click", function(){
 
 			alert("Report was sent. Thank you!");
 	  
-	  	  });
+	    });
+	  });
 
+	 })();
 
-		 })();
-
-		</script>
+	 
+	</script>
 	</body>
 </html>
