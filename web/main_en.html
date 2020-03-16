@@ -15,7 +15,7 @@
 				margin-left: 20%;
 				margin-top: 2%;
 				text-align: left; /* center the text */
-				background: #4c8f97; /* green background */
+				background: #588BAE; /* green background */
 				color: white; /* white text color */
 			}
 
@@ -26,7 +26,7 @@
 
 			.navbar {
 			  overflow: hidden;
-			  background-color: #4c8f97;
+			  background-color: #588BAE ;
 			  margin-left: 20%;
   			  margin-right: 20%;
   			  margin-bottom: 5%;
@@ -91,10 +91,10 @@
 			  display: block;
 			}
 
-			.video{
-				text-align: center; /* center the text */
-				margin-left: 10%;
-  			  	margin-right: 10%;
+			.player{
+		
+				margin-left: 32%;
+  			  	margin-right: 30%;
 			}
 
 			.subs{
@@ -108,7 +108,7 @@
 			}
 
 			.next_button {
-			  background-color: #4c8f97; /* Green */
+			  background-color: #588BAE; /* Green */
 			  border: none;
 			  color: white;
 			  padding: 10px 28px;
@@ -118,7 +118,7 @@
 			  font-size: 16px;
 			  margin: 4px 2px;
 			  cursor: pointer;
-			  margin-left: 49%;
+			  margin-left: 47%;
   			  margin-right: 55%;
   			  margin-top: 7%;
   			  display: none;
@@ -134,8 +134,8 @@
 			  display: inline-block;
 			  font-size: 16px;
 			  margin: 4px 2px;
-			  margin-left: 48%;
-			  margin-right: 48%;
+			  margin-left: 46%;
+			  margin-right: 47%;
 			  margin-top: 3%;
 			  margin-bottom: 35%;
 			  cursor: pointer;
@@ -143,7 +143,7 @@
 			}
 
 			.check_button {
-			  background-color: #4c8f97; /* Green */
+			  background-color: #588BAE; /* Green */
 			  border: none;
 			  color: white;
 			  padding: 10px 28px;
@@ -173,7 +173,7 @@
 			.right_answer{
 			  color: #73f06f;
 			  text-align: center; /* center the text */
-			  margin-left: 35%;
+			  margin-left: 30%;
   			  margin-right: 30%;
   			  margin-top: 3%;
   			  margin-bottom: 1%;
@@ -183,7 +183,7 @@
 			.wrong_answer{
 			  color: #f06f6f;
 			  text-align: center; /* center the text */
-			  margin-left: 35%;
+			  margin-left: 30%;
   			  margin-right: 30%;
   			  margin-top: 3%;
   			  margin-bottom: 1%;  			  
@@ -215,7 +215,7 @@
 	</div>
 
 
-	<div class = "video" id="video"></div>
+	<div class = "player" id="player"></div>
 	<div class = "subs" id="subs"></div>
 
 	<form id="num">
@@ -250,6 +250,47 @@
 	  }
 	}
 
+	var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '315',
+          width: '560',
+          videoId: video,
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+
+        });
+      }
+
+      function onPlayerReady(event) {
+	    player.loadVideoById({'videoId':video, 
+                  	'startSeconds':timecode_start, 
+                    'endSeconds':timecode_end, 
+                    'suggestedQuality':'low'})
+        player.playVideo();
+      }
+
+     
+      function onPlayerStateChange(event) {
+      	 if (event.data != YT.PlayerState.PLAYING) {
+      	 	 player.seekTo(timecode_start);
+
+      	 }
+	    }  
+
+      function stopVideo() {
+        player.stopVideo();
+      }
+
+
     async function /*Promise<string>*/ getTextAsync(url) {
     let response = await fetch(url);
     if (response.ok) {
@@ -258,6 +299,11 @@
     }
     else throw new Error(`${response.status}: ${response.statusText}`);
 	}
+
+	var video;
+	var timecode_start;
+	var timecode_end;
+	var phrase;
 
 	(async function main() {
 
@@ -268,14 +314,14 @@
 	    data_en[i] = data_en[i].split(',')
 	  var id = Math.floor(Math.random() * data_en.length);
 	  
-	  var video = data_en[id][1];
-	  var timecode = data_en[id][2];
-	  var number = data_en[id][3];
-	  var phrase = data_en[id][4];
+	  video = data_en[id][1];
+	  timecode_start = parseInt(data_en[id][2]);
+	  timecode_end = timecode_start + 8;
+      phrase = data_en[id][4];
+
+
+
 	  document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
-
-	  document.getElementById('video').innerHTML='<iframe width="560" height="315" src="https://www.youtube.com/embed/'+video+'?autoplay=1&start='+Math.round(timecode)+'"</iframe>'
-
 	  
 	  document.getElementById("bt1").addEventListener("click", function(){
 		    
@@ -311,14 +357,17 @@
 		    var id = Math.floor(Math.random() * data_en.length);
 	  
 			video = data_en[id][1];
-			timecode = data_en[id][2];
-			number = data_en[id][3];
+			timecode_start = parseInt(data_en[id][2]);
+	  		timecode_end = timecode_start + 8;
 			phrase = data_en[id][4];
 
 			document.getElementById('subs').innerHTML='<br>'+phrase
+			player.loadVideoById({'videoId':video, 
+		                  	'startSeconds':timecode_start, 
+		                    'endSeconds':timecode_end, 
+		                    'suggestedQuality':'low'})
 
-		    document.getElementById('video').innerHTML='<iframe width="560" height="315" src="https://www.youtube.com/embed/'+video+'?autoplay=1&start='+Math.round(timecode)+'"</iframe>'
-		});
+			});
 
 	  document.getElementById("bt2").addEventListener("click", function(){
 	  		  	
@@ -369,6 +418,8 @@
 	  });
 
 	 })();
+
+	 
 	</script>
 	</body>
 </html>
