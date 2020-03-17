@@ -6,261 +6,263 @@
 <body>
 
 <style>
-      body {
-        font-family: Helvetica, sans-serif;
-      }
+			body {
+			  font-family: Helvetica, sans-serif;
+			}
 .header {
-    background: #588BAE;
-    color: white;
-        padding: 14px;
+		background: #588BAE;
+		color: white;
+        padding: 34px;
 }
 
-      .navbar {
-        overflow: hidden;
-        background-color: #588BAE ;
-      }
+			.navbar {
+			  overflow: hidden;
+			  background-color: #588BAE ;
+			}
 
-      /* Style the navigation bar links */
-      .navbar a {
-        float: left;
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 20px;
-        text-decoration: none;
-      }
+			/* Style the navigation bar links */
+			.navbar a {
+			  float: left;
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px;
+			  text-decoration: none;
+			}
 
 
-      /* Right-aligned link */
-      .navbar a.right {
-        float: right;
-      }
+			/* Right-aligned link */
+			.navbar a.right {
+			  float: right;
+              padding: 34px;
+			}
 
-      .dropdown {
-        float: left;
-        overflow: hidden;
-      }
+			.dropdown {
+			  float: left;
+			  overflow: hidden;
+              padding: 34px;
+			}
 
-      .dropdown .dropbtn {
-        cursor: pointer;
-        font-size: 16px;  
-        border: none;
-        outline: none;
-        color: white;
-        padding: 14px 16px;
-        background-color: inherit;
-        font-family: inherit;
-        margin: 0;
-      }
+			.dropdown .dropbtn {
+			  cursor: pointer;
+			  font-size: 16px;  
+			  border: none;
+			  outline: none;
+			  color: white;
+			  padding: 14px 16px;
+			  background-color: inherit;
+			  font-family: inherit;
+			  margin: 0;
+			}
 
-      .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f9f9f9;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-      }
+			.dropdown-content {
+			  display: none;
+			  position: absolute;
+			  background-color: #f9f9f9;
+			  min-width: 160px;
+			  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			  z-index: 1;
+			}
 
-      .dropdown-content a {
-        float: none;
-        color: black;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        text-align: left;
-      }
+			.dropdown-content a {
+			  float: none;
+			  color: black;
+			  padding: 12px 16px;
+			  text-decoration: none;
+			  display: block;
+			  text-align: left;
+			}
 
-      .dropdown-content a:hover {
-        background-color: #ddd;
-      }
+			.dropdown-content a:hover {
+			  background-color: #ddd;
+			}
             
-                  .show {
-        display: block;
-      }
+            			.show {
+			  display: block;
+			}
 
-      .player{
-              position: absolute; 
+			.player{
+            	position: absolute; 
                 left: 0; 
                 right: 0; 
                 margin-left: auto; 
                 margin-right: auto;
                 margin-top: 5%;
                 margin-bottom: 10%;
-        border: 8px solid #FFFFFF
-      }
+				border: 8px solid #FFFFFF
+			}
 
-      .subs{
-        text-align: center; /* center the text */
-        position: absolute; 
+			.subs{
+				text-align: center; /* center the text */
+				position: absolute; 
                 left: 0; 
                 right: 0;
-                bottom: 20%;
+                bottom: -32%;
                 margin-left: auto; 
                 margin-right: auto;
-            padding: 12px 10px;
-            background-color: #f0f0f0;
-            display: none;
+  			  	padding: 12px 10px;
+  			  	background-color: #f0f0f0;
+  			  	display: none;
   
-      }
+			}
 
-      .next_button {
-        background-color: #588BAE; /* Green */
-        color: white;
-        padding: 10px 28px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        position: absolute; 
+			.next_button {
+			  background-color: #588BAE; /* Green */
+			  color: white;
+			  padding: 10px 28px;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  position: absolute; 
               left: 0; 
               right: 0;
-            bottom: 10%;
+        	  bottom: -43%;
               margin-left: auto; 
               margin-right: auto;
               width: 70px; /* Need a specific value to work */
-      }
+			}
 
-      .report_button {
-        background-color: white; /* Green */
-        border: none;
-        color: grey;
-        padding: 10px 28px;
-        text-align: center;
-        text-decoration: none;
+			.report_button {
+			  background-color: white; /* Green */
+			  border: none;
+			  color: grey;
+			  padding: 10px 28px;
+			  text-align: center;
+			  text-decoration: none;
               position: absolute; 
                 left: 0; 
                 right: 0;
-                bottom: 2%;
+                bottom: -58%;
                 margin-left: auto; 
                 margin-right: auto;
-        display: inline-block;
-        font-size: 16px;
-        margin: 4px 2px;
-        cursor: pointer;
-          display: none;
-      }
+			  display: inline-block;
+			  font-size: 16px;
+			  margin: 4px 2px;
+			  cursor: pointer;
+  			  display: none;
+			}
 
-      .check_button {
-        background-color: #588BAE; /* Green */
-        color: white;
-        padding: 10px 28px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        position: absolute; 
+			.check_button {
+			  background-color: #588BAE; /* Green */
+			  color: white;
+			  padding: 10px 28px;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  position: absolute; 
               left: 0; 
               right: 0;
-            bottom: 10%;
+        	  bottom: -43%;
               margin-left: auto; 
               margin-right: auto;
               width: 70px; /* Need a specific value to work */
-      }
+			}
 
-      input[type=text], select {
-           position: absolute; 
+			input[type=text], select {
+			     position: absolute; 
                  padding: 10px 28px;
                   left: 0; 
                   right: 0;
-                  bottom: 20%;
+                  bottom: -29%;
                   margin-left: auto; 
                   margin-right: auto;
                   margin-top: auto;
                   margin-bottom:auto;
                   width: 70px; /* Need a specific value to work */
-          display: inline-block;
-          text-align: center;
-      }
+			    display: inline-block;
+			    text-align: center;
+			}
 
-      .right_answer{
-        color: #73f06f;
-        text-align: center; /* center the text */
-        position: absolute; 
+			.right_answer{
+			  color: #73f06f;
+			  text-align: center; /* center the text */
+			  position: absolute; 
                 left: 0; 
                 right: 0;
                 bottom: 4%;
                 margin-left: auto; 
                 margin-right: auto;
               margin-left: 30%;
-          margin-right: 30%;
-          margin-top: 3%;
-          margin-bottom: 1%;
-          display: none;
-      }
+  			  margin-right: 30%;
+  			  margin-top: 3%;
+  			  margin-bottom: -45%;
+  			  display: none;
+			}
 
-      .wrong_answer{
-        color: #f06f6f;
+			.wrong_answer{
+			  color: #f06f6f;
               position: absolute; 
                 left: 0; 
                 right: 0;
                 bottom: 4%;
                 margin-left: auto; 
                 margin-right: auto;
-        text-align: center; /* center the text */
-        margin-left: 30%;
-          margin-right: 30%;
-          margin-top: 3%;
-          margin-bottom: 1%;          
-          display: none;
-      }
+			  text-align: center; /* center the text */
+			  margin-left: 30%;
+  			  margin-right: 30%;
+  			  margin-top: 3%;
+  			  margin-bottom: -45%;  			  
+  			  display: none;
+			}
 </style>
 
 <div class="header">
-  <a style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
+  <a style="text-decoration:none;"><font size="18" color='white'>Numerus</font></a>
 </div>
 
-  <div class="navbar">
-    <a href="/about_en.html" class="right">about</a>
-    <div class="dropdown">
-    <button class="dropbtn" onclick="myFunction()"><u>english</u>
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content" id="myDropdown">
-      <a href="/main_ru.html">русский</a>
-    <a href="/main_en.html">english</a>
-    <a href="/main_fr.html">français</a>
-    </div>
-    </div> 
-  </div>
+	<div class="navbar">
+	  <a href="/about_en.html" class="right">about</a>
+	  <div class="dropdown">
+	  <button class="dropbtn" onclick="myFunction()"><u>english</u>
+	    <i class="fa fa-caret-down"></i>
+	  </button>
+	  <div class="dropdown-content" id="myDropdown">
+	    <a href="/main_ru.html">русский</a>
+		<a href="/main_en.html">english</a>
+		<a href="/main_fr.html">français</a>
+	  </div>
+	  </div> 
+	</div>
 
-  
-  <div class = "player" id="player"></div>
-  <div class = "subs" id="subs"></div>
+	
+	<div class = "player" id="player"></div>
+	<div class = "subs" id="subs"></div>
 
-  <form id="num">
-      <input type="text" placeholder="number(s)">
-  </form>
+	<form id="num">
+	    <input type="text" placeholder="number(s)">
+	</form>
 
-  <div class="next_button" id="bt1">Next</div>
-  <div class="check_button" id="bt2">Check</div>
+	<div class="next_button" id="bt1">Next</div>
+	<div class="check_button" id="bt2">Check</div>
 
 
-  <div class="right_answer" id="ans1"><b>right</b></div>
-  <div class="wrong_answer" id="ans2"><b>wrong</b></div>
+	<div class="right_answer" id="ans1"><b>right</b></div>
+	<div class="wrong_answer" id="ans2"><b>wrong</b></div>
 
-  <div class="report_button" id="bt3"><u>Report_an_Error</u></div>
+	<div class="report_button" id="bt3"><u>Report_an_Error</u></div>
 </div>
 
 
 <script>
 
 
-  /* When the user clicks on the button, 
-  toggle between hiding and showing the dropdown content */
-  function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-  }
+	/* When the user clicks on the button, 
+	toggle between hiding and showing the dropdown content */
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
 
-  // Close the dropdown if the user clicks outside of it
-  window.onclick = function(e) {
-    if (!e.target.matches('.dropbtn')) {
-    var myDropdown = document.getElementById("myDropdown");
-      if (myDropdown.classList.contains('show')) {
-        myDropdown.classList.remove('show');
-      }
-    }
-  }
+	// Close the dropdown if the user clicks outside of it
+	window.onclick = function(e) {
+	  if (!e.target.matches('.dropbtn')) {
+	  var myDropdown = document.getElementById("myDropdown");
+	    if (myDropdown.classList.contains('show')) {
+	      myDropdown.classList.remove('show');
+	    }
+	  }
+	}
 
-  var tag = document.createElement('script');
+	var tag = document.createElement('script');
 
       tag.src = "https://www.youtube.com/iframe_api";
       var firstScriptTag = document.getElementsByTagName('script')[0];
@@ -269,8 +271,8 @@
       var player;
       function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
-          height: '215',
-          width: '390',
+          height: '415',
+          width: '690',
           videoId: video,
           events: {
             'onReady': onPlayerReady,
@@ -281,8 +283,8 @@
       }
 
       function onPlayerReady(event) {
-      player.loadVideoById({'videoId':video, 
-                    'startSeconds':timecode_start, 
+	    player.loadVideoById({'videoId':video, 
+                  	'startSeconds':timecode_start, 
                     'endSeconds':timecode_end, 
                     'suggestedQuality':'low'})
         player.playVideo();
@@ -290,11 +292,11 @@
 
      
       function onPlayerStateChange(event) {
-         if (event.data != YT.PlayerState.PLAYING) {
-           player.seekTo(timecode_start);
+      	 if (event.data != YT.PlayerState.PLAYING) {
+      	 	 player.seekTo(timecode_start);
 
-         }
-      }  
+      	 }
+	    }  
 
       function stopVideo() {
         player.stopVideo();
@@ -308,129 +310,128 @@
         return text;
     }
     else throw new Error(`${response.status}: ${response.statusText}`);
-  }
+	}
 
-  var video;
-  var timecode_start;
-  var timecode_end;
-  var phrase;
+	var video;
+	var timecode_start;
+	var timecode_end;
+	var phrase;
 
-  (async function main() {
+	(async function main() {
 
-    let str = await getTextAsync("https://raw.githubusercontent.com/constantin50/numerus/master/data/data_en.txt");
-    console.log(str);
-    data_en = str.split('#')
-    for (i = 0; i < data_en.length; i++) 
-      data_en[i] = data_en[i].split(',')
-    var id = Math.floor(Math.random() * data_en.length);
-    
-    video = data_en[id][1];
-    timecode_start = parseInt(data_en[id][2]);
-    timecode_end = timecode_start + 8;
+	  let str = await getTextAsync("https://raw.githubusercontent.com/constantin50/numerus/master/data/data_en.txt");
+	  console.log(str);
+	  data_en = str.split('#')
+	  for (i = 0; i < data_en.length; i++) 
+	    data_en[i] = data_en[i].split(',')
+	  var id = Math.floor(Math.random() * data_en.length);
+	  
+	  video = data_en[id][1];
+	  timecode_start = parseInt(data_en[id][2]);
+	  timecode_end = timecode_start + 8;
       phrase = data_en[id][4];
 
 
 
-    document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
-    
-    document.getElementById("bt1").addEventListener("click", function(){
-        
-        /* to clear previous input */
-        document.getElementById("num").reset();
+	  document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
+	  
+	  document.getElementById("bt1").addEventListener("click", function(){
+		    
+		   	/* to clear previous input */
+		   	document.getElementById("num").reset();
 
-        var a1 = document.getElementById("ans1");
-        a1.style.display = 'none'
-        var a2 = document.getElementById("ans2");
-        a2.style.display = 'none'
+		   	var a1 = document.getElementById("ans1");
+		    a1.style.display = 'none'
+		    var a2 = document.getElementById("ans2");
+		    a2.style.display = 'none'
 
-        /* check-button is shown */
-        var x = document.getElementById("bt2");
-        x.style.display = 'inline';
+		   	/* check-button is shown */
+		  	var x = document.getElementById("bt2");
+		  	x.style.display = 'inline';
 
-        /* form is shown */
-        var v = document.getElementById("num");
-        v.style.display = 'inline';
+		  	/* form is shown */
+		  	var v = document.getElementById("num");
+		  	v.style.display = 'inline';
 
-        /* next-button is hidden */
-        var y = document.getElementById("bt1");
-        y.style.display = 'none';
+		   	/* next-button is hidden */
+		  	var y = document.getElementById("bt1");
+		  	y.style.display = 'none';
 
-        /* subs are hidden */
-        var z = document.getElementById("subs");
-      z.style.display = 'none';
+		  	/* subs are hidden */
+		  	var z = document.getElementById("subs");
+		 	z.style.display = 'none';
 
-      /* report-buttom is hidden */
-      var u = document.getElementById("bt3");
-      u.style.display = 'none';
+		 	/* report-buttom is hidden */
+		 	var u = document.getElementById("bt3");
+		 	u.style.display = 'none';
 
-        /* pick a random video */
-        var id = Math.floor(Math.random() * data_en.length);
-    
-      video = data_en[id][1];
-      timecode_start = parseInt(data_en[id][2]);
-        timecode_end = timecode_start + 8;
-      phrase = data_en[id][4];
+		  	/* pick a random video */
+		    var id = Math.floor(Math.random() * data_en.length);
+	  
+			video = data_en[id][1];
+			timecode_start = parseInt(data_en[id][2]);
+	  		timecode_end = timecode_start + 8;
+			phrase = data_en[id][4];
 
-      document.getElementById('subs').innerHTML='<br>'+phrase
-      player.loadVideoById({'videoId':video, 
-                        'startSeconds':timecode_start, 
-                        'endSeconds':timecode_end, 
-                        'suggestedQuality':'low'})
+			document.getElementById('subs').innerHTML='<br>'+phrase
+			player.loadVideoById({'videoId':video, 
+		                  	'startSeconds':timecode_start, 
+		                    'endSeconds':timecode_end, 
+		                    'suggestedQuality':'low'})
 
-      });
+			});
 
-    document.getElementById("bt2").addEventListener("click", function(){
-            
+	  document.getElementById("bt2").addEventListener("click", function(){
+	  		  	
 
-      /* take numbers issued by user */
-      var input = document.getElementById("num");
+	  	/* take numbers issued by user */
+	  	var input = document.getElementById("num");
 
-      /* check-button is hidden */
-      var x = document.getElementById("bt2");
-      x.style.display = 'none';
+	  	/* check-button is hidden */
+	  	var x = document.getElementById("bt2");
+	  	x.style.display = 'none';
 
-      /* report-button is shown */
-      var h = document.getElementById("bt3");
-      h.style.display = 'inline';
+	  	/* report-button is shown */
+	  	var h = document.getElementById("bt3");
+	  	h.style.display = 'inline';
 
-      /* subs is shown */
-    var z = document.getElementById("subs");
-     z.style.display = 'block';
+	  	/* subs is shown */
+		var z = document.getElementById("subs");
+		 z.style.display = 'block';
 
-      /* next-button is shown */
-      var y = document.getElementById("bt1");
-      y.style.display = 'inline';
-      /* form is hidden */
-      input.style.display = 'none';
+	  	/* next-button is shown */
+	  	var y = document.getElementById("bt1");
+	  	y.style.display = 'inline';
+	  	/* form is hidden */
+	  	input.style.display = 'none';
 
 
-      phrase = data_en[id][4];
-      var flag = 0;
-      for (i = 0; i < input.length ;i++) {
-        if (z.innerHTML.includes(input.elements[i].value) & 
-          input.elements[i].value != ""){
-          var a1 = document.getElementById("ans1");
-          a1.style.display = 'block'
-          flag = 1;
-        }
-    }
+	  	phrase = data_en[id][4];
+	  	var flag = 0;
+	  	for (i = 0; i < input.length ;i++) {
+		    if (z.innerHTML.includes(input.elements[i].value) & 
+		    	input.elements[i].value != ""){
+		    	var a1 = document.getElementById("ans1");
+		    	a1.style.display = 'block'
+		    	flag = 1;
+		    }
+		}
 
-    if (flag == 0){
-      var a2 = document.getElementById("ans2");
-        a2.style.display = 'block'
-    }
+		if (flag == 0){
+			var a2 = document.getElementById("ans2");
+		    a2.style.display = 'block'
+		}
 
-    document.getElementById("bt3").addEventListener("click", function(){
+		document.getElementById("bt3").addEventListener("click", function(){
 
-      alert("Report was sent. Thank you!");
-    
-      });
-    });
+			alert("Report was sent. Thank you!");
+	  
+	    });
+	  });
 
-   })();
+	 })();
 
-   
-  </script>
+	 
+	</script>
 
 </body>
-</html>
