@@ -2088,10 +2088,6 @@ in Tucson Arizona meaning they flew 25000 miles or 40000 kilometers in just one 
 en,pJ_LUFBSoqM,699,"['40,0']","Michigan then the weekend after that played
 in Tucson Arizona meaning they flew 25000 miles or 40000 kilometers in just one month. The Rainbow Warriors also make most of their
 trips on commercial flights making their travel"#
-en,pJ_LUFBSoqM,740,"['000', '500']","Europe meaning the teams from Beijing Vladivostok
-Khabarovsk and Beijing regularly have to travel more than 4000 miles or 6500 kilometers
-to play the teams from Minsk Riga and Helsinki. An even more extreme example would be Super
-Rugby which has teams spread out across Japan"#
 en,pJ_LUFBSoqM,760,"['11,0', '18,0']","With this when the Tokyo Sunwolves play the
 Buenos Aires Janguares for example they have to travel more than 11000 miles or 18000
 kilometers each way to their match. Part of the NFL’s problem is just the pure
