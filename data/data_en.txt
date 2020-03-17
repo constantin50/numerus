@@ -954,7 +954,6 @@ en,v7kE6hFUOjE,155,['200'],"Now if hymenopterans are not the most speciose anima
 Hosts are both food and shelter rolled into one."#
 en,v7kE6hFUOjE,177,['1993'],Not all nematodes are parasites but many are and they target not just insects but also other animals and plants. One 1993 study estimated there may be well over a 000000 nematode species though other estimates have varied wildly because they’re so understudied. Another paper from 2008 suggested that there may be between 75000 and 300000 species of nematodes parasitizing vertebrates alone.#
 en,v7kE6hFUOjE,185,"['2008', '75,0', '300', '000']",One 1993 study estimated there may be well over a 000000 nematode species though other estimates have varied wildly because they’re so understudied. Another paper from 2008 suggested that there may be between 75000 and 300000 species of nematodes parasitizing vertebrates alone. And nematodes have been found everywhere including sediments deep down on the ocean floor.#
-en,v7kE6hFUOjE,256,"['2018', '4000']",But when scientists do get to studying them they find a surprising number of species. Like a study from 2018 that found more than 4000 species of true flies in a four-hectare patch of Costa Rican rainforest. Current estimates put Diptera at more than a 000000 species easily surpassing beetle numbers.#
 en,IGI5GD0LtO0,33,['120'],"We cycle through a series of phases over the
 course of the night which can take anywhere from 70 to 120 minutes. Most dreams occur during a phase called rapid
 eye movement or REM."#
