@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<title>Numerus | English</title>
-<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+<html>
+<title>W3.CSS</title>
+<meta name="viewport"> 
 
 <body>
 
@@ -43,16 +43,16 @@
       .dropdown {
         float: left;
         overflow: hidden;
-        padding: 54px;
+              padding: 54px;
       }
 
       .dropdown .dropbtn {
         cursor: pointer;
-        font-size: 24px;  
+        font-size: 16px;  
         border: none;
         outline: none;
         color: white;
-        padding: 12px 16px;
+        padding: 14px 16px;
         background-color: inherit;
         font-family: inherit;
         margin: 0;
@@ -60,10 +60,9 @@
 
       .dropdown-content {
         display: none;
-        font-size: 36px;
         position: absolute;
         background-color: #f9f9f9;
-        min-width: 295px;
+        min-width: 160px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 1;
       }
@@ -212,6 +211,12 @@
           display: none;
               width: 20px;
       }
+      			.about {
+				text-align: left; /* center the text */
+				color: black; /* white text color */
+				margin-left: 23%;
+  			  	margin-right: 23%;
+			}
 </style>
 
 <div class="header">
@@ -233,23 +238,43 @@
   </div>
 
   
-  <div class = "player" id="player"></div>
-  <div class = "subs" id="subs"></div>
+	<div class="about">
+		<p align="right">
+			<i>“Number rules the universe.”</i> <br><br> ― Pythagoras</p>
 
-  <form id="num">
-      <input type="text" placeholder="number(s)">
-  </form>
+		<p>One of the hardest part of learning foreing language is listening,
+		especially numbers (15100, 0.931, 1201, 9001210 etc.). But clear understanding of them is crucial
+		in economics, physics, geography, history and other sciences that deal with numbers.
+		<br><br>
+		The goal of this web site is to provide an intensive training of comprehension of numbers pronounced in different context:
+		news, lecture, television series, blog, etc.
+		<br><br>
+		So, choose language, listen a video, write the number that you hear, 
+		press an check button, see subtitles. Then, go to the next video.
+		<br><br>
+		If you have any questions or problems please contact me: <i>const.werner@gmail.com</i></p>
+		<i>vk.com/constantin_01</i></p>
 
-  <div class="next_button" id="bt1"><font size='8'>Next<font></div>
-  <div class="check_button" id="bt2"><font size='8'>Check<font></div>
+	</div>
 
+	<script>
+	/* When the user clicks on the button, 
+	toggle between hiding and showing the dropdown content */
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
 
-  <div class="right_answer" id="ans1"><b>right</b></div>
-  <div class="wrong_answer" id="ans2"><b>wrong</b></div>
+	// Close the dropdown if the user clicks outside of it
+	window.onclick = function(e) {
+	  if (!e.target.matches('.dropbtn')) {
+	  var myDropdown = document.getElementById("myDropdown");
+	    if (myDropdown.classList.contains('show')) {
+	      myDropdown.classList.remove('show');
+	    }
+	  }
+	}
 
-  <div class="report_button" id="bt3"><u><font size='6'>Report_an_Error</u><font></div>
-</div>
-
+	</script>
 
 <script>
 
