@@ -43,7 +43,7 @@ class Analyzer:
 		
 		video_id = list()
 
-		channel_info = "https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id={}&key=AIzaSyBjjjjindlrUHKt6MoAnn2oirjUd92q36I"
+		channel_info = "https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id={}&key=" + key
 		channel_info = channel_info.format(channel_id)
 		channel_info = json.loads(requests.get(channel_info).text)
 
