@@ -269,7 +269,6 @@ en,EYIKy_FM9x0,1930,10 2,dollar industry back even you know 10 20 years ago um a
 en,j8umNI8gtlA,7,1973,think like an engineer on November 3rd 1973 the Mariner 10 probe set sail for Venus where it gave us our first#
 en,5ra40OLu578,353,2018,they can actually instigate the formation of stars 2018 black holes hit the front page#
 en,CIYA6Jwwp4s,420,400,original lease agreement was for up to 400 megawatts provided the initial testing phase with four turbines#
-en,mKtsM2vv0DA,65,2010,project along for a couple of years and then at some point in late 2010 to early 2011 he disappeared so Bitcoin is a#
 en,h5cm7HOAqZY,536,4 billion,So to charge our eleven 000 two hundred megawatt hour battery using this power source in winter. We would need a solar farm 4.25 times bigger than topaz firm this solar farm costs 2.4000000000 to construct So once again scaling linearly we could expect a cost of 10.2000000000 for solar farm of this size#
 en,mXi7P8hrN4w,760,600,flight but in a dive it could achieve speeds of up to 600 km/h voluntarily diving at the speed towards the ground#
 en,v4AYJ7K_fMM,613,360,"so what we should do is spread that twist
@@ -471,7 +470,6 @@ en,mXi7P8hrN4w,1128,400,Japan's lost super soap chronicling the search for the m
 en,V-8cx-vQZZQ,377,2011,of the main things that we realized around 2011 and this was me and my student alex arkhipov at MIT at the time#
 en,EDeH73RXyd8,80,700,"But it hasn’t always looked like this. The first paper money showed up in china in
 the 700s but it didn't make its way into Europe until the 1400s in Italy where it really took off."#
-en,h5cm7HOAqZY,18,2015,To achieve this fossil fuel power plants are beginning to close around the world coal The world's stable energy source for centuries has steadily fallen out of favour since 2015 With a 70% drop in new construction projects this decline cannot be entirely pinned on shifting global#
 en,vZLo0-lwK1k,330,100,extremely hot water under pressure above 100 degrees and expands it quickly to lower its boiling point and turn it to#
 en,MBsQOTvWL3Q,193,180,"That’s a nice seal. On the Twizz mug if you rotate pi radians
 which is 180 degrees half of a full rotation it closes up."#
@@ -489,7 +487,6 @@ en,wJuWuJBbc1s,20,5 billion,"3.5000000000 years. But with the Earth itself belie
 formed about 4.5000000000 years ago we still have very limited knowledge on what caused
 life to form in the first place and much"#
 en,85aFTVijEc8,183,360,centered around one basic idea direct high pressure air 360 degrees outwards and use shutters and control surfaces to#
-en,h5cm7HOAqZY,651,100,thirty-six point three 000000 megawatt hours of energy storage at 100% this is equivalent to twelve days and forty five days worth of energy storage Respectively their rationale for this which is not clearly given in any of their documentation but I managed to track down the original#
 en,zDujFhvgUzI,981,1600,missions over Iraq during the Gulf War scouring direct hits on over 1600 high-value targets without losing a#
 en,2OeJdvl3fig,5,1970,the invention of polyurethanes skateboard wheels in the early 1970s suddenly made jumps in tight cornering#
 en,7Hv2dsVkA38,54,100,film developed a gigantic aircraft nearly 100 metres long with short stubby wings#
@@ -1006,7 +1003,6 @@ en,l0vD_FBWk0g,2133,1930,"But by and large most of
 the regulatory regimes-- even in the 1930s during the
 financial crisis of its time the Great Depression most
 of it was about bank runs"#
-en,eeoBCS7IEqs,187,100,sevens in this decimal expansion then this total sum is less than 100 by this metric is actually quite a small set of#
 en,ojcOUtUwIe4,849,100,"I can't even remember the last
 time I wrote a physical check for less than $100. Priya."#
 en,sMnBl0g3Ev4,3027,2 million,"These numbers aren't
@@ -3514,7 +3510,6 @@ en,si_PQDNctjo,32,['1960'],virtually never seen a moment of peace since their in
 en,si_PQDNctjo,131,['400'],over 400 students he gave me the list he showed me the price and I'm like okay#
 en,si_PQDNctjo,253,['2020'],will start filming country episodes again at the beginning of 2020 the YouTube space is closed right now they#
 en,ZRMbh0wSly0,136,['2009'],Ukraine had a small dispute over that finally got resolved in 2009 Ukraine won dang anywho the country has a wide#
-en,ZRMbh0wSly0,345,['1600'],continuous marshland in Europe and has over 1600 plant species alone this whole flat marshy area along the coast is also#
 en,ZRMbh0wSly0,396,['2007'],people didn't know how to interact with essentially joining the EU in 2007 really helped it was like alright so we#
 en,ZRMbh0wSly0,578,['1991'],has seen a sixteen point two population decrease since its peak in 1991 at 23000000 the majority of the country at#
 en,ZRMbh0wSly0,710,['1947'],Romania was a previous Kingdom that ended in 1947 with King Michael the first being the last King until he was#
@@ -3685,7 +3680,6 @@ en,5B0Sc52jLxg,887,['000'],money etc etc it also means I am now lumped with a $7
 en,NoYSCeHmaQw,5,['2016'],[Music] around four years ago on June 23rd 2016 the people of the United Kingdom set out#
 en,NoYSCeHmaQw,89,['300'],continent has a similar landmass to Australia but was home to over 300000000 people dozens of nations and#
 en,NoYSCeHmaQw,211,['1957'],have things like inbuilt trade agreements but in 1957 Europe upgraded once again the Treaty of Rome formed the#
-en,NoYSCeHmaQw,308,['1993'],with minimal effort but it wasn't until 1993 that the European Union became the entity that we know today#
 en,NoYSCeHmaQw,319,['1991'],entity that we know today in 1991 the EEC was going well European countries were happily trading amongst#
 en,NoYSCeHmaQw,393,['1945'],that Winston Churchill had envisage back in 1945 in the same way the United States of America is a bunch of states#
 en,NoYSCeHmaQw,493,['2002'],Union did take a big step to looking a little bit more like a country in 2002 though when it introduced its own#
@@ -4436,13 +4430,6 @@ en,Ppjv0H-Yt5Q,470,['2020'],"The first Census responses cannot happen until
 single person in the US and deliver that"#
 en,Ppjv0H-Yt5Q,473,['366'],"by the time 2020 finishes. They have exactly 366 days to count every
 single person in the US and deliver that count to the US Congress."#
-en,Ppjv0H-Yt5Q,488,['2020'],"That happens in Toksook Bay Alaska. Census workers arrive there in late-January
-2020. Toksook Bay along with 200 or so other rural
-Alaskan towns are exceptions in the overall"#
-en,Ppjv0H-Yt5Q,491,['200'],"Census workers arrive there in late-January
-2020. Toksook Bay along with 200 or so other rural
-Alaskan towns are exceptions in the overall timeline of the Census count as in mid-Winter
-when the water and ground are frozen one"#
 en,Ppjv0H-Yt5Q,664,['2020'],"of techniques are used to assure that nobody
 is double-counted. Throughout the second half of 2020 in-person
 visits will finish up special operations will conclude and the Census will get into
@@ -5576,10 +5563,6 @@ en,C1f2GwWLB3k,70,['00:0'],"Now Eurocontrol is an intergovernmental air
 traffic management organization. “Prissinotti: [00:01:57] Well Eurocontrol
 is an intergovernmental organization of 43 states in Europe and beyond and we do air
 traffic management service transversal.”"#
-en,C1f2GwWLB3k,103,['00:0'],"That field is headed up by Lacopo Prissinotti—Eurocontrol’s
-Director of Network Management. “Prissinotti: [00:05:53] So here you see
-that's our operational room. The scope is to provide services to 43 air
-navigation service providers to provide services"#
 en,C1f2GwWLB3k,115,"['500', '1000']","The scope is to provide services to 43 air
 navigation service providers to provide services to more than 500 airports and to provide
 services to more than 1000 airlines over the network.”"#
