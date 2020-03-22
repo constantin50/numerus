@@ -3672,7 +3672,6 @@ en,NoYSCeHmaQw,319,['1991'],entity that we know today in 1991 the EEC was going 
 en,NoYSCeHmaQw,393,['1945'],that Winston Churchill had envisage back in 1945 in the same way the United States of America is a bunch of states#
 en,NoYSCeHmaQw,493,['2002'],Union did take a big step to looking a little bit more like a country in 2002 though when it introduced its own#
 en,NoYSCeHmaQw,602,['2016'],it which in hindsight was probably a good thing because in 2016 England decided to leave the Union altogether#
-en,NoYSCeHmaQw,614,['2016'],[Music] the 2016 referendum results came as a surprise to everybody even the people#
 en,NoYSCeHmaQw,989,['2016'],voters when they headed out to the polls in 2016 but it has become an issue of economics above all else now anybody who#
 en,B8aV--1TMpQ,239,['24 million'],to sort of form some Voltron of cities that is home to over 24000000 people in a space only double the size of#
 en,0MeRN7LE1LQ,12,['2020'],the title of world's richest man as of early 2020 after a slump in Amazon stock price and a recent divorce#
@@ -3977,9 +3976,6 @@ Our model had a mistake. You should have been
 inhibited by 254 meaning that if 254 is firing"#
 en,rA5qnZUXcqo,1113,['254'],"You should have been
 inhibited by 254 meaning that if 254 is firing and puts a ball in the tube"#
-en,rA5qnZUXcqo,1119,['254'],"- you just sit down.
-- OK. But we didn't have 254
-written down into your code. I'm gonna do that right now."#
 en,yZlOw3rsPBM,175,"['16,0']","Forget the concrete
 and the heat. Relax in over
 16000 square feet. Of outdoor space
