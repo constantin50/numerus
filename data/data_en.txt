@@ -129,7 +129,6 @@ at a much lower altitude the up and down"#
 en,k8_SbVg5Ris,350,20 billion,drastic overhaul of its coastal defences priced at a cost of 20000000000 just over if you count 1000000000 as just over the#
 en,HTWw0YSHa98,198,50/5,"Also over here it tells you your position
 on the computer screen. Try to get it to 50/50. I think you can."#
-en,WgLo4gmEraU,775,1687,the new physics it wasn't done till Newton in 1687 in 1687 so what do you think is the nature of the process that#
 en,wJuWuJBbc1s,474,192,"All of our activities will occur during Titan’s
 daylight hours so we will be aiming to charge our batteries during Titan’s nights which
 lasts 192 hours the same as their daylight hours."#
@@ -241,9 +240,7 @@ en,iOCfIFBBpVY,3226,30 4,but it's going like the speed limit right 30 40 whateve
 en,giQ8xEWjnBs,102,2018,"for a low cost this delayed the program and
 the initial prototype satellites weren’t launched until 2018. After a successful launch of the two prototypes
 Tintin-A and B which allowed SpaceX to test"#
-en,WgLo4gmEraU,3749,1880,towards some goal yes and I published that I wrote the paper in 1880 or 1890 paper was published in 92 when I first#
 en,zDujFhvgUzI,510,24 million,the Harrier a plane which fetched about 24000000 dollars per unit in 1996 or about 39000000 adjusted for inflation#
-en,WgLo4gmEraU,3938,2004,which was already controversial this was 2004-2005 but I was very careful to be detailed to criticize papers and not#
 en,y4MSwNGkWsY,17,1970,of over 500 degrees Fahrenheit develop in the 1970s the helmets have become standard-issue at many fire stations#
 en,ilesY9CUCmE,122,135,widest it's about 4.3 kilometers long and it's traveling at a max speed of 135000 kilometers per hour the most#
 en,itdYS9XF4a0,742,2008,"debris will have drifted back to earth. We can take Operation Burnt Frost the US’s
@@ -279,7 +276,6 @@ en,h5cm7HOAqZY,899,30 million,Arpa-e an energy research group modeled after DARP
 en,IbHgcbo8uKc,734,1920,mechanics was from 1905 it took a long time to develop to the late 1920s and then it was basically in final form and#
 en,o8NleUljzm4,11,1950,popular throughout Europe with leagues forming by the 1950s a decade later an American working in West Germany brought#
 en,CIYA6Jwwp4s,384,2016,renewable base load this project was decommissioned in 2016 as part of the research process it was vitally#
-en,WgLo4gmEraU,1833,1920,mechanics as it was developed in the late 19th middle late 1920s was completely correct at first he didn't#
 en,CIYA6Jwwp4s,756,600,industry after all Meijin is just one small section of a larger 1600 megawatt ocean energy project earmarked for#
 en,h5cm7HOAqZY,543,10.2,4.25 times bigger than topaz firm this solar farm costs 2.4000000000 to construct So once again scaling linearly we could expect a cost of 10.2000000000 for solar farm of this size Now this presents a new problem at our peak power in summer#
 en,zDujFhvgUzI,1116,117,knew where to look topping this off the f-117 was designed in an era before sophisticated#
@@ -308,7 +304,6 @@ en,l-vHGf4j90Y,276,136,"So using this online high precision calculator
 we can find that the circumference of this circle will be about 136000000000 kilometres
 and if we use on extra digit it will be 8.67 millimeters closer to the actual value."#
 en,l5Uw8qG7vZU,327,350,like if four minutes are possible then maybe 350 is possible right and you just push it and push it and push it further#
-en,WgLo4gmEraU,885,1970,1930s 1940s and so and maybe some if she stretched it into the 1970s and the technology this was the discovery of#
 en,5ra40OLu578,467,2018,whole lot bigger that really surprised the hell out of everybody and in 2018 scientists discover a twenty 000000000#
 en,E1AxVXt2Gv4,1181,500,so now I create a library which contains all possible books say of 500 pages so the first book just has a aaaa over all#
 en,HTWw0YSHa98,63,156,"Well signs.com/branded-in-memory might give
@@ -410,7 +405,6 @@ behind it. But surprisingly to switch or not is not a
 50/50 choice. Switching allows you to win 2 out of 3 times."#
 en,7Hv2dsVkA38,437,1987,launch anti-ship missiles while out at sea in 1987 the first version of this vehicle was built and named the lawn#
 en,EYIKy_FM9x0,4799,250,was that you know it's kind of goes back as a formal discipline you know 250 years or so it was called inverse#
-en,WgLo4gmEraU,1385,000,exactly that's not mine that's for people 5000 years in the future we're certainly nowhere near there yeah do you#
 en,kkNGdzo_3EA,537,1926,design and construction of the Sagrada família and on June 7th 1926 disaster struck at the age of 73 Gaudi was struck#
 en,giQ8xEWjnBs,355,063,"of light in a vacuum [203940448 m/s]. [6] This means the data packet will take roughly
 0.063 seconds to make the round trip and thus has a latency of 0.063 seconds or 62.7
@@ -421,7 +415,6 @@ dock. Perhaps the most notable incompatibility occured
 during the great boston fire of 1872 when fire departments from neighbouring regions
 arrived to help only to discoverer their"#
 en,7jFdxd1qX2g,950,1987,of the spacecraft and so we fired up its thrusters for the first time since 1987 do they work instantly they it was as if#
-en,WgLo4gmEraU,3757,1997,paper was published in 92 when I first book in 1997 the life of the cosmos was explicitly about that and I was very#
 en,giQ8xEWjnBs,115,2018,"and refine their satellite design SpaceX
 kept pretty quiet about what was next for the Starlink project until November 2018
 when SpaceX received the approval from the FCC to deploy 7500 satellites into orbit
@@ -449,7 +442,6 @@ incident like this 2009 collision occurs again so it is prudent that we design s
 to be capable of not only withstanding small"#
 en,7Hv2dsVkA38,501,2002,Chinese shipping port on Google Maps but has since vanished while in 2002 Boeing presented their plans to build the#
 en,7jFdxd1qX2g,3520,1980,warning about inadvertent climate modification in 1980 you know and of course Carl did his PhD#
-en,WgLo4gmEraU,1798,1905,quantum theory which he was the first person to realize in 1905 there would have to be a radically different theory#
 en,fzBRYsiyxjI,862,500,org ford slash real engineering and sign up for free and the first 500 people that go to that link will get 20% off#
 en,7Hv2dsVkA38,639,500,engineering and sign up for free and the first 500 people that go to that link will get 20% off the annual premium#
 en,7jFdxd1qX2g,932,1970,remember this is technology from the early to mid-1970s and it's still active and it's still active we talked to#
@@ -477,7 +469,6 @@ en,EDeH73RXyd8,93,1933,"when they were first introduced and compare
 them to how they look now. Fun fact: dollar bills also known as Bank
 notes were until 1933 just representations of an equal value of gold or silver."#
 en,MwjsO6aniig,474,500,so what is f of 2 well that's 2 squared plus 1 which is 4500 all right let's plug this one back in#
-en,WgLo4gmEraU,137,"30,0",book on this history debits and credits on Ledger's started around 30000 years ago the US dollar of course created over#
 en,kkNGdzo_3EA,701,1954,but as the decades passed the stone began to become more scarce in 1954 when work began on the passion facade the#
 en,IbHgcbo8uKc,704,1970,and maybe some as she stretched it into the 1970s and the technology this was the discovery of relativity and that#
 en,RCYeG5slfN0,66,250,"it’s pretty dang cool to see things like when certain species evolved or went extinct. For example at a little over 250000000 years
