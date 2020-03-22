@@ -1683,9 +1683,6 @@ sense in this 12 month"#
 en,_Ycy0Dy-B1c,569,30 million,"if there's a half a
 000000 unique addresses but it's thought there's
 20 to 30000000 accounts. 10000 nodes."#
-en,ojcOUtUwIe4,1604,1979,"telex machines at
-Goldman Sachs when I started in 1979
-that you would type in to type in an instruction."#
 en,fLKNjWXk71s,102,100,"The physics courses that
 first-year students take are often things that we've
 known for 100 to 300 years. And the field of nuclear
@@ -4289,10 +4286,6 @@ able to remove the TCE"#
 en,hoiwllrRW34,819,['200'],"If you want to check it out you can go to
 Brilliant.org/SciShow. And the first 200 people to sign up there
 will get 20% off the annual Premium subscription."#
-en,9aZpd2BAUAk,179,['230'],"or whatever because their temperature
-would have been close to that of their warm surroundings no matter what when
-dinosaurs ruled the world from about 230000000 years ago to around 65000000
-years ago earth was much warmer than it"#
 en,9aZpd2BAUAk,183,['65 million'],"warm surroundings no matter what when
 dinosaurs ruled the world from about 230000000 years ago to around 65000000
 years ago earth was much warmer than it is today there were still some places
