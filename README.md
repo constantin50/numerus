@@ -1,6 +1,6 @@
-![Logo](https://sun9-71.userapi.com/c205528/v205528475/b704f/JpU9UYydMLc.jpg)
+# Numerus
 
-Numerus.xyz - is a web platform for an intensive listening comprehension of numbers in foreign languages. 
+[Numerus.xyz]("http://numerus.xyz") - is a web platform for an intensive listening comprehension of numbers in foreign languages. 
 
 The idea is following:
 
