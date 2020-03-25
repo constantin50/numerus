@@ -1,4 +1,4 @@
-<img>https://sun9-71.userapi.com/c205528/v205528475/b704f/JpU9UYydMLc.jpg</img>
+![Logo](https://sun9-71.userapi.com/c205528/v205528475/b704f/JpU9UYydMLc.jpg)
 
 Numerus.xyz - is a web platform for an intensive listening comprehension of numbers in foreign languages. 
 
@@ -11,4 +11,4 @@ User choose language then
 3) Subtitles of the clip show up, system says whether user's answer is right or wrong;
 4) User clicks next button, see 1).
 
-<img>https://sun9-63.userapi.com/c853428/v853428658/20c19f/2tYqKZqk1XM.jpg</img>
+![Image](https://sun9-63.userapi.com/c853428/v853428658/20c19f/2tYqKZqk1XM.jpg)
