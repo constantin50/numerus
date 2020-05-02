@@ -9,6 +9,8 @@ import requests
 from youtube_transcript_api import YouTubeTranscriptApi as yt_trns
 
 """
+key - your API key from YouTube
+
 scan_channel() takes id of channel, 
 makes request to API of YouTube for receiving 
 ids of first 25 videos from upload playlist;
@@ -24,6 +26,8 @@ channel; it returns quadruple: ['language', 'id of video', 'timecode', 'number',
 """
 
 class Analyzer:
+	def __init__(self, key):
+		self.key = key
 
 	def get_videos(self,channels, lang):
 		result = list()
@@ -43,13 +47,13 @@ class Analyzer:
 		
 		video_id = list()
 
-		channel_info = "https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id={}&key=" + key
+		channel_info = "https://www.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id={}&key=" + self.key
 		channel_info = channel_info.format(channel_id)
 		channel_info = json.loads(requests.get(channel_info).text)
 
 		playlist = channel_info['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
-		playlist_items = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=25&playlistId={}&key=AIzaSyBjjjjindlrUHKt6MoAnn2oirjUd92q36I"
+		playlist_items = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=25&playlistId={}&key=" + self.key
 		playlist_items = playlist_items.format(playlist)
 		playlist_items = json.loads(requests.get(playlist_items).text)
 
@@ -83,43 +87,48 @@ class Analyzer:
 
 		if (lang=='fr'):
 			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\smillion|\d{1,}\smillions|\d{1,}\smille\
-				|\d{1,}\smilles|\d{1,}\s|\d{1,}\smilliards|\d{1,}\smilliard)'  
+				|\d{1,}\smilles|\d{1,}\s|\d{1,}\smilliards|\d{1,}\smilliard)'
 
+		if (lang=='de'):
+			print("de")
+			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\smillion|\d{1,}\smillions|\d{1,}\sthousand\
+				|\d{1,}\sthousands|\d{1,}\sbillion|\d{1,}\sbillions)'
 
 		for i in range(len(text)):
 			if (re.findall(pttrn,text[i]["text"])):
 				number = re.findall(pttrn,text[i]["text"])
-				phrase = text[i-1]["text"]+" "+text[i]["text"]+" "+text[i+1]["text"];
-				t = str(int(text[i]["start"])-2);
-				phrase =phrase.replace(',', '')
+				if (i > 0 and i+1 < len(text)):
+					phrase = text[i-1]["text"]+" "+text[i]["text"]+" "+text[i+1]["text"];
+					t = str(int(text[i]["start"])-2);
+					phrase =phrase.replace(',', '')
 
-				phrase =phrase.replace('million', '000000')
-				phrase =phrase.replace('millions', '000000')
-				phrase =phrase.replace('thousand', '000')
-				phrase =phrase.replace('thousands', '000')
-				phrase =phrase.replace('billion', '000000000')
-				phrase =phrase.replace('billions', '000000000')
+					phrase =phrase.replace('million', '000000')
+					phrase =phrase.replace('millions', '000000')
+					phrase =phrase.replace('thousand', '000')
+					phrase =phrase.replace('thousands', '000')
+					phrase =phrase.replace('billion', '000000000')
+					phrase =phrase.replace('billions', '000000000')
 
-				phrase =phrase.replace('миллион', '000000')
-				phrase =phrase.replace('миллионов', '000000')
-				phrase =phrase.replace('тысяча', '000')
-				phrase =phrase.replace('тысяч', '000')
-				phrase =phrase.replace('миллиард', '000000000')
-				phrase =phrase.replace('миллиардов', '000000000')
+					phrase =phrase.replace('миллион', '000000')
+					phrase =phrase.replace('миллионов', '000000')
+					phrase =phrase.replace('тысяча', '000')
+					phrase =phrase.replace('тысяч', '000')
+					phrase =phrase.replace('миллиард', '000000000')
+					phrase =phrase.replace('миллиардов', '000000000')
 
-				phrase =phrase.replace('million', '000000')
-				phrase =phrase.replace('millions', '000000')
-				phrase =phrase.replace('mille', '000')
-				phrase =phrase.replace('milles', '000')
-				phrase =phrase.replace('milliard', '000000000')
-				phrase =phrase.replace('milliards', '000000000')
+					phrase =phrase.replace('million', '000000')
+					phrase =phrase.replace('millions', '000000')
+					phrase =phrase.replace('mille', '000')
+					phrase =phrase.replace('milles', '000')
+					phrase =phrase.replace('milliard', '000000000')
+					phrase =phrase.replace('milliards', '000000000')
 
-				# formate numers
-				ptr = r'\d\s\d{3,}'
-				nums = re.findall(ptr,phrase);
-				for i in range(len(nums)):
-					phrase =phrase.replace(nums[i], nums[i].replace(' ', ''))
-				result.append([lang, video_id, t, number,phrase])
+					# formate numers
+					ptr = r'\d\s\d{3,}'
+					nums = re.findall(ptr,phrase);
+					for i in range(len(nums)):
+						phrase =phrase.replace(nums[i], nums[i].replace(' ', ''))
+					result.append([lang, video_id, t, number,phrase])
 						
 		return result	
 
