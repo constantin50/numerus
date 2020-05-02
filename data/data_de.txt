@@ -681,23 +681,6 @@ de,sUdtpRChANM,354,1500,hochrechnen würde dann anspruch auf die 2.000 krankenh�
 de,sUdtpRChANM,358,15 million,aufbereitungs einheiten er dann liegen gegenüber 15000000en masken in der woche wiesbaden der helios konzern#
 de,sUdtpRChANM,364,100,woche wiesbaden der helios konzern betreibt knapp 100 kliniken in ganz deutschland entsprechend groß der bedarf#
 de,sUdtpRChANM,404,8000,personalisierte werden dadurch kann der konzern 8000 masken pro tag wieder nutzbar machen#
-de,_gpx6ZWsmtQ,161,1000,hunderttausend infizierte pro tag einen anderen anstecken oder 1000 ist ja ein unterschied deswegen ist die absolute#
-de,_gpx6ZWsmtQ,320,300,500,komplett digitalen einstellungsverfahren die zeit drängt 300 von 500 leuten haben sie jetzt schon in die gesundheitsämter#
-de,_gpx6ZWsmtQ,350,20 3,und wenn man daran stellen was erläutert die 20 30 kontaktpersonen hatte die alle dann nachgeforscht werden müssen und die#
-de,_gpx6ZWsmtQ,702,159,1000,laut der johns hopkins universität sind in deutschland mehr als 1591000 infizierte durch tests bestätigt 117.000#
-de,_gpx6ZWsmtQ,705,117,in deutschland mehr als 1591000 infizierte durch tests bestätigt 117.000400 davon sind genießen 6177 menschen#
-de,_gpx6ZWsmtQ,709,400,6177,infizierte durch tests bestätigt 117.000400 davon sind genießen 6177 menschen sind in verbindung mit cupid 19#
-de,_gpx6ZWsmtQ,749,000,wenn die täglichen neuinfektionen unter die marke von 3.000 vielen so ministerpräsident philipp könnten ab dem#
-de,_gpx6ZWsmtQ,978,2009,flüchtlinge in ihrem eigenen land wie 2009 10 das beobachtungszentrum für die interne vertreibung zählte fast 51#
-de,_gpx6ZWsmtQ,989,5 million,verließen ihr zuhause wegen gewalt und konflikten und 5000000en wegen naturkatastrophen#
-de,_gpx6ZWsmtQ,1134,7000,zustände derzeit leben darin und davor knapp 7000 flüchtlinge zehnmal mehr als vorgesehen#
-de,_gpx6ZWsmtQ,1219,2050,kommission bis 2050 soll europa keine treibhausgase mehr ausstoßen und schon 2030 ein -#
-de,_gpx6ZWsmtQ,1222,2030,bis 2050 soll europa keine treibhausgase mehr ausstoßen und schon 2030 ein - erreichen von bis zu 55 prozent mehr als#
-de,_gpx6ZWsmtQ,1233,2009,vorgesehen das war im dezember 2009 10 vor corona und nun einerseits macht der klimawandel#
-de,_gpx6ZWsmtQ,1254,2030,klimaziele die drastische verschärfung des 2030er ziels auf bis zu 55 prozent war ja schon vor corona extrem#
-de,_gpx6ZWsmtQ,1287,2050,ziele europa soll bis 2050 der erste klimaneutrale kontinent werden wir#
-de,_gpx6ZWsmtQ,1300,2030,zwischen ziels für die europäische union bis 2030 man dürfe jetzt nicht am klimaschutz sparen so merkel#
-de,_gpx6ZWsmtQ,1736,2008,soll dann der erste verkehr rollen die man die brücke war am 14 august 2008 10 eingestürzt 43 menschen kamen dabei ums#
 de,H2LJwVGS4YI,272,50.0,täglichen neuinfektionen wenn wir 50.000 fälle am tag hätten nehmen wir mal diese zahl der bislang#
 de,H2LJwVGS4YI,279,6000,nie hatten die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und#
 de,H2LJwVGS4YI,281,50.0,hatten waren rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und jeden tag wieder 50.000 dann hätten wir#
