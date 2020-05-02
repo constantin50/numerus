@@ -302,26 +302,20 @@ de,M2b2cTVluFY,891,000,Dennoch brauchen wir dringend Ansätze wie\nwir unsere Ge
 de,kH3EWhpSDO0,367,360,Das zeigt auch die Autoindustrie wo man nur\nmit Gesten schon die Lautstärke das Navi und eine 360°-Kamera steuern kann. Und auch Microsofts Hololens hat schon gezeigt\ndass der Einsatz der Hände einfach die natürlichste#
 de,kH3EWhpSDO0,442,2018,Und auch sprechen können die Assistenten\nschon sehr überzeugend. Im Mai 2018 stellte Google das neue Feature\ndes Assistenten vor der für dich Termine beim Friseur machen kann und dabei wie ein\nechter Mensch klingt.#
 de,WVPgrfSYEiM,79,2002,um kein neues Video zu verpassen! 2002 hat der US-Amerikaner Jack Whittaker\nden damals größten Jackpot der US-Geschichte gewonnen 315 Millionen Dollar.#
-de,WVPgrfSYEiM,84,315,2002 hat der US-Amerikaner Jack Whittaker\nden damals größten Jackpot der US-Geschichte gewonnen 315 Millionen Dollar. Schon vor dem Gewinn war Whittaker eigentlich\nfinanziell sehr gut aufgestellt.#
+de,WVPgrfSYEiM,84,315 hat der US-Amerikaner Jack Whittaker\nden damals größten Jackpot der US-Geschichte gewonnen 315 Millionen Dollar. Schon vor dem Gewinn war Whittaker eigentlich\nfinanziell sehr gut aufgestellt.#
 de,WVPgrfSYEiM,134,550,So wurde ein Jahr später in sein Auto eingebrochen. Hier erbeuteten Diebe knapp 550.000 Dollar. Auf die Frage hin warum er so viel Geld mit\nin den Strip Club nehmen würde antwortete#
-de,WVPgrfSYEiM,149,200,000,zu vergiften. Nur ein Jahr später wurden durch einen zweiten\nEinbruch weitere 200.000 Dollar erbeutet. Zu dieser Zeit hat Whittaker sein Geld noch\nschlau angelegt.#
+de,WVPgrfSYEiM,149,200,zu vergiften. Nur ein Jahr später wurden durch einen zweiten\nEinbruch weitere 200.000 Dollar erbeutet. Zu dieser Zeit hat Whittaker sein Geld noch\nschlau angelegt.#
 de,WVPgrfSYEiM,189,1997,Billie Bob Harell Jr. Gewann 1997 31 Millionen Dollar. Nur zwei Jahre später nahm Harell sich das\nLeben nach endlosen Betellein durch Freunde#
 de,WVPgrfSYEiM,202,1988,noch gesagt haben. William Post hat 1988 16 Millionen Dollar\ngewonnen. Ein Jahr später beauftragte sein Bruder einen\nAuftragsmörder um ihn und seine Frau zu#
 de,WVPgrfSYEiM,219,1996,nachdem er auf einen Schuldeneintreiber geschossen\nhatte. 1996 gewann Jeffrey Damper 20 Millionen Dollar. Zehn Jahre später wurde er von seiner Schwägerin\nund ihrem Mann entführt und ermordet.#
-de,WVPgrfSYEiM,293,20.0,reichen um deine Liebsten abzusichern. So musst du dich nicht mit der Frage auseinandersetzen\nob du deinem Onkel Jürgen 20.000 Euro für den Start seines Aquarium-Fachhandels oder\nwas auch immer schenken möchtest.#
-de,WVPgrfSYEiM,367,166,000,über die Runden zu kommen. Mit jährlichen Zinsen von 4% würdest du\nzum Beispiel jeden Monat 166.000€ bekommen. Klar darauf muss man dann noch Steuern zahlen\naber dieses Geld bekommst du jeden Monat für#
+de,WVPgrfSYEiM,293,20,reichen um deine Liebsten abzusichern. So musst du dich nicht mit der Frage auseinandersetzen\nob du deinem Onkel Jürgen 20.000 Euro für den Start seines Aquarium-Fachhandels oder\nwas auch immer schenken möchtest.#
+de,WVPgrfSYEiM,367,166,über die Runden zu kommen. Mit jährlichen Zinsen von 4% würdest du\nzum Beispiel jeden Monat 166.000€ bekommen. Klar darauf muss man dann noch Steuern zahlen\naber dieses Geld bekommst du jeden Monat für#
 de,WVPgrfSYEiM,473,1978,wird damit sie sehen können dass es nicht\ndie Antwort ist.” Eine Studie zum Thema Glück aus dem Jahr\n1978 hat 22 Lotterie-Gewinner mit 29 Menschen verglichen die bei einem Unfall gelähmt\nwurden.#
-de,WVPgrfSYEiM,555,200,000,die Wahrscheinlichkeit in diesen 20 Jahren\neinmal den Jackpot zu gewinnen immer noch bei grob 1:200.000. Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt.#
-de,WVPgrfSYEiM,558,11.0,bei grob 1:200.000. Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt. Ein klares Verlustgeschäft.#
-de,WVPgrfSYEiM,574,30.0,Wenn du in den letzten 20 Jahren jeden Monat\ndas Geld der vier Lottoscheine also 48 Euro investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen.#
-de,WVPgrfSYEiM,577,11.0,investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen. Ihr seht also: Glücksspiel lohnt sich nicht.#
+de,WVPgrfSYEiM,555,200,die Wahrscheinlichkeit in diesen 20 Jahren\neinmal den Jackpot zu gewinnen immer noch bei grob 1:200.000. Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt.#
+de,WVPgrfSYEiM,558,11,Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt. Ein klares Verlustgeschäft.#
+de,WVPgrfSYEiM,574,30,Wenn du in den letzten 20 Jahren jeden Monat\ndas Geld der vier Lottoscheine also 48 Euro investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen.#
+de,WVPgrfSYEiM,577,11,investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen. Ihr seht also: Glücksspiel lohnt sich nicht.#
 de,dQfzbhdR9JE,17,2016,2017,Jeden Tag hören wir von Ungerechtigkeit\nKatastrophen Morden Skandalen oder Diktatur. Schon 2016 wurde vom “schlimmsten Jahr aller\nZeiten” gesprochen .... bis 2017 kam. Danach wurde 2018 als schlimmstes Jahr aller\nZeiten für den Finanzmarkt bezeichnet.#
-de,dQfzbhdR9JE,23,2018,Schon 2016 wurde vom “schlimmsten Jahr aller\nZeiten” gesprochen .... bis 2017 kam. Danach wurde 2018 als schlimmstes Jahr aller\nZeiten für den Finanzmarkt bezeichnet. Dann kam 2019: das schlimmste Jahr für unsere\nPrivatsphäre.#
-de,dQfzbhdR9JE,28,2019,Danach wurde 2018 als schlimmstes Jahr aller\nZeiten für den Finanzmarkt bezeichnet. Dann kam 2019: das schlimmste Jahr für unsere\nPrivatsphäre. Das alles wirft ein dunkles Licht auf dieses\nkommende Jahr 2020.#
-de,dQfzbhdR9JE,31,2020,Dann kam 2019: das schlimmste Jahr für unsere\nPrivatsphäre. Das alles wirft ein dunkles Licht auf dieses\nkommende Jahr 2020. Aber diese Headlines gab es nicht für 2012\n2005 oder 1992.#
-de,dQfzbhdR9JE,36,2012,2005,1992,Das alles wirft ein dunkles Licht auf dieses\nkommende Jahr 2020. Aber diese Headlines gab es nicht für 2012\n2005 oder 1992. War die Welt also früher ein besserer Ort?#
-de,dQfzbhdR9JE,95,1990,120,Beginnen wir mit einer unsere wichtigisten\nund größte Errungenschaften. Seit 1990 haben bessere Hygiene- und Ernährungsmaßnahmen\ndie Leben von 120 Millionen Kindern gerettet. Noch vor 30 Jahren sind 17% aller Kinder in\nAfrika vor dem 5.#
-de,dQfzbhdR9JE,106,2015,Lebensjahr verstorben. Stand 2015 konnte man diese Zahl halbieren\nund die Tendenz sinkt weiterhin. Haupttodesursache war hier: Diarrhö.#
 de,dQfzbhdR9JE,155,2020,Und es wird kontinuierlich an besseren Methoden\ngearbeitet. Stand 2020 hat die Welt noch nie so viel Akzeptanz\nfür gleichgeschlechtliche Ehen und Partnerschaften gezeigt.#
 de,dQfzbhdR9JE,160,1994,gezeigt. Und das obwohl Homosexualität in Deutschland\nbis 1994 strafbar war und die Ehe für alle erst seit 2017 legal ist.#
 de,dQfzbhdR9JE,166,2017,Und das obwohl Homosexualität in Deutschland\nbis 1994 strafbar war und die Ehe für alle erst seit 2017 legal ist. Mittlerweile haben weltweit 26 Länder die\ngleichgeschlechtliche Ehe legalisiert.#
@@ -493,16 +487,16 @@ de,DpubLaj3YYo,25,100,sein - 10 fällt beim ableiten weg das heißt ich hätte h
 de,DpubLaj3YYo,28,100,hinschreiben können wir das tafelbild genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder#
 de,DpubLaj3YYo,30,1000,genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder welche zahl auch immer und das werde ich#
 de,DpubLaj3YYo,49,100,hier sieht man jetzt schon ich könnte ja bei der stamm funktion entweder plus 100 plus 10.000 - 1000 oder was auch immer#
-de,DpubLaj3YYo,53,10.0,1000,bei der stamm funktion entweder plus 100 plus 10.000 - 1000 oder was auch immer hin schreiben und das vielleicht noch#
+de,DpubLaj3YYo,53,10.0,bei der stamm funktion entweder plus 100 plus 10.000 - 1000 oder was auch immer hin schreiben und das vielleicht noch#
 de,DpubLaj3YYo,73,2000,drei wäre ein viertel xo 4 - 4 x iks wäre - ein halb x 4 x iks hoch 2000 in dem fall wäre plus 1000x das wäre eine#
 de,DpubLaj3YYo,78,1000,wäre - ein halb x 4 x iks hoch 2000 in dem fall wäre plus 1000x das wäre eine mögliche stamm funktion ihr könnt euch#
-de,5WjMyCP-a4w,634,47.0,bei wie viele follower nummern sondern ich glaube irgendwie um die 47.000 oder irgendwie so also ist sind jedoch nicht#
-de,5WjMyCP-a4w,873,100,100,plötzlich sind dann irgendwie keine ahnung 100 schüler oder so 100 abschlussschüler bei uns in häuslicher#
-de,5WjMyCP-a4w,1231,20 2,sagen bei all dem chaos was da ist wir sind in 20 20 und nie zuvor gab es so viel content im internet das kann#
-de,5WjMyCP-a4w,1637,19 1,offensichtlich auch thema job zukunft das sollte doch eigentlich 19 11 21 co2 wie was auch immer dann auf dauer dann#
-de,5WjMyCP-a4w,1661,15 1,je spielen und hier ist jetzt einer der schon mit mit mit 15 16 17 da unterwegs ist er neben der schule im#
+de,5WjMyCP-a4w,634,47,bei wie viele follower nummern sondern ich glaube irgendwie um die 47.000 oder irgendwie so also ist sind jedoch nicht#
+de,5WjMyCP-a4w,873,100,plötzlich sind dann irgendwie keine ahnung 100 schüler oder so 100 abschlussschüler bei uns in häuslicher#
+de,5WjMyCP-a4w,1231,20,sagen bei all dem chaos was da ist wir sind in 20 20 und nie zuvor gab es so viel content im internet das kann#
+de,5WjMyCP-a4w,1637,19,offensichtlich auch thema job zukunft das sollte doch eigentlich 19 11 21 co2 wie was auch immer dann auf dauer dann#
+de,5WjMyCP-a4w,1661,15,je spielen und hier ist jetzt einer der schon mit mit mit 15 16 17 da unterwegs ist er neben der schule im#
 de,bk7dbKqRLaE,224,2011,ich von nöten ich habe ja 2011 begonnen und dachte damals ich wäre spät branden weil#
-de,bk7dbKqRLaE,230,2006,2007,damals ich wäre spät branden weil renommierte unis ja schon 20062007 in amerika ihre vorlesungen verfilmt hat#
+de,bk7dbKqRLaE,230,2006,damals ich wäre spät branden weil renommierte unis ja schon 20062007 in amerika ihre vorlesungen verfilmt hat#
 de,bk7dbKqRLaE,252,2008,produzieren ja wir richtig schocken also tatsächlich hatte ich die idee 2008 ja aber wie das so ist habe ich einfach#
 de,bk7dbKqRLaE,263,2012,den hintern nicht hochgekriegt und bin dann schließlich erst 2012 gestartet im nachhinein natürlich ein großes#
 de,bk7dbKqRLaE,276,2012,vorteile denn ich habe dort praktisch dann 2012 ganz ganz viele erfahrungen aus meinem unterricht einbringen können#
@@ -534,24 +528,24 @@ de,Q09_pQt7UhA,156,1000,durchspielen wenn von 1000 leuten 80 prozent positiv get
 de,Q09_pQt7UhA,160,800,wenn von 1000 leuten 80 prozent positiv getestet worden sind dann hat man zb 800 die positiv sind positiv von den 80#
 de,Q09_pQt7UhA,188,240,also kein schlimmes virus was auch immer durch 10 sind 80 mal drei sind 240 sind dann falsch positiv also nur dass man da#
 de,SfjzfWSfxpY,54,481,bleiben mussten von straßen und plätzen in deutschland 481 kundgebungen hat es gegeben mit 3811000 teilnehmern#
-de,SfjzfWSfxpY,58,381,1000,in deutschland 481 kundgebungen hat es gegeben mit 3811000 teilnehmern das war letztes jahr über den ersten mai#
+de,SfjzfWSfxpY,58,381,in deutschland 481 kundgebungen hat es gegeben mit 3811000 teilnehmern das war letztes jahr über den ersten mai#
 de,SfjzfWSfxpY,64,2020,das war letztes jahr über den ersten mai 2020 nils schneider kampfgeist euphorie zum ersten mal sieht anders aus abstand#
 de,SfjzfWSfxpY,119,230,die firma in der nähe von dresden hat knapp 230 mitarbeiter fast alle derzeit in kurzarbeit#
 de,SfjzfWSfxpY,213,1000,noch versammlungen auf der straße mehr als 1000 menschen im bezirk kreuzberg die polizei ist mit einem großaufgebot#
 de,SfjzfWSfxpY,356,60.0,stolz auf unsere arbeit stark stolz angesichts von weit über 60.000 toten im land mit leichenwagen protestieren sie#
 de,SfjzfWSfxpY,531,500,deutlich besser im moment bekomme ich 5.500 dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die#
-de,SfjzfWSfxpY,534,3700,4000,5.500 dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die woche für new york aber um das geld#
+de,SfjzfWSfxpY,534,3700,dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die woche für new york aber um das geld#
 de,SfjzfWSfxpY,655,163,in deutschland sind nach angaben der johns hopkins universität mehr als 1631000 infizierte durch tests bestätigt#
 de,SfjzfWSfxpY,658,1000,johns hopkins universität mehr als 1631000 infizierte durch tests bestätigt fast 1271000 davon sind wieder genesen#
-de,SfjzfWSfxpY,661,127,1000,1000 infizierte durch tests bestätigt fast 1271000 davon sind wieder genesen 6632 menschen sind in verbindung mit#
+de,SfjzfWSfxpY,661,127,infizierte durch tests bestätigt fast 1271000 davon sind wieder genesen 6632 menschen sind in verbindung mit#
 de,SfjzfWSfxpY,665,6632,fast 1271000 davon sind wieder genesen 6632 menschen sind in verbindung mit cupid 19 gestorben#
 de,SfjzfWSfxpY,706,000,die fluggesellschaft ryanair will wegen der korona krise bis zu 3.000 stellen abbauen#
 de,SfjzfWSfxpY,1005,15.0,auf dem balkon ich kann nur knapp 15.000 euro kostet solch eine tour für den truck die#
 de,hHoCHIOmGIQ,268,150,eröffnung der wallfahrt saison feiern können es dieses jahr nicht mehr als 150 menschen seien um allen#
 de,hHoCHIOmGIQ,356,1500,universität gibt es einen leichten rückgang bei den neuinfektionen 1500 menschen haben sich neu angesteckt seit#
 de,hHoCHIOmGIQ,364,2000,einer woche ist dieser wert täglich unter 2000 geblieben zur stunde sind mehr als 1631000#
-de,hHoCHIOmGIQ,366,163,1000,unter 2000 geblieben zur stunde sind mehr als 1631000 infizierte durch tests bestätigt davon#
-de,hHoCHIOmGIQ,372,127,000,infizierte durch tests bestätigt davon gelten fast 127.000 betroffener als genesen#
+de,hHoCHIOmGIQ,366,163,unter 2000 geblieben zur stunde sind mehr als 1631000 infizierte durch tests bestätigt davon#
+de,hHoCHIOmGIQ,372,127,infizierte durch tests bestätigt davon gelten fast 127.000 betroffener als genesen#
 de,hHoCHIOmGIQ,376,6623,genesen 6623 menschen sind in verbindung mit cupid 19 gestorben#
 de,hHoCHIOmGIQ,731,1993,beiden eine ex mitarbeiterin hatte gesagt er habe sie 1993 sexuell angegriffen#
 de,hHoCHIOmGIQ,793,128,gleichzeitig auf der bühne sein statt des sonst so opulenten 128 köpfigen orchesters corona zum trotz#
@@ -564,34 +558,34 @@ de,OGrptks2qwI,970,1200,herr gysi in berlin britz mit insgesamt 1200 schülern j
 de,OGrptks2qwI,983,4200,sie erleben wie organisieren sie die öffnungen an ihrer schule 4200 noch nicht wieder in betrieb sein denn#
 de,OGrptks2qwI,1333,100,viel bräuchte doppelt so viel personal wir haben aber nur 100 prozent erstattung viele schulen habe nicht mal#
 de,OGrptks2qwI,1462,100,also ich bin immer dafür auf die praxis zu sein und wenn dir 100 leute vor ort sagen wir haben ein problem dann ist es#
-de,z73ry-eZNAw,333,10,1,maßnahme haben deutschlands unternehmen bis zum sonntag für 101000000en menschen angemeldet noch mehr als#
+de,z73ry-eZNAw,333,10,maßnahme haben deutschlands unternehmen bis zum sonntag für 101000000en menschen angemeldet noch mehr als#
 de,z73ry-eZNAw,340,3 million,befürchtet und mehr als in der finanzkrise da gab es 33000000en anmeldungen#
 de,z73ry-eZNAw,366,26 million,sind in den vereinigten staaten von amerika 26000000en jobs verschwunden in deutschland werden 000000en von#
-de,z73ry-eZNAw,378,644,000,arbeitslosen corona bedingt gestiegen im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im#
-de,z73ry-eZNAw,382,308,000,im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im märz die quote legte liegt nun bei 58#
-de,z73ry-eZNAw,406,100,000,mehr die situation erleben wo wir auf einmal zu wechsel von 100.000 haben davon gehen wir nicht aus also ich#
+de,z73ry-eZNAw,378,644,arbeitslosen corona bedingt gestiegen im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im#
+de,z73ry-eZNAw,382,308,im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im märz die quote legte liegt nun bei 58#
+de,z73ry-eZNAw,406,100,mehr die situation erleben wo wir auf einmal zu wechsel von 100.000 haben davon gehen wir nicht aus also ich#
 de,z73ry-eZNAw,438,650,förderbank kfw vergibt die zinslosen darlehen über monatlich bis zu 650 euro ab dem 8 mai den antrag soll es online#
-de,z73ry-eZNAw,482,860,000,laboren die test kapazitäten liegen dort so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000#
-de,z73ry-eZNAw,485,467,000,so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000 genutzt ich sehe es als eine positive#
+de,z73ry-eZNAw,482,860,laboren die test kapazitäten liegen dort so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000#
+de,z73ry-eZNAw,485,467,so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000 genutzt ich sehe es als eine positive#
 de,z73ry-eZNAw,550,1600,der johns hopkins universität gab es 1600 neue infektionen stand 18 uhr 30 waren demnach in deutschland fast#
-de,z73ry-eZNAw,556,162,000,waren demnach in deutschland fast 162.000 corona infizierte durch tests bestätigt davon gelten mehr als 123.000#
-de,z73ry-eZNAw,558,123,000,162.000 corona infizierte durch tests bestätigt davon gelten mehr als 123.000 als genesen 6504 menschen sind in#
+de,z73ry-eZNAw,556,162,waren demnach in deutschland fast 162.000 corona infizierte durch tests bestätigt davon gelten mehr als 123.000#
+de,z73ry-eZNAw,558,123,corona infizierte durch tests bestätigt davon gelten mehr als 123.000 als genesen 6504 menschen sind in#
 de,z73ry-eZNAw,562,6504,bestätigt davon gelten mehr als 123.000 als genesen 6504 menschen sind in verbindung mit dem virus gestorben#
 de,z73ry-eZNAw,580,1000,ebola virus entwickelt worden jetzt wurde es an 1000 corona patienten klinisch getestet wissenschaftler in den#
 de,z73ry-eZNAw,634,1000,ebola-virus im rahmen einer studie wurden rund 1000 corona patienten das medikament intravenös verabreicht im#
 de,z73ry-eZNAw,666,200,deutlich kleiner angelegte studie in china mit rund 200 patienten konnte rim der sie wir keinen nutzen#
 de,z73ry-eZNAw,702,21.0,verbindung mit dem virus deutlich nach oben korrigiert und zwar von rund 21.000 auf mehr als 26.000 menschen nur italien#
 de,z73ry-eZNAw,706,26.0,oben korrigiert und zwar von rund 21.000 auf mehr als 26.000 menschen nur italien meldet in europa mehr tote#
-de,z73ry-eZNAw,736,100,000,packt mit an eine drive through teststation im norden londons 100.000 corona test täglich hat die regierung#
+de,z73ry-eZNAw,736,100,packt mit an eine drive through teststation im norden londons 100.000 corona test täglich hat die regierung#
 de,z73ry-eZNAw,879,400,konzerts ist das kerngeschäft weggebrochen bis zu 400 veranstaltungen im jahr organisiert die event-agentur#
-de,z73ry-eZNAw,906,39.0,bundesweit bieten die arbeitgeber rund 39.000 ausbildungsplätze weniger an als im vorjahr das könnte zu einer#
+de,z73ry-eZNAw,906,39,bundesweit bieten die arbeitgeber rund 39.000 ausbildungsplätze weniger an als im vorjahr das könnte zu einer#
 de,z73ry-eZNAw,1266,100,haben noch einen richtig runden geburtstag tom moore ist 100 jahre alt geworden#
 de,z73ry-eZNAw,1286,140000,überflug über sein haus mit original jagd pflege und mehr als 140000 geburtstagskarten gesungen wurde#
 de,1t4I_Zr6wYM,76,17.0,rüsselsheim die meisten der 17.000 deutschen opel mitarbeiter sind in kurzarbeit wie auch#
 de,1t4I_Zr6wYM,160,100,auch demnächst wissen und es ist dazu nahezu 100% corona als ursache auch die zahl der arbeitslosen geht nach oben im#
 de,1t4I_Zr6wYM,165,644,zahl der arbeitslosen geht nach oben im april waren zwei 000000en 644.000 menschen ohne job die arbeitslosenquote#
-de,1t4I_Zr6wYM,176,415,000,vorjahresmonat eine steigerung um 415.000 die entwicklung zeigte könnens wir unser land auch in unserem land#
-de,1t4I_Zr6wYM,631,162,000,sehen heute so aus tests haben mehr als 162.000 infektionen bestätigt das sind die aktuellen zahlen der#
+de,1t4I_Zr6wYM,176,415,vorjahresmonat eine steigerung um 415.000 die entwicklung zeigte könnens wir unser land auch in unserem land#
+de,1t4I_Zr6wYM,631,162,sehen heute so aus tests haben mehr als 162.000 infektionen bestätigt das sind die aktuellen zahlen der#
 de,1t4I_Zr6wYM,635,123,die aktuellen zahlen der johns-hopkins-universität davon sind 1231500 menschen inzwischen wieder genesen#
 de,1t4I_Zr6wYM,638,1500,johns-hopkins-universität davon sind 1231500 menschen inzwischen wieder genesen 6500 18 menschen starben#
 de,1t4I_Zr6wYM,641,6500,1500 menschen inzwischen wieder genesen 6500 18 menschen starben in verbindung mit cupid 19 die#
@@ -610,7 +604,7 @@ de,1t4I_Zr6wYM,1734,100,britische veteran aus dem zweiten weltkrieg wird 100 der
 de,1t4I_Zr6wYM,1739,100,berühmtheit geworden in der korona krise und zum vorbild 100 runden hat captain mo durch seinen garten gezogen 1000#
 de,1t4I_Zr6wYM,1743,1000,und zum vorbild 100 runden hat captain mo durch seinen garten gezogen 1000 pfund wollte er so für pfleger und ärzte#
 de,1t4I_Zr6wYM,1748,30 million,sammeln es wurden über 30000000en pfund weltrekord und anders für die luftwaffe#
-de,1t4I_Zr6wYM,1762,125,000,überreichen ein paar ist gut es sind über 125.000 geburtstagskarten darunter auch eine von#
+de,1t4I_Zr6wYM,1762,125,überreichen ein paar ist gut es sind über 125.000 geburtstagskarten darunter auch eine von#
 de,1t4I_Zr6wYM,1830,2009,februar recht viel geregnet hat ähnlich wie im juli 2009 10 wir müssen das natürlich aber im#
 de,1t4I_Zr6wYM,1836,1981,vergleich setzen zu dem was im klimatologischen mittel der jahre 1981 bis 2010#
 de,1t4I_Zr6wYM,1839,2010,klimatologischen mittel der jahre 1981 bis 2010 normalerweise unterkommt und da sieht#
@@ -647,7 +641,7 @@ de,NgjMv1rmIXc,633,448,die von der helmholtz initiative gefundenen kriterien bei
 de,9mkuXPjkRsM,235,1919,jährige sterben sehr viel drin ist an kubicki sieht dass ich profi mai 1919 sterben auch viele bald das#
 de,9mkuXPjkRsM,551,17 1,ist wenn sie über 65 sind da reden wir über 17 18 prozent das ist ein viertel ein drittel dieses landes in der praxis#
 de,9mkuXPjkRsM,707,50 5,bei den jüngeren bei den jüngeren gibt es so viele mit risiko es gilt die 50 50 liegen#
-de,9mkuXPjkRsM,733,100,000,intensiv plätze auch alle überlastet wir würden wahrscheinlich um die 100.000 todesopfer unter 65 beklagen müssen#
+de,9mkuXPjkRsM,733,100,intensiv plätze auch alle überlastet wir würden wahrscheinlich um die 100.000 todesopfer unter 65 beklagen müssen#
 de,miEvuY-vqXc,97,30 0,kurz den stand deutschland der ist vom 30 04 00 uhr mit dem stand im ausland gehen wir wie immer einen tag früher#
 de,miEvuY-vqXc,119,58 1,400,mehr als eine 000000en gemeldete fälle dort und darunter haben wir 581400 todesfälle zu beklagen#
 de,miEvuY-vqXc,132,210,1800,vereinigten staaten von 58 prozent schauen wir nach europa spanien 2101800 fälle offiziell gemeldet inzwischen und#
@@ -655,9 +649,9 @@ de,miEvuY-vqXc,141,23.8,fälle offiziell gemeldet inzwischen und hier sind 23.80
 de,miEvuY-vqXc,149,11,3,gemeldet worden das sind in dem fall 113 prozent und das vereinigte königreich haben wir 161#
 de,miEvuY-vqXc,153,161,das sind in dem fall 113 prozent und das vereinigte königreich haben wir 1611000 fälle rund und hier ist es so dass#
 de,miEvuY-vqXc,157,1000,das vereinigte königreich haben wir 1611000 fälle rund und hier ist es so dass 21.700 als offiziell verstorben gemeldet#
-de,miEvuY-vqXc,161,21.7,1000 fälle rund und hier ist es so dass 21.700 als offiziell verstorben gemeldet wurden das ist dann eine prozentzahl von#
+de,miEvuY-vqXc,161,21.7 fälle rund und hier ist es so dass 21.700 als offiziell verstorben gemeldet wurden das ist dann eine prozentzahl von#
 de,miEvuY-vqXc,168,13,5,wurden das ist dann eine prozentzahl von 135 prozent und wenn wir das mit deutschland vergleichen#
-de,miEvuY-vqXc,176,159,000,100,dann sehen wir dass wir hier heute 159.000100 fälle offiziell an das robert-koch-institut von den ländern und#
+de,miEvuY-vqXc,176,159,dann sehen wir dass wir hier heute 159.000100 fälle offiziell an das robert-koch-institut von den ländern und#
 de,miEvuY-vqXc,186,6300,haben und in deutschland haben wir momentan 6300 todesfälle offiziell gemeldet bekommen im rahmen der kurve 19#
 de,miEvuY-vqXc,245,100,59.0,00 1,status 30 der 40 uhr exakt 100 59.000119 kurve 19 fälle übermittelt#
 de,miEvuY-vqXc,251,1478,übermittelt das sind 1478 mehr als gestern und darunter eben 6288 todesfälle#
@@ -665,25 +659,25 @@ de,miEvuY-vqXc,256,6288,das sind 1478 mehr als gestern und darunter eben 6288 to
 de,miEvuY-vqXc,260,173,darunter eben 6288 todesfälle das sind 173 mehr als sie uns gestern offiziell gemeldet wurden wenn sie sich#
 de,miEvuY-vqXc,272,1000,1500,zurück erinnern dann haben wir in dieser woche circa 1000 bis 1500 fälle pro tag übermittelt bekommen#
 de,miEvuY-vqXc,284,2000,in der letzten woche hatten wir so immer rund 2000 fälle am tag aber nach wie vor haben wir eben jeden tag noch neue fälle#
-de,miEvuY-vqXc,295,123,000,519,vorliegenden informationen dass inzwischen rund 123.000519 infiziert auch wieder genesen sind und die#
+de,miEvuY-vqXc,295,123,vorliegenden informationen dass inzwischen rund 123.000519 infiziert auch wieder genesen sind und die#
 de,miEvuY-vqXc,382,129000,übermittelten fälle das sind dann auf die pfalz haben bezogen 129000 und von denen haben wir klinische informationen#
 de,miEvuY-vqXc,441,6288,lungenentzündung entwickelt die todesfälle 6288 personen wie gesagt die zahl der todesfälle und der anteil der#
-de,miEvuY-vqXc,549,860,000,hatten wir in der vergangenen woche eine kapazität von rund 860.000 tests erreicht#
-de,miEvuY-vqXc,563,467,000,viele tests durchgeführt und von rund 467.000 von diesen tests wurden rund 25.000 positiv getestet das sind 54#
+de,miEvuY-vqXc,549,860hatten wir in der vergangenen woche eine kapazität von rund 860.000 tests erreicht#
+de,miEvuY-vqXc,563,467,viele tests durchgeführt und von rund 467.000 von diesen tests wurden rund 25.000 positiv getestet das sind 54#
 de,miEvuY-vqXc,568,25.0,467.000 von diesen tests wurden rund 25.000 positiv getestet das sind 54 prozent das heißt also die anderen tests#
-de,miEvuY-vqXc,581,467,000,467,000,personen mehrfach getestet wurden das heißt diese 467.000 sind nicht 467.000 einzelpersonen unbedingt das ist eine#
+de,miEvuY-vqXc,581,467,personen mehrfach getestet wurden das heißt diese 467.000 sind nicht 467.000 einzelpersonen unbedingt das ist eine#
 de,miEvuY-vqXc,913,252,und wie das immunsystem mit einer saß co wird 252 infektionen umgeht es gibt keinerlei hinweis dass dort eine#
 de,miEvuY-vqXc,2127,100000,ein unterschiede der infektionszahlen 24 pro 100000 mecklenburg vorpommern 43 aus nicht welche gibt es gründe wie maske#
 de,miEvuY-vqXc,3008,100,beziehungsweise insgesamt weniger symptome zeigen das heißt von 100 erkrankten kindern zeigen eben weniger#
 de,miEvuY-vqXc,3577,3 million,virus hat inzwischen weltweit wirklich viele menschen getötet haben 3000000en fälle bereits und da sind ja nur die#
 de,58M_K9eK_Jg,1741,1933,dachau galt als modell für spätere konzentrationslager zwischen 1933 45 inhaftierten die nationalsozialisten#
-de,58M_K9eK_Jg,1747,200,000,inhaftierten die nationalsozialisten dort mehr als 200.000 menschen und dann haben wir noch die lottozahlen#
+de,58M_K9eK_Jg,1747,200,inhaftierten die nationalsozialisten dort mehr als 200.000 menschen und dann haben wir noch die lottozahlen#
 de,58M_K9eK_Jg,1754,15 7,32 3,und dann haben wir noch die lottozahlen wie immer ohne gewähr 15 7 32 36 41 superzahlen neun weitere gewinnzahlen#
 de,58M_K9eK_Jg,1766,55 7,finden sie auf lotto zdf de und im zdf text auf seite 55 7 jetzt ist der moment gekommen an dem wir#
 de,K8YIjxHNar0,360,190,werden ohnehin bestehen in fast allen der rund 190 staaten der welt strenge einreiseverbote für touristen und#
 de,sUdtpRChANM,0,177,hamburg der ambulante pflegedienst care vital mitbetreut 177 senioren zwischen 70 und 90 jahren#
 de,sUdtpRChANM,309,121,zurückgreifen die in österreich mittlerweile etabliert ist das bei 121 grad die masken heißdampf schädlich#
-de,sUdtpRChANM,354,000,1500,hochrechnen würde dann anspruch auf die 2.000 krankenhäuser oder auf die 1500 aufbereitungs einheiten er dann liegen#
+de,sUdtpRChANM,354,1500,hochrechnen würde dann anspruch auf die 2.000 krankenhäuser oder auf die 1500 aufbereitungs einheiten er dann liegen#
 de,sUdtpRChANM,358,15 million,aufbereitungs einheiten er dann liegen gegenüber 15000000en masken in der woche wiesbaden der helios konzern#
 de,sUdtpRChANM,364,100,woche wiesbaden der helios konzern betreibt knapp 100 kliniken in ganz deutschland entsprechend groß der bedarf#
 de,sUdtpRChANM,404,8000,personalisierte werden dadurch kann der konzern 8000 masken pro tag wieder nutzbar machen#
@@ -691,7 +685,7 @@ de,_gpx6ZWsmtQ,161,1000,hunderttausend infizierte pro tag einen anderen anstecke
 de,_gpx6ZWsmtQ,320,300,500,komplett digitalen einstellungsverfahren die zeit drängt 300 von 500 leuten haben sie jetzt schon in die gesundheitsämter#
 de,_gpx6ZWsmtQ,350,20 3,und wenn man daran stellen was erläutert die 20 30 kontaktpersonen hatte die alle dann nachgeforscht werden müssen und die#
 de,_gpx6ZWsmtQ,702,159,1000,laut der johns hopkins universität sind in deutschland mehr als 1591000 infizierte durch tests bestätigt 117.000#
-de,_gpx6ZWsmtQ,705,117,000,in deutschland mehr als 1591000 infizierte durch tests bestätigt 117.000400 davon sind genießen 6177 menschen#
+de,_gpx6ZWsmtQ,705,117,in deutschland mehr als 1591000 infizierte durch tests bestätigt 117.000400 davon sind genießen 6177 menschen#
 de,_gpx6ZWsmtQ,709,400,6177,infizierte durch tests bestätigt 117.000400 davon sind genießen 6177 menschen sind in verbindung mit cupid 19#
 de,_gpx6ZWsmtQ,749,000,wenn die täglichen neuinfektionen unter die marke von 3.000 vielen so ministerpräsident philipp könnten ab dem#
 de,_gpx6ZWsmtQ,978,2009,flüchtlinge in ihrem eigenen land wie 2009 10 das beobachtungszentrum für die interne vertreibung zählte fast 51#
@@ -723,7 +717,7 @@ de,H2LJwVGS4YI,1150,2011,eigentlich sollte er schon im herbst 2011 in betrieb ge
 de,H2LJwVGS4YI,1188,1800,ausgezeichnet allen voran das strategiespiel anno 1800 verliehen wurden die preise corona bedingt#
 de,H2LJwVGS4YI,1208,1800,als bestes deutsches computerspiel wurde anno 1800 gekürt der neueste ableger einer schon über 20 jahre andauernden#
 de,H2LJwVGS4YI,1239,1800,detailreichen spielverlauf und mit über einer 000000 spielern ist anno 1800 ein riesiger publikumserfolg#
-de,H2LJwVGS4YI,1267,590,000,macht insgesamt vergab die jury preisgelder von 590.000 euro an computerspiele made in germany und dabei#
+de,H2LJwVGS4YI,1267,590,macht insgesamt vergab die jury preisgelder von 590.000 euro an computerspiele made in germany und dabei#
 de,jfekYwDfdto,0,2020,koch institut heute ist dienstag der 28 april 2020 heute ist auch wieder professor wieder#
 de,jfekYwDfdto,20,2000,die lage in deutschland anschauen in den letzten wochen wurden rund 2000 fälle pro tag an das robert koch#
 de,jfekYwDfdto,31,1000,weniger als in den vorwochen und vorgestern und gestern wurden rund 1000 fälle pro tag an das robert koch#
@@ -732,13 +726,13 @@ de,jfekYwDfdto,73,300,es wurden immer noch zwischen 100 und 300 fälle todesfäl
 de,jfekYwDfdto,140,28 0,in deutschland und das ist der stand vom 28 04 00 uhr und der stand der anderen länder der ist ja immer ein wenig#
 de,jfekYwDfdto,157,966,1000,setzen können in den vereinigten staaten wurden bis dato und 9661000 fälle gemeldet und dort liegt die anzahl der#
 de,jfekYwDfdto,168,55.0,toten unter den gemeldeten fällen bei 57 prozent das sind rund 55.000 personen in den vereinigten staaten in spanien#
-de,jfekYwDfdto,176,210,000,den vereinigten staaten in spanien hier wurden bislang rund 210.000 fälle gemeldet und hier ist die anzahl der#
+de,jfekYwDfdto,176,210,den vereinigten staaten in spanien hier wurden bislang rund 210.000 fälle gemeldet und hier ist die anzahl der#
 de,jfekYwDfdto,183,23.0,gemeldet und hier ist die anzahl der todesfälle 23.000 rund hier liegt also die rate bei 111 prozent#
 de,jfekYwDfdto,186,11,1,todesfälle 23.000 rund hier liegt also die rate bei 111 prozent und wenn wir uns das vereinigte#
-de,jfekYwDfdto,195,153,000,königreich anschauen dann wohnen dort bislang rund 153.000 fälle gemeldet davon rund 20.000 todesfälle#
+de,jfekYwDfdto,195,153,königreich anschauen dann wohnen dort bislang rund 153.000 fälle gemeldet davon rund 20.000 todesfälle#
 de,jfekYwDfdto,199,20.0,bislang rund 153.000 fälle gemeldet davon rund 20.000 todesfälle dann ergibt das eine prozentzahl unter#
 de,jfekYwDfdto,205,13,6,dann ergibt das eine prozentzahl unter den gemeldeten und 136 prozent wenn wir uns deutschland im vergleich#
-de,jfekYwDfdto,211,156,000,300,dazu anschauen hier haben wir rund 156.000300 fälle gemeldet und darunter wurden uns zur#
+de,jfekYwDfdto,211,156,dazu anschauen hier haben wir rund 156.000300 fälle gemeldet und darunter wurden uns zur#
 de,jfekYwDfdto,219,5900,gemeldet und darunter wurden uns zur kenntnis gegeben 5900 todesfälle das sind 38 prozent also im vergleich#
 de,jfekYwDfdto,232,9 million,die ganz gut aussehend momentan weltweit sind rund 29000000en menschen als kurve 19 erkrankt identifiziert worden#
 de,jfekYwDfdto,278,28 4,156,1337,betrachtet ich sagte schon dass wir bis 28 40 uhr 1561337 cupid fälle übermittelt bekommen und das sind rund#
@@ -747,12 +741,12 @@ de,jfekYwDfdto,292,5900,war darunter liegen insgesamt 5900 13 todesfälle#
 de,jfekYwDfdto,297,163,todesfälle das sind 163 mehr als am vortag und wir haben eine gesamt inzidenz das#
 de,jfekYwDfdto,305,100000,und wir haben eine gesamt inzidenz das vorkommen also pro 100000 das liegt in deutschland bei uns 188 fällen zur zeit#
 de,jfekYwDfdto,308,188,vorkommen also pro 100000 das liegt in deutschland bei uns 188 fällen zur zeit da gibt es regionale unterschiede#
-de,jfekYwDfdto,319,117,100,000,das ist nach wie vor so bayern hat momentan 3117 fälle pro 100.000 einwohner und mecklenburg vorpommern 42#
-de,jfekYwDfdto,325,100,000,einwohner und mecklenburg vorpommern 42 fälle pro 100.000 einwohner die zahl der gelesenen schätzen wir#
+de,jfekYwDfdto,319,117,100,das ist nach wie vor so bayern hat momentan 3117 fälle pro 100.000 einwohner und mecklenburg vorpommern 42#
+de,jfekYwDfdto,325,100,einwohner und mecklenburg vorpommern 42 fälle pro 100.000 einwohner die zahl der gelesenen schätzen wir#
 de,jfekYwDfdto,331,117,1400,die zahl der gelesenen schätzen wir momentan auf rund 1171400 tschuldigung ich habe gerade ein technisches problem#
-de,jfekYwDfdto,433,117,000,400,also wir hatten die zahl der chinesen mit 117.000400 geschätzt momentan startet heute und ihre produktionszahl#
+de,jfekYwDfdto,433,117,also wir hatten die zahl der chinesen mit 117.000400 geschätzt momentan startet heute und ihre produktionszahl#
 de,jfekYwDfdto,479,125000,wir klinische informationen also rund 80% 125000 hier ist es nach wie vor so dass husten mit 50 prozent und fiebere#
-de,jfekYwDfdto,508,21.5,124,000,krankenhaus behandelt das entspricht rund 21.500 fällen von den 124.000 die wir dazu übergehen dazu die#
+de,jfekYwDfdto,508,21.5,124,krankenhaus behandelt das entspricht rund 21.500 fällen von den 124.000 die wir dazu übergehen dazu die#
 de,jfekYwDfdto,532,5913,die todesfälle in deutschland sind momentan 5913 personen die uns bekannt sind dass sie im rahmen einer kur wird#
 de,jfekYwDfdto,1212,100,jahr den erwert das heißt also nach mathematischen regeln 100 man ja wenn es unter 05 ist unter und über 05 hoch der#
 de,jfekYwDfdto,1410,50.0,er kann ja zum beispiel eins sein wenn wir 50.000 fälle am tag hätten nehmen wir mal diese zahl bislang nie hatten#
@@ -777,7 +771,7 @@ de,Exr_v64oUdo,1071,7000,damit man sie aufs festland bringt in dem camp und drum
 de,Exr_v64oUdo,1098,184,eines der schärfsten der welt so wurden im vergangenen jahr 184 menschen hingerichtet so viele wie nie ab morgen#
 de,Exr_v64oUdo,1129,320,geahndet wer keine rettungsgasse bildet riskiert bis zu 320 euro und zwei punkte und auch raser werden jetzt schneller#
 de,Exr_v64oUdo,1155,2050,werde werde der nordpol im durchschnitt jeden zweiten sommer bis 2050 weitestgehend abschmelzen#
-de,Exr_v64oUdo,1402,158,000,213,in deutschland haben sich laut johns hopkins universität aktuell 158.000213 menschen durch test bestätigt mit dem#
+de,Exr_v64oUdo,1402,158,in deutschland haben sich laut johns hopkins universität aktuell 158.000213 menschen durch test bestätigt mit dem#
 de,Exr_v64oUdo,1409,114,1500,menschen durch test bestätigt mit dem virus infiziert davon gelten 1141500 mittlerweile als genesen gestorben sind#
 de,Exr_v64oUdo,1415,6021,mittlerweile als genesen gestorben sind 6021 patienten im zusammenhang mit cupid 19#
 de,Exr_v64oUdo,1556,100,verglichen mit den vormonaten deutlich zu sehen ab märz der korona effekt 100000000000en euro waren in der eurozone im#
@@ -791,11 +785,11 @@ de,7Y3XRpeo42g,225,800,umstritten ist die masken pflicht ist jedoch die 800 quad
 de,7Y3XRpeo42g,236,800,hier jetzt öffnen wenn sie ihre ladenfläche auf 800 quadratmeter beschränken#
 de,7Y3XRpeo42g,414,6400,waren es anfang april in deutschland fast 6400 neue fälle täglich gestern kamen rund 1300 fälle dazu insgesamt#
 de,7Y3XRpeo42g,418,1300,fast 6400 neue fälle täglich gestern kamen rund 1300 fälle dazu insgesamt sind mehr als 158.000 corona in 40#
-de,7Y3XRpeo42g,422,158,000,kamen rund 1300 fälle dazu insgesamt sind mehr als 158.000 corona in 40 infizierte durch tests bestätigt davon#
-de,7Y3XRpeo42g,428,114,000,infizierte durch tests bestätigt davon gelten mehr als 114.000 betroffene als genesen 5.985 menschen sind in#
+de,7Y3XRpeo42g,422,158,kamen rund 1300 fälle dazu insgesamt sind mehr als 158.000 corona in 40 infizierte durch tests bestätigt davon#
+de,7Y3XRpeo42g,428,114,infizierte durch tests bestätigt davon gelten mehr als 114.000 betroffene als genesen 5.985 menschen sind in#
 de,7Y3XRpeo42g,431,985,gelten mehr als 114.000 betroffene als genesen 5.985 menschen sind in verbindung mit dem virus gestorben die#
 de,7Y3XRpeo42g,510,20.0,neuansteckungen und todesfälle noch zu hoch mehr als 20.000 corona tote zählt das land die eigentliche zahl dürfte#
-de,7Y3XRpeo42g,552,100,000,das problem der fehlenden schutzkleidung ist ungelöst die versprochenen 100.000 tests täglich bis mai nicht zu schaffen#
+de,7Y3XRpeo42g,552,100,das problem der fehlenden schutzkleidung ist ungelöst die versprochenen 100.000 tests täglich bis mai nicht zu schaffen#
 de,7Y3XRpeo42g,637,100,der letzte gast bezahlte die hotelkette ist zu 100 angestellte sind in kurzarbeit#
 de,7Y3XRpeo42g,772,550,schnellverfahren einen kfw-kredit von 550000000en euro condor sollte nach der pleite des thomas#
 de,7Y3XRpeo42g,823,63.0,realität leben sie jedoch die menschen im land dort sind mehr als 63.000 infektionen registriert 4298 menschen#
@@ -813,8 +807,8 @@ de,7Y3XRpeo42g,1256,2006,unaufgeklärte mögliche korruption skandal rund um die
 de,7Y3XRpeo42g,1313,21.4,später gibt es mehr im heute journal um 21.45 mit christian sievers und um 19 uhr ist morgen barbara hahlweg für sie#
 de,bmbjnK2XII4,567,30.0,haben wir die bundeskanzlerin gebeten zum 30.04 uns eine weile diese aussage mit dem#
 de,bmbjnK2XII4,712,150,im koalitionsausschuss durchgesetzt hat dass es jetzt ein geld gibt 150 euro für sozial benachteiligte kinder zum#
-de,bmbjnK2XII4,1207,157,000,120,laut aktueller statistik sind in deutschland bislang 157.000120 corona infektionen identifiziert worden#
-de,bmbjnK2XII4,1215,112,000,gut zwei drittel dieser infizierten 112.000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang#
+de,bmbjnK2XII4,1207,157,120,laut aktueller statistik sind in deutschland bislang 157.000120 corona infektionen identifiziert worden#
+de,bmbjnK2XII4,1215,112,gut zwei drittel dieser infizierten 112.000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang#
 de,bmbjnK2XII4,1217,5896,112.000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang mit cupid 19 wurden bislang registriert#
 de,bmbjnK2XII4,1303,450,westfälischen grevenbroich wurde abgeriegelt alle der 450 bewohner auf cupid 19 getestet die behörden ordneten#
 de,bmbjnK2XII4,1668,170,bangladesch im asiatischen ganges delta hat 170000000en einwohner offiziell bisher nur 145 corona tote und überhaupt#
@@ -944,7 +938,7 @@ de,8zkc3BayfDo,1009,21,4,Auf jeden Fall sehr leicht. Ich würde sagen 214. 20 we
 de,8zkc3BayfDo,1013,21,4,Ich würde sagen 214. 20 wenn überhaupt. 214.\n*lacht* Geil ey.#
 de,8zkc3BayfDo,1046,42,5,42 km/h ist schon nicht schlecht. 425. Schon gut für das Teil. Viel zu schnell!#
 de,KXq3TgpEb1I,199,100,Hinten habe ich die Federung\nneu gemacht. -Hab ich gesehen geil. Die Akkus wiegen\nungefähr 100 Kilo eine Menge. Dann habe ich noch\nein Differenzial eingebaut.#
-de,KXq3TgpEb1I,245,600,000,Wie viel Kohle hast du reingesteckt? Akku 600 ich schätze so ...\n-2.000. -Ja genau. Ganz klar ein Einsitzer.\nOder hast du mehrere Leute damit...?#
+de,KXq3TgpEb1I,245,600,Wie viel Kohle hast du reingesteckt? Akku 600 ich schätze so ...\n-2.000. -Ja genau. Ganz klar ein Einsitzer.\nOder hast du mehrere Leute damit...?#
 de,KXq3TgpEb1I,298,250,Messen. Wie ist die Frage.\n-Die Magnetfeldstärke. Gewicht? -Ich hab gemessen\n250 Kilo ohne Fahrer. Weißt du wie schnell?\n-Mit vollem Akku fast 70.#
 de,KXq3TgpEb1I,340,70,6,Es war exakt was er gesagt hat.\nEr ist doch kein Lügner. 706. Jetzt kriegen wir endlich\nsaubere Zahlen hier ey.#
 de,KXq3TgpEb1I,410,6667,Aber da ist auch richtig Dampf drauf. Fun-Faktor 96667. So viel geiler\nals ein Verbrenner Alter.#
@@ -965,7 +959,7 @@ de,S8LNk1IF994,485,001,001. 0001. Richtig?#
 de,S8LNk1IF994,488,0012,Richtig? 00012. 12 Milliampere.#
 de,S8LNk1IF994,654,1000,Wir müssen auf Millisekunden runter. Millisekunden sind 1000 Sekunden. Eine Sekunde hat 1000 Millisekunden.#
 de,S8LNk1IF994,656,1000,Millisekunden sind 1000 Sekunden. Eine Sekunde hat 1000 Millisekunden. Genau genommen sogar Mikro.#
-de,S8LNk1IF994,679,570,000,die Reflektoren drauf.\nMach mal durch. -7570.000 km/h. Da könnte ein Rechenfehler drin sein.#
+de,S8LNk1IF994,679,570,die Reflektoren drauf.\nMach mal durch. -7570.000 km/h. Da könnte ein Rechenfehler drin sein.#
 de,S8LNk1IF994,837,23,7,Ah kann jemand schneller? 237! Das Problem ist man müsste\neigentlich an der Hüfte messen.#
 de,OBub3-43_44,581,16:0,Dann schickt uns den einfach zu.\n- Nicht am Wochenende liefern. Cool wäre von Montag bis Freitag\nvon 9:00 bis 16:00 Uhr. Nee ich bin erst ab 10:00 hier.#
 de,OBub3-43_44,584,10:0,Cool wäre von Montag bis Freitag\nvon 9:00 bis 16:00 Uhr. Nee ich bin erst ab 10:00 hier. Erklär mir mal warum das das gleiche\nGeräusch macht wie das andere!#
@@ -1007,7 +1001,7 @@ de,NU31mw90re0,-2,2019,. Im Dezember 2019\nberichtete die chinesische Regierung 
 de,Gih8R-f_KMo,126,700,Aber leider nur theoretisch. Es gibt z.B. 20 Millionen Tonnen Gold\nim Wert von etwa 700 Millionen Euro im Wasser aller Ozeane.#
 de,2K4h6O3uTiM,91,120,Doch die Argentinische Ameise\nsetzt auf Masse. Auf 120 Arbeiterinnen\nkommt eine Königin die bis zu 60 Eier am Tag legt.#
 de,2K4h6O3uTiM,221,16.0,Das ist in der Welt der\nAmeisen extrem ungewöhnlich nur die wenigsten\nder 16.000 Ameisenarten haben solche\nSuperkolonien entwickelt.#
-de,2K4h6O3uTiM,280,3000,6000,Zwar sind einzelne\nRossameisen-Arbeiterinnen riesig dafür besteht eine Kolonie aus\nnur etwa 3000 – 6000 Mitglieder. Sie hatten keine Chance gegen\neine sich ausbreitende Superkolonie#
+de,2K4h6O3uTiM,280,6000,Zwar sind einzelne\nRossameisen-Arbeiterinnen riesig dafür besteht eine Kolonie aus\nnur etwa 3000 – 6000 Mitglieder. Sie hatten keine Chance gegen\neine sich ausbreitende Superkolonie#
 de,2K4h6O3uTiM,494,2020,oder auf den anderen unzähligen\nSchlachtfeldern rund um die Welt. Untertitel: ARD Text\nim Auftrag von Funk (2020) Wenn ihr hier links klickt#
 de,6DPVWbJAWpY,227,150,Er besteht aus einem CME aus\nMrd von t heißem magnetischen Plasma das die 150 Mio km\nzwischen Sonne und Erde in weniger als einem Tag zurücklegt.#
 de,6DPVWbJAWpY,309,1989,Das ist bereits passiert. 1989 ist nach\neinem starken Sonnensturm das Stromnetz in Quebec ausgefallen.#
