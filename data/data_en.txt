@@ -3449,7 +3449,6 @@ en,rZfZyOaRFrc,438,['99 9'],California fixer-upper yours for only $9.99 95 Sebas
 en,rZfZyOaRFrc,615,['1850'],third generation immigrant in Kazakhstan starting in the 1850s many Korean refugees fled from poverty yeah there's#
 en,_MbzQNFC2kA,61,['1965'],can Yarra River shifted its course southwards after heavy rains in 1965 no one really pays attention to this though#
 en,_MbzQNFC2kA,79,['1 million'],provincial status Kigali of course is the largest city with over 1000000 people and it also holds the largest and#
-en,_MbzQNFC2kA,166,"['50,0']",companies biotech firms and commercial centers providing over 50000 jobs around 95% of the youth are enrolled in#
 en,_MbzQNFC2kA,172,['1991'],schools and literacy rates have jumped from only about 58% in 1991 to nearly 75% today how did all this happen though#
 en,_MbzQNFC2kA,177,['2000'],75% today how did all this happen though well basically in the year 2000 they had this thing called the vision 2020 and it#
 en,_MbzQNFC2kA,179,['2020'],well basically in the year 2000 they had this thing called the vision 2020 and it was like okay guys we literally just had#
@@ -3624,7 +3623,7 @@ en,hjVFwqM7xuo,831,['81 billion'],world economy's GDP was probably around 810000
 en,hjVFwqM7xuo,845,['200'],today lives better than the kings of more than 200 years ago and this is because we live in wealthier times 200#
 en,hjVFwqM7xuo,847,['200'],more than 200 years ago and this is because we live in wealthier times 200 years from now I fully expect the people#
 en,hjVFwqM7xuo,874,['150'],at its peak the company had around 40 warships 150 merchant ships plus around a dozen ports and 100000 acres of#
-en,hjVFwqM7xuo,878,"['100', '000']",warships 150 merchant ships plus around a dozen ports and 100000 acres of plantations as well as a large inventory#
+en,hjVFwqM7xuo,878,"['100']",warships 150 merchant ships plus around a dozen ports and 100000 acres of plantations as well as a large inventory#
 en,hjVFwqM7xuo,930,['10 million'],could easily produce this entire fleet for around 10000000 dollars in probably half a year based on production#
 en,hjVFwqM7xuo,1007,['970'],today it was just a much much smaller pie like around 970 times smaller all of this is not to say that the Dutch East#
 en,BvuQD6SUTdc,32,['2008'],times the subprime mortgage crisis of 2008 was bad for many many nations of course we tend to think of images of#
@@ -3734,7 +3733,7 @@ en,dSoCQmSpF2U,167,['41 4'],in the world briefly summarized we accidentally cut 
 en,dSoCQmSpF2U,219,['120'],for our final GDP calculations which are now 120 trillion esque less than the final figure we calculated#
 en,dSoCQmSpF2U,375,['19.6'],a majority of the countries have lower sales taxes than Monaco the 19.6% tax that the Monegasque government levies on#
 en,dSoCQmSpF2U,506,['2020'],channel to these videos will be deleted on the first of January 2020 and the topic will be real or better in the#
-en,dSoCQmSpF2U,619,"['200', '000']",outlet to do so today we have just passed over 200000 subscribers and we have a flourishing discord server filled#
+en,dSoCQmSpF2U,619,"['200'],outlet to do so today we have just passed over 200000 subscribers and we have a flourishing discord server filled#
 en,fD-k7xmuGnU,5,['2018'],[Music] the Christmas crush of 2018 was a really important case study that up until now#
 en,fD-k7xmuGnU,66,['2008'],decade or so since the subprime mortgage crisis in the ensuing recession in 2008 the stock market has quadrupled in value#
 en,fD-k7xmuGnU,89,['2018'],which is pretty phenomenal in the mining itself but as of the end of 2018 the S&P 500 had returned close to 21 percent#
@@ -3809,7 +3808,7 @@ possibility of finding out?"#
 en,b0cakXwiZ8s,6205,['160'],"is where you both cryo
 preserve people and store them. - Yes we have 160 patients. - Wow."#
 en,b0cakXwiZ8s,6208,['1190'],- Wow. - And we have 1190 something members it changes.#
-en,b0cakXwiZ8s,6244,"['200', '000']","- To become a patient at Alcor. First you have to pay
+en,b0cakXwiZ8s,6244,"['200'],"- To become a patient at Alcor. First you have to pay
 between 80 and $200000 then you have to die
 or more specifically"#
 en,b0cakXwiZ8s,6446,['159'],"- So this is our
@@ -3936,7 +3935,7 @@ en,zRxI0DaQrag,1042,"['100', '200']"," What will our amazing world
 people and store them. [Linda]
 Yes. We have 160 patients. -Wow.
 -And we have"#
-en,zRxI0DaQrag,1116,"['200', '000']","[Michael]
+en,zRxI0DaQrag,1116,"['200'],"[Michael]
  To become a patient at Alcor  first you have to pay
  between 80 and $200000  Then you have to die"#
  en,zRxI0DaQrag,1318,['159'],"So this is our
@@ -4285,7 +4284,7 @@ en,v7kE6hFUOjE,110,['2018'],And scientists think that these wasps are pretty spe
 en,v7kE6hFUOjE,155,['200'],"Now if hymenopterans are not the most speciose animal group—that’s the technical term for having a lot of species—it’s probably still some sort of parasite. And that’s because parasitism is really popular in the natural world evolving more than 200 separate times in 15 different groups of animals. And it makes sense!
 Hosts are both food and shelter rolled into one."#
 en,v7kE6hFUOjE,177,['1993'],Not all nematodes are parasites but many are and they target not just insects but also other animals and plants. One 1993 study estimated there may be well over a 000000 nematode species though other estimates have varied wildly because they’re so understudied. Another paper from 2008 suggested that there may be between 75000 and 300000 species of nematodes parasitizing vertebrates alone.#
-en,v7kE6hFUOjE,185,"['2008', '75,0', '300', '000']",One 1993 study estimated there may be well over a 000000 nematode species though other estimates have varied wildly because they’re so understudied. Another paper from 2008 suggested that there may be between 75000 and 300000 species of nematodes parasitizing vertebrates alone. And nematodes have been found everywhere including sediments deep down on the ocean floor.#
+en,v7kE6hFUOjE,185,['2008'],One 1993 study estimated there may be well over a 000000 nematode species though other estimates have varied wildly because they’re so understudied. Another paper from 2008 suggested that there may be between 75000 and 300000 species of nematodes parasitizing vertebrates alone. And nematodes have been found everywhere including sediments deep down on the ocean floor.#
 en,IGI5GD0LtO0,33,['120'],"We cycle through a series of phases over the
 course of the night which can take anywhere from 70 to 120 minutes. Most dreams occur during a phase called rapid
 eye movement or REM."#
@@ -4627,7 +4626,7 @@ and Dodgers were played in Beijing."#
 en,FCEwPio2bkg,180,"['2012', '2014', '2016', '2019']","national league which operated in cooperation
 with the American MLB suspending operations in 2012 restarting in 2014 suspending operations
 again in 2016 then starting up again in 2019 with just four teams."#
-en,FCEwPio2bkg,218,"['650', '000']","Evidence of this can be seen on the league’s
+en,FCEwPio2bkg,218,"['650'],"Evidence of this can be seen on the league’s
 official Weibo account—one of the top social networks in China—which has only 650000
 followers. The story is not markedly different with the
 NHL but the history of its efforts is shorter."#
@@ -4658,7 +4657,7 @@ en,FCEwPio2bkg,364,['15 million'],"He hosted a Chinese-language show for the
 team’s digital channels which attracted sizable attention—over 15000000 total
 views. Meanwhile playing the sport itself is increasingly
 popular in China."#
-en,FCEwPio2bkg,376,"['120', '000']","Having one’s children learn the American
+en,FCEwPio2bkg,376,['120'],"Having one’s children learn the American
 sport has emerged as a status symbol and 120000 young Chinese have gone to private
 training camps for American football. Still though the NFL has a long way to go
 to make China a sizable portion of its business."#
@@ -4828,7 +4827,7 @@ en,RyG7nzteG64,6,['2020'],"Browse the internet faster and easier by signing
 up for free at dashlane.com/Wendover. On November 3rd 2020 hundreds of 000000s
 of Americans will all make their way to their local polling stations to cast their votes—deciding
 who will be the next President of the United"#
-en,RyG7nzteG64,89,"['178', '000']","eventually has to accurately count up to 000s
+en,RyG7nzteG64,89,"['178'],"eventually has to accurately count up to 000s
 of votes. What makes the US election so difficult to
 conduct right is that there are over 178000 individual voting precincts each of which
 can and does do things in a slightly different"#
@@ -4915,7 +4914,7 @@ a small regional power with a small population"#
 en,5SDUm1bx7Zc,144,['25 million'],"Australia however never grew into more than
 a small regional power with a small population of just 25000000. Now Australia is no doubt a highly successful
 nation."#
-en,5SDUm1bx7Zc,234,"['400', '000']","The largest city in Australia that’s not
+en,5SDUm1bx7Zc,234,['400'],"The largest city in Australia that’s not
 directly on the coast in fact is Canberra—the capital—which has a population of just 400000
 and was a planned city meaning its development cannot be a perfect indicator for the viability
 of inland life in Australia."#
@@ -4926,7 +4925,7 @@ that are significantly offset from the coast"#
 en,5SDUm1bx7Zc,257,"['24,0']","in the outback as it’s called the largest
 would probably be Alice Springs—a northern territory town of just 24000. This desolation can be further exemplified
 by the country’s road network."#
-en,5SDUm1bx7Zc,375,"['875', '000']","successful in the world at attracting international
+en,5SDUm1bx7Zc,375,['875'],"successful in the world at attracting international
 students. The country is home to about 875000
 international students across all types of schools."#
 en,5SDUm1bx7Zc,381,['25 million'],"schools. Now of course remember the entire population
@@ -4998,7 +4997,7 @@ en,U1a73gdNs0M,171,"['10,0']","Of course airlines need demand to make a
 route viable. Even if they’re only flying a tiny plane
 to that 10000 person town daily they still need seats filled to make it commercially
 successful."#
-en,U1a73gdNs0M,273,"['144', '000']","Through a bidding process airlines will be
+en,U1a73gdNs0M,273,"['144'],"Through a bidding process airlines will be
 granted the contract to operate these routes getting paid anywhere from $144000 a year—as
 in the case of Mokulele Airlines’ service from Kahului to Hana Hawaii—up to $4.7
 000000 a year—as in the case of United’s"#
@@ -5172,7 +5171,7 @@ en,cnfoTAxhpzQ,548,['2017'],"After fuel prices plummeted in 2014 these
 airlines entered a period of rapid expansion as they were able to undercut the incumbents
 prices significantly but then in 2017 fuel prices starting ticking back up and these
 airlines had a tough choice—they could either"#
-en,cnfoTAxhpzQ,658,"['800', '000']","For your customers it makes for a great buying
+en,cnfoTAxhpzQ,658,"['800'],"For your customers it makes for a great buying
 experience—one that you’ve probably already used as they’re used by over 800000 business
 worldwide including mine you know in case you want to try out the buying experience
 for a Wendover t-shirt."#
@@ -5288,7 +5287,7 @@ en,A0qt0hdCQtg,259,['800'],"If you define every military installation
 as a base compiling all publicly available information one set of research reached a
 number of 800. Of course the real number could be something
 far different from that but as the general"#
-en,A0qt0hdCQtg,366,"['100', '000']","groupings of Americans anywhere outside the
+en,A0qt0hdCQtg,366,"['100'],"groupings of Americans anywhere outside the
 US. The city that Ramstein and many of the other
 facilities are in is home to only about 100000 full time residents however the American
 bases are staffed by more than 50000 personnel"#
@@ -5333,13 +5332,13 @@ en,pJ_LUFBSoqM,85,"['320', '737', '757']","With the exception of the largest mos
 ones most other professional sports teams in the US will just fly on chartered narrow-body
 aircraft like a320’s 737’s or 757’s but most NFL teams given their size require
 something larger."#
-en,pJ_LUFBSoqM,106,"['767', '777']","or Hawaiian Airlines—and they’ll typically
+en,pJ_LUFBSoqM,106,['767'],"or Hawaiian Airlines—and they’ll typically
 fly something a bit larger than other teams like a 767 or sometimes even a 777 but the
 nature of this charter job makes finding a plane to take them particularly difficult."#
 en,pJ_LUFBSoqM,113,['2018'],"plane to take them particularly difficult. You see let’s take the example of the New
 York Jets’ last game of the 2018 season versus the New England Patriots on December
 30th."#
-en,pJ_LUFBSoqM,121,"['767', '400']","versus the New England Patriots on December
+en,pJ_LUFBSoqM,121,"['767']","versus the New England Patriots on December
 30th. For this game they left the day before on
 a United Airlines 767-400 at 3:37 pm landing 30 minutes later at 4:07 pm in Providence
 Rhode Island."#
@@ -5378,11 +5377,11 @@ en,pJ_LUFBSoqM,447,"['2018', '150']","Now the logistics of these international
 games in London are formidable. When the Seahawks played in London in 2018
 they had to ship 1150 rolls of athletic tape about 4000 pounds or 1800 kilograms of medical
 supplies 350 power adapters 500 shoes 240"#
-en,pJ_LUFBSoqM,453,"['000', '800', '350', '500', '240']","When the Seahawks played in London in 2018
+en,pJ_LUFBSoqM,453,"['000'],"When the Seahawks played in London in 2018
 they had to ship 1150 rolls of athletic tape about 4000 pounds or 1800 kilograms of medical
 supplies 350 power adapters 500 shoes 240 pairs of socks and tens of 000s of other
 pounds of equipment to the city weeks ahead"#
-en,pJ_LUFBSoqM,516,"['000', '000']","The issue according to the league’s commissioner
+en,pJ_LUFBSoqM,516,"['000'],"The issue according to the league’s commissioner
 would be having one solitary team stationed more than 3000 miles or 5000 kilometers
 away from the next. It would be an immense logistics problem considering
 that for the weekly games teams would have"#
@@ -5490,7 +5489,7 @@ en,jYPrH4xANpU,343,['1 million'],"the executive onboard works every single one
 of the 260 workdays per year they would have to make almost exactly $1000000 per year
 for this private jet ride to be worth it to Walmart—an amount within the realm of possibility
 for upper management at such a large company."#
-en,jYPrH4xANpU,368,"['111', '000']","If the plane were to be filled to its maximum
+en,jYPrH4xANpU,368,['111'],"If the plane were to be filled to its maximum
 capacity of nine each passenger would only need to be paid $111000 per year for the
 expense to be worth it to the company which is less than an average Walmart store manager
 makes."#
@@ -5502,7 +5501,7 @@ en,jYPrH4xANpU,393,['7500'],"stops and take over 26 hours to get from
 Bentonville to Manila. Flying private though a long range jet like
 the Bombardier Global 7500 could make it there non-stop in just 15 hours carrying 19 of
 the company’s top executives."#
-en,jYPrH4xANpU,407,"['10,0', '150', '000']","Since the company does not own this type of
+en,jYPrH4xANpU,407,['10,0'],"Since the company does not own this type of
 jet it would likely charter one at a cost of about $10000 an hour or $150000 for
 the trip. While the cost of commercial airfare is less
 than this assuming the CEO who makes $24"#
@@ -5562,7 +5561,7 @@ en,C1f2GwWLB3k,275,['00:0'],"To reiterate they handle traffic across this
 whole area above 24500 feet or 7500 meters. “Santurbano: [00:01:45] So we manage what
 more or less 1.9 Million of movements per year so between 5000 and 5700 movements
 depending on the on the season and the day"#
-en,C1f2GwWLB3k,283,"['000', '700']","“Santurbano: [00:01:45] So we manage what
+en,C1f2GwWLB3k,283,['000'],"“Santurbano: [00:01:45] So we manage what
 more or less 1.9 Million of movements per year so between 5000 and 5700 movements
 depending on the on the season and the day per day.”"#
 en,C1f2GwWLB3k,305,"['245', '660']","busiest airports—Heathrow Schiphol Frankfurt
@@ -5871,7 +5870,7 @@ en,BfNEOfEGe3I,479,['737'],"So soon after American’s order announcement
 Boeing officially announced the 737 MAX. This aircraft would be 15% more fuel efficient
 than the previous 737 model and would therefore have a maximum range of 4400 miles or 7100
 kilometers compared to the old 737’s 3400"#
-en,BfNEOfEGe3I,483,"['400', '100', '737', '400']","This aircraft would be 15% more fuel efficient
+en,BfNEOfEGe3I,483,['400'],"This aircraft would be 15% more fuel efficient
 than the previous 737 model and would therefore have a maximum range of 4400 miles or 7100
 kilometers compared to the old 737’s 3400 mile or 5400 kilometer range."#
 en,BfNEOfEGe3I,490,['400'],"have a maximum range of 4400 miles or 7100
@@ -5996,6 +5995,631 @@ en,AP6e2hMFVhU,549,['2020'],gonna see here I think over the near term in 2020 re
 en,AP6e2hMFVhU,676,"['300', '650']",been a sell-off high-yield spreads have gone out from 300 or to 650 basis points to Treasuries but in the overall scheme#
 en,AP6e2hMFVhU,753,['150'],yeah so let's say private equity fund buys a company for $150 and they put $100 of debt on it now the company now#
 en,AP6e2hMFVhU,756,['100'],buys a company for $150 and they put $100 of debt on it now the company now is worth a hundred ten hundred twenty#
+en,bVXPnP8k6yo,285,6000,and reliably serve them to 1000000s of visitors\nLinode can do that too. What’s more they offer affordable GPU instances featuring the\nQuadro RTX 6000 which is tailor-made for AI scientific computing and computer graphics\nprojects. If only I had access to a tool like#
+en,nCpGStnayHk,20,40-6,It was able to closely match the output of\na real light simulation program and it was near instantaneous as it took less than 5\nmilliseconds instead of the 40-60 seconds the light transport algorithm usually requires#
+en,higGxGmwDbs,7,300,We have showcased this paper just a few months\nago which was about creating virtual characters with a skeletal system adding more than 300\nmuscles and teaching them to use these muscles to kick jump move around and perform other\nrealistic human movements#
+en,-O7ZJ-AJGRE,30,2013,If you feel that this is really hard to imagine\nyou are in luck because a legendary paper from 2013 by the name Femto-photography captured\nthis effect. I would say it is safe to start holding on\nto your papers from this point basically until#
+en,-O7ZJ-AJGRE,150,2013,We need a super efficient technique to be\nable to pull this off. For instance back in 2013 we showcased a\nfantastic scene made by Vlad Miller that was a nightmare to compute and it took a community\neffort and more than a month to accomplish#
+en,eTYcMB6Yhe8,253,100,If this is the case there is good chance\nthat this was the right answer. It is not a 100% chance that this is the case\nbut if most of the students have the same answer it is much more unlikely that they\nall failed the same way#
+en,3Wppf_CNvD0,98,5 billion,Have a look here and judge for yourself! This GPT-2 technique was a neural network\nvariant that was trained using 1.5000000000 parameters#
+en,HcB3ImpYeQU,93,300,If we are looking for somewhat coarse results\nbut in real time we have covered a paper approximately 300 episodes ago which performed\nsomething that is called a Reduced Deformable Simulation#
+en,yX84nGi-V7E,303,6000,and reliably serve them to 000000s of visitors\nLinode can do that too. What’s more they offer affordable GPU instances featuring the\nQuadro RTX 6000 which is tailor-made for AI scientific computing and computer graphics\nprojects. If only I had access to a tool like#
+en,548sCh0mMRc,125,2018,either be given with the image or be approximated\nby already existing methods. This is the reconstructed image by this technique\nand then this is a previous method from 2018 by the name category-specific mesh reconstruction\nCMR in short#
+en,TbWQ4lMnLNw,87,1993,is a technique that is called importance sampling. But then around 1993 an amazing paper appeared\nby the name Bidirectional Path Tracing that proposed that we don’t just start building\nlight paths from one direction but two instead#
+en,62Q1NL4k8cI,72,2017,anything else despite these difficulties in 2017 open AI showed us an initial version of their agent that was able to#
+en,62Q1NL4k8cI,103,99.4,appeared defeated the dota 2 world champions and beat 99.4% of human players during an online event that ran#
+en,62Q1NL4k8cI,126,117,key limitations one in a normal game we can choose from a pool of 117 heroes where this system supports seven#
+en,62Q1NL4k8cI,390,6000,instances featuring the quadrille r-tx 6000 which is tailor-made for AI scientific computing and computer#
+en,cdUtiYbsrGA,168,100,anyway hey we just caught ourselves a live one thats $100000 zero oh oh yeah what are you gonna do carry him back we#
+en,JfMmzx67Krw,15,10-1,yourselves and your place in the universe. And we’re pretty happy in our little corner\nof the Internet with our 10-15 minute educational videos but also we’re always looking for\nways to expand Crash Course’s mission which#
+en,JfMmzx67Krw,39,1200,And it’s free! The Crash Course App is a portal for finding\nand watching all 1200 of our videos but we’ve also been working on some extra materials\nto help you learn better from those videos#
+en,JfMmzx67Krw,134,100,If you like the app and find it helpful you can make donations through it but you don’t have to. 100% of the content is free. This App has been a big scary project for\nus but we hope it’s the start of a new#
+en,JfMmzx67Krw,152,2020,adding other fun ways to help you learn. Let’s just say we believe 2020 needs a new\nOregon Trail. The game that is#
+en,PmvLB5dIEp8,94,1800,Even though these kinds of problems can feel overwhelming treating them like a puzzle can help us make sense of them. So lets start our story with the birth of modern organic chemistry which begins right around the mid-1800s. Theme Music#
+en,PmvLB5dIEp8,119,1800,Plants like willow ephedra and poppies were known by ancient civilizations to have medicinal benefits but they had no idea why. In the early 1800s there was a breakthrough in understanding their medicinal properties and people began to extract therapeutic chemicals from them. Today we know that these plants contain medicinal organic molecules like salicylic acid ephedrine and morphine#
+en,PmvLB5dIEp8,237,1828,But he’s most well known for his discovery that an inorganic salt ammonium cyanate could be used to make urea without a living organism. Wöhler’s discovery in 1828 is considered the starting point of the modern organic chemical industry. And today organic chemistry is defined as the study of the structure properties composition reactions and preparation of carbon-containing compounds#
+en,PmvLB5dIEp8,526,1970,And not to mention most video screens and\ncomputer equipment have lots of organic polymers. One important breakthrough in polymer chemistry\nin the 1970s was how to make plastics conduct electricity. These special kinds of polymers are responsible for lightweight laptops tablets and phones we carry around because plastics are a lot lighter than metals#
+en,bSMx0NS0XfY,37,16 million,From the caffeine in your morning tea that kickstarts your brain to the circuitry that makes your cell phone lightweight and portable organic chemistry is practically everywhere. There are actually over 16000000 known organic molecules! So yes it can seem overwhelming but there are patterns!#
+en,-rkIqtV07HE,44,1945,would come to be called the Cold War so in February 1945 as the war was drawing to a close in Europe and the#
+en,-rkIqtV07HE,59,1945,Potsdam outside Berlin in the summer of 1945 after Germanys surrender but before Japan surrendered that August so#
+en,-rkIqtV07HE,332,1950,influenced governments in Eastern Europe by 1950 communists backed by the USSR were more or less running major states#
+en,-rkIqtV07HE,389,1948,the West rebuild in what would be formalized as the Marshall Plan in 1948 from the Soviet perspective this seemed#
+en,-rkIqtV07HE,430,1948,communists west capitalist it never is that simple in June of 1948 Stalin fought back against the Marshall Plan#
+en,-rkIqtV07HE,472,1949,eventually to call off the blockade in May of 1949 Berlin became a divided city and eventually the wall that was built#
+en,-rkIqtV07HE,506,1949,the Cold War just kept accelerating in 1949 communists under Mao Zedong took over China while Stalin opened new#
+en,-rkIqtV07HE,536,1950,English or French imperialists she was executed in 1950 the United States also launched a massive hunt for communists#
+en,-rkIqtV07HE,560,1949,fear became a dominant emotion and there was much to fear in 1949 the Soviets exploded an atom bomb of their own and#
+en,-rkIqtV07HE,576,1950,1957,weapons and other military capacity sword in the 1950s and then in 1957 the Soviets sent the satellite Sputnik into#
+en,-rkIqtV07HE,608,1949,Germany into the Federal Republic of Germany or West Germany in 1949 followed swiftly by the creation of an East#
+en,-rkIqtV07HE,620,1949,North Atlantic Treaty Organization or NATO in 1949 to bind together allies in Western Europe and in the world such as#
+en,-rkIqtV07HE,628,1955,Canada to meet threats from the east in 1955 the Soviet bloc formed a similar alliance in the Warsaw Pact alright#
+en,-rkIqtV07HE,729,1950,a polio epidemic devastated children and young people in the 1950s such exchanges occurred despite governments efforts on#
+en,-rkIqtV07HE,747,1956,Germans rebelled and Hungarians rose up in revolution in 1956 the United States did not intervene rather countries#
+en,-rkIqtV07HE,778,1950,1953,Korean War that killed 000000s of Koreans between 1950 and 1953 was one such conflict that pitted us-backed#
+en,-rkIqtV07HE,801,1949,perspectives the Cold War wasnt a cold war in 1949 British author George Orwell published 1984 a novel based on life in#
+en,-rkIqtV07HE,804,1984,war in 1949 British author George Orwell published 1984 a novel based on life in impoverished London language had been#
+en,-rkIqtV07HE,832,1984,the supposed enemy these days when we read 1984 we tend to focus on the surveillance stuff and for good reason#
+en,-rkIqtV07HE,872,1984,view including a crash course on George Orwells 1984 thanks again for watching and as they say in my hometown dont#
+en,iQeDvnapdlg,115,1930,200,Intro\nThe beginning of the mass murder occurred late in the 1930s when doctors mobilized\nto murder some 200000 disabled people in the T4 project which aimed to save the purported\npurity of the German race#
+en,iQeDvnapdlg,127,1920,the T4 project which aimed to save the purported\npurity of the German race. In Permission for the Destruction of Worthless\nLife (1920) a noted jurist and a psychiatrist argued that people deemed “without value”\nshould be eliminated#
+en,iQeDvnapdlg,165,1930,Witnesses—to name just a few. In the 1930s political opponents and these\nmarginalized people comprised those in early concentration camps which were more like\nlarge-scale prisons albeit ones where murder#
+en,iQeDvnapdlg,184,1939,which functioned primarily as places to systematically\nmurder people. In 1939 as German soldiers moved through\nPoland they murdered many Poles including Polish Jews especially going after the most\nliterate citizens like political leaders#
+en,iQeDvnapdlg,267,1941,enough and also because it was felt that Jewish\npeople were not dying quickly enough. As the Nazi invasion of the USSR (Operation\nBarbarossa) began to fail by the end of 1941 Nazi officials set in motion a system of industrial\nkilling modeled on the T4 program including#
+en,iQeDvnapdlg,289,1942,They then communicated these plans to those\nresponsible for carrying them out at the Wannsee Conference outside Berlin in January 1942. Jewish leaders were tasked with selecting\nmembers of their conquered communities supposedly#
+en,iQeDvnapdlg,384,1943,lack of medical care and a range of other\nphysical and mental abuse. Still in 1943 Jews in the Warsaw ghetto used\nguns provided by the Polish resistance to rise up against their Nazi occupiers#
+en,iQeDvnapdlg,513,1943,in spite of the odds against them. In 1943 hundreds of captives rose up at the\nTreblinka Extermination Camp killing Ukrainian guards#
+en,iQeDvnapdlg,546,1944,Holocaust or Shoah as it is known in Hebrew—are\nestimated at six 000000 people not to mention the abuse and torture of those who survived\nto the liberation of the camps in 1944 and 1945#
+en,iQeDvnapdlg,551,1945,the abuse and torture of those who survived\nto the liberation of the camps in 1944 and 1945. It’s tempting to focus on those stories\nof survival because we have records and accounts#
+en,iQeDvnapdlg,577,1943,1940,22,Holocaust itself. In 1943 German forces uncovered victims of\nthe 1940 Soviet execution of some 22000 Polish military officers and professionals—engineers\nprofessors and lawyers for example#
+en,iQeDvnapdlg,728,1930,1940,And the diverse group of refugees who sought\nsafety and shelter after the war often found none as indeed Jewish trying to escape Europe\nin the 1930s and early 1940s had been denied refuge around the world#
+en,rlx6ur_D51s,32,1940,shortly before the American writer F scott Fitzgerald died in 1940 he tried to find one of his books at several#
+en,rlx6ur_D51s,109,1939,and they were also mostly enthusiastic about the invasion of Poland in 1939 which brings us to a big point in our#
+en,rlx6ur_D51s,229,1941,bombs on the city of Swansea alone in a three day raid in 1941 the Allies in turn fire bombed German cities including#
+en,rlx6ur_D51s,592,1941,Communist newspaper Pravda editorialized in 1941 a Soviet woman who loves her motherland passionately and if the enemy#
+en,rlx6ur_D51s,623,1941,women also contributed as the National Service Act of December 1941 conscripted women into military farming or munitions#
+en,rlx6ur_D51s,628,1943,women into military farming or munitions jobs from 1943 until the wars end 80% of married women in the UK and 90%#
+en,rlx6ur_D51s,677,1941,wartime famine Germans began the siege of leningrad in September 1941 cutting off heating and food supplies starving#
+en,rlx6ur_D51s,712,1944,800,aiming to boost morale when the siege ended in January 1944 between 800000 and 1.4000000 people had died among#
+en,rlx6ur_D51s,715,4 million,ended in January 1944 between 800000 and 1.4000000 people had died among them was a child named Victor Putin#
+en,rlx6ur_D51s,726,1952,but survived the war their third son Vladimir Putin was born in 1952 and then there was the civilian catastrophe that#
+en,rlx6ur_D51s,734,1943,was the scorched earth infliction of famine on India in 1943 the very colony that contributed some 2.5000000#
+en,rlx6ur_D51s,738,5 million,famine on India in 1943 the very colony that contributed some 2.5000000 soldiers to the British war cause in#
+en,Hs_JMydrxZM,1,1939,course European history so on August 23rd 1939 the USSR in Germany concluded a non-aggression pact the pact caused#
+en,Hs_JMydrxZM,75,1939,tyranny has created then on September 1st 1939 a mere nine days after the pact was signed German forces launched a huge#
+en,Hs_JMydrxZM,152,1940,Germany allowed them by the spring of 1940 after a quiet period called the phoney war the Germans proceeded to use#
+en,Hs_JMydrxZM,213,1940,felt in Europe when the Nazi bombing of Britain began in July of 1940 and I dont want to minimize how uncertain the#
+en,Hs_JMydrxZM,230,10,towns and industrial sites and monuments and over 10000 British civilians were killed but the British eventually#
+en,Hs_JMydrxZM,271,1940,blood toil tears and sweat in the cause of defending liberty by the fall of 1940 Hitler had quit the failed Battle of#
+en,Hs_JMydrxZM,332,1941,turned out to be a mistake beginning in June 1941 three 000000 German soldiers and others from#
+en,Hs_JMydrxZM,445,25 million,army captured killed or wounded 2.25000000 Soviet soldiers in total as many as 47000000 Soviet citizens died#
+en,Hs_JMydrxZM,449,47 million,2.25000000 Soviet soldiers in total as many as 47000000 Soviet citizens died as a result of world war ii for context#
+en,Hs_JMydrxZM,512,1941,unless youre the Mongols that same winter in December 1941 the Japanese with imperialist designs similar to#
+en,Hs_JMydrxZM,623,1942,the Allies tipped them off to German movements by the fall of 1942 Algeria and Morocco were under allied control#
+en,Hs_JMydrxZM,635,1943,influence the allies instead launched a costly invasion of Italy in 1943 that lasted until April of 1945 famillies#
+en,Hs_JMydrxZM,639,1945,costly invasion of Italy in 1943 that lasted until April of 1945 famillies developments in 1942 and 1943 the USSR#
+en,Hs_JMydrxZM,641,1942,1943,lasted until April of 1945 famillies developments in 1942 and 1943 the USSR fought the expensive and agonizing#
+en,Hs_JMydrxZM,691,1944,cross-channel invasion of France in Normandy which began in June 1944 Allied forces disembarked from landing craft to#
+en,Hs_JMydrxZM,716,1944,eastward march toward Paris and Berlin then in July 1944 a group of elite German military men made an attempt on#
+en,Hs_JMydrxZM,746,5 million,the plot succeeded it might have saved the lives of the 5000000 Germans who died in the last 9 months of the war#
+en,Hs_JMydrxZM,783,1945,descended on Berlin in the spring of 1945 Hitler and his wife Eva Braun killed themselves as did other#
+en,Hs_JMydrxZM,800,1945,on the roof of a gas station for public display on may 7th 1945 Germany surrendered the next day was celebrated#
+en,Hs_JMydrxZM,867,1945,Japanese city of Hiroshima on August 61945 on August 9th a second bomb was dropped on the city of Nagasaki by#
+en,Hs_JMydrxZM,876,20,August 15th Japan had surrendered around 20000 Japanese soldiers died in the bombing of Hiroshima only a hundred#
+en,Hs_JMydrxZM,912,100,death toll may have reached as high as 100000000 people nearly 5% of all humans on earth at the time war is hell#
+en,Ojo8-GhhQcA,0,1925,Hi I’m John Green and this is Crash Course\nEuropean History. So despite improvement in living conditions\nacross much of Europe after 1925 wartime resentments and disruption lingered.\nand then a momentous event in 1929 gradually#
+en,Ojo8-GhhQcA,5,1929,So despite improvement in living conditions\nacross much of Europe after 1925 wartime resentments and disruption lingered.\nand then a momentous event in 1929 gradually turned into a wide-ranging disaster: in that\nyear the U.S. stock market crashed.What came#
+en,Ojo8-GhhQcA,118,1933,stops working its vicious cycles also seem\nendless. And by 1933 six 000000 Germans were unemployed\nthat was one-third of the total workforce. In terms of keeping their jobs women were\nactually sometimes better off than men--but#
+en,Ojo8-GhhQcA,190,1929,to Hitler. By 1929 Stalin had consolidated his power\nin part by bringing 000s of new people to serve in the post-Lenin government at\nthe local regional and national level#
+en,Ojo8-GhhQcA,341,10 million,In fact the communalization of farms lowered\nyields and caused a famine. In total Stalin’s purges and the resulting\nfamine likely resulted in at least 10000000 deaths by the mid-1930s.\nand then Stalin turned to other elements in#
+en,Ojo8-GhhQcA,347,1930,In total Stalin’s purges and the resulting\nfamine likely resulted in at least 10000000 deaths by the mid-1930s.\nand then Stalin turned to other elements in the population to “purge.”#
+en,Ojo8-GhhQcA,442,1932,Which brings us back to Germany. In the fall of 1932 elections in Germany\nsaw the communists and the Nazis receive similarly strong support although the Nazis actually\nlost a few seats in the election#
+en,Ojo8-GhhQcA,521,1934,execute them. In “the night of the long knives” in 1934\nHitler’s forces massacred hundreds of Nazis who had called for a restoration of Nazi purity\nby ending alliances with businessmen and military#
+en,Ojo8-GhhQcA,561,1936,6 million,Alongside arrests and purges Nazi policy\nturned to deficit financing to build infrastructure such as modern highways that would put men\nback to work; by 1936 fewer than 1.6000000 men were still unemployed#
+en,Ojo8-GhhQcA,595,1930,for those the Nazis considered inferior. And then in the 1930s foreshadowing broader\npolicies the government began to murder physically or mentally disabled people in mobile gas\nchambers that traveled to hospitals and other#
+en,Ojo8-GhhQcA,670,1935,and outside of it knew about. For instance The Nuremberg Laws of 1935 removed\nJewish peoples’ German citizenship and barred them from most jobs and from marriage to Aryans#
+en,Ojo8-GhhQcA,710,1938,Indeed so-called Social Death often precedes\nwidespread murder. In 1938 the son of a harassed Jewish couple\nkilled an official which the Nazis used an excuse for a rampage against synagogues businesses\nhomes and individuals—a horrific event#
+en,Ojo8-GhhQcA,731,1935,2. In 1935 Germany began openly boosting military\npower 3. which had been curtailed by the Versailles\ntreaty#
+en,Ojo8-GhhQcA,737,1936,4. In 1936 German troops occupied the Rhineland 5. —an area in western Germany bordering\nFrance#
+en,Ojo8-GhhQcA,743,1938,6. In 1938 Germany occupied Austria to cheering\ncrowds and then absorbed Austria into the Reich#
+en,Ojo8-GhhQcA,787,1939,16. In March 1939 Germany annexed all of Czechoslovakia. 17#
+en,Ojo8-GhhQcA,805,1936,20. Mussolini joined in sending the Italian army\nto Ethiopia in 1936 21. and announcing “the Roman legions are\non the march again” as fascism thrived#
+en,Ojo8-GhhQcA,819,1894,1895,So meanwhile in Japan military officers\nsaw the need to expand. They had already built an effective modern\narmy defeating China in 1894 and 1895 and Russia in 1904 and 1905#
+en,Ojo8-GhhQcA,825,1904,1905,They had already built an effective modern\narmy defeating China in 1894 and 1895 and Russia in 1904 and 1905. In 1931 they blew up a train in Manchuria\nand used that event to justify taking over#
+en,Ojo8-GhhQcA,827,1931,Russia in 1904 and 1905. In 1931 they blew up a train in Manchuria\nand used that event to justify taking over Manchuria as part of a plan to free Asia\n(and eventually the world) from western imperialism...and#
+en,Ojo8-GhhQcA,842,1937,then you know replace it with Japanese imperialism. In 1937 Japan invaded China which from a\nnon-Eurocentric perspective was probably the real beginning World War II--unless it began\nin 1931 with the invasion of Manchuria#
+en,Ojo8-GhhQcA,848,1931,In 1937 Japan invaded China which from a\nnon-Eurocentric perspective was probably the real beginning World War II--unless it began\nin 1931 with the invasion of Manchuria. all of which is a reminder that in some ways\nviolence was everywhere even before World#
+en,Ojo8-GhhQcA,861,1931,all of which is a reminder that in some ways\nviolence was everywhere even before World War II was said to have begun: Like the Spanish\nhad overthrown dictatorial rule in 1931 and set up a republic in a burst of democratic\nenthusiasm but amid trouble setting up a#
+en,Ojo8-GhhQcA,890,1936,And this fractured and frail democracy created\nan opening for an authoritarian military uprising in 1936 led by Francisco Franco. That was war...and in some ways it was world\nwar because the ensuing Spanish Civil War#
+en,xzWL2XPBHMk,328,1918,quantities of money were being printed to\npay their war reparations as agreed to in the Treaty of Versailles(1918) and also to\npay workers. And that led to runaway hyperinflation beginning in 1921 so that by 1923 a single\nturnip or potato could cost trillions of German#
+en,xzWL2XPBHMk,333,1921,1923,the Treaty of Versailles(1918) and also to\npay workers. And that led to runaway hyperinflation beginning in 1921 so that by 1923 a single\nturnip or potato could cost trillions of German marks#
+en,xzWL2XPBHMk,381,1947,the Vedas and other sacred teachings. Despite\nwidespread and ongoing protests however India would not gain its independence until\n1947 however showing how desperately Britain sought to hold on to its lucrative colonies.\nIn Italy meanwhile Mussolini was rising to#
+en,xzWL2XPBHMk,429,1922,making Italy great again as in the days of\nthe ancient triumphant Roman legions. In 1922 Mussolini’s black-shirted troops\nmarched on Rome (although Mussolini himself hid out until the march was successful). The\ntroops demanded that the king appoint Mussolini#
+en,xzWL2XPBHMk,579,1919,But Germany was the war’s most wounded nation.\nThe Weimar Republic which replaced the monarchy in 1919 struggled against monarchists on\nthe one hand and radical political parties including Communists on the other hand. Forces\nfrom both right and left worked to undermine#
+en,xzWL2XPBHMk,602,1923,the war. Uprisings and putsches--that is\nan attempt to overthrow the government--abounded. In November 1923 World War I veteran Adolf\nHitler attempted one from a beer hall in Munich with the help of wartime military hero General\nErich Ludendorff. “The national revolution#
+en,xzWL2XPBHMk,721,1920,wealthy in part through bookseslling-as-official-corruption:\nBusinessmen who wanted to deal with the Nazis first had to buy many copies of Mein Kampf.\nIn the 1920s Hitler’s male followers became an increasingly militarized force of Stormtroopers\nor SA (Sturmabteilung). They caused chaos#
+en,xzWL2XPBHMk,804,1925,never a majority party in parliament or anything\nbut it did have support. After 1925 Germany seemed to be on an economic\nupswing while it also joined the League of Nations and its diplomats achieved a drastic\nreduction in its reparation payments. But#
+en,xzWL2XPBHMk,819,1929,the Nazis via Hugenberg’s media empire kept\nthe pressure on calling every diplomatic agreement a betrayal of Germany. Then the\nstock market crash of 1929 came and it seemed like a godsend to the Nazis as men were thrown\nout of work allowing Hitler to promise to#
+en,U6KR4cLLVzQ,67,1915,As hundreds of 000s of wounded people\nand 000000s of refugees crossed back into an entirely unprepared Russia from 1915 on\nsoldiers deserted while civilian organizations picked up where the imperial administration\nfailed#
+en,U6KR4cLLVzQ,156,1917,OK. So on Russian February 231917 it was International\nWomen’s Day. Working women took to the streets of Petrograd--oh\ngod I feel another explanation coming on#
+en,U6KR4cLLVzQ,211,1905,Members of the Duma—the assembly of elected\nrepresentatives that Nicholas very reluctantly set up to end the revolution of 1905--constituted\nthemselves as a Provisional Government consisting of monarchist conservative liberal and\na variety of socialist members#
+en,U6KR4cLLVzQ,230,1905,Workers and soldiers revived the councils\nor “soviets” they had used during the revolution of 1905 and began claiming a large\nvoice in ruling Russia. And as wealthy leaders of the Provisional\nGovernment and the less privileged members#
+en,U6KR4cLLVzQ,291,1917,And to some equality and an expansion of\nrights felt imminent. In April 1917 the Germans organized Bolshevik\nleader Vladimir Lenin’s passage from exile in Switzerland back to Russia#
+en,U6KR4cLLVzQ,363,1917,Only deliberately inflicted bloodshed would\ncrush the aspirations for a democratic Russia. In the summer of 1917 charismatic lawyer\nAlexander Kerensky came to head the Provisional Government with the aim of reviving Russia’s\ncapacity to fight in World War I#
+en,U6KR4cLLVzQ,414,1917,6. In October 1917 the Bolsheviks led a coup\nat a meeting of the Soviets 7. taking over government buildings arms\ndepots transportation networks and other#
+en,U6KR4cLLVzQ,424,1918,8. The party then endorsed elections to a Constituent\nAssembly that met in January 1918. 9#
+en,U6KR4cLLVzQ,457,1917,They nationalized industries and banks 15. and by late 1917 began seeking a negotiated\nwithdrawal from the war. 16#
+en,U6KR4cLLVzQ,506,1919,That said the Bolsheviks did want to promote\nand control the rise of Communist parties elsewhere so they established the Communist\nInternational or Comintern in 1919. Brest-Litovsk was a turning point for many\nincluding those who were ready to continue#
+en,U6KR4cLLVzQ,561,1922,compromise-oriented and pro-democracy. And so eventually Civil War broke out and\nuntil 1922 Russia and a good part of eastern Europe were wracked with violence and disease\nand famine and starvation#
+en,U6KR4cLLVzQ,682,1922,to maintaining one. In 1922 the Union of Soviet Socialist Republics\nwas declared. Up and coming Bolshevik activist Joseph Stalin\nhelped forge this federation from the ethnic#
+en,U6KR4cLLVzQ,693,100,groups of the former Russian empire. The USSR supposedly fulfilled a Bolshevik\npromise to more than 100 ethnicities of the old Russian empire that they might retain\ntheir culture and language and other local#
+en,U6KR4cLLVzQ,717,10 million,Industrial production had fallen to 13 percent\nof its prewar level The death toll of the civil war and the accompanying disease and\nfamine is estimated at 10000000. Still the postwar Bolshevik propaganda machine\nthrived drawing in people enthusiastic about#
+en,U6KR4cLLVzQ,775,1921,Communism. In fact in 1921 Lenin declared the New Economic\nPolicy in which elements of capitalism such as individual businesses would be allowed\nto help boost productivity#
+en,U6KR4cLLVzQ,802,1922,It was one more compromise the Bolsheviks\nmade as a temporary means to the end of domination. Beginning in 1922 Lenin suffered a series\nof strokes that eventually killed him in January 1924#
+en,U6KR4cLLVzQ,807,1924,Beginning in 1922 Lenin suffered a series\nof strokes that eventually killed him in January 1924. Joseph Stalin organized and led a lavish funeral\nhanding out minor roles to other Bolsheviks#
+en,dPXNZkGYJHM,145,1914,Early on leaders in all countries called\na political truce on the home front. Kaiser William announced on August 41914:\n“I no longer recognize political parties. I recognize only Germans.”#
+en,dPXNZkGYJHM,360,1916,Oh apparently we’re talking about that\nnext week. By 1916 east-central and eastern Europe had\nbecome ever more barren battlefields. In the first year of the war Russian and\nCentral Power armies pushed the front back#
+en,dPXNZkGYJHM,379,1914,1915,and Ukraine. So the retreating Russian army in late 1914\nand 1915 drove people from their houses torched entire villages burned crops in the fields\nand took all the cattle so that advancing#
+en,dPXNZkGYJHM,438,1848,So remember when you’re looking at footage\nlike this you’re looking at footage that literally wasn’t available in for instance\nthe Wars of 1848 OK#
+en,dPXNZkGYJHM,521,1917,As one group of ten starving peasant women\nwrote to the Ottoman minister of the interior in 1917: “Either deport us all to another\nplace or cast us into the sea” What crops they grew were often taken by deserters or\nthe army and their livestock and even pots#
+en,dPXNZkGYJHM,557,1918,In Africa many villages became wastelands. And so really it’s no wonder that the\narmistice on November 111918 failed to bring a true end to the fighting#
+en,dPXNZkGYJHM,579,100,were demanding change because their lives\nliterally depended on it. As the Spanish influenza hit causing an estimated\n100000000 deaths worldwide caregiving and death added to the tragedies of civilian life\nin the early 20th century#
+en,dPXNZkGYJHM,622,1919,their lives. So as Europe remained a militarized powder-keg\nof civil war and revolution in 1919 representatives from the victorious powers—Britain France\nItaly the United States and their allies--met#
+en,dPXNZkGYJHM,666,20 million,3. Some 20000000 people had officially been\ndeclared dead in the war 4#
+en,dPXNZkGYJHM,694,1919,1923,Instead in six treaties collectively called\nthe Peace of Paris 9. and enacted between 1919 and 1923 10#
+en,dPXNZkGYJHM,721,1919,16. But the centerpiece of the settlement was\nthe 1919 Treaty of Versailles 17. which stripped Germany of its colonies#
+en,dPXNZkGYJHM,725,100,imposed a massive penalty for warmongering 19. and forbid it to have an air force or\nto build an army bigger than 100000. 20#
+en,IIiDULrXaqQ,121,1914,ordered full mobilization on July 29th 1914 after Kaiser William said all reason for war is gone in point of fact#
+en,IIiDULrXaqQ,332,1914,Powers benefited when the Ottoman Empire joined its side in October 1914 while Italy joined the Allies in 1915 after#
+en,IIiDULrXaqQ,334,1915,joined its side in October 1914 while Italy joined the Allies in 1915 after being promised major territorial gains#
+en,IIiDULrXaqQ,347,100,to do menial labor the French for example forced some 100000 Southeast Asians and to the ranks of soldiers and#
+en,IIiDULrXaqQ,418,1914,enemy in the famous Christmas truce of 1914 soldiers from both sides on the Western Front left their trenches and#
+en,IIiDULrXaqQ,451,1915,unfolded during the war which added to the death count beginning in 1915 soldiers suffered blinding attacks from#
+en,IIiDULrXaqQ,532,1915,in a deadly back-and-forth and then in the spring of 1915 the Ottoman government ordered their troops to#
+en,IIiDULrXaqQ,540,600,1 million,leading to the torture and death of an estimated 600000 to 1000000 people this wasnt a response to a specific#
+en,IIiDULrXaqQ,557,1917,deployment of battleships and submarines on both sides in 1917 the German General Staff resumed submarine attacks on#
+en,IIiDULrXaqQ,576,1918,but their participation was not militarily effective until 1918 because weapons needed to be manufactured and#
+en,IIiDULrXaqQ,620,1915,firmly rejected peacemaking or even compromise in 1915 a group of activist women visited heads of state with a#
+en,IIiDULrXaqQ,649,1916,certainly was when Habsburg Emperor Francis Joseph died in November of 1916 his subjects were too weakened to mourn#
+en,IIiDULrXaqQ,661,1917,as did the German Reichstag in the summer of 1917 I know its not the time for a joke but Emperor Karl moi#
+en,IIiDULrXaqQ,683,1918,determined the Germans tried to puncture allied lines in a spring 1918 offensive but victory eluded them as the Allies#
+en,IIiDULrXaqQ,691,1918,brought out airplanes and tanks and then in the summer of 1918 the Allies assisted now by American forces drove#
+en,IIiDULrXaqQ,703,1918,German offensives reached two 000000 as their army disintegrated by January 1918 u.s. President Woodrow Wilson had issued#
+en,IIiDULrXaqQ,726,1918,settlement rather than a revenge driven surrender by the autumn of 1918 not only were soldiers deserting the Central#
+en,IIiDULrXaqQ,796,40 million,wartime deaths including civilians are loosely calculated at 40000000 people Joseph Stalin probably never said the#
+en,IIiDULrXaqQ,812,40 million,but its too often true its hard to think of what 40000000 deaths means but heres one way of trying to conceive#
+en,KGlmlSTn-eM,100,1894,ethnic minorities. In 1894 Alfred Dreyfus a Jewish officer\nin the French army was tried for espionage convicted and imprisoned on Devil’s Island#
+en,KGlmlSTn-eM,134,1898,Newspapers took both sides as violence grew. Then in 1898 famed novelist Emile Zola’s\narticle “J’accuse” exposed trumped up evidence against Dreyfus and helped build\nsupport for him#
+en,KGlmlSTn-eM,143,1899,up evidence against Dreyfus and helped build\nsupport for him. Dreyfus was eventually pardoned in 1899 but\nfacts were not enough to stop the growing hatred and antisemitism#
+en,KGlmlSTn-eM,164,1904,1908,24,100,The distant colonial world was increasingly\ntense too. Between 1904 and 1908 the German army massacred\nbetween 24000 and 100000 Herero people who refused to surrender their lands in southwest\nAfrica#
+en,KGlmlSTn-eM,227,1900,They became more militantly anti-British and\nlaunched boycotts of British goods. In 1900 a conglomerate of colonial nations\nmassacred Chinese civilians involved in the Boxer rebellion#
+en,KGlmlSTn-eM,240,1914,to take back their empire from white invaders. All these events suggest that the world was\nalready at war before 1914 although if you’ve been following this series or our other series\nin history you’ll know that war was often#
+en,KGlmlSTn-eM,294,1879,Bismarck wanted peace in Europe and so organized\nan alliance system to that end binding Germany and Austria in the Dual Alliance of 1879\nthen adding Italy to a Triple Alliance in 1882#
+en,KGlmlSTn-eM,301,1882,and Austria in the Dual Alliance of 1879\nthen adding Italy to a Triple Alliance in 1882. He also allied Germany with Russia in the\nReinsurance Treaty another attempt to build#
+en,KGlmlSTn-eM,317,1890,But all of this was about to change when William\nII aka Kaiser Wilhelm came to power in Germany in 1890. He rattled the sword and called Bismarck’s\nalliances the work of an outmoded old man#
+en,KGlmlSTn-eM,328,1894,Under William II the treaty with Russia was\ncanceled which drove Russia to sign an alliance with France in 1894. William also called for Germany to gain power\naround the world expanding into tropical#
+en,KGlmlSTn-eM,362,1907,The entente became a triple entente when Russia\nand Britain settled their colonial differences in 1907 uniting three very different powers. But as they were entente-ing Europe’s powers\nwere also growing their militaries#
+en,KGlmlSTn-eM,385,1905,Most costly were the “Dreadnoughts” or\nmassive battleships with unprecedented firepower. Britain launched the first of these in 1905;\nothers followed. The construction of battleships in these years\nemployed tens of 000s of workers#
+en,KGlmlSTn-eM,469,1905,the century were also deadly because of revolution\nand local wars in Europe itself. In 1905 the people of Russia rose up against\nthe tsarist regime. They were hard pressed in their daily lives\ndue to a conflict between Russia and Japan#
+en,KGlmlSTn-eM,484,1905,And the Japanese who’d been developing\na modern army and an industrial economy attacked and crushed the Russian fleet in 1905. Ordinary people paid the price for these losses\nand rebelled but then Tsarist promises of#
+en,KGlmlSTn-eM,537,1908,institutions in the Ottoman Empire. Finally in 1908 a group of officers called\nthe Young Turks rebelled in the name of promoting Turkish ethnicity#
+en,KGlmlSTn-eM,584,1912,Building on this anger the Balkan governments\nof Montenegro Bulgaria Serbia and Greece unleashed the First Balkan War in 1912 against\nthe Ottoman Empire. They quickly won only blocked when they tried\nto march on Constantinople#
+en,KGlmlSTn-eM,598,1913,But there was jealousy among the victors over\nthe splitting up the territorial gains as there so often is so in spring 1913 the Second\nBalkan War erupted. The main issue this time was the territory\nawarded to Bulgaria in the settlement#
+en,KGlmlSTn-eM,650,1848,for all these problems: restore absolutism\nas it had existed before the revolutions of 1848 and the general liberalization of politics. “The parliamentary form of government has\noutlived its usefulness” an advisor to#
+en,KGlmlSTn-eM,659,1898,“The parliamentary form of government has\noutlived its usefulness” an advisor to Franz Ferdinand had written as early as 1898. “The so-called individual freedoms must\nbe curtailed.”#
+en,KGlmlSTn-eM,667,1914,Let’s Go to the Thought Bubble\n1. In June 1914 a nineteen-year-old Bosnian\nbookworm named Gavrilo Princip 2. became one of history’s more famous teenagers#
+en,KGlmlSTn-eM,686,1908,And he dreamed of his beloved homeland joining\nSerbia 6. and the Habsburgs had blocked that dream\nby annexing Bosnia in 1908. 7#
+en,KGlmlSTn-eM,700,1914,8. and when the Archduke Franz Ferdinand and\nhis wife Sophie came to Sarajevo on June 28th 1914 the conspirators saw their chance. 9#
+en,KGlmlSTn-eM,814,1912,and governments alike were always primed for\nwar? As the chief of the German General Staff put\nit in 1912 given Europe’s track record “I consider a war to be inevitable#
+en,xGjpTjeGuZc,9,1905,British rule Russians were challenging royal rule in the Revolution of 1905 the French were fighting within families and#
+en,xGjpTjeGuZc,88,1900,moving ethereal e across the stage but by 1900 all that had changed with what is now called modern classical music#
+en,xGjpTjeGuZc,351,1907,to portray women but also depicted their faces as African masks in 1907 Swedish artists Hilma off Clint produced the#
+en,xGjpTjeGuZc,433,1896,understanding of the world lets go to the thought-bubble in 1896 French physicist Antoine back-row discovered#
+en,xGjpTjeGuZc,454,1900,determined that atoms are not solid in 1900 German physicist max Plancks quantum theory changed peoples#
+en,xGjpTjeGuZc,470,1905,special theory of relativity in 1905 according to this theory space and time are not absolute#
+en,xGjpTjeGuZc,481,1915,the vantage point of the observer only the speed of light is constant in 1915 Einstein published his general theory of#
+en,T7Rv4tGRlfc,35,100,education research and development in AI. China’s plan alone calls for over 100000000000\nU.S. dollars in funding over the next 10 years. Second AI is awesome#
+en,T7Rv4tGRlfc,94,2014,to the next level. In 2014 for example the Society of Automotive\nEngineers attempted to do just that for self-driving cars#
+en,T7Rv4tGRlfc,207,1950,World War II and helped define the mathematical\ntheory behind computers. In his paper “Computing Machinery and Intelligence”\nfrom 1950 he introduced the now-famous “Turing Test” or “The Imitation Game.”#
+en,T7Rv4tGRlfc,234,34,70,Please write me a sonnet on the subject of\nthe Forth Bridge. Add 34957 and 70764. Do you play chess?#
+en,T7Rv4tGRlfc,412,2014,entirely. Truck delivery and tractor drivers are some\nof the most common jobs in the US as of 2014. If self-driving vehicles revolutionize transportation\nin the near future will all those people#
+en,_DZJV9ey1nE,345,1000,should keep getting better! We’ll just go with 1000 epochs for now. Now I can test my AI on my original training\ndata to see how well it captured that information#
+en,_DZJV9ey1nE,361,100,features predict owner happiness. And it looks like our model got 100% correct\non the testing data and 85% correct on the training data!#
+en,_DZJV9ey1nE,411,100,Yes?! I’m not so sure that pet would’ve made\nme happy but my AI model had 100% accuracy on the testing set!#
+en,meC5Zl5PC1U,26,4 million,from rural areas to capitals such as Berlin which grew to over 4000000 people by the end of the 19th century#
+en,meC5Zl5PC1U,57,1885,Music in 1885 German engineer Karl Benz invented an internal combustion engine#
+en,meC5Zl5PC1U,89,1900,also a chemical revolution taking place around 1900 which led to synthetic drugs like German pharmaceutical company Bayer#
+en,meC5Zl5PC1U,144,1880,the opposite was true Europe experienced a birth control revolution between 1880 and 1930 with very few regional#
+en,meC5Zl5PC1U,147,1930,a birth control revolution between 1880 and 1930 with very few regional exceptions in that 50 year period#
+en,meC5Zl5PC1U,242,200,single cause of why life is better today than it was 50 or 200 or 500 or 800 years ago#
+en,meC5Zl5PC1U,416,1902,at the time for heterosexuality in 1902 Friedrich Alfred Krupp the owner of the famed arms manufacturer committed#
+en,meC5Zl5PC1U,620,1866,Parliament on behalf of womens suffrage as early as 1866 but that initiative went nowhere and across Europe other#
+en,meC5Zl5PC1U,629,1869,as well no went on to publish on the subjection of women in 1869 which drew on the ideas of his wife Harriet Taylor#
+en,meC5Zl5PC1U,642,1897,the actual vote for women was very slow in coming in 1897 New Zealand granted womens suffrage in 1902 Australia did#
+en,meC5Zl5PC1U,645,1902,in coming in 1897 New Zealand granted womens suffrage in 1902 Australia did and in 1906 Finland became the first#
+en,meC5Zl5PC1U,648,1906,womens suffrage in 1902 Australia did and in 1906 Finland became the first European country where women could vote#
+en,meC5Zl5PC1U,653,1913,European country where women could vote Norway followed in 1913 and I know its easy to forget just how recently that#
+en,meC5Zl5PC1U,673,1903,Sylvia and Christabel decided to take forceful action so in 1903 they founded the womens social and political union#
+en,meC5Zl5PC1U,715,1913,hammers all of this because for men its only property they loved in 1913 militant suffragists Emily Wilding#
+en,meC5Zl5PC1U,769,1890,Prime Minister of Italy said in the 1890s were not meant for voting but for kissing so okay lets go back to the#
+en,meC5Zl5PC1U,792,1900,control over reproduction that appeared across Europe by 1900 I revealed my own bias in this episode by talking about#
+en,gV0_raKR2UQ,100,1960,both of these jobs! For example an image search for “programmer\n1960” shows a LOT more women. But AI algorithms aren’t very good at recognizing\ncultural biases that might change over time#
+en,gV0_raKR2UQ,142,2017,A record of purchases can be strongly correlated\nto gender. And a controversial 2017 paper showed that\nsexual orientation is strongly correlated with characteristics of a social media profile\nphoto#
+en,gV0_raKR2UQ,277,2012,not this amplification is good. An example is PredPol’s drug crime prediction\nalgorithm which has been in use since 2012 in many large cities including LA and Chicago#
+en,gV0_raKR2UQ,364,2014,Finally a group of people may mess with training\ndata on purpose. For example in 2014 Microsoft released a\nchatbot named Xiaoice in China. People could chat with Xiaoice so it would\nlearn how to speak naturally on a variety#
+en,gV0_raKR2UQ,375,40 million,of topics from these conversations. It worked great and Xiaoice had over 40000000\nconversations with no incidents. In 2016 Microsoft tried the same thing in\nthe U.S. by releasing the Twitterbot Tay#
+en,gV0_raKR2UQ,379,2016,It worked great and Xiaoice had over 40000000\nconversations with no incidents. In 2016 Microsoft tried the same thing in\nthe U.S. by releasing the Twitterbot Tay. Tay trained on direct conversation threads\non Twitter and by playing games with users#
+en,gV0_raKR2UQ,622,2400,There’s nothing like that in the works yet. But it took over 2400 years for the Hippocratic\nOath to transform into current medical ethics guidelines#
+en,pqPvwTvvnaY,328,2030,Is there too much work to do? If we’re booked until November of 2030\nit’s a sign that people like what we’re doing and we could use some help#
+en,MN8fjAjLLpg,-1,1840,hi Im John Green and this is crash course European history so between 1840 and 1914 an astonishing 40000000#
+en,MN8fjAjLLpg,2,1914,40 million,course European history so between 1840 and 1914 an astonishing 40000000 people left Europe it was one of the#
+en,MN8fjAjLLpg,72,40 million,Music okay so one-third of those 40000000 emigrants were from the United Kingdom#
+en,MN8fjAjLLpg,105,65,Irish people migrated at a rate of 65000 per year more than two 000000 additional people among them were two of#
+en,MN8fjAjLLpg,200,1873,to emigrate especially after the global economic downturn of 1873 thanks to refridge#
+en,MN8fjAjLLpg,220,1886,1900,fewer farmers as food prices declined between 1886 and 1900 more than 10% of all Swedes emigrated many went to North#
+en,MN8fjAjLLpg,301,1870,1890,their relatives to return so between 1870 and 1890 most of Europes emigrants were from prosperous and powerful#
+en,MN8fjAjLLpg,310,1890,countries 47% came from Britain another 18% from Germany but between 1890 and World War one other regions began to#
+en,MN8fjAjLLpg,321,1907,and the Russian Empire entire regiments left in 1907 in order to earn money in America wrote one observer of the scene#
+en,MN8fjAjLLpg,394,1881,assassination of tsar alexander ii in 1881 by political radicals Russians launched more pogroms the government had#
+en,MN8fjAjLLpg,521,1903,cheap local labour had fled to places where there were better jobs in 1903 the government decreed that Hungarian men#
+en,MN8fjAjLLpg,548,1850,to emigrate countries passed laws against recruiters after 1850 and brought some of them to trial as illegal#
+en,MN8fjAjLLpg,599,1891,for instance the jewish colonisation association formed in 1891 was allowed to recruit#
+en,MN8fjAjLLpg,695,1893,Philip brickowski of Warsaw Poland wrote in 1893 to her husband in the United States I dont know what to do from#
+en,PnFwdCGmVG0,422,2010,Enter AI researcher Tom Mitchell and his team\nof scientists from Carnegie Mellon University. In 2010 they created a huge knowledge base\ncalled the Never Ending Language Learner or NELL which was able to extract hundreds of\n000s of facts from random Web pages#
+en,MYVL1XHeB74,98,60 billion,the most with the least amount of evidence. According to the crowdfunding site Fundable\nthe three Fs invested 60000000000 dollars -- three times as much as angel investors -- in budding\nentrepreneurs in 2014#
+en,MYVL1XHeB74,103,2014,According to the crowdfunding site Fundable\nthe three Fs invested 60000000000 dollars -- three times as much as angel investors -- in budding\nentrepreneurs in 2014. That’s right#
+en,MYVL1XHeB74,216,2006,And four talk with an attorney to structure\nthe deal. So Ryan combs through the internet and finds\nthe perfect truck -- a 2006 Freightliner step van -- for $15000#
+en,MYVL1XHeB74,221,15,So Ryan combs through the internet and finds\nthe perfect truck -- a 2006 Freightliner step van -- for $15000. He then asks his four closest friends to meet\nhim for coffee and warns them he has a business#
+en,MYVL1XHeB74,241,3000,from a mobile bike bookstand. Then he makes the ask and proposes that they\nall put in $3000 to buy the truck. It’s a risk but in exchange he’ll be\ntransparent about his accounting pay them#
+en,MYVL1XHeB74,361,100,Plus on some sites you could still end up\nwith $0 if you don’t hit your goal. Kickstarter for instance requires a project\nto be 100% funded before any money is paid out#
+en,MYVL1XHeB74,460,100,They usually like to be hands-on with early-stage\nentrepreneurial ideas and invest less than $100000. The typical venture capitalist is an investor\nor firm representing several investors that#
+en,MYVL1XHeB74,566,investors. However the average successful equity crowdfunding\ncampaign only raises $7000 and you have to give up partial ownership#
+en,eBA7P-zKbi8,126,1839,1842,1856,1860,descendants are today some of the most respected\nand wealthy families in Britain—the smugglers convinced the British government to initiate\nthe Opium Wars of 1839-1842 and 1856-1860. British success in these wars forced China\nto open new ports to trade#
+en,eBA7P-zKbi8,137,1799,British success in these wars forced China\nto open new ports to trade. And while China had banned opium in 1799\nthe British used the idea of “freedom of trade” to keep opium sales going and increasingly\nimposed their political and economic will#
+en,eBA7P-zKbi8,233,soldiers for conquering new areas and policing. Governance of the colony involved some 4000\nBritish officials and tens of 000s of local civil service workers who did the main\nwork#
+en,eBA7P-zKbi8,348,1820,13. But after the 1820s French scientists devised\nprocedures to extract quinine from the bark 14. and then in the 1850s the Dutch finally\nobtained the closely guarded cinchona seeds#
+en,eBA7P-zKbi8,352,1850,But after the 1820s French scientists devised\nprocedures to extract quinine from the bark 14. and then in the 1850s the Dutch finally\nobtained the closely guarded cinchona seeds 15. which South Americans were embargoing#
+en,eBA7P-zKbi8,424,1860,1880,from the interior of the country to a port.\nand that brings us to resource extraction. The discovery of diamond and gold mines in\nSouth Africa from the 1860s into the 1880s provided another impetus to colonization and\ncontests over territory#
+en,eBA7P-zKbi8,465,1857,Colonized people rebelled in a variety of\nways. In 1857 local people in India including Indian\nsoldiers and even the widow of a local ruler Rani Lakshmi Bai Queen of Jhansi launched\na rebellion against expanding British rule#
+en,eBA7P-zKbi8,520,The English additionally branded the Rani\na prostitute. She died in battle during the uprising one\nof more than 5000 Indians killed on June 171857#
+en,eBA7P-zKbi8,523,1857,She died in battle during the uprising one\nof more than 5000 Indians killed on June 171857. Resistance to empire took many forms#
+en,eBA7P-zKbi8,589,1913,agents for British companies in India. Rabindranath Tagore of that family won the\nNobel Prize for Literature in 1913—the first non-European to do so#
+en,eBA7P-zKbi8,717,1884,Imperialists eventually tried to calm what\ncame to be called the “Scramble for Africa” with the Berlin Conference of 1884-85 which\nruled that European nations with outposts on African coasts could claim the corresponding\ninterior region#
+en,eBA7P-zKbi8,737,1898,But the main result of all of this was to\nintensify imperial competition. The British and French almost came to blows\nat Fashoda in Sudan in 1898; the Germans threatened French holdings in North Africa early in the\ntwentieth century#
+en,iaIW3CO4rcY,162,100,And just like other labs I’m not going\nto start from scratch. This time I’m using an existing dataset\npublished by MovieLens which has about 100000 user ratings for about 10000 different movies#
+en,iaIW3CO4rcY,167,10,This time I’m using an existing dataset\npublished by MovieLens which has about 100000 user ratings for about 10000 different movies. MovieLens has bigger datasets available going\nup to tens of 000000s of ratings but this#
+en,iaIW3CO4rcY,477,10,10,In user-user collaborative filtering each\nitem is its own dimension. So if we have 10000 movies in our dataset\nthat’s 10000 dimensions. We’re not even going to try to visualize\nthat but we can understand the logic behind#
+en,iaIW3CO4rcY,783,2010,And I SHOULD get a ranked list of 10 movies\nthat we’ll both like! The number one recommendation is Submarine\nwhich seems to be a quirky movie from 2010. Ive never heard of it but Im willing to\ngive it a try#
+en,KSjDe9_jZk8,40,1850,extremely punctual public transport are quite new because in 1850 most Italians wouldnt have called themselves Italians#
+en,KSjDe9_jZk8,126,1848,in the war ensured that it would not help squash revolution as it had in 1848 instead Russia reeled from its military#
+en,KSjDe9_jZk8,131,1860,instead Russia reeled from its military and other shortcomings by the 1860s the Tsar recognized the need to free the#
+en,KSjDe9_jZk8,192,1859,Confederation so in accordance with this plan in 1859 Piedmont provoked Austria into declaring war and quickly gained#
+en,KSjDe9_jZk8,206,1860,not French thus warding Napoleons plans in 1860 the revolutionary and Democrat with#
+en,KSjDe9_jZk8,224,1860,planned to capture the south for a unified Italy and in 1860 he and his forces succeeded in doing so then they#
+en,KSjDe9_jZk8,230,1861,moved northward to unite with the forces of Piedmont and in 1861 the kingdom of Italy was declared thanks thought-bubble#
+en,KSjDe9_jZk8,249,1850,monarchy joining the likes of Garibaldi well by the 1850s romantic dreams of national unification#
+en,KSjDe9_jZk8,389,1862,strongly in favor of a unified Germany under the leadership of a king in 1862 William the first wanted army reform and#
+en,KSjDe9_jZk8,426,1848,Prussian King so for several decades but most pressingly in the post 1848 atmosphere a major question was who#
+en,KSjDe9_jZk8,462,1864,a gift for improvisation for example in 1864 he made an alliance with Austria to settle the status of two contested#
+en,KSjDe9_jZk8,619,1870,insulting to the French and then in August 1870 the French National Assembly outraged at these characterizations#
+en,KSjDe9_jZk8,635,1871,along with smaller states then had to join Prussia and in January of 1871 the German Empire was declared in the Hall#
+en,KSjDe9_jZk8,685,1870,values and building consensus among citizens in the 1870s Bismarck chose to harass disadvantaged and insult#
+en,KSjDe9_jZk8,753,1873,unemployment benefits which were crucial because beginning in 1873 Europe and the world experienced an economic downturn#
+en,Hf02YsFwRhI,175,1 million,just scratch that lottery ticket I got in my pocket instinct jackpot 1000000 dollars if I make it out alive#
+en,Hf02YsFwRhI,1250,1 million,the secret plans for our fundraiser this year were gonna steal 1000000 dollars from mr. burns oh youre choking youve#
+en,Hf02YsFwRhI,1651,980,worked for a newspaper no I said I work for a radio station 980 on the am dial but number one with our viewers viewers#
+en,vE4PrNuJ2RQ,66,500,500,500,500,bayonets you might sell them for possibly $500 definitely $500500 500 do it were gonna get rich off the poor#
+en,vE4PrNuJ2RQ,120,100,100,the waiter $50 let me get $60 oh yeah 100 is there 100 out there looking for 100 thank you 150150 250 going once 650#
+en,vE4PrNuJ2RQ,122,100,150,150,250,650,100 is there 100 out there looking for 100 thank you 150150 250 going once 650 going twice#
+en,vE4PrNuJ2RQ,143,000,going twice $1000 $1000 going once going twice sold to the man who didnt wait for the#
+en,vE4PrNuJ2RQ,148,sold to the man who didnt wait for the bidding to get anywhere near $1000 in the money game cash is king we spent#
+en,vE4PrNuJ2RQ,160,the money game cash is king we spent $1000 on a bunch of old boxes you wont be laughing when these boxes are full of#
+en,vE4PrNuJ2RQ,435,1950,old man word beans oh all right Ill tell you it was the 1950s Oh oh those things it was the heyday of pro#
+en,vE4PrNuJ2RQ,1206,700,damn band candy what was it $1700 forget the candy were here to turn this and tell this#
+en,vE4PrNuJ2RQ,1344,1998,sorry not a chance I mean its true it was back in 1998 I say individual rights I say the common#
+en,xzCpnuUzo4k,768,520,60 miles an hour leaves SantaFe bouncing Phoenix 520 miles it was visualizing but at the same time a local train traveling#
+en,xzCpnuUzo4k,974,912,216,see its beyond the range of any doubt 912 no you have it upside down its 216 oh thats still amazingly high tell me#
+en,kaQQAcaijkk,959,1850,you know mr. Holloway Texas has changed a lot since the 1850s geez I just wanted to see some boats or Spurs or anything I#
+en,kaQQAcaijkk,1009,1953,youre afraid to wear boots cuz your toes are too fast in the summer of 1953 something that I treasure happened right#
+en,kaQQAcaijkk,1362,300,question youll be selling opportunity with your initial investment of $300 you can make up to $60000 or as much as#
+en,kaQQAcaijkk,1366,60,with your initial investment of $300 you can make up to $60000 or as much as $200000 its up to you you you you you#
+en,kaQQAcaijkk,1371,200,can make up to $60000 or as much as $200000 its up to you you you you you whats in the box#
+en,5lV9nA92xi4,112,1850,you know mr. Holloway Texas has changed a lot since the 1850s geez I just wanted to see some boots or Spurs or anything I#
+en,5lV9nA92xi4,163,1953,afraid to wear boots cuz your toes are too fat in the summer of 1953 something that I treasure happened right there in#
+en,5lV9nA92xi4,815,250,my lawn over our friendship geez Hank I just holding out for 250 hey whats that what are you spraying there wont be#
+en,5lV9nA92xi4,1065,20,with dismemberment not like that you get like $20000 for your arm blows off man I cant believe you guys Dale the NRA is#
+en,5lV9nA92xi4,1277,18 1,995,never read your diary even though you secretly suspected I did on June 181995 I was wrong to doubt you Bobby thats#
+en,5lV9nA92xi4,1534,500,right up next to that twister hard copies paying 500 bucks for flying cow video I tell you what man you when we#
+en,ZxZRSwkP6yE,160,1984,for me to take on new challenges my resume a 1984 to present Gribble and Sons propane Yuma Arizona Dale Ive#
+en,ZxZRSwkP6yE,213,35,king dual side grills three Center racks 35000 BTUs of propane powered Fury as an accessories associate it is my job to#
+en,ZxZRSwkP6yE,613,100,100,youre wearing cost I dont know theyre pretty nice $100 hmm $100 for a pair of cotton short pants what do you think the#
+en,ZxZRSwkP6yE,623,20 million,average salary is in this country well Jim Carrey makes 20000000 a movie you see that he doesnt even know the#
+en,ZxZRSwkP6yE,629,20 million,see that he doesnt even know the difference between 20000000 and 20000 you know Bobby#
+en,ZxZRSwkP6yE,1363,300,anymore can you believe that how much was it again $300 yeah all I have is $400 thats going towards my new#
+en,ZxZRSwkP6yE,1367,400,how much was it again $300 yeah all I have is $400 thats going towards my new trampoline I mean the trampoline I have#
+en,ZxZRSwkP6yE,1503,135,a little less here at mega lo Mart but when you buy at Strickland 135 los gatos Road you dont just get a grill#
+en,ZxZRSwkP6yE,1591,300,300,let me back in the Beauty Academy unless I paid him $300 I cant make $300 and Tom are rich and famous Hollywood makeup#
+en,-XQiyAEvnGU,375,402,all right then Hank Hill permanent record bye bye 402 give me that freaking file#
+en,-XQiyAEvnGU,568,500,stay in one of those meat Id condos must cost at least 500 bucks maybe you got it for 350 how much you#
+en,-XQiyAEvnGU,571,350,must cost at least 500 bucks maybe you got it for 350 how much you paying Ill tell you Hut man but Mexico#
+en,UsA1PGlNd1M,1362,300,anymore can you believe that how much was it again $300 yeah all I have is $400 thats going towards my new#
+en,UsA1PGlNd1M,1366,400,was it again $300 yeah all I have is $400 thats going towards my new trampoline I mean the trampoline I have#
+en,UsA1PGlNd1M,1502,135,a little less here at mega lo Mart but when you buy at Strickland 135 los gatos Road you dont just get a grill you get#
+en,UsA1PGlNd1M,1591,300,the Beauty Academy unless I paid him $300 I cant make $300 in Tom a rich and famous Hollywood makeup artist yep you#
+en,v6v6xXXQuO0,6,518,Music gentlemen the John Deere 518 our walk-behind tiller look at it son five#
+en,LFOIlmMKnWE,34,1983,Music in 1983 disaster struck mrs. Alma Campbell when she got her hair#
+en,LFOIlmMKnWE,1928,100,a massive dyno good old deer man I tell you 100 bucks must man get him hook up to get him over to top jiggle around#
+en,9ql5xgaPuoE,707,1996,he was a substitute teacher of the Year 1996 I understand all right class lets do it#
+en,OvVj9LfCJjE,288,100,narrow urethra are you absolutely sure 100% you can ask my son hes Bobbys best friend Joseph what is it daddy#
+en,OvVj9LfCJjE,986,300,owl the snail darter and the endangered whooping crane and we eliminated 300 logging jobs oh man#
+en,OvVj9LfCJjE,1772,1040,trouble with the IRS and I must have spent six hours last April on that 1040 form easy my ass do you have a hero like#
+en,OvVj9LfCJjE,2502,me watch TV more than five hours a day well my dads making me memorize 2000 words for the SAT hes such an autocrat#
+en,OvVj9LfCJjE,3644,750,nope its a good day for sometimes why hey Cobb for 750 I can ride the mower that cut the grassy knoll patina pendent#
+en,OvVj9LfCJjE,3746,255,256,you were right ah Im a loser I am 255 out of 256 oh come on now youre still doing better#
+en,LLFBM-CON9E,59,1983,came with the theory that were predicted by the theory in 1983-84 the Ws and the z particles were discovered at an#
+en,LLFBM-CON9E,143,1999,really make sure that it worked so actually by 1999 when this machine turned off people knew well ok you never#
+en,8A-5gIW0-eI,247,100,100,accelerators this big ring its buried 100100 meters underneath the surface in the countryside just outside Geneva in#
+en,8A-5gIW0-eI,494,100,atoms are made of electrons which were discovered 100 or so years ago and then nucleus of the atom you have two other#
+en,8A-5gIW0-eI,718,2000,there are around I think its something of the order 2000 bunches spaced around the ring and they if you were if youre#
+en,8A-5gIW0-eI,726,40 million,a given point on the ring counting bunches you get 40000000 bunches passing you every second so they come in#
+en,8A-5gIW0-eI,781,99.9,99999,are going unbelievably quickly so they travel at 99.999999 1% of the speed of light in the LHC and if you think about#
+en,8A-5gIW0-eI,877,1897,theyre all different then in 1897 experiments done at the Cavendish laboratory in Cambridge where#
+en,8A-5gIW0-eI,904,1910,charged object so then by in light 1910-11 we have this model of the atom that we learn in school which is youve#
+en,8A-5gIW0-eI,932,protons first of all which are positively charged particles about 2000 times heavier than the electron and then#
+en,8A-5gIW0-eI,959,1932,forces of nature thats sort of where we get to by late 1932 more or less then what happens is physics is nice and neat#
+en,8A-5gIW0-eI,965,1932,what happens is physics is nice and neat in 1932 everything looks great got three particles and all the atoms are made of#
+en,8A-5gIW0-eI,1123,1960,theyre a bit like protons and neutrons and by in the 1960s in America particularly but also in Europe and#
+en,8A-5gIW0-eI,1152,1960,I dont know the exact numbers but by around 1960 there are of order a hundred of these things that have been#
+en,8A-5gIW0-eI,1211,1932,first accelerators are being built in like 1932 Ernest Lawrence builds the first what we call the cyclotron which#
+en,8A-5gIW0-eI,1257,1980,and I dont think its done until maybe the 1980s Im not entirely sure but it takes is#
+en,8A-5gIW0-eI,1329,100,through each other and most of that you have so you have 100000000000 coming one way 100000000000 another way maybe 10 of#
+en,8A-5gIW0-eI,1330,100,have so you have 100000000000 coming one way 100000000000 another way maybe 10 of them will hit each other okay so this#
+en,8A-5gIW0-eI,1444,2008,I mean one sort of anecdote about the sort of software side in 2008 when the LHC first switched on they had this big#
+en,8A-5gIW0-eI,1526,1960,okay sure okay so circa 1960 you have this you have these hundred or so particles its#
+en,8A-5gIW0-eI,1565,1960,order to this under a little bit later in 1960 again its round the 1960s he proposes along with#
+en,8A-5gIW0-eI,1569,1960,a little bit later in 1960 again its round the 1960s he proposes along with another physicist called George Zweig#
+en,8A-5gIW0-eI,1810,1940,of the electromagnetic force is developed in the 1940s and 50s by Fineman Richard Feynman amongst other#
+en,8A-5gIW0-eI,2129,175,heaviest the heaviest particle is the top quark which has a mass of about 175 ish protons so thats really massive we#
+en,8A-5gIW0-eI,2404,1983,came with the theory that were predicted by the theory in 1983-84 the Ws and the z particles were#
+en,8A-5gIW0-eI,2489,1999,really make sure that it worked so actually by 1999 when this machine turned off people knew well okay you#
+en,8A-5gIW0-eI,4293,2008,basically you know its I mean so I I when I started out in the field in 2008 I as a new PhD student the LHC was#
+en,8A-5gIW0-eI,4307,1970,managed that because this was a project that was first imagined in the 1970s and the late 70s was when the first#
+en,8A-5gIW0-eI,4323,2000,breaking ground and building the thing in the early noughties in 2000 so I mean I think the reason just from uh sort of#
+en,8A-5gIW0-eI,4400,experiments is that their big operations like say outlets theres 3000 people now there is a person nominally who is#
+en,8A-5gIW0-eI,4814,100,distances were still talking kilometers long but not like 100 kilometers long and then the probably the project that#
+en,8A-5gIW0-eI,4830,100,long-term multi-decade project to build a 100 kilometer circumference tunnel under the Geneva region the LHC would#
+en,8A-5gIW0-eI,4868,100,would do is put an electron-positron machine in the 100 kilometer tunnel to study the Higgs so youd make lots of#
+en,8A-5gIW0-eI,4905,2040,data from any of machines until 2040 or you know because they take such a long time to build and#
+en,8A-5gIW0-eI,4925,10 1,12 billion,everything into account properly its around the sort of 10 11 12000000000 euro mark what would be the future sir I#
+en,8A-5gIW0-eI,4951,2017,1000000000 euros but thats money spent over between now and 2017 probably which is when the last bit of it would be sort#
+en,8A-5gIW0-eI,4984,1950,organization that was established in the 1950s in the wake of the Second World War as a kind of it was sort of like a#
+en,8A-5gIW0-eI,5028,100,200,think its like I think the UKs contribution is 100 or 200000000 quid or something like that yeah which is#
+en,8A-5gIW0-eI,5117,40 million,something called a trigger which in real time 40000000 times every second has to make a decision about whether this#
+en,8A-5gIW0-eI,5820,10 2,wait to see what happens in the next 5 10 20 years with you I think youre one of the great communicators of our time#
+en,MGW_Qcqr9eQ,66,1950,intelligence published almost 70 years ago in 1950 author Alan Turing and to me now we can argue about this on the slide#
+en,MGW_Qcqr9eQ,275,2000,formulates this imitation game and his prediction was that by the year 2000 or in 50 years since the paper that a#
+en,MGW_Qcqr9eQ,282,100,in 50 years since the paper that a machine with 100 megabytes of storage will fool 30% of humans in a five-minute#
+en,MGW_Qcqr9eQ,471,1991,the lobner prize which has been running since 1991 to today and the awards behind it the war structure is 25000#
+en,MGW_Qcqr9eQ,475,25,since 1991 to today and the awards behind it the war structure is 25000 dollars for a system that using text#
+en,MGW_Qcqr9eQ,482,100,dollars for a system that using text alone passes the test and $100000 that uses other modalities like visual and#
+en,MGW_Qcqr9eQ,699,2014,that the Turing test was passed I think most famously was in 2014 at an exhibition event that marked the 60th#
+en,MGW_Qcqr9eQ,841,6 billion,deep learning system presentation of goal in the 2.6000000000 parameters is to capture the#
+en,MGW_Qcqr9eQ,1599,1980,objection to the Turing test proposed by John Searle in 1980 in his paper minds brains and programs commonly known as#
+en,MGW_Qcqr9eQ,1913,1989,extensions to the Turing test first the total Turing test proposed in 1989 it extends the Turing test in the natural#
+en,MGW_Qcqr9eQ,1963,2001,Turing test is that is so simple the Lovelace test proposed in 2001 builds on the Ada Lovelace objection to form the#
+en,MGW_Qcqr9eQ,1983,2014,was created cannot explain so it should be truly surprised there is also in 2014 was proposed Lovelace 2.0 test which#
+en,MGW_Qcqr9eQ,2081,1998,humor and finally the truly total Turing test proposed in 1998 proposes an interesting philosophical idea that we#
+en,MGW_Qcqr9eQ,3536,300,discussion theres a lot of brilliant people there civil so you can have 300400 people on voice chat which is a#
+en,MGW_Qcqr9eQ,3539,400,people there civil so you can have 300400 people on voice chat which is a really intimate setting and yet people#
+en,60KJz1BVTyU,38,1 billion,well beat this thing as an aside let me mention the jack moved 1000000000 dollars square equity which is 28% of his wealth#
+en,60KJz1BVTyU,101,180,about masterclass I thought it was too good to be true for $180 a year you get an all-access pass to watch courses from#
+en,60KJz1BVTyU,1062,10 2,digital currency where do you see it going in the next 10 20 years and what are some of the challenges with respect#
+en,60KJz1BVTyU,1102,20 3,the most seminal works of computer science in the last 20 30 years its its poetry I mean its a really cool#
+en,60KJz1BVTyU,1715,100,humans can find meaning in technology in this kind of way yeah 100 percent 1 percent and I dont necessarily think#
+en,60KJz1BVTyU,2296,a floor to be able to survive and this $1000 a month is such a floor its not going to incentivize you to#
+en,CwyOUS8TSl0,108,30,and credits on Ledgers started around 30000 years ago the US dollar created over two hundred years ago and Bitcoin#
+en,CwyOUS8TSl0,1767,2909,of information to encode those genes how many proteases you say 2909 protease yes so this is this is you know something#
+en,CwyOUS8TSl0,2482,1 million,so yeah broad protein folding is you know one of that those 1000000 dollar price challenges right so the reason for#
+en,CwyOUS8TSl0,3262,2019,the story actually dated back in September of 2019 and you probably remember that back then we had another#
+en,CwyOUS8TSl0,3432,318,expressing in abundance thats for the AC tuition for 318 two percenters okay so back back to the story yes in the#
+en,CwyOUS8TSl0,3717,30,right its a sequence that is roughly its less than 30000 nucleotide long and this the raw sequence its a rose#
+en,CwyOUS8TSl0,4571,200,nanometers right so this particle can have about 5200 spike proteins so at least we suspect it and you know based#
+en,CwyOUS8TSl0,4746,200,yes so you know so you know so this is so severe ian has 5200 spikes a trimer spikes it has roughly 200 to 400#
+en,CwyOUS8TSl0,4753,200,400,so severe ian has 5200 spikes a trimer spikes it has roughly 200 to 400 membrane protein dimers and those are#
+en,L7MiE1zO5PI,31,1988,other is both NAFA so Mathematica first came out 1988 its this system that is basically a instance of Wolfram language#
+en,L7MiE1zO5PI,217,world and that means that you know there are 6000 primitive functions in the Wolfram language that cover things you#
+en,L7MiE1zO5PI,1664,20 3,would if you look at Wolfram language Wolfram Alpha 20 30 maybe 50 years down the line do you hope to store all of the#
+en,L7MiE1zO5PI,2143,1600,gottfried leibniz back in the you know 1600s was saying exactly the same thing but he had you know his pinnacle of#
+en,L7MiE1zO5PI,2158,300,actually um and you know so he was like 300 years too early for that idea but now that idea is pretty realistic I#
+en,V37eWVm-9BA,267,1980,actually back-end 1980-81 but before anybody had heard of those things and you know the typical#
+en,ez773teNFYA,82,2000,human being this conversation was recorded in November 2000 nineteen when the Wolfram physics project was underway#
+en,ez773teNFYA,735,2001,it but what do you make of the monolith in 2001 Space Odyssey in terms of aliens communicating with us and sparking the#
+en,ez773teNFYA,1923,150,tell a little bit of a historical story yes okay so you know back go back 150 years people were making mechanical#
+en,ez773teNFYA,1955,1900,notion of computation and theyre disjoint so what happened in around 1900 people started imagining particularly in#
+en,ez773teNFYA,1983,1931,primitive recursion okay so then then along comes 1931 and girdles theorem and so on#
+en,ez773teNFYA,2016,1936,of other things and then Turing came along 1936 came up with Turing machines meanwhile Alonzo Church had come up with#
+en,ez773teNFYA,2059,1970,actually all equivalent so then by I would say the the 1970s or so in in sort of the computation computer science#
+en,ez773teNFYA,2094,1980,probably actually through my work in the 1980s about sort of the relationship between computation and models of#
+en,ez773teNFYA,2142,1980,you know but I would say by probably sometime in the 1980s there was beginning to be so a general belief that#
+en,ez773teNFYA,2446,378,about over theres computation in trillion machine number 378 5 and etc etc etc thats thats why there is a#
+en,ez773teNFYA,3147,50,counting back in you know whenever counting was invented 50000 years ago whenever it was right theres that will#
+en,ez773teNFYA,4779,1600,days of applying mathematics to science 1600s and so on people were like oh and a hundred years well know everything#
+en,ez773teNFYA,4914,100,large stuff those are the two basic theories and theyre 100 years old I mean general relativity was 1915 quantum#
+en,ez773teNFYA,4916,1915,theories and theyre 100 years old I mean general relativity was 1915 quantum field theory well 1920s Im basically a#
+en,ez773teNFYA,4919,1920,mean general relativity was 1915 quantum field theory well 1920s Im basically a hundred years old#
+en,ez773teNFYA,5010,1600,encapsulating the worlds knowledge in a computational form in the late 1600s and did a lot of things towards that and#
+en,ez773teNFYA,5547,1980,and I worked a bit on quantum computers actually back in 1980-81 but before anybody had heard of those things and#
+en,ez773teNFYA,6436,2002,so you youve made up for it with the last name okay so so in 2002 you published a new kind of science to which#
+en,ez773teNFYA,6890,400,of that simplicity here okay well run it lets say for 400 steps um what it does its kind of really asking a bit on#
+en,ez773teNFYA,7028,1984,mean in the case of rule 30 our eyes around June 1st 1984 was some kind of a silly story in some ways I finally had a#
+en,ez773teNFYA,7121,300,interesting sort of in the in sort of arc of history is you know for 300 years its kind of like the the mathematical#
+en,ez773teNFYA,7364,30,Ive sort of put in my collection of you know its like $30000 for three you know for these three prizes for about#
+en,ez773teNFYA,7577,2007,challenging like the you know I put out a prize in 2007 for for a particular Turing machine that I there was the#
+en,ez773teNFYA,8033,400,of what happened when mathematical notation was invented so go back 400 years people were trying to do math they#
+en,ez773teNFYA,8140,1988,other is Wolfram Alpha so Mathematica first came out 1988 its this system that is basically a instance of Wolfram#
+en,ez773teNFYA,8327,world and that means that you know there are 6000 primitive functions in the Wolfram language that cover things you#
+en,ez773teNFYA,9773,20 3,you think yeah well if you look at Wolfram language Wolfram Alpha 20 30 maybe 50 years down the line do you hope#
+en,ez773teNFYA,10252,1600,gottfried leibniz back in the you know 1600s was saying exactly the same thing but he had you know his pinnacle of#
+en,ez773teNFYA,10268,300,actually um and you know so he was like 300 years too early for that idea but now that idea is pretty realistic I#
+en,ez773teNFYA,10635,1020,there to to sort of reach this kind of equivalence point it makes it maybe 1020 percent of all of them so its a its#
+en,CdiJGDNQAo8,113,35 3,I didnt ultimately listen to it and it was going for 35 37 years very hard and I hope you never listen to that voice#
+en,fgGZMRJ15oY,667,35,and he gets to drive a shuttle bus for $35000 a year what do you mean by die do you mean their career their dreams#
+en,fgGZMRJ15oY,1253,100,certainly break down with probability approaching 100% but to me the painful and the tragic thing is it sorry to#
+en,vdW9XDBuxjU,11,30 3,everything called geometric unity so this was a work of 30 30 plus years this is his lifes work let me ask her of the#
+en,vdW9XDBuxjU,610,1957,be derivative of something that occurred in some paper in 1957 when the community does not want you to gain a voice its a#
+en,vdW9XDBuxjU,923,1963,know its like two crazy well when Dirac in 1963 talked about the importance of beauty as#
+en,vdW9XDBuxjU,1976,720,famously there are these weird things that require 720 degrees of rotation in order to come back to normal and that#
+en,vdW9XDBuxjU,2007,360,question is if I rotate the cup without losing my grip on the base 360 degrees and I cant go backwards is there any#
+en,vdW9XDBuxjU,2023,720,this weird motion which is go over first and under second and that thats 720 degrees of rotation to come back to#
+en,vdW9XDBuxjU,2384,1928,havent even digested the theory of everything as weve had it since 1928 when Dirac came out with his equation so#
+en,vdW9XDBuxjU,2869,1913,believe that general relativity began in 1913 with Einstein and Grossman now that was the first of like four major papers#
+en,vdW9XDBuxjU,3097,1980,universe at its deepest level and he was writing this during the 1980s and he has three separate points that constitute#
+en,rIAZJNe7YtE,20,2013,podcast a part of which he recently released his 2013 oxford lecture on his theory of geometric unity that is at the#
+en,rIAZJNe7YtE,374,30,cant imagine proposing to somebody at a sporting event when you have like 30000 people waiting and you know like she#
+en,rIAZJNe7YtE,1016,1949,was Warren we had Warren Biden Sanders Bloomberg and Trump for like 1949 to 1941 all who have been the the oldest#
+en,rIAZJNe7YtE,1019,1941,Bloomberg and Trump for like 1949 to 1941 all who have been the the oldest president and inauguration and nobody#
+en,rIAZJNe7YtE,1442,1907,the alternative do you remember the Russian Revolution of 1907 its before my time but there wasnt a Russian#
+en,rIAZJNe7YtE,1448,1907,my time but there wasnt a Russian Revolution of 1907 years think he were in 1907 that Im saying where to work#
+en,rIAZJNe7YtE,1451,1907,Revolution of 1907 years think he were in 1907 that Im saying where to work you too early but we got this#
+en,rIAZJNe7YtE,1454,1718,you too early but we got this you know Spanish flu came in 1718 so I would argue that theres a lot of#
+en,rIAZJNe7YtE,1673,100,presidents a bunch of you know more than half Gen X its almost 100% baby boom at this moment and how did that happen we#
+en,rIAZJNe7YtE,1872,24/7,who are you and what it even say were just used to total nonsense 24/7 yeah what do you think might be a beautiful#
+en,rIAZJNe7YtE,2130,100,its so obvious that they should be honest 100% of the time with people Im not saying you should be perfectly#
+en,rIAZJNe7YtE,2136,100,not saying you should be perfectly transparent and 100% honest Im saying that the quality of your lies has to be#
+en,rIAZJNe7YtE,2156,360,important that youre transparent with 360 degree visibility far from it what Im saying is something has been#
+en,rIAZJNe7YtE,3268,1957,be derivative of something that occurred in some paper in 1957 when the community does not want you to gain a voice its a#
+en,rIAZJNe7YtE,3581,1963,like two crazy well when Dirac in 1963 talked about the importance of beauty as#
+en,rIAZJNe7YtE,4507,1960,neutrons and electrons but from a little bit of not late 1960s physics we know that the protons and neutrons are all#
+en,rIAZJNe7YtE,4632,720,what is this spinner so famously there are these weird things that require 720 degrees of rotation in order to come#
+en,rIAZJNe7YtE,4665,360,question is if I rotate the cup without losing my grip on the base 360 degrees and I cant go backwards is there any#
+en,rIAZJNe7YtE,4681,720,this weird motion which is go over first and under second and that thats 720 degrees of rotation to come back to#
+en,rIAZJNe7YtE,5042,1928,but you havent even digest the theory of everything as weve had it since 1928 when Dirac came out with his equation#
+en,rIAZJNe7YtE,5527,1913,believe that general relativity began in 1913 with Einstein and Grossman now that was the first of like four major papers#
+en,rIAZJNe7YtE,5756,1980,level and he was writing this during the 1980s and he has three separate points that constitute our deepest knowledge#
+en,rIAZJNe7YtE,6237,400,were afraid that we had 400 hitters of the mind like Einstein in Dirac and that that era is#
+en,rIAZJNe7YtE,8796,35,gets a Nobel Prize and he gets to drive a shuttle bus for $35000 a year what do you mean by die do you mean their career#
+en,rIAZJNe7YtE,9383,100,certainly break down with probability approaching 100 percent but to me the painful and the tragic thing is it sorry#
+en,rIAZJNe7YtE,9889,35 3,I didnt ultimately listen to it and it was going for 35 37 years very hard and I hope you never listen to that voice#
+en,5f-JlzBuUUU,24,1976,enough the introduction of the word meme in his 1976 book The Selfish Gene which in the context of a gene-centred view of#
+en,5f-JlzBuUUU,1766,99.9,discover and therefore were sitting where 99.999% of things is just still shrouded in mystery do you think theres#
+en,5f-JlzBuUUU,2759,200,there have been they have been steps back was 200 admittedly and and the Holocaust is obvious one but if you take#
+en,rEhDTYi85CY,1796,- So unfortunately were already at time and we have like 1000 more\nquestions to get through. Perhaps well do another\nfollow-up session in the future#
+en,jt0MRRfPT3g,258,24,And they were from low income families with an median annual\nincome of about $24000. And so what we saw was\nthat in a 10 week study#
+en,jt0MRRfPT3g,1392,2016,And we did this independently\nfor about eight years and then in 2016 we joined Khan Academy. So we have been part of\nKhan Academy since 2016#
+en,jt0MRRfPT3g,1396,2016,and then in 2016 we joined Khan Academy. So we have been part of\nKhan Academy since 2016 and focused on now on\ndeveloping Khan Academy Kids#
+en,jt0MRRfPT3g,1406,70 million,and theyve been downloaded I think over 60 or 70000000 times. - Yeah for Ive oftentimes espoused#
+en,X9TFM-UxJLM,491,600,and percentages unit\nand they would be aiming to get about 600 points\nthat week in that unit. The next week they would\ncontinue work on that unit#
+en,X9TFM-UxJLM,496,1200,Its a pretty big unit. They would aim to get to 1200 points. Thats another 600 points\nfor a total of 1200#
+en,X9TFM-UxJLM,499,600,1200,They would aim to get to 1200 points. Thats another 600 points\nfor a total of 1200. The following week they\nwould aim to get to 1900#
+en,X9TFM-UxJLM,501,1900,Thats another 600 points\nfor a total of 1200. The following week they\nwould aim to get to 1900 and they would move on to the next course#
+en,X9TFM-UxJLM,676,800,and every skill is a hundred points. In the unit at the top\nmaybe its worth 800 points. Its got eight different skills in it#
+en,X9TFM-UxJLM,761,100,just a minute to start in on a lesson. Here were in addition and\nsubtraction within 100 and theres gonna be a\nbunch of learning resources#
+en,X9TFM-UxJLM,847,100,and because Im about to ace\nI think this problem set and get 100% Im gonna get almost all the points for this scale#
+en,X9TFM-UxJLM,873,240,then Ill see here in the top left corner I have now a total of 240 points. So I know that was brief#
+en,X9TFM-UxJLM,946,660,then on the screen youll\nsee intro to multiplication. I currently have 660 points. So Ive written that in there in pink#
+en,X9TFM-UxJLM,958,050,Im so close but good news\nin one-digit multiplication I have 1050 points so\nIve exceeded my goal. The last one that I wanna talk over is#
+en,R9kBwEtepKE,1385,2004,And I remember even when I\nstarted tutoring her you know this was back in 2004. You know she had already\nconvinced herself#
+en,R9kBwEtepKE,1698,25\nmillion,Im always looking at the zeros\non the ends of the numbers. And I know that there are 25\n000000 kids in our country in Bedtime Maths target market#
+en,R9kBwEtepKE,1923,100,and theres an authenticity around sometimes the 80% solution\nso 100% agree with you. So maybe finish on one question#
+en,R9kBwEtepKE,2077,100,Its up to us. - Yeah 100% agree because\nmath at the end of the day its puzzles its logic#
+en,dUHGP-N1w6I,149,210,But especially as a\nleader of an organization that has 210000 employees how is your team coping with that?#
+en,dUHGP-N1w6I,159,210,And what are yall doing to try to support those 210000 folks? - Well its great to be with you Sal#
+en,dUHGP-N1w6I,205,208,210,208,whether its at home or in the office. Of our 208 you said 210 I\nthink its 208000 people. The first thing we wanted them to know#
+en,dUHGP-N1w6I,212,2020,The first thing we wanted them to know is that everyone will\nbe employed for 2020 so that therell be no layoffs#
+en,dUHGP-N1w6I,343,2 million,And so we have had more than a 000000 like 1.2000000 of those\ndeferrals made already. And Im sure that would continue on#
+en,dUHGP-N1w6I,366,400,called the Paycheck Protection\nProgram for small businesses. And we signed up 400000 applicants for that PPP program as we call it#
+en,dUHGP-N1w6I,396,100,about 78% of those that are signing up are asking for something\nless than $100000. More than 75% of those\nhave less than 10 people#
+en,dUHGP-N1w6I,408,100,I mean truly small businesses. If you look at less than 100 people its about 98% of the population#
+en,dUHGP-N1w6I,430,250,We give away or we donate about $250000000 a year\nin philanthropic giving and we do it at a local level#
+en,dUHGP-N1w6I,451,100,to the homeless you name it. But in this case we\nadded another $100000000. And the reason we did is because there are#
+en,dUHGP-N1w6I,731,2020,I just talked about maybe a 6% downward trend for 2020 and probably about the same up for 2021#
+en,dUHGP-N1w6I,736,2021,maybe a 6% downward trend for 2020 and probably about the same up for 2021. - Oh thats super useful#
+en,dUHGP-N1w6I,764,316,I think could get inspiration from that. But from YouTube AndreaR.316 asks What are some ways to be money\nwise during this pandemic?#
+en,dUHGP-N1w6I,861,2010,2011,for I think its seven or eight years now. Where back in 20102011\nand this when Khan Academy was a very small organization#
+en,dUHGP-N1w6I,932,401,try to pay off your high\ninterest rate type of things you know leverage your\n401K if theres a match and all of that type of thing#
+en,dUHGP-N1w6I,1024,401,if you need emergency funds you can use a percentage of your\n401K savings without penalty. So while we wouldnt normally advise that#
+en,dUHGP-N1w6I,1086,2004,and then later for the Northeast. Bank of America acquired us in 2004. And honestly I didnt think\nI would stay with the bank#
+en,dUHGP-N1w6I,1215,350,But the kinds of things we\njust talked about earlier the ability to give what\nwill now be $350000000 to worthy causes and actually help#
+en,dUHGP-N1w6I,1306,500,your first job lets just say you think youre going\nto be making $500 a week. And you look at your check and its $275#
+en,dUHGP-N1w6I,1309,275,you think youre going\nto be making $500 a week. And you look at your check and its $275 what happened to my money?#
+en,dUHGP-N1w6I,1587,100,If 98% of the people that can\nget this small business loan are small businesses that\nhave under 100 people that is an important step#
+en,dUHGP-N1w6I,1601,100,because that is what America looks like small businesses with under 100 people. So I think its important that#
+en,dUHGP-N1w6I,1614,350,And weve had two triages the first one was for $350000000000 that money ran out in two weeks#
+en,dUHGP-N1w6I,1622,310,This new one that went online yesterday at $310000000000 is gonna run out. And I think that Congress\nhas to reallocate more money#
+en,dUHGP-N1w6I,1887,2021,in the fourth quarter. And then as I said in 2021\nwe see things improving. So overall down in 2020 at about 6%#
+en,dUHGP-N1w6I,1892,2020,And then as I said in 2021\nwe see things improving. So overall down in 2020 at about 6% and about the same up in 2021#
+en,dUHGP-N1w6I,1896,2021,So overall down in 2020 at about 6% and about the same up in 2021. So is it a good time to buy a house?#
+en,dUHGP-N1w6I,1998,16,cause you know my mom made maybe $16000 a year as a cashier. But that lesson I think if you have#
+en,YWyLVI_4bo0,255,1991,And after I graduated from college I went back and worked\nat the firm in 1991 after graduating from Princeton#
+en,YWyLVI_4bo0,272,2000,in the organization. In May of 2000 I became president I went from intern to president#
+en,YWyLVI_4bo0,277,2019,I went from intern to president. And then last summer in\n2019 I became co-CEO. Its an amazing story in so many ways#
+en,YWyLVI_4bo0,374,2008,were building on all\nthe knowledge we learned in the financial crisis of 2008 and nine. And then during that period\nwe built on the things#
+en,YWyLVI_4bo0,936,401,403,who are trying to make ends meet saying My 401K plan or 403B\nplan is getting crushed. The 000000000aires that we work for who say#
+en,YWyLVI_4bo0,1160,2021,especially in terms of\nprofitability or earnings. And then youd start to\nsee a recovery in 2021 which to us is like a\nnanosecond in investing#
+en,YWyLVI_4bo0,1344,750,going and presenting to Congress and asking for a stimulus bill\nthat was 750000000000 dollars and them initially turning him down#
+en,YWyLVI_4bo0,1717,2008,2009,we went on internalize those lessons. One of the periods where we\nmade mistakes was in 2008-2009 where we underperform for the\nfirst time in a down market#
+en,YWyLVI_4bo0,2260,1991,I saw the opportunity when I entered the industry in 1991 to be different. And so I joke with people#
+en,9NdxiyCCjSU,996,24/7,Like Sal himself Sals been working 24/7 for the last month and a half. Some of you you know kind\nof see him here and there#
+en,5OT5l-NZS24,345,268,For example the boiling\npoint of Helium is quite low. It is negative 268.9 degrees Celsius. While the boiling point for Argon#
+en,5OT5l-NZS24,360,185,than the boiling point for Helium. Its at negative 185.8 degrees Celsius. So one way to think about\nthis if you were at say#
+en,5OT5l-NZS24,369,270,So one way to think about\nthis if you were at say negative 270 degrees\nCelsius you would find a sample of Helium in a liquid state#
+en,5OT5l-NZS24,379,268,But as you warm things up as you get beyond negative\n268.9 degrees Celsius youre going to see that\nthose London dispersion forces#
+en,6jaMJHiza4s,141,39.9,we look at argon right over here and it has an average\natomic mass of 39.95 which also gives us our molar mass#
+en,6jaMJHiza4s,149,39.9,So a mole of argon will have a mass of 39.95 grams per mole#
+en,6jaMJHiza4s,162,14.0,for our molecular nitrogen\nwe look up nitrogen here we see an average atomic mass of 14.01. So we might be tempted to\nsay that the molar mass#
+en,6jaMJHiza4s,169,14.0,So we might be tempted to\nsay that the molar mass of molecular nitrogen\nis 14.01 grams per mole but we have to remind ourselves#
+en,6jaMJHiza4s,181,28.0,So the molar mass is\ngoing to be twice this or 28.02 grams per mole. So this is equal to 28.02#
+en,6jaMJHiza4s,185,28.0,or 28.02 grams per mole. So this is equal to 28.02 grams per mole#
+en,6jaMJHiza4s,219,39.9,so times one over 39.95 moles per gram. And you can see that the units work out#
+en,6jaMJHiza4s,258,62.3,So in this case lets use\nthis second ideal gas constant. So thats going to be times 62.36 liter torr#
+en,6jaMJHiza4s,276,273,So 25 degrees Celsius in kelvin we add 273 to that so thats 298 kelvin#
+en,6jaMJHiza4s,279,298,we add 273 to that so thats 298 kelvin. And all of that is going to\nbe divided by our volume#
+en,6jaMJHiza4s,288,10.0,And all of that is going to\nbe divided by our volume which is 10.0 liters 10.0 liters#
+en,6jaMJHiza4s,290,10.0,which is 10.0 liters 10.0 liters. And we can validate\nthat the units work out#
+en,6jaMJHiza4s,313,39.9,We have 7.60 divided by 39.95 times 62.36#
+en,6jaMJHiza4s,318,62.3,divided by 39.95 times 62.36 times 298#
+en,6jaMJHiza4s,323,298,times 62.36 times 298 divided by 10.0#
+en,6jaMJHiza4s,326,10.0,times 298 divided by 10.0 is equal to this business#
+en,6jaMJHiza4s,346,354,of significant figures\nwe have so its three. So well want to go round to 354 torr. So the partial pressure\nof argon 354 torr#
+en,6jaMJHiza4s,351,354,So well want to go round to 354 torr. So the partial pressure\nof argon 354 torr. And now we can do the same thing\nfor the molecular nitrogen#
+en,6jaMJHiza4s,381,28.0,times one over the molar mass so thats one over 28.02 grams per mole#
+en,6jaMJHiza4s,395,62.3,so we can really just copy the\nrest of this right over here times 62.36 liter torr per mole kelvin#
+en,6jaMJHiza4s,404,298,per mole kelvin times 298 kelvin. All of that is going to be over#
+en,6jaMJHiza4s,410,10.0,All of that is going to be over 10.0 liters. And once again the units work out#
+en,6jaMJHiza4s,427,28.0,And this gets us to 4.40 divided by 28.02 times 62.36#
+en,6jaMJHiza4s,431,62.3,divided by 28.02 times 62.36 times 298#
+en,6jaMJHiza4s,435,298,times 62.36 times 298 divided by 10.0#
+en,6jaMJHiza4s,437,10.0,times 298 divided by 10.0 is equal to this#
+en,6jaMJHiza4s,443,292,And once again the\nlowest significant figures we have here are three so\nwell round this to 292. So this is equal to 292 torr#
+en,6jaMJHiza4s,449,292,we have here are three so\nwell round this to 292. So this is equal to 292 torr. And so weve figured\nout the partial pressure#
+en,6jaMJHiza4s,474,646,lets see I think I\ncan do this in my head 646 torr. And we are done#
+en,KnWEhXmJwdU,6,754,at 21 degrees Celsius and 754 millimeters of mercury. How many moles of air are in the breath?#
+en,KnWEhXmJwdU,135,754,And so this is going to be equal to what? Well our pressure is 754\nmillimeters of mercury. Now over here where\nthey give us the ideal gas#
+en,KnWEhXmJwdU,162,754,you can view a millimeter\nof mercury as being a Torr. So you can view the\npressure here as 754 Torr. So let me write that down#
+en,KnWEhXmJwdU,166,754,So let me write that down. So this is 754 Torr. And then were going to\nmultiply that times the volume#
+en,KnWEhXmJwdU,213,273,But its easy to convert from\ndegrees Celsius to Kelvin. You just have to add 273 to whatever you have in degrees\nCelsius to get to Kelvin#
+en,KnWEhXmJwdU,223,62.3,And so I will use this\nideal gas constant. So this is going to be 62.36 liter Torr liter Torr#
+en,KnWEhXmJwdU,250,273,294,So times what is 21 degrees\nCelsius in terms of Kelvin? Well I add 273 to that so\nthats going to be 294 Kelvin. And we can validate that\nthe units all work out#
+en,KnWEhXmJwdU,292,754,so n is going to be equal to 754 times 1.85#
+en,KnWEhXmJwdU,298,62.3,times 1.85 divided by 62.36 and then also divided by#
+en,KnWEhXmJwdU,305,294,and then also divided by divided by 294 is equal to this thing#
+en,KnWEhXmJwdU,322,0761,So I wanna go to three\nsignificant figures. So 0.0 one two three\nsignificant figures so 0.0761. This is going to be 0.0761#
+en,KnWEhXmJwdU,329,0761,So 0.0 one two three\nsignificant figures so 0.0761. This is going to be 0.0761. And I could say approximately\ncause I am rounding#
+en,KnWEhXmJwdU,346,022,Now the next question is\nhow many molecules is that? Well we know that each\nmole has roughly 6.022 times 10 to the 23rd molecules in it#
+en,KnWEhXmJwdU,353,022,times 10 to the 23rd molecules in it so we just have to\nmultiply this times 6.022 times 10 to the 23rd#
+en,KnWEhXmJwdU,362,0761,So we could write it this way. We could write 0.0761 moles Ill write mole times#
+en,KnWEhXmJwdU,372,022,Ill write mole times 6.022 times 10 to the 23rd molecules molecules per mole#
+en,KnWEhXmJwdU,400,022,to three significant figures. So lets just multiply this times 6.022. EE means times 10 to the#
+en,bQ5vHcFlT78,3,765,containing 1.85 times\n10 to the third liters of helium gas at 23 degrees\nCelsius and 765 Torr is launched into the atmosphere#
+en,bQ5vHcFlT78,127,765,Well lets first think about P one so pressure at time one\nis what its 765 Torr. 765 Torr and whats P two?#
+en,bQ5vHcFlT78,132,765,so pressure at time one\nis what its 765 Torr. 765 Torr and whats P two? Thats the pressure just before it burst#
+en,bQ5vHcFlT78,184,273,296,so to convert 23 degrees\nCelsius into Kelvin you have to add 273 so this\nis going to be 296 Kelvin and then what is T two?#
+en,bQ5vHcFlT78,198,273,Well T two is negative\n44 degrees Celsius if we add 273 to that lets see thats going to be if we\nsubtract its going to be#
+en,bQ5vHcFlT78,204,229,thats going to be if we\nsubtract its going to be in my head 229 Kelvin. And so we have everything we need#
+en,bQ5vHcFlT78,268,229,765,and so we could write that\nV two is equal to T two which is 229 Kelvin times\nP one which is 765 Torr times V one which is 1.85\ntimes 10 to the third liters#
+en,bQ5vHcFlT78,296,296,all of that over P two\nwhich is 6.51 Torr times T one which is 296 Kelvin and we can confirm that\nthe units work out#
+en,bQ5vHcFlT78,316,229,765,when we care about volume. So this is going to be\nequal to 229 times 765 times 1.85 times 10 to the third#
+en,bQ5vHcFlT78,331,296,times 1.85 times 10 to the third divided by 6.51 divided by 296 is equal to this business right over here#
+en,bQ5vHcFlT78,350,168,so its going to be if we round its gonna be 168000 and\nso we could just write that as 168000 liters or\nif we wanna write that#
+en,bQ5vHcFlT78,354,168,its gonna be 168000 and\nso we could just write that as 168000 liters or\nif we wanna write that in scientific notation\nwe could write that#
+en,bQ5vHcFlT78,376,850,does that makes sense? So our starting volume was 1850 liters and then our volume got a lot larger#
+en,vN3eI7IelSA,34,180,I can figure out the third\nangle because the sum of the angles of a triangle\nhave to add up to 180 degrees. And then I can use that information#
+en,vN3eI7IelSA,61,180,we know that x plus 36 plus 82 needs to be equal to 180. Im just giving their\nmeasures in degrees here#
+en,vN3eI7IelSA,69,118,And so you could say x plus lets see 36 plus 82 is 118. Did I do that right?#
+en,vN3eI7IelSA,81,180,Yep thats right. So thats going to be equal to 180. And then if I subtract\n118 from both sides#
+en,vN3eI7IelSA,83,118,So thats going to be equal to 180. And then if I subtract\n118 from both sides Im going to get x is equal to#
+en,vN3eI7IelSA,89,180,Im going to get x is equal to 180 minus 18 is 62. So this is x is equal to 62#
+en,vN3eI7IelSA,120,180,Because we know 82 and 62 if you need to get to\n180 it has to be 36. We just figured that out from\nthis first triangle over here#
+en,vN3eI7IelSA,145,180,y plus 36 plus 59 is equal to 180. And Im just thinking in\nterms of degrees here#
+en,vN3eI7IelSA,157,180,This is going to be equal to 95 is equal to 180. Did I do that right?#
+en,M-jQMTWBuzQ,75,180,knowing that 35 plus 90 plus this have to add up to 180 degrees you would see that this too has a measure of 55 degrees#
+en,M-jQMTWBuzQ,242,570,So it doesnt go into 57. But how many times does 82 go into 570? I would assume its about 6 times#
+en,XrW1HYwY2mY,633,100,So you can get as much\npractice and you can go from a 60% 70% 80% to 100% percent. And our view is the\nnotion of mastery learning#
+en,XrW1HYwY2mY,783,17,So she wasnt making a lot of money. She was making around 16 $17000 a year. I was on free and reduced lunch#
+en,XrW1HYwY2mY,1009,400,do you think elementary\nschool are getting too big? For example schools that\nare 400 plus students. So Im not sure I dont know#
+en,XrW1HYwY2mY,1019,400,be asking like the epidemiology of it. And if you put more\nthan 400 kids in a room are they going to be spreading\ndiseases and whatnot#
+en,XrW1HYwY2mY,1351,60,is Ray Dalio Ray and Barbara Dalio. They have sponsored 60000 laptops for low income high school\nstudents in Connecticut#
+en,XrW1HYwY2mY,1374,40,that its most mission critical. And then they got another 40000 laptops that they were able to distribut#
+
 en,AP6e2hMFVhU,805,['65 7'],and calculate exactly what our IRR is right when you get down to that 65 70 cent level you start buying and if it#
 en,AP6e2hMFVhU,811,['50 5'],cent level you start buying and if it becomes 50 55 you buy more right so so I think think we think about it distressed#
 en,AP6e2hMFVhU,915,['500'],of kind of deals and that world the 000000000 dollar 500000000 000000000 and a half dollar deal those are the ones we#
