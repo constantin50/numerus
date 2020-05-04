@@ -1,6 +1,6 @@
 en,z5MIL3KVHxo,446,['1969'],eyes what is Norman Reedus his birthday January 61969 I'm a Capricorn Scorpio Rising and I think I'm a Leo moon#
 en,z5MIL3KVHxo,527,['10 5'],that yeah something like that by 10 a 9 foot 10 5 11 some where does Norman Reedus come from I was#
-en,pr1aXn8_F3I,342,"['1346', '1353']",the deadlier it lasted from around 1346 to 1353 and resulted in the deaths of somewhere#
+en,pr1aXn8_F3I,342,"['1346']",the deadlier it lasted from around 1346 to 1353 and resulted in the deaths of somewhere#
 en,pr1aXn8_F3I,349,"['75 million', '200']",resulted in the deaths of somewhere between 75000000 people up to 200000000 people it's mostly associated#
 en,WgLo4gmEraU,880,1930,about 1900 or late 1890s and into the 221930s 1940s and so and maybe some if she stretched it into the 1970s and the#
 en,E1AxVXt2Gv4,50,100,me is a profound idea specifically if you can compress the first 100 megabytes or 1 gigabyte of Wikipedia better than#
@@ -258,7 +258,6 @@ en,7jFdxd1qX2g,48,2014,NASA's Voyager interstellar message project in 2014 she w
 en,3x1b_S6Qp2Q,1947,1990,generals uh so I'm in the 1980s and the 1990s head of the general use case for distributed system stuff was more and if#
 en,KcRbw2j8yBw,239,2017,Saturn's rings beginning in April of 2017 Cassini ventured between Saturn and its#
 en,j8umNI8gtlA,311,1980,Carl Sagan Bruce Murray and Louis Friedman back in 1980 with a goal of raising funds for exciting missions#
-en,85aFTVijEc8,683,500,visit audible.com slash real engineering or text real engineering to 500500 this will get you a 30 day#
 en,7jFdxd1qX2g,14,1981,series cosmos hosted by Carl Sagan whom she married in 1981 and her love for whom with the help of NASA was recorded#
 en,o9_TArqcZ74,73,100,gravitational waves for the first time 100 years after Einstein's prediction it's the signature of the crash of black#
 en,vHEmlxieTb8,133,13.8,battle who's gonna win it's a struggle that started 13.8000000000 years ago in the cosmic furnace#
@@ -325,7 +324,6 @@ en,itdYS9XF4a0,179,1000,"hour. Obliterating both satellites and producing
 over 1000 fragments over 10 centimetres in size and many more too small to be tracked."#
 en,o8NleUljzm4,5,1923,table football was first patented by a British inventor in 1923 it became popular throughout Europe with leagues#
 en,gup4Cc0Ube0,343,1920,Bang mystery came with the introduction of advanced telescopes in the 1920s Edwin Hubble was studying the light#
-en,85aFTVijEc8,57,1960,technologies of the mid 20th century the year was 1960 the Cold War was looming over America and within five years#
 en,KcRbw2j8yBw,343,2018,phenomenal in 2018 Cassini data reveals this hexagonal storm could be a towering#
 en,EYIKy_FM9x0,1772,1 million,said is to uh have at least 1000000 creators make a make a comfortable living putting on#
 en,7Hv2dsVkA38,298,500,and with a maximum operational speed of 500 kilometers per hour during some high-speed tests it's claimed that had#
@@ -361,7 +359,6 @@ en,f6tHqOmIj1E,1286,1933,with something that we were able to make and include in
 en,7jFdxd1qX2g,506,400,that's that's why that's why in only 400 years since Galileo's first look through a telescope#
 en,7jFdxd1qX2g,959,1987,you had left your car in the garage in 1987 yeah and you could key in the ignition because you use keys then in#
 en,zDujFhvgUzI,992,117,Lockheed knew this all too well as the manufacturer of the f-117 in 1999 a Nighthawk was infamously spotted by a#
-en,85aFTVijEc8,599,1967,Jump Jet which would fly its first flight in 1967 and enter service in 1969 today we can see aspects of its design#
 en,ehA0yvnd38k,874,100,you're constantly especially in the grappling sports where you can go 100% and get choked and threatened of murder#
 en,zDujFhvgUzI,97,117,stealth technology with the f-22 Raptor and the f-117 Nighthawk a carrier capable fighter to replace the f-18#
 en,ktfBjZnHnSI,195,360,"in a 8 foot by 12 foot cell. In this 360 youtube video he gives a very
@@ -409,7 +406,6 @@ en,kkNGdzo_3EA,537,1926,design and construction of the Sagrada família and on J
 en,giQ8xEWjnBs,355,063,"of light in a vacuum [203940448 m/s]. [6] This means the data packet will take roughly
 0.063 seconds to make the round trip and thus has a latency of 0.063 seconds or 62.7
 milliseconds."#
-en,85aFTVijEc8,576,1961,John Frost attempted to address some of the problems in 1961 designing this variation of the avrocar which included#
 en,5cA9bZRHpZE,161,1872,"at new phone not fitting your old charging
 dock. Perhaps the most notable incompatibility occured
 during the great boston fire of 1872 when fire departments from neighbouring regions
@@ -477,7 +473,6 @@ date."#
 en,wJuWuJBbc1s,20,5 billion,"3.5000000000 years. But with the Earth itself believed to have
 formed about 4.5000000000 years ago we still have very limited knowledge on what caused
 life to form in the first place and much"#
-en,85aFTVijEc8,183,360,centered around one basic idea direct high pressure air 360 degrees outwards and use shutters and control surfaces to#
 en,zDujFhvgUzI,981,1600,missions over Iraq during the Gulf War scouring direct hits on over 1600 high-value targets without losing a#
 en,2OeJdvl3fig,5,1970,the invention of polyurethanes skateboard wheels in the early 1970s suddenly made jumps in tight cornering#
 en,7Hv2dsVkA38,54,100,film developed a gigantic aircraft nearly 100 metres long with short stubby wings#
@@ -640,7 +635,6 @@ en,ktfBjZnHnSI,150,1961,"But this is you now not having been isolated
 or hidden from daylight. In 1961 this French geologist Michel Siffre descended a little over 905 meters into a cave where he lived for two months cut off from everyone and sunlight."#
 en,k8_SbVg5Ris,174,1971,the Opera is 700 meters of the sea between 1971 and 2010 as a result of a warming rate of 0.01 5 degrees Celsius#
 en,j8umNI8gtlA,414,720,spacecraft still comes into contact with Earth's atmosphere even at 720 kilometers since the solar sail by#
-en,85aFTVijEc8,94,1794,helicopter and a supersonic jet fighter and it all began life as project 1794 with the goal of creating a vertical#
 en,j8umNI8gtlA,456,800,drag the point at which these two pressures equals is around 800 to 1000 kilometers above Earth's surface so any#
 en,lr7dMmkE6es,60,100,"What does one TRILLION dollars look like. On this page we start off with a $100 bill
 which is the largest U.S. denomination in general circulation."#
@@ -841,7 +835,6 @@ Box to Alzheimer’s research and have so far we've donated over 100k. that's ri
 en,QOE-YbDvAj8,725,"38,0",fine-grained control over like oh these 38000 people can watch it and then like these other 29000 people can't it's#
 en,EYIKy_FM9x0,5337,1960,of came out from robin's around 1960. uh brad ephron has written beautifully about this in#
 en,y4MSwNGkWsY,14,500,sturdy even when exposed to temperatures of over 500 degrees Fahrenheit develop in the 1970s the helmets have become#
-en,85aFTVijEc8,105,100,flying at three times the speed of sound with a service ceiling of 100000 feet this all sounds like it was born from#
 en,giQ8xEWjnBs,430,500,"With an orbit of 550 kilometres each satellite
 can cover a circular area with a radius of 500 kilometre. At SpaceX’s originally planned orbit this
 coverage had a radius of 1060 kilometres."#
@@ -861,7 +854,6 @@ around Earth’s orbit."#
 en,CIYA6Jwwp4s,524,544,slowly through the water they're 544 page long environmental report which I read to the best of my#
 en,kkNGdzo_3EA,907,2026,expected to finish far sooner than originally expected by 2026 on the 100th anniversary of gaudí's death the#
 en,IJ-7H5GCNp0,411,1944,significant design change was brought in in 1944 with the introduction of a horizontal volute spring suspension this#
-en,85aFTVijEc8,27,1952,development in the field of this flight which was started in 1952 is being conducted by Avro aircraft limited at#
 en,vHEmlxieTb8,454,13.8,attractive one repulsive but together over 13.8000000000 years they will shape the history of the universe#
 en,WgLo4gmEraU,964,1970,size of the fundamental physics since the early 1970s doesn't have a story like that and so far there's not a#
 en,7Hv2dsVkA38,267,1966,the first test flight of the km took place on the 16th of October 1966 with chief designer Alexei F on board at the#
@@ -6592,451 +6584,4 @@ en,KnWEhXmJwdU,400,022,to three significant figures. So lets just multiply this 
 en,bQ5vHcFlT78,3,765,containing 1.85 times\n10 to the third liters of helium gas at 23 degrees\nCelsius and 765 Torr is launched into the atmosphere#
 en,bQ5vHcFlT78,127,765,Well lets first think about P one so pressure at time one\nis what its 765 Torr. 765 Torr and whats P two?#
 en,bQ5vHcFlT78,132,765,so pressure at time one\nis what its 765 Torr. 765 Torr and whats P two? Thats the pressure just before it burst#
-en,bQ5vHcFlT78,184,273,296,so to convert 23 degrees\nCelsius into Kelvin you have to add 273 so this\nis going to be 296 Kelvin and then what is T two?#
-en,bQ5vHcFlT78,198,273,Well T two is negative\n44 degrees Celsius if we add 273 to that lets see thats going to be if we\nsubtract its going to be#
-en,bQ5vHcFlT78,204,229,thats going to be if we\nsubtract its going to be in my head 229 Kelvin. And so we have everything we need#
-en,bQ5vHcFlT78,268,229,765,and so we could write that\nV two is equal to T two which is 229 Kelvin times\nP one which is 765 Torr times V one which is 1.85\ntimes 10 to the third liters#
-en,bQ5vHcFlT78,296,296,all of that over P two\nwhich is 6.51 Torr times T one which is 296 Kelvin and we can confirm that\nthe units work out#
-en,bQ5vHcFlT78,316,229,765,when we care about volume. So this is going to be\nequal to 229 times 765 times 1.85 times 10 to the third#
-en,bQ5vHcFlT78,331,296,times 1.85 times 10 to the third divided by 6.51 divided by 296 is equal to this business right over here#
-en,bQ5vHcFlT78,350,168,so its going to be if we round its gonna be 168000 and\nso we could just write that as 168000 liters or\nif we wanna write that#
-en,bQ5vHcFlT78,354,168,its gonna be 168000 and\nso we could just write that as 168000 liters or\nif we wanna write that in scientific notation\nwe could write that#
-en,bQ5vHcFlT78,376,850,does that makes sense? So our starting volume was 1850 liters and then our volume got a lot larger#
-en,vN3eI7IelSA,34,180,I can figure out the third\nangle because the sum of the angles of a triangle\nhave to add up to 180 degrees. And then I can use that information#
-en,vN3eI7IelSA,61,180,we know that x plus 36 plus 82 needs to be equal to 180. Im just giving their\nmeasures in degrees here#
-en,vN3eI7IelSA,69,118,And so you could say x plus lets see 36 plus 82 is 118. Did I do that right?#
-en,vN3eI7IelSA,81,180,Yep thats right. So thats going to be equal to 180. And then if I subtract\n118 from both sides#
-en,vN3eI7IelSA,83,118,So thats going to be equal to 180. And then if I subtract\n118 from both sides Im going to get x is equal to#
-en,vN3eI7IelSA,89,180,Im going to get x is equal to 180 minus 18 is 62. So this is x is equal to 62#
-en,vN3eI7IelSA,120,180,Because we know 82 and 62 if you need to get to\n180 it has to be 36. We just figured that out from\nthis first triangle over here#
-en,vN3eI7IelSA,145,180,y plus 36 plus 59 is equal to 180. And Im just thinking in\nterms of degrees here#
-en,vN3eI7IelSA,157,180,This is going to be equal to 95 is equal to 180. Did I do that right?#
-en,M-jQMTWBuzQ,75,180,knowing that 35 plus 90 plus this have to add up to 180 degrees you would see that this too has a measure of 55 degrees#
-en,M-jQMTWBuzQ,242,570,So it doesnt go into 57. But how many times does 82 go into 570? I would assume its about 6 times#
-en,XrW1HYwY2mY,633,100,So you can get as much\npractice and you can go from a 60% 70% 80% to 100% percent. And our view is the\nnotion of mastery learning#
-en,XrW1HYwY2mY,783,17,So she wasnt making a lot of money. She was making around 16 $17000 a year. I was on free and reduced lunch#
-en,XrW1HYwY2mY,1009,400,do you think elementary\nschool are getting too big? For example schools that\nare 400 plus students. So Im not sure I dont know#
-en,XrW1HYwY2mY,1019,400,be asking like the epidemiology of it. And if you put more\nthan 400 kids in a room are they going to be spreading\ndiseases and whatnot#
-en,XrW1HYwY2mY,1351,60,is Ray Dalio Ray and Barbara Dalio. They have sponsored 60000 laptops for low income high school\nstudents in Connecticut#
-en,XrW1HYwY2mY,1374,40,that its most mission critical. And then they got another 40000 laptops that they were able to distribut#
-
-en,AP6e2hMFVhU,805,['65 7'],and calculate exactly what our IRR is right when you get down to that 65 70 cent level you start buying and if it#
-en,AP6e2hMFVhU,811,['50 5'],cent level you start buying and if it becomes 50 55 you buy more right so so I think think we think about it distressed#
-en,AP6e2hMFVhU,915,['500'],of kind of deals and that world the 000000000 dollar 500000000 000000000 and a half dollar deal those are the ones we#
-en,AP6e2hMFVhU,942,['2015'],having right this is already equivalent in our view to 2015 with the oil and gas crash or 2011 when the euro was going to#
-en,AP6e2hMFVhU,946,['2011'],in our view to 2015 with the oil and gas crash or 2011 when the euro was going to break up right so in a market like this#
-en,AP6e2hMFVhU,1324,['500'],and thirty nine 000000000 dollars that represents how much the world's 500 richest people loss of Monday that#
-en,AP6e2hMFVhU,1335,['2016'],began tracking the number in October 2016 that does it for us reminder you can watch us each Tuesday at 1:00 p.m.#
-en,D37HBz1ELao,26,"['2000', '2015']",know we've been here before there's a precedent 20002015-16 and so you know companies have companies have a playbook#
-en,D37HBz1ELao,171,['2020'],of bankruptcy rate are we gonna see here I think over the near term in 2020 really just a handful of companies maybe#
-en,UGbZBsQoQM8,15,"['300', '650']",look there's been a sell-off high-yield spreads have gone out from 300 or to 650 basis points to Treasuries but in the#
-en,UGbZBsQoQM8,94,"['150', '100']",private equity fund buys a company for $150 and they put $100 of debt on it now the company now is worth a hundred ten#
-en,UGbZBsQoQM8,122,['65 7'],cushion right it almost we can take a lot more stress when you buy at 65 70 cents so I think so I think when you#
-en,UGbZBsQoQM8,146,['65 7'],exactly what our IRR is right when you get down to that 65 70 cent level you start buying and if it becomes 50 55 you#
-en,UGbZBsQoQM8,149,['50 5'],get down to that 65 70 cent level you start buying and if it becomes 50 55 you buy more right so so I think think we#
-en,UGbZBsQoQM8,255,['500'],of kind of deals and that world the 000000000 dollar 500000000 000000000 and a half dollar deal those are the ones we#
-en,UGbZBsQoQM8,281,['2015'],what we are having right this is already equivalent in our view to 2015 with the oil and gas crash or 2011 when the arrow#
-en,UGbZBsQoQM8,285,['2011'],equivalent in our view to 2015 with the oil and gas crash or 2011 when the arrow was going to break up right so in a#
-en,mRnIQrlWTKg,190,['200'],too virus sensitive sectors like travel like gaming lodging there's over 200000000000 dollars of private debt that is#
-en,vUQipkVf-5A,43,['100'],outside China we are really closely monitoring what's going up in over 100 countries that reported and so far over#
-en,vUQipkVf-5A,49,"['110', '000']",countries that reported and so far over 110000 cases abdi the common kind of misconception a lot of people comparing#
-en,vUQipkVf-5A,468,['2009'],all other sorts of for us based on the lessons we have learned from 2009 we shifted from the pandemic phase one#
-en,Ruws9CBSamw,23,['2008'],perspective this is the closest we've been lately to sort of 2008 financial crisis vibes#
-en,Ruws9CBSamw,70,"['2015', '2015']",I don't know I sort of remember late 2015 yeah I mean late 2015 you had all the issues going on with credit and you#
-en,Ruws9CBSamw,305,['1999'],the Raging Bull message boards Silicon investor Yahoo message boards from 1999 and 2000 and I think they were far less#
-en,Ruws9CBSamw,309,['2000'],investor Yahoo message boards from 1999 and 2000 and I think they were far less ambitious than what people are doing#
-en,Ruws9CBSamw,363,['500'],day it was January 8th and this is when Tesla was still below 500 if you can imagine a day in which that existed but#
-en,Ruws9CBSamw,370,['700'],it was a Wednesday and you saw a lot of bidding for the Tesla 700 strike call options that would expire at the end of#
-en,Ruws9CBSamw,377,['25-3'],that week Tesla had already been up like 25-30 percent that week as was its want earlier this year but it just seemed#
-en,Ruws9CBSamw,573,['1000'],when we were talking about the the tesla calls to tesla c1000 strike calls and I believe late January someone on reddit#
-en,Ruws9CBSamw,761,"['10,0']",strategy yeah like we saw a bunch of 10000% up days for a lot of these moonshot#
-en,Ruws9CBSamw,791,['2012'],now Jamie yuccas insky he founded the page got it launched in 2012 Jamie thank you very much for joining us thank you#
-en,Ruws9CBSamw,808,['2012'],Wall Street bets has become but you started in 2012 what was the purpose what out would you like I'm gonna start#
-en,Ruws9CBSamw,877,['1835'],going to be mostly males young probably 1835 I mean obviously they're old enough to open a brokerage account and have#
-en,Ruws9CBSamw,978,"['100', '000']",seem just as excited about posting screenshots of them losing $100000 or losing a fortune in a single day as they#
-en,Ruws9CBSamw,1181,"['10,0']",options are and I don't know what ll is but I'm up 10000 this morning and thank you this is my lunch break coming on to#
-en,Ruws9CBSamw,1290,['2010'],the the what was even more surprising was it was around 2010 if I'm not mistaken Robin Hood introduced stock#
-en,Ruws9CBSamw,1417,['2017'],seeing now on Wall Street bets and the crypto craze especially of late 2017 but the difference is to me one is that you#
-en,Ruws9CBSamw,1424,['2017'],guys seem fundamentally more honest because I remember 2017 and all the people going crazy for crypto we're also#
-en,Ruws9CBSamw,1457,['2017'],gambling fundamentally just way more truthful and honest and crypto of 2017 right there in the name Wall Street bet#
-en,Ruws9CBSamw,1849,['2020'],taken up by the market first six weeks of 2020 you had single stock options up seventy seven percent the notional#
-en,Ruws9CBSamw,1858,['2019'],volume off of record levels already at the end of 2019 so this is this is the Wall Street that's fueled search so I#
-en,Ruws9CBSamw,1872,['2015'],first came across Wall Street beds maybe it was I don't know 2015 I forget what I started really looking at it#
-en,Ruws9CBSamw,2038,['2015'],did a similar study like that dating back all the way you know 2015 when AMD was popular if you find something#
-en,Ruws9CBSamw,2334,['2012'],just considered gray area so this this dates back to 2012 this is just part of the commuters with Reddit and it's also#
-en,Ruws9CBSamw,2591,['2019'],even Bloomberg covered it back in October of 2019 you know some guy put in seven hundred dollars or seven hundred#
-en,Ruws9CBSamw,2613,['401'],money into his retirement so I don't know if the IRA or the 401k or whatnot but you know he said he couldn't focus#
-en,Ruws9CBSamw,2934,['2008'],guys remember the big moment get in the February 5th 2008 the you know where we had an example the the market showed a#
-en,Ruws9CBSamw,3210,['500'],money in you know passive stuff like SP 500 funds and sort of eking out little returns every once in a while and then#
-en,7Vu-YYiroew,55,['000'],if you look at the flu the flu for this year we're we're looking at 8000 deaths and you know hundreds of 000s of#
-en,7Vu-YYiroew,64,['000'],cases but we have eight 000 deaths so you have 8000 verses 26 deaths at this time with all of that being said#
-en,zhZiP9Xc0WA,186,['6040'],you have somebody who has a more traditional portfolio 6040 type or portfolio and then you look at where#
-en,7_YmrPv55PQ,40,['2018'],negative from a stable was in the fourth quarter of 2018 what are the parallels of this year relative to that time so#
-en,7_YmrPv55PQ,46,"['2008', '1818']",of this year relative to that time so I'm sorry 2008 or 1818 the last time you revised the sector to a negative from a#
-en,7_YmrPv55PQ,56,['2008'],stable was was q4 of 18 okay I apologize actually it was it was earlier on 2008 frankly okay so I'm sorry for that if#
-en,7_YmrPv55PQ,77,['2007'],the company's liquidity profile and our median rating in that time 2007 leading into the crisis was b1 today it's be a 1#
-en,kHGTwT0CGio,65,['2014'],is what going to be much more severe than what we saw back in 2014 where the prices went from broke below below $40#
-en,kHGTwT0CGio,205,['2018'],the shale came on it added two 000000 barrels in 2018 and there's another 1.2000000 barrels in 2019 and during that#
-en,kHGTwT0CGio,208,['2019'],barrels in 2018 and there's another 1.2000000 barrels in 2019 and during that time frame demand only grew by less than#
-en,41BwKY6G_DA,162,['12 million'],Energy decided they weren't going to put another 12000000 barrels on the market because of a sale from the Strategic#
-en,K1Fk2rh06NM,52,['600'],their citizens back and Canada's about 600 people they're coming back they're being met and brought to planes and#
-en,bUcyQGOzG3s,29,['2030'],dollars it's very much achievable by 2030 early on your tenure I think was a three and a half 000000000 dollar#
-en,bUcyQGOzG3s,103,['100'],fund pif and being the chair of Saudi Aramco doesn't that take you 80 or 100 hours a week to do#
-en,bUcyQGOzG3s,150,['2015'],looking after our current portfolio companies in August of 2015 you became the head of pif at what time what what#
-en,bUcyQGOzG3s,162,['2015'],different than what it is today so in 2015 the board was changed it became turned by the Crown Prince Prince#
-en,bUcyQGOzG3s,179,['150'],management then was the something like 150000000000 dollars today it's over more than 330325 000000000 dollars you said#
-en,bUcyQGOzG3s,186,"['330', '325']",150000000000 dollars today it's over more than 330325 000000000 dollars you said that the crown prince appointed you to#
-en,bUcyQGOzG3s,317,['2030'],we think that it's very much achievable by 2030 and I will tell you where where the growth will be coming from so number#
-en,bUcyQGOzG3s,358,['700'],when we started it was the 40 people today we're more than 700 by year and our target is to have more than 1000#
-en,bUcyQGOzG3s,362,['000'],today we're more than 700 by year and our target is to have more than 1000 full-time employees and pif and they#
-en,bUcyQGOzG3s,680,['45 billion'],dollars so it's fine so after you made a 45000000000 dollar commitment did you get a lot of people saying well if you have#
-en,bUcyQGOzG3s,683,"['45 billion', '45 billion']",a lot of people saying well if you have 45000000000 for him what about 45000000000 for me did you get a lot of those people#
-en,bUcyQGOzG3s,688,['45 billion'],calling you up not that all people came in with a 45000000000 dhanno proposition bike though we we#
-en,bUcyQGOzG3s,935,['10 million'],that you're producing is that around 9 or 10000000 barrels a day it's it's about the 10000000000 dollars a day so#
-en,bUcyQGOzG3s,937,['10 billion'],or 10000000 barrels a day it's it's about the 10000000000 dollars a day so it's often said in the oil world that#
-en,bUcyQGOzG3s,1006,['2019'],last summer and we said we have to get the IPO done before the end of 2019 we got it done that was a huge challenge#
-en,bUcyQGOzG3s,1054,['2019'],welcome to Riyadh welcome to the future investment initiative 2019 in recent years you've instituted a conference in#
-en,bUcyQGOzG3s,1211,['1930'],actually we have the same system since 1930s when the new the third Saudi Kingdom came into existence the good#
-en,t_jHUY8cUTI,75,['3000'],ologists to eliminate slouching by the year 3000 oh I know they seem a little uncomfortable right now but eventually#
-en,fDMf5Uxa_OQ,68,['450'],such a good deal I'll sell you my conscience for 450 I'll throw in my sense of decency - it's a Bart sales#
-en,h_R64dbUNPM,137,['100'],[Music] dr. Warner 100 yards we thought for a minute you got away from us I did go#
-en,oq8vtX8Pui8,4,['180'],murder one Wow even if I lose I'll be famous Simpson boy is looking at 180 years thank God we live in a country so#
-r A320 family aircraft—the
-A320neo. Unfortunately for Boeing the A320neo sold
-quite well in its first few months. It was clear that airlines wanted a more efficient
-small plane and fast."#
-en,BfNEOfEGe3I,312,2011,"American airlines which was at the time
-one of the world’s largest airlines had no Airbus planes in 2011. All of their long haul fleet and most of their
-short-haul fleet was built by Boeing."#
-en,BfNEOfEGe3I,319,2011,"All of their long haul fleet and most of their
-short-haul fleet was built by Boeing. On July 20 2011 though American announced
-a massive order for 460 narrow-body planes—130 Airbus a320’s 130 Airbus a320neo’s 100
-737’s and 100 re-engined 737’s."#
-en,BfNEOfEGe3I,327,320,"On July 20 2011 though American announced
-a massive order for 460 narrow-body planes—130 Airbus a320’s 130 Airbus a320neo’s 100
-737’s and 100 re-engined 737’s. The press release said American “intends
-to order 100 of Boeing's expected new evolution"#
-en,BfNEOfEGe3I,335,100,"Airbus a320’s 130 Airbus a320neo’s 100
-737’s and 100 re-engined 737’s. The press release said American “intends
-to order 100 of Boeing's expected new evolution of the 737NG with a new engine that would
-offer even more significant fuel-efficiency"#
-en,BfNEOfEGe3I,340,737,"The press release said American “intends
-to order 100 of Boeing's expected new evolution of the 737NG with a new engine that would
-offer even more significant fuel-efficiency gains over today's models.”"#
-en,BfNEOfEGe3I,346,737,"gains over today's models.” At this point this re-engined 737 had not
-been announced. American announced an order for a non-existent
-plane."#
-en,BfNEOfEGe3I,355,737,"American announced an order for a non-existent
-plane. They strong-armed Boeing into re-engining
-their 737 rather than building a new airplane by dangling an order of this hypothetical
-revamped airplane over them."#
-en,BfNEOfEGe3I,372,737,"why would American do that? Why would they want a less efficient less
-modern re-engined 737 over a more modern more efficient brand new narrow-body plane?"#
-en,BfNEOfEGe3I,390,380,"Pilots are generally trained to operate just
-one type of aircraft. Some fly the a380 some fly the 777 some
-fly the a320 and some fly the 737 but they don’t fly the 737-700 or 737-800 or 737-900
-they fly the 737 airplane as a whole."#
-en,BfNEOfEGe3I,396,737,"Some fly the a380 some fly the 777 some
-fly the a320 and some fly the 737 but they don’t fly the 737-700 or 737-800 or 737-900
-they fly the 737 airplane as a whole. Pilots are trained to the aircraft not the
-specific aircraft variant."#
-en,BfNEOfEGe3I,419,737,"variants. Crucially the FAA has never required that
-737 pilots complete any simulator training before flying new 737 variants."#
-en,BfNEOfEGe3I,424,737,"Crucially the FAA has never required that
-737 pilots complete any simulator training before flying new 737 variants. That’s because a 50 year-old 737 more or
-less flies like a 1 year-old 737."#
-en,BfNEOfEGe3I,427,737,"before flying new 737 variants. That’s because a 50 year-old 737 more or
-less flies like a 1 year-old 737. American wanted a refreshed 737 over a new
-plane since they already had 000s of"#
-en,BfNEOfEGe3I,433,737,"That’s because a 50 year-old 737 more or
-less flies like a 1 year-old 737. American wanted a refreshed 737 over a new
-plane since they already had 000s of trained and certified 737 pilots."#
-en,BfNEOfEGe3I,438,737,"American wanted a refreshed 737 over a new
-plane since they already had 000s of trained and certified 737 pilots. They had no pilots for a hypothetical new
-narrow-body Boeing and the cost of training"#
-en,BfNEOfEGe3I,473,737,"and that’s why most airlines try to have
-as few different aircraft types as possible. So soon after American’s order announcement
-Boeing officially announced the 737 MAX. This aircraft would be 15% more fuel efficient
-than the previous 737 model and would therefore"#
-en,BfNEOfEGe3I,479,737,"So soon after American’s order announcement
-Boeing officially announced the 737 MAX. This aircraft would be 15% more fuel efficient
-than the previous 737 model and would therefore have a maximum range of 4400 miles or 7100
-kilometers compared to the old 737’s 3400"#
-en,BfNEOfEGe3I,483,400,"This aircraft would be 15% more fuel efficient
-than the previous 737 model and would therefore have a maximum range of 4400 miles or 7100
-kilometers compared to the old 737’s 3400 mile or 5400 kilometer range."#
-en,BfNEOfEGe3I,490,400,"have a maximum range of 4400 miles or 7100
-kilometers compared to the old 737’s 3400 mile or 5400 kilometer range. This would make it easily possible to operate
-transatlantic flights on this small narrow-body"#
-en,BfNEOfEGe3I,507,737,"For example Air Canada operated transatlantic
-flights from Halifax and St. John’s to London Heathrow using the 737 MAX. Norwegian Airlines flew them as far as Newburgh
-New York to Bergen Norway."#
-en,BfNEOfEGe3I,514,737,"Norwegian Airlines flew them as far as Newburgh
-New York to Bergen Norway. Gol Airlines meanwhile broke records with
-their daily 737 MAX flight all the way from Brasilia Brazil to Miami Florida—an up
-to eight hour flight."#
-en,BfNEOfEGe3I,543,737,"past the engine core. The problem though was that the 737 design
-was quite low to the ground. Back 50 years ago when the aircraft was designed
-this was a conscious choice."#
-en,BfNEOfEGe3I,562,737,"This simplified operating to many of the less
-developed airports of that time. This proximity to ground was no problem for
-the first generation of 737 that had long and thin engines that looked like this."#
-en,BfNEOfEGe3I,569,737,"and thin engines that looked like this. For the second generation though the 737
-Classic Boeing moved the engine further forward and up and designed its intake as non-circular
-to achieve more ground clearance."#
-en,BfNEOfEGe3I,578,737,"and up and designed its intake as non-circular
-to achieve more ground clearance. The next generation also kept this design
-but then for the 737 MAX they just had to fit an even larger engine."#
-en,BfNEOfEGe3I,633,610,"Unless the system is deactivated it can keep
-pitching the aircraft down until the ground. It is this that is believed to have been the
-cause of the crash of Lion Air Flight 610 in October 2018 and the crash of Ethiopian
-Airlines Flight 302 in March 2019 and it"#
-en,BfNEOfEGe3I,638,2018,"It is this that is believed to have been the
-cause of the crash of Lion Air Flight 610 in October 2018 and the crash of Ethiopian
-Airlines Flight 302 in March 2019 and it is these that led to the grounding of every
-single 737 MAX in the world."#
-en,BfNEOfEGe3I,644,737,"in October 2018 and the crash of Ethiopian
-Airlines Flight 302 in March 2019 and it is these that led to the grounding of every
-single 737 MAX in the world. Boeing found itself back in 2011 in a position
-where it had to choose between the easy wrong"#
-en,BfNEOfEGe3I,649,2011,"is these that led to the grounding of every
-single 737 MAX in the world. Boeing found itself back in 2011 in a position
-where it had to choose between the easy wrong or the difficult right."#
-en,BfNEOfEGe3I,668,2011,"correction to even make it the same plane. Given the storm of economic pressures surrounding
-the company in 2011 though Boeing’s investors would not have been happy if the company had
-embarked on a long expensive new aircraft"#
-en,BfNEOfEGe3I,677,320,"would not have been happy if the company had
-embarked on a long expensive new aircraft design process while Airbus engulfed market
-share with their A320neo. Nobody would have guessed at the time with
-the company and aircraft’s phenomenal safety"#
-en,BfNEOfEGe3I,694,737,"Nobody would have guessed that the decision
-would potentially cost hundreds of lives. It was a hasty decision made by hasty human
-brains and for that Boeing and its 737 program will suffer long-term possibly permanent
-consequences."#
-en,EkRRo5DN9lI,1,200,"This video was made possible by Brilliant. Learn with Brilliant for 20% off by being
-one of the first 200 to sign up at Brilliant.org/Wendover. Since November 2 2000 the International
-Space Station has been continuously crewed"#
-en,EkRRo5DN9lI,7,2000,"Learn with Brilliant for 20% off by being
-one of the first 200 to sign up at Brilliant.org/Wendover. Since November 2 2000 the International
-Space Station has been continuously crewed meaning humanity has had a permanent presence
-in space."#
-en,EkRRo5DN9lI,44,160,"It is also quite possibly the most expensive
-single item humanity has ever built at an overall cost so far of about $160 000000000. Breaking that down each day that each astronaut
-spends on the ISS costs about $7.5 000000."#
-en,EkRRo5DN9lI,49,5 million,"overall cost so far of about $160 000000000. Breaking that down each day that each astronaut
-spends on the ISS costs about $7.5 000000. The ISS is a joint project between Russia’s
-Roscosmos agency Japan’s JAXA Europe’s"#
-en,EkRRo5DN9lI,73,350,"two countries more or less taking responsibility
-for managing and supplying their side. At over 350 feet or 110 meters long the station
-is longer than a 747 and has more interior space than the average six bedroom house."#
-en,EkRRo5DN9lI,246,"29,0","Overall freeze drying reduces the total food
-weight they have to take up. NASA currently pays about $29000 per pound
-for shipment to the Space Station. Each gallon of water they bring therefore
-costs them about a quarter of a 000000 dollars."#
-en,EkRRo5DN9lI,256,800,"Each gallon of water they bring therefore
-costs them about a quarter of a 000000 dollars. That also means each of those one ounce portions
-of spaghetti costs them about $1800. They’ll also typically include a few pieces
-of fresh fruit anytime a rocket goes up as"#
-en,EkRRo5DN9lI,266,"10,0","They’ll also typically include a few pieces
-of fresh fruit anytime a rocket goes up as a treat and with these shipment costs each
-apple is worth almost $10000. This is why so much focus is put on minimizing
-weight."#
-en,EkRRo5DN9lI,353,530,"a small portion of the overall weight of each
-launch. For example on one SpaceX launch crew supplies
-only represented 530 pounds or 240 kilograms of the 6000 pounds or 2700 kilograms of
-cargo."#
-en,EkRRo5DN9lI,359,000,"For example on one SpaceX launch crew supplies
-only represented 530 pounds or 240 kilograms of the 6000 pounds or 2700 kilograms of
-cargo. The rest of the launch capacity is dedicated
-to equipment and experiments."#
-en,EkRRo5DN9lI,372,2018,"Now part of the difficulty of this supply
-chain is that launch dates change a lot. For example the last SpaceX resupply CRS-16
-was initially scheduled for August 2018 then it was pushed back till the 29 of November
-then till December 4th then again to December"#
-en,EkRRo5DN9lI,435,117,"The other factor that can affect the supply
-chain is that rockets are imperfect. 5 of the 117 resupply missions to date to
-the International Space Station did not make it for one reason or another meaning there’s
-a failure rate of 4.3%."#
-en,EkRRo5DN9lI,444,2014,"it for one reason or another meaning there’s
-a failure rate of 4.3%. There was even a nine month stretch from 2014
-to 2015 when three resupply missions failed. In times like these it’s quite important
-that the ISS has plenty of backup food water"#
-en,EkRRo5DN9lI,467,2015,"many 000000s or 000000000s of dollars. When that third mission failed on June 28th
-2015 the station had enough food to last them for about another fifty days."#
-en,EkRRo5DN9lI,487,2003,"There have been close calls though. After the Space Shuttle Columbia disaster
-in 2003 astronauts had to cut their daily caloric intake and supplies got as low as
-7 to 14 days of food."#
-en,EkRRo5DN9lI,600,500,"They have a large projector screen and in
-addition to their onboard digital library of about 500 movies the crew can download
-new movies. The ISS does have an internet connection and
-they’ve been known to get some movies such"#
-en,EkRRo5DN9lI,616,300,"not quick. While the station does have 300 megabits per
-second of downlink capacity the vast majority of it is dedicated to experiment and other
-data but astronauts are able to regularly"#
-en,EkRRo5DN9lI,711,200,"Even better you can sign up today for free
-at brilliant.org/Wendover and try out some courses and then the first 200 to use that
-link will also get 20% off upgrading to the annual premium subscription."#
-en,E3jfvncofiA,17,1 billion,"leader on the London Heathrow to New York
-JFK route and flying between these two airports now earns them over $1 000000000 per year. That’s
-more than any airline makes on any other route in the world. Conversely though airlines
-can lose a lot of money by flying to the wrong"#
-en,E3jfvncofiA,41,787,"route failed might be puzzling considering
-it flew between the world’s fiftieth and the world seventh largest city. Even more
-they were flying the 787-8 Dreamliner—the smallest plane they could on this route. Nonetheless
-it was truly a financial disaster. The airline"#
-en,E3jfvncofiA,52,80 million,"smallest plane they could on this route. Nonetheless
-it was truly a financial disaster. The airline said that in terms of annual revenue the
-route was $80 000000 away from their target. The truth is that deciding where to fly is
-a lot more complicated than pairing up the"#
-en,E3jfvncofiA,73,2015,"it can be the difference between a profitable
-airline and a defunct one. In 2015 the big three airlines in the US—American
-Delta and United—launched 101 new routes. These included everything from United’s
-new 30-minute regional flight between Chicago"#
-en,E3jfvncofiA,88,101,"and Kalamazoo to Delta’s new transpacific
-service between Los Angeles and Shanghai. Some of these 101 survived some did not.
-Of the routes that Delta launched in 2015 about 70% still fly today. There were some
-big noticeable cancellations from their 2015-launched"#
-en,E3jfvncofiA,94,2015,"Some of these 101 survived some did not.
-Of the routes that Delta launched in 2015 about 70% still fly today. There were some
-big noticeable cancellations from their 2015-launched routes including Orlando to Sao Paolo New
-York to Manchester and Philadelphia to London."#
-en,E3jfvncofiA,104,2015,"routes including Orlando to Sao Paolo New
-York to Manchester and Philadelphia to London. Meanwhile American Airlines did a little
-better with 76% of their 2015 routes surviving today. Still they clearly had some expensive
-failures with routes like Dallas to Quito"#
-en,E3jfvncofiA,120,2015,"Miami to Frankfurt and New York to Birmingham.
-United Airlines though has a noticeably higher 85% of those 2015 routes still flying
-today. The only four routes from 2015 that didn’t work out were Houston to Peoria
-Newark to Newcastle Dulles to Moline and"#
-en,E3jfvncofiA,214,2015,"amount of data. The majority of new United
-routes are to destinations already served by another one of their hubs. For example
-one of the routes that United added in 2015 was from Denver to Southwest Oregon Regional
-Airport which was already served by its San"#
-en,E3jfvncofiA,268,190,"and many sell this incredibly valuable data
-to market research companies and airlines. Skyscanner for example knows that 190000
-people a year search for a flight between Birmingham and Hong Kong 420000 people a
-year search for a flight between Delhi and"#
-en,E3jfvncofiA,272,420,"Skyscanner for example knows that 190000
-people a year search for a flight between Birmingham and Hong Kong 420000 people a
-year search for a flight between Delhi and Auckland 1.1 000000 people a year search
-for a flight between Bangkok and Barcelona"#
-en,E3jfvncofiA,277,1 million,"Birmingham and Hong Kong 420000 people a
-year search for a flight between Delhi and Auckland 1.1 000000 people a year search
-for a flight between Bangkok and Barcelona and 1.4 000000 people a year search for a
-flight between London and Kochi. These all"#
-en,E3jfvncofiA,281,4 million,"Auckland 1.1 000000 people a year search
-for a flight between Bangkok and Barcelona and 1.4 000000 people a year search for a
-flight between London and Kochi. These all represent big opportunities that airlines
-have yet to act on. People are still making"#
-en,E3jfvncofiA,308,2017,"willing to pay. People usually pay a premium
-to fly on non-stop flights but there’s a maximum to how much extra people will pay
-for the convenience. In October 2017 United launched a new nonstop route from Los Angeles
-to Singapore to much fanfare. This would be"#
-en,E3jfvncofiA,328,444,"and they expected it to do great. The problem
-though was the competition. Currently roundtrip connecting flights between Los Angeles and
-Singapore are on sale for as little as $444. At the time that United was flying this route
-they were supposedly even less. United just"#
-en,E3jfvncofiA,388,800,"money using the same plane elsewhere. United
-essentially has now used up four of its planes to fly its two daily flights to Singapore.
-They’re charging a minimum of about $800 to fly roundtrip on this 16-hour flight whereas
-from the east coast United is also charging"#
-en,E3jfvncofiA,398,800,"to fly roundtrip on this 16-hour flight whereas
-from the east coast United is also charging about $800 to fly roundtrip on their 6-hour
-flight from DC to London. Airlines need to consider whether out of a whole world of
-options they’re picking the best one when"#
-en,E3jfvncofiA,480,2017,"independently. Sometimes airlines launch routes
-primarily to slow the advance of a competitor. For example on September 6th 2017 Wow Air
-the Icelandic budget airline announced that it would start flying from Reykjavik to Dallas.
-Less than a week later Icelandair the other"#
-en,E3jfvncofiA,601,787,"or through a new aircraft delivery. For example
-United’s new route from San Francisco to Tahiti with relatively low demand required
-its smallest long-haul plane—the 787-8 Dreamliner. One of those only became available when a
-new 787-9 was delivered from Boeing that replaced"#
-en,E3jfvncofiA,608,787,"Tahiti with relatively low demand required
-its smallest long-haul plane—the 787-8 Dreamliner. One of those only became available when a
-new 787-9 was delivered from Boeing that replaced an older 787-8 on the busier San Francisco
-to Munich route. Airlines also need gate space"#
-en,E3jfvncofiA,612,787,"One of those only became available when a
-new 787-9 was delivered from Boeing that replaced an older 787-8 on the busier San Francisco
-to Munich route. Airlines also need gate space and at some busy airports a landing slot.
-For many international routes airlines also"#
-en,E3jfvncofiA,676,380,"and aviation. Therefore I would imagine you
-would like this documentary on Curiosity Stream about the whole process that it takes to make
-an Airbus a380 wing. It’s a fascinating look at all the work that goes into producing
-what is perhaps the most important element"#
-en,E3jfvncofiA,684,400,"look at all the work that goes into producing
-what is perhaps the most important element of that plane. This is one of over 2400 documentaries
-that you can watch on CuriosityStream which is compatible with iOS Android Xbox One
-Chromecast AppleTV and plenty more platforms."#
-en,BD_575F3tME,213,150,they raised the concern about the efficacy of their tool they only had 150 basis points left if that they#
-en,BD_575F3tME,1148,12 billion,under his leadership GES market cap went from 12 000000000 dollars to 410 000000000 dollars and his successor a GE Larry#
-en,BD_575F3tME,1650,5 billion,will speak generally about the energy sector there are 1.5 000000000 people on the planet today who do not have access#
-en,BD_575F3tME,1690,2050,coming from these countries and companies you know over 80% in 2050 so really I don't see how fundamentally the#
-en,BD_575F3tME,1821,2030,Office the CBO is forecasting significant pressures by 2030 around the the us viscous both in terms of debt but#
-en,BD_575F3tME,1890,2021,you do get a change in the White House in 2021 is you could see at least on the discretionary side some of these you#
-en,BD_575F3tME,2448,50 million,notional numbers because there was about 50 000000 but the world's population was much smaller at that time are you#
-en,YgTj0tAxY0U,401,2011,and the example I've been using a lot is the 2011 episode when the u.s. lost its triple-a credit rating you saw these#
-en,YgTj0tAxY0U,576,10:3,timing was perfect by 10:30 a little shortly afterwards I'm sitting down with Larry in in his office#
-en,YgTj0tAxY0U,701,2007,gotten all the calls right back in December 2007 he was pooh-poohing any talk of a recession we know now that#
-en,YgTj0tAxY0U,735,2008,the Federal Reserve for the first time since 2008 went with a emergency rate cut this was not a scheduled meeting#
-en,YgTj0tAxY0U,887,119,Businessweek on the radio on Sirius XM channel 119 and on am 11th REO in new york 106 one#
-en,YgTj0tAxY0U,890,106,on the radio on Sirius XM channel 119 and on am 11th REO in new york 106 one in boston 99 one FM in Washington DC and#
-en,YgTj0tAxY0U,936,401,with like a well thought out asset allocation that you have or if your 401k is well spread out between stocks and#
-en,YgTj0tAxY0U,1019,401,to pull back a bit and maybe in your 401k there's stable value funds that you know a reasonable right not anything#
-en,YgTj0tAxY0U,1075,2020,active year for activists they are out in full force in 2020 especially over it Elliott management yeah they've been#
-en,YgTj0tAxY0U,1212,135,at night so running running too you know 135 000000000 dollar company 125 000000000 dollar company and getting more sleep#
-en,YgTj0tAxY0U,1425,128,pull GE from one of the worst slumps in its 128 year history Culp spoke with Bloomberg televisions David Weston#
-en,YgTj0tAxY0U,1434,"18,0",earlier this week and remains a middle of that quite optimistic we have 18000 people in China all of our major#
-en,YgTj0tAxY0U,1492,2019,this chart but we did see an uptick in 2019 many thanks to CEO Larry Colts turnaround efforts he's offloading#
-en,YgTj0tAxY0U,1506,500,here from the coronavirus could see up to a 500 000000 dollar hit to cash flow in the first quarter they did stand by#
-en,YgTj0tAxY0U,1895,500,know is very hard these days since the landscape has about 500 shows in it when I wrote kidding I really wanted to write#
-en,YgTj0tAxY0U,2090,747,rail and maybe a bus rather than maybe a 747 that you would use to move some kit around previously but you know those are#
-en,YgTj0tAxY0U,2180,747,formation world tour filled 7 that 7 Boeing 747 and more than 77 zero trucks according to the BBC more than 2 000000#
-en,YgTj0tAxY0U,2185,2 million,Boeing 747 and more than 77 zero trucks according to the BBC more than 2 000000 people came to see the show and they#
-en,YgTj0tAxY0U,2318,119,you can listen to us on the radio on Sirius XM channel 119 and on am 11th REO in new york 106 one in Boston 90 91 FM#
-en,YgTj0tAxY0U,2321,106,Sirius XM channel 119 and on am 11th REO in new york 106 one in Boston 90 91 FM in Washington DC I am nine 60 in the Bay#
-en,YgTj0tAxY0U,2359,20-3,kind of growing you know we've gone through some swings over the last 20-30 years with just the series the identity#
-en,YgTj0tAxY0U,2365,2012,of it the popularity and ever since I joined back in 2012 we've just had this nice steady uptick and growth and I feel#
-en,YgTj0tAxY0U,2697,"10,0",point one eight 000000 Scoville units versus around 10000 for a jalapeno so jalapeno 10000 this hot sauce comes in#
-en,YgTj0tAxY0U,2700,"10,0",versus around 10000 for a jalapeno so jalapeno 10000 this hot sauce comes in at 3.1 that's awesome yeah that's#
-en,DbHp-3IdxQM,60,150,they raised the concern about the efficacy of their tool they only had 150 basis points left if that they#
-en,AAgxHeI2Dgs,462,50 million,notional numbers because there was about 50 000000 but the world's population was much smaller at that time or are you#
-en,p7msX2qKK2o,433,500,stress in the credit market are at about 500 basis points yes that's actually quite a bit less quite a bit less than#
-en,p7msX2qKK2o,437,2015,quite a bit less quite a bit less than they were in late 2015 early 2016 and also lower than they were in late 2018#
-en,p7msX2qKK2o,441,2018,they were in late 2015 early 2016 and also lower than they were in late 2018 in neither of those past two periods#
-en,p7msX2qKK2o,500,500,historically when the spread has been 500 or more the high-yield bond has done investor has done very well in the#
-en,bZ-d7DSWobw,6,100,take it yet let last week was the biggest week we had of the year over 100 000000000 dollars in transactions so#
-en,bZ-d7DSWobw,33,2019,deals that people started working on if not months ago probably in the 2019 what's the appetite like now to actually#
-en,bZ-d7DSWobw,50,2011,getting the volatility to sort of subside somewhat remember in 2011 in the summer we had a pretty big market swoon#
-en,bZ-d7DSWobw,106,15 2,look I do think will be impacted in tune of 15 20 maybe higher a little bit higher that's assuming that this doesn't#
-en,bZ-d7DSWobw,173,10 1,technology we can do a lot we couldn't do 10 15 years ago all right so let's say it delays a lot of deals that are#
-en,-N4_Aa1jbtc,60,150,they raised the concern about the efficacy of their tool they only had 150 basis points left if that they#
-en,AFnFulwahVI,35,2014,are at the point of breakdown take your mind back to 2014 that is when the last time that OPEC did not manage to agree a#
-en,AFnFulwahVI,51,2014,possibility so the decision tree analysis if there's no deal 2014 the market collapsed by another 10% back#
-en,AFnFulwahVI,141,500,obviously oil is completely plummeting all of the industry groups in the sp500 are lower today again for a sixth Friday#
-en,GXT2l9VmdcU,254,000,substantial amount of money at four to $3000 most people in the United States as we know 40% of the country can't#
-en,GXT2l9VmdcU,259,400,as we know 40% of the country can't afford $400 for an emergency is there a socio-economic danger here that#
-en,zyCltqGtvRI,27,2030,Budget Office the CBO is forecasting significant pressures by 2030 around the the u.s. viscus both in terms of debt#
-en,zyCltqGtvRI,96,2021,you do get a change in the White House in 2021 is you could see at least on the discretionary side some of these uh you#
-en,SfgUipDhYzs,12,2014,like us to relapse into the last downturn that we went through 2014 2015 2016 there are all conscious of that but#
-en,SfgUipDhYzs,16,2016,downturn that we went through 2014 2015 2016 there are all conscious of that but this issue that we are facing the#
-en,6uBYJwMioAM,230,650,tried them in the past temporary tax cut that cost a lot of money you know 650 000000000 dollars they don't last there's#
-en,-Ap-lr-6Mt0,32,113,security in history as the singly CFCs 113 000000000 dollars of trade will our counter market held up European ETFs end#
-en,-Ap-lr-6Mt0,64,500,exchange-traded fund markets in one day an ETF tracking the S&P 500 saw 113 000000000 dollars are traded the highest#
-en,-Ap-lr-6Mt0,254,2019,in Europe that's twice what we would have seen in any normal week in 2019 when you look at the primary market the#
-en,-Ap-lr-6Mt0,353,2008,well I think we always get rules get asked what happens in 2008 what happened again and clearly you know we haven't#
-en,-Ap-lr-6Mt0,358,2008,again and clearly you know we haven't seen a full-on 2008 scenario but we've seen the biggest sell-off in equities#
-en,-Ap-lr-6Mt0,362,2008,seen the biggest sell-off in equities since 2008 in terms of speed of market we've seen some pretty stressed credit#
-en,-Ap-lr-6Mt0,551,318,got up here you can see total inflows are 318 000000 dollars into European ETFs the biggest country Germany to#
-en,-Ap-lr-6Mt0,558,17 million,ETFs the biggest country Germany to 17 000000 dollars there there's a twin play going on here part of this is an#
-en,-Ap-lr-6Mt0,596,138,continuing on so we're seeing a lot of money 138 000000 dollars worth go in there to the downside is seeing a lot#
-en,-Ap-lr-6Mt0,853,2 billion,appetites over the month lease or outflows of 1.2 000000000 euros commodities meanwhile had their best#
-en,-Ap-lr-6Mt0,857,2016,commodities meanwhile had their best month since 2016 led by a rush into gold funds so not all qualities created equal#
-en,-Ap-lr-6Mt0,869,1 billion,still managed a modest gain during February of 1 000000000 euros now time to dig into one of the exchange-traded#
-en,-Ap-lr-6Mt0,903,2013,transatlantic phenomenon launched back in 2013 it's huge for a European thematics fund one of the biggest in the#
-en,-Ap-lr-6Mt0,919,2017,where have you been you've had your head in the sand way back in 2017 that's when this was all the rage since the start of#
-en,-Ap-lr-6Mt0,1152,500,areas where we're seeing money going into it one is the sp500 where do you think maybe for a week what we've seen#
-en,-Ap-lr-6Mt0,1172,2016,be in a crisis brilliant heading for his biggest weekly gain since 2016 definitely good luck saying the best#
-en,x6GkXgrn6Rc,-1,126,let's get to the elephant in the room 126 on a US thirty year what are we modeling in the Treasury#
-en,x6GkXgrn6Rc,22,280,between US and Germany remember the days when there was a 280 basis point yep 240 basis points we below 150 and#
-en,x6GkXgrn6Rc,24,240,when there was a 280 basis point yep 240 basis points we below 150 and what's that's telling you is that the#
+en,bQ5
