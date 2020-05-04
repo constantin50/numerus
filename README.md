@@ -1,6 +1,6 @@
 # Numerus
 
-[numerus.xyz](http://numerus.xyz) - is a web platform for an intensive listening comprehension of numbers in foreign languages. 
+[numerus.xyz](http://numerus.xyz) - is a web platform for number comprehension in foreign languages.
 
 The idea is following:
 
