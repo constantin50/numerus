@@ -1,6 +1,6 @@
 de,kxWrve0nW5U,106,200,die ganze zeit bis dahin super gut etwa 200 familien finanzieren den hof zu beginn eines wirtschaftsjahres#
 de,kxWrve0nW5U,425,100,dann machen wir sie ab und der links aufeinander und 100 flaschen rein und dann für den winter das wird ja gefüllt#
-de,t_GbpK0Q-G4,487,20.3,welche sehen im normalfall würden wir jetzt hier und 20.30 körner so sehen gelb verteilt die leuchten wenn man über#
+de,t_GbpK0Q-G4,487,203,welche sehen im normalfall würden wir jetzt hier und 2030 körner so sehen gelb verteilt die leuchten wenn man über#
 de,t_GbpK0Q-G4,511,106,silage vom letzten jahr jetzt haben wir hier 106 und eben hat nur 74#
 de,t_GbpK0Q-G4,543,2018,kühe und hier das ist ja nur stroh im grunde das wetter 2018 hat viele milchviehbetriebe an die existenzgrenze#
 de,t_GbpK0Q-G4,596,900,wie etwa in willich am niederrhein mario brocker baut auf fast 900 hektar fläche nur möhren an#
@@ -23,18 +23,18 @@ de,Pu5jksi7xFU,1525,1000,dafür setzen wir eine kamera ein die 1000 bilder pro s
 de,IZkPuJNLBcw,86,45,0,160,super 450 drei meter pro sekunde etwa 160 km h das ist schon ziemlich schnell muss#
 de,IZkPuJNLBcw,164,100,bis bis hierhin ausziehe dann fliegt er genau 100 km h haben wir gemessen#
 de,IZkPuJNLBcw,227,200,hatte ich einfach einen abstand zu dem fall von vielleicht zehn mal 200 meter das konnte ich in der kurzen zeit nicht#
-de,0v9_wgJk-NE,273,600,geschätzt dass in deutschland etwa 600.000 menschen infiziert waren klingt viel sind aber nur 07 prozent der#
+de,0v9_wgJk-NE,273,600,geschätzt dass in deutschland etwa 600000 menschen infiziert waren klingt viel sind aber nur 07 prozent der#
 de,0v9_wgJk-NE,405,13,der über 70 jährigen liegt in deutschland bei über 13000000en die müsste man also alle isolieren wenig#
-de,0v9_wgJk-NE,572,200,zu halten 200 infektionen lassen sich eben besser kontrollieren als 200.000 die frage ist#
-de,0v9_wgJk-NE,575,200,000,200 infektionen lassen sich eben besser kontrollieren als 200.000 die frage ist was die maßnahmen könnten das sein#
+de,0v9_wgJk-NE,572,200,zu halten 200 infektionen lassen sich eben besser kontrollieren als 200000 die frage ist#
+de,0v9_wgJk-NE,575,200,000,200 infektionen lassen sich eben besser kontrollieren als 200000 die frage ist was die maßnahmen könnten das sein#
 de,0v9_wgJk-NE,795,2719,daten und gibt täglich berichte aus am 15 april wurden zum beispiel 2719 patienten auf intensiv geredet#
 de,zjXAUs0iZE0,315,2004,[Musik] 2004 entwickelte er zusammen mit dem kybernetik experten eher dem antennen#
 de,zjXAUs0iZE0,371,360,seine burg zwischen verschiedenen farbtönen 360 farbabstufungen nimmt nil haben so war der burg veränderte seine#
 de,zjXAUs0iZE0,432,2004,zwischen kybernetik und meinem organismus 2004 erreichte harbison dass der bock auf dem foto in seinem#
 de,LuUqMwo1kTY,356,6000,sie haben uns die geht profile von ungefähr 6000 menschen angeschaut wo rauszufinden was ähnlich ist und was#
 de,LuUqMwo1kTY,396
-nach auffälligkeiten rund 500.000 stellen im erbgut vergleichen die forscher dabei und sie#
-de,LuUqMwo1kTY,415,000,deutschen mit ihrer datenbank darin haben sie die gegensätze von 6.000 europäern untersucht und berechnet wie#
+nach auffälligkeiten rund 500000 stellen im erbgut vergleichen die forscher dabei und sie#
+de,LuUqMwo1kTY,415,000,deutschen mit ihrer datenbank darin haben sie die gegensätze von 6000 europäern untersucht und berechnet wie#
 de,LuUqMwo1kTY,447,6000,unterschieden sie zeigt die gen profile der 6000 untersuchten europäer und wenn man sie#
 de,Aj9oClV7cCM,287,2011,leben zum ersten mal 2011 da war frederik drei jahre alt nach dem abendessen fing es an#
 de,Aj9oClV7cCM,1239,123456,testergebnis einfach mal die hand heben 123456 von zehn okay von den teilnehmern ganz hinten ohne risikofaktoren hat nur#
@@ -49,7 +49,7 @@ de,o8NKor9tiPk,220,8000,zivil respiratory syndrome kurz saas über 8000 menschen
 de,o8NKor9tiPk,245,2012,infizieren 2012 wird in saudi arabien eine weitere lungenkrankheit diagnostiziert märz auch#
 de,o8NKor9tiPk,539,2003,verbote halten schon nach der sars-epidemie 2003 hatte die regierung bestimmungen zum schutz#
 de,ng2sWK3WIMQ,248,2000,schon jetzt haben sich in deutschland über 2000 ärzte und pfleger angesteckt und das schwächt natürlich am ende das#
-de,ly2nYgOszyc,8,50.0,liegt auf herz jedes jahr gibt es in deutschland ungefähr 50.000 herzstillstände aus den#
+de,ly2nYgOszyc,8,500,liegt auf herz jedes jahr gibt es in deutschland ungefähr 50000 herzstillstände aus den#
 de,ly2nYgOszyc,260,1950,einem notfall ganz andere sachen gemacht hat zum beispiel gab es in den 1950 er jahren handgriffe mit denen man versucht#
 de,ly2nYgOszyc,268,21 2,23 2,hat die lunge passiv zu beatmen ausgangsstellung fertig 21 22 23 24 21 22 23 24#
 de,ly2nYgOszyc,277,22 2,ausgangsstellung fertig 21 22 23 24 21 22 23 24 in den 60ern gab es als empfehlungen die#
@@ -69,11 +69,11 @@ de,ly2nYgOszyc,2007,112,sondern auch aus allen handynetzen in ganz europa die 11
 de,ly2nYgOszyc,2018,112,gefahr ist zb herzanfall schlaganfall blut überall 112 und wen rufen sie an wenn sie sich sehr schlecht fühlen und#
 de,ly2nYgOszyc,2026,116,117,dringende hilfe brauchen es aber nicht lebensbedrohlich ist 116117 das ist eine nummer nicht 2 die 116117#
 de,ly2nYgOszyc,2029,116,117,lebensbedrohlich ist 116117 das ist eine nummer nicht 2 die 116117 können sie zum beispiel anrufen bei#
-de,ly2nYgOszyc,2620,10.0,der siebten klasse reichen damit langfristig 10.000 menschen in deutschland gerettet werden können#
+de,ly2nYgOszyc,2620,100,der siebten klasse reichen damit langfristig 10000 menschen in deutschland gerettet werden können#
 de,ly2nYgOszyc,2641,100,wichtig bei den liedern die sich mit summen ist dass die sonne für 100 bis 120 schläge probleme haben so hoffe ich#
 de,ly2nYgOszyc,2644,120,summen ist dass die sonne für 100 bis 120 schläge probleme haben so hoffe ich sehr dass müssen auch bei der nächsten#
-de,MxTYVjERDHI,6,30.0,europas und verantwortlich für die 30.000 tonnen stahl ist er michael arzt der bauleiter der#
-de,MxTYVjERDHI,78,30.0,moselseite erreicht das ist das ziel das heißt konkret 30.000 tonnen stahl müssen geschoben werden#
+de,MxTYVjERDHI,6,300,europas und verantwortlich für die 30000 tonnen stahl ist er michael arzt der bauleiter der#
+de,MxTYVjERDHI,78,300,moselseite erreicht das ist das ziel das heißt konkret 30000 tonnen stahl müssen geschoben werden#
 de,MxTYVjERDHI,175,13 5,einer station machen michael 13 50 dollar runter und versuche mit 20 sondern erwarte man muss ein#
 de,MxTYVjERDHI,238,210,denn bevor die brücke den pfeiler erreicht schwebt sie 210 meter frei in der luft da sind nach unserem stand noch#
 de,MxTYVjERDHI,439,160,komplett fertig in einer höhe von rund 160 meter spannt sich die hochmoselbrücke jetzt 17 kilometer lang#
@@ -82,21 +82,21 @@ de,zFEPF195Ylg,535,0203,deutlich mehr als wir so normalerweise haben bei unseren
 de,zFEPF195Ylg,576,80 6,brücke beschädigt ist eine geschwindigkeitsbegrenzung da 80 60 er noch weiter runter die sollte man tun#
 de,zFEPF195Ylg,607,12 3,unserer versuchs brücke durch trinken wir haben jetzt 12 34 komplett durch 44 stäbe sind komplett durch geflext zwei#
 de,zFEPF195Ylg,887,30 4,kübel wieder drauf stehen weg um dann trotzdem drüber zu fahren mit 30 40 tonnen das ist lebensgefährlich sagt man#
-de,QU5tIXz66X4,527,35.0,schon immer mehr anfang märz waren es etwa 35.000 testwoche jetzt ende märz sind es schon#
-de,QU5tIXz66X4,532,260,000,testwoche jetzt ende märz sind es schon über 260.000 tests und das ohne die tests in den unikliniken gemacht werden#
+de,QU5tIXz66X4,527,350,schon immer mehr anfang märz waren es etwa 35000 testwoche jetzt ende märz sind es schon#
+de,QU5tIXz66X4,532,260,000,testwoche jetzt ende märz sind es schon über 260000 tests und das ohne die tests in den unikliniken gemacht werden#
 de,mUBcAp-Lows,917,2009,haben uns auch mal angeschaut dezember 2009 10 in china häufen sich fälle einer unbekannten lungenerkrankung#
 de,mUBcAp-Lows,923,2020,fälle einer unbekannten lungenerkrankung anfang januar 2020 identifizieren virologen das neuartige corona virus als#
 de,mUBcAp-Lows,992,2000,monaten klären und bestätigen ab anfang 2000 21 könnte ein neuer impfstoff bei mehreren tausend oder#
 de,-UE0MErePNc,199,2045,können wir das ohne dass wir das gefühl haben wir seien nicht komplett 2045 soll das jahr sein in dem der mensch seine#
-de,bVu2U1_iNcU,377,30.0,die ersten rotationen entstanden wahrscheinlich vor 30.000 jahren rote haare und blasse haut waren#
+de,bVu2U1_iNcU,377,300,die ersten rotationen entstanden wahrscheinlich vor 30000 jahren rote haare und blasse haut waren#
 de,y6WuNv3-lL8,13,2014,frage der zeit im jahr 2014 setzt ein wassereinbruch einen teil der sicherheitstechnik im#
 de,y6WuNv3-lL8,50,1969,das farbfernsehen in betrieb ging es 1969 und ist das älteste atomkraftwerk der welt daneben das akw leibstadt ein#
 de,y6WuNv3-lL8,66,2010,und störfälle 2010 wurde sogar ein mitarbeiter verstrahlt nur 400 meter von der#
 de,y6WuNv3-lL8,68,400,2010 wurde sogar ein mitarbeiter verstrahlt nur 400 meter von der deutschen grenze entfernt#
 de,y6WuNv3-lL8,80,700,in frankreich steht wegen ständiger pannen in der kritik mehr als 700 störfälle soll es bisher gegeben haben#
 de,y6WuNv3-lL8,165,2014,mitglied der islamistischen gruppe sharia4belgium ist im märz 2014 stirbt er in syrien als kämpfer für den#
-de,y6WuNv3-lL8,178,2014,atomkraftwerke im visier von terroristen sind im sommer 2014 laufen in block 4 von buhl 90.000 liter öl einer#
-de,y6WuNv3-lL8,182,90.0,sind im sommer 2014 laufen in block 4 von buhl 90.000 liter öl einer hochdruckturbine aus#
+de,y6WuNv3-lL8,178,2014,atomkraftwerke im visier von terroristen sind im sommer 2014 laufen in block 4 von buhl 90000 liter öl einer#
+de,y6WuNv3-lL8,182,900,sind im sommer 2014 laufen in block 4 von buhl 90000 liter öl einer hochdruckturbine aus#
 de,y6WuNv3-lL8,288,2009,physische gewalt anwenden seit der stuxnet virus 2009 iranisches uran anlagen lahmlegte werden auch cyber#
 de,y6WuNv3-lL8,381,100,wir werden bei keinem technischen system jeweils 100 prozentigen schutz haben können aber es ist deswegen eine ganz#
 de,y6WuNv3-lL8,545,131,viele radioaktive stoffe freigesetzt einer von ihnen ist jod 131 unser körper kann das radioaktive jod#
@@ -112,7 +112,7 @@ de,dSX5eNoGMPA,215,200,aachen ist bei diesem szenario für die nächsten 200 jah
 de,dSX5eNoGMPA,638,100,welcher zone ab einer effektiven dosis von 100 millisievert pro woche müssen sie evakuieren katastrophenschutz kann#
 de,qW_4PWl83nc,141,1992,weiß wann ist man der nächste 1992 ist es in den usa bei männern zwischen 25 und 44 die todesursache#
 de,qW_4PWl83nc,192,1995,zur amerikanischen aktivisten wo man sich eben zb per fax austauschte 1995 wird erstmals die sogenannte#
-de,Q5p7qPv2X10,602,1000,10.0,videos partikel das sind dann in wirklichkeit 1000 10.000 t hooft artikel die man da hat nicht man sieht sie ja#
+de,Q5p7qPv2X10,602,1000,100,videos partikel das sind dann in wirklichkeit 1000 10000 t hooft artikel die man da hat nicht man sieht sie ja#
 de,WReBrwIllao,217,2002,sich vielleicht noch an saas das war eine große pandemie im jahr 2002 da waren ganz viele leute weltweit#
 de,WReBrwIllao,309,2009,die masern immerhin hat es gereicht da sich das virus seit dezember 2009 10 über die ganze welt bis hin zu uns#
 de,WReBrwIllao,319,2009,verbreitet hat rückblende im dezember 2009 10 beginnt eine mysteriöse art von lungenentzündung sich auszubreiten#
@@ -122,29 +122,29 @@ de,WReBrwIllao,375,600,sinnlos die maßnahme war es anfangs noch zehn infizierte
 de,WReBrwIllao,382,100,regierung sie lässt 100 und zwei deutsche staatsbürger aus johann zurückfliegen um#
 de,WReBrwIllao,492,100,man auf ein verhältnis kommen von drei leuten von 100 die folgen dieser erkrankung leider versterben oder anhand#
 de,WReBrwIllao,651,300,von heute auf morgen isoliert bekommt mehr als 300 menschen waren auf dieser karnevalssitzung aber immerhin kommen#
-de,0oNF8dQzAWM,56,15.0,wie soll man ohne bäume leben hier plan 15.000 bäume zu pflanzen jedes kind soll fünf bäume pflanzen#
+de,0oNF8dQzAWM,56,150,wie soll man ohne bäume leben hier plan 15000 bäume zu pflanzen jedes kind soll fünf bäume pflanzen#
 de,0oNF8dQzAWM,290,2009,selbst dafür dass sie in schuss bleibt seit 2009 10 bieten die tägliche schulmahlzeiten an#
 de,0oNF8dQzAWM,385,2005,das sind keine spezialisten markus vaitl hat sie hanami doktor janta 2005 gegründet und geholfen die#
 de,0oNF8dQzAWM,424,2006,gebaut seit 2006 versorgt an die vier kilometer lange wasserleitung 7 wasserstellen für#
 de,0oNF8dQzAWM,430,800,lange wasserleitung 7 wasserstellen für die 800 einwohner zuvor holten sie wasser aus einem#
 de,0oNF8dQzAWM,476,200,medizinischer versorgung 200 km entfernt bilde drz der ramp an die hebammen in einem der wenigen#
-de,0oNF8dQzAWM,580,10.0,wie in deutschland und frankreich für 10.000 einwohner steht nur ein arzt zur verfügung#
-de,0oNF8dQzAWM,654,20.0,madagaskar dein geld ist angekommen 20.000 areal okay das ist bestätigt wir haben hier gezeigt dass sie zusätzlich#
-de,0oNF8dQzAWM,665,30.0,zur einzahlung noch einen bonus bekommen hat jetzt hat sich schon 30.000 areal also knapp 10 euro angespart und sie#
+de,0oNF8dQzAWM,580,100,wie in deutschland und frankreich für 10000 einwohner steht nur ein arzt zur verfügung#
+de,0oNF8dQzAWM,654,200,madagaskar dein geld ist angekommen 20000 areal okay das ist bestätigt wir haben hier gezeigt dass sie zusätzlich#
+de,0oNF8dQzAWM,665,300,zur einzahlung noch einen bonus bekommen hat jetzt hat sich schon 30000 areal also knapp 10 euro angespart und sie#
 de,0oNF8dQzAWM,678,3,weiß das geld ist dort angekommen am rande der boomenden 3000000en metropole antananarivo hat ärzte für#
-de,0oNF8dQzAWM,737,10.0,und das finden wir total toll 10.000 zahlende mitglieder hat baker botts versicherung schon neben#
+de,0oNF8dQzAWM,737,100,und das finden wir total toll 10000 zahlende mitglieder hat baker botts versicherung schon neben#
 de,2cZ147NW9B0,83,7000,eibenstock im sächsischen erzgebirge in dem knapp 7000 einwohner zählenden ort nahe der tschechischen grenze werden im#
 de,2cZ147NW9B0,88,100,nahe der tschechischen grenze werden im familienbetrieb funkel seit fast 100 jahren heimtextilien und kleidungsstücke#
 de,2cZ147NW9B0,223,1000,mittlerweile produziert der betrieb knapp 1000 masken pro woche aus demselben stoff aus dem zuvor#
 de,2cZ147NW9B0,691,8000,und das was jetzt in 14 tagen an die apotheken ganga ist von knapp 8000 liter das geht halt wirklich dann alles in die#
 de,2cZ147NW9B0,964,200,arbeiten den letzten verbliebenen große auftrag ab 200 matratzen für eine werft bisher erwirtschafteten sie rund eine#
-de,2cZ147NW9B0,985,50.0,ware wegen früherer investitionen sitzen sie schon auf 50.000 euro schulden ohne zu wissen ob und wann sie diese tilgen#
+de,2cZ147NW9B0,985,500,ware wegen früherer investitionen sitzen sie schon auf 50000 euro schulden ohne zu wissen ob und wann sie diese tilgen#
 de,2cZ147NW9B0,1090,2 million,woche der hatten letzte woche freitag 50 lkw auf dem hof 2000000en werden wir nicht schaffen ich bin jetzt froh wenn#
 de,2cZ147NW9B0,1094,100000,nicht schaffen ich bin jetzt froh wenn wir die 100000 irgendwie erstmal durch genäht bekommen und selbst diese menge#
-de,2cZ147NW9B0,1267,10.0,zertifiziert werden was rund zwei wochen dauert und 10.000 euro kostet in der krise plädiert der unternehmer daher für#
+de,2cZ147NW9B0,1267,100,zertifiziert werden was rund zwei wochen dauert und 10000 euro kostet in der krise plädiert der unternehmer daher für#
 de,2cZ147NW9B0,1410,25 3,ernst sie zum beispiel die haben dann 20 25 30 patienten am tag und müssen eigentlich bei jedem patienten den#
 de,2cZ147NW9B0,1416,730,eigentlich bei jedem patienten den mundschutz wechseln da schmeißen 730 stück weg bei uns den mundschutz müssen#
-de,2cZ147NW9B0,1795,10.0,gesundheitsministerium rahmenverträge für unternehmen an die mindestens 10.000 masken pro woche liefern können die#
+de,2cZ147NW9B0,1795,100,gesundheitsministerium rahmenverträge für unternehmen an die mindestens 10000 masken pro woche liefern können die#
 de,c2YcfKEnVSI,138,8000,im heutigen georgien fand man spuren von wein in krügen aus dem 8000 vor unserer zeitrechnung#
 de,c2YcfKEnVSI,192,1520,erneut auszubreiten 1520 gelangte er mit den spanischen eroberern nach mexiko und in den#
 de,c2YcfKEnVSI,207,1770,hugenotten die weinkultur nach südafrika 1770 gelangte sie mit spanischen kolonisatoren und missionaren nach#
@@ -161,12 +161,12 @@ de,c2YcfKEnVSI,569,300,her den augen was so viel bedeutet wie über den wolken f
 de,c2YcfKEnVSI,588,2016,das wird anhand der chinesischen importe 2016 deutlich alle großen exportländer frankreich#
 de,pQ_dLzGdk54,262,2003,regierungen unser gesundheitswesen bei der sars epidemie von 2003 nicht so gut vorbereitet und nicht so effizient wie#
 de,pQ_dLzGdk54,286,400,fälle in taiwan erheblich niedriger als in vielen anderen ländern etwas über 400 fälle und weniger als zehn corona virus#
-de,pQ_dLzGdk54,1122,000,30.0,wer sein haus verlässt riskiert ein bußgeld von 4.000 bis 30.000 euro um sicherzustellen dass ihre botschaft auch#
+de,pQ_dLzGdk54,1122,000,300,wer sein haus verlässt riskiert ein bußgeld von 4000 bis 30000 euro um sicherzustellen dass ihre botschaft auch#
 de,t_rFDQLADvU,124,2018,entschlüsselung des weizen genoms war 2018 [Musik]#
 de,t_rFDQLADvU,139,500,genom ist fünf mal größer als das des menschen und 500 mal komplexer als das von reis moment mal seid ihr da sicher#
 de,t_rFDQLADvU,149,500,okay das weizen genug ist also fünfmal größer als das des menschen und 500 mal komplexer als das von reis es zusammen#
 de,t_rFDQLADvU,177,200,vor allem mädchen damals sah er so aus an diesem projekt mehr als 200 forscher aus 20 ländern sind daran beteiligt der#
-de,0MmgBPbz8m4,88,15.7,00 2,fast die hälfte der fläche südamerikas ein und es hat eine 15.700 20 kilometer lange gemeinsame grenze mit fast allen#
+de,0MmgBPbz8m4,88,157,00 2,fast die hälfte der fläche südamerikas ein und es hat eine 15700 20 kilometer lange gemeinsame grenze mit fast allen#
 de,0MmgBPbz8m4,99,7400,anderen staaten des subkontinents und es hat eine über 7400 kilometer langen atlantikküste brasilien besteht aus 26#
 de,0MmgBPbz8m4,110,210,brasilia das land war früher eine portugiesische kolonie hatte 210000000en einwohner und amtssprache ist#
 de,0MmgBPbz8m4,189,2018,die wirtschaftsmetropole ich favorisiere christus agent 2018 betrug das wirtschaftswachstum nur 1#
@@ -174,24 +174,24 @@ de,0MmgBPbz8m4,211,2015,länder mit der größten einkommensungleichheit 2015 en
 de,0MmgBPbz8m4,237,30 million,und der südosten sind auch die reichsten vor allem das 30000000en einwohner zählende dreieck zwischen sao paulo rio#
 de,0MmgBPbz8m4,253,55 million,bevölkerungsmäßig die zweitgrößte region mit 55000000en einwohnern macht aber nur 13 prozent der landesweiten#
 de,Fx11Y4xjDwA,77,2009,2010,Also um mal zu verstehen wie man auf diese Idee\nkommen kann dass es einen weltweiten Hype um  einen Virus geben könnte: Es gab im Jahr 2009/2010\ndie sogenannte Schweinegrippe. Und da hat die  Weltgesundheitsorganisation auch eine Pandemie\nausgerufen. Also praktisch genauso wie jetzt. Nur#
-de,Fx11Y4xjDwA,96,000,es hat sich gar keine entwickelt. Es war eine der\nschwächsten Grippewellen aller Zeiten. Also es gab gerade mal in Europa 3.000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2.500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im#
-de,Fx11Y4xjDwA,102,500,Also es gab gerade mal in Europa 3.000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2.500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40.000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja#
-de,Fx11Y4xjDwA,107,40.0,sterben jeden Tag 2.500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40.000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4.000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung#
-de,Fx11Y4xjDwA,114,000,Winter schonmal 40.000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4.000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung die erwartbar ist. Das ist das Argument derjenigen\ndie meinen das alles sei alles Hysterie. #
-de,Fx11Y4xjDwA,140,000,den Grund. Normalerweise sterben in Italien bei\neiner Gesamtbevölkerung von 60 Millionen Menschen jeden Tag etwa 2.000 Personen. Das schwankt na-\ntürlich mit den Jahreszeiten.  Gestern am 18. März 2020 \nwaren es 475 Tote mehr.#
+de,Fx11Y4xjDwA,96,000,es hat sich gar keine entwickelt. Es war eine der\nschwächsten Grippewellen aller Zeiten. Also es gab gerade mal in Europa 3000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im#
+de,Fx11Y4xjDwA,102,500,Also es gab gerade mal in Europa 3000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja#
+de,Fx11Y4xjDwA,107,400,sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung#
+de,Fx11Y4xjDwA,114,000,Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung die erwartbar ist. Das ist das Argument derjenigen\ndie meinen das alles sei alles Hysterie. #
+de,Fx11Y4xjDwA,140,000,den Grund. Normalerweise sterben in Italien bei\neiner Gesamtbevölkerung von 60 Millionen Menschen jeden Tag etwa 2000 Personen. Das schwankt na-\ntürlich mit den Jahreszeiten.  Gestern am 18. März 2020 \nwaren es 475 Tote mehr.#
 de,Fx11Y4xjDwA,304,00:0,11,0,00:0,16,0,Wie weit sind wir in Deutschland von der Situation\nder Triage entfernt? Dazu muss man wissen dass\n \n51\n00:04:57000 --> 00:05:05000\nungefähr 5% der an COVID-19 erkrankten Patienten\nbeatmungspflichtig sind. Und dazu muss man nun wieder wissen dass eine Beatmung alles andere als\neine einfache "ja ich geb\ dir ein bisschen mehr\n \n53\n00:05:11000 --> 00:05:16000\nSauerstoff" ist. Sondern Beatmung ist eine Me-\ndizinische Hochleistung die nur von  Expertinnen und Experten durchgeführt werden kann.\nUnd die sehr empfindlich ist und der kleinste #
-de,Fx11Y4xjDwA,325,28.0,Fehler kann für den Patienten tödlich sein. Eine\nBeatmung ist eine traumatische Erfahrung das will man eigentlich nicht. Nach Angaben der Experten \nhaben wir in Deutschland 28.000 Intensivbetten in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes-#
-de,Fx11Y4xjDwA,335,10.0,00:0,43,0,00:0,48,0,in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes- regierung hat gerade 10.000 neue Beatmungsgeräte \ngeordert. Das wird sich allerdings über das Jahr\n \n59\n00:05:43000 --> 00:05:48000\nhinziehen. Ja und dann haben wir zurzeit nach\nAngaben von Experten eine Auslastung von rund  80 % dieser Intensivbetten. Und wiederrum die \nKrankenhäuser teilen mit wenn man also #
-de,Fx11Y4xjDwA,359,14.0,verschiebbare Operationen verschiebt dann lässt\nsich ungefähr die Hälfte der Intensivbetten  jetzt zur Verfügung stellen für diese Epidemie.\nDas heißt wir hätten in Deutschland 14.000  Intensivbetten mit Beatmungsapparaten zur Ver-\nfügung. Jetzt kann man sich die Frage stellen #
-de,Fx11Y4xjDwA,389,000,"zusammenbricht? Dazu ist es notwendig zu wissen\nwie lange ein Patient beatmet werden muss im Allgemeinen ist das so um ne Woche herum. \nDann können pro Tag 2.000 neue Patienten in diese in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt"]#
-de,Fx11Y4xjDwA,401,100,in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt von den 5 % nämlich den 2.000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40.000 #
-de,Fx11Y4xjDwA,408,40.0,von den 5 % nämlich den 2.000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40.000  Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die?#
-de,Fx11Y4xjDwA,422,000,Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die? Gestern hatten wir eine Zunahme von \n3.000 Neuinfizierten. Am Tag  zuvor von 2.000 am Tag zuvor von 1.200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr #
-de,Fx11Y4xjDwA,430,000,200,900,00:0,18,0,00:0,24,0,Gestern hatten wir eine Zunahme von \n3.000 Neuinfizierten. Am Tag  zuvor von 2.000 am Tag zuvor von 1.200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr  ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen #
-de,Fx11Y4xjDwA,448,000,300,ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen  dann haben wir und das muss ich jetzt ablesen\nheute 4.000 morgen etwa 5.300 dann hätten wir übermorgen 7.000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39.000 Neuinfizierte.#
-de,Fx11Y4xjDwA,454,000,39.0,dann haben wir und das muss ich jetzt ablesen\nheute 4.000 morgen etwa 5.300 dann hätten wir übermorgen 7.000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39.000 Neuinfizierte. Ohne Gegenmaßnahmen bei ungebremsten\nexponentiellem Wachstum mit einem Viertel oder #
-de,Fx11Y4xjDwA,486,500,000,London veröffentlicht hat. Demnach würde es ohne\nGegenmaßnahmen wenn überhaupt nichts gemacht  werden würde in Großbritannien also im Ver-\neinigten Königreich 500.000 Leute sterben und in den USA 22 Millionen sogar. Und selbst\ndann wenn es sehr einschränkende Maßnahmen geben #
-de,Fx11Y4xjDwA,505,250,000,sollte in beiden Ländern dann würden sich die \nTodesraten praktisch halbieren. Also man spricht  von 250.000 Toten im Vereinigten Königreich in\nGroßbritannien und von 11 Millionen bis  12 Millionen in den USA. Und das Imperial \nCollege teilt mit dass selbst bei optimaler#
+de,Fx11Y4xjDwA,325,280,Fehler kann für den Patienten tödlich sein. Eine\nBeatmung ist eine traumatische Erfahrung das will man eigentlich nicht. Nach Angaben der Experten \nhaben wir in Deutschland 28000 Intensivbetten in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes-#
+de,Fx11Y4xjDwA,335,100,00:0,43,0,00:0,48,0,in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes- regierung hat gerade 10000 neue Beatmungsgeräte \ngeordert. Das wird sich allerdings über das Jahr\n \n59\n00:05:43000 --> 00:05:48000\nhinziehen. Ja und dann haben wir zurzeit nach\nAngaben von Experten eine Auslastung von rund  80 % dieser Intensivbetten. Und wiederrum die \nKrankenhäuser teilen mit wenn man also #
+de,Fx11Y4xjDwA,359,140,verschiebbare Operationen verschiebt dann lässt\nsich ungefähr die Hälfte der Intensivbetten  jetzt zur Verfügung stellen für diese Epidemie.\nDas heißt wir hätten in Deutschland 14000  Intensivbetten mit Beatmungsapparaten zur Ver-\nfügung. Jetzt kann man sich die Frage stellen #
+de,Fx11Y4xjDwA,389,000,"zusammenbricht? Dazu ist es notwendig zu wissen\nwie lange ein Patient beatmet werden muss im Allgemeinen ist das so um ne Woche herum. \nDann können pro Tag 2000 neue Patienten in diese in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt"]#
+de,Fx11Y4xjDwA,401,100,in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt von den 5 % nämlich den 2000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40000 #
+de,Fx11Y4xjDwA,408,400,von den 5 % nämlich den 2000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40000  Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die?#
+de,Fx11Y4xjDwA,422,000,Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die? Gestern hatten wir eine Zunahme von \n3000 Neuinfizierten. Am Tag  zuvor von 2000 am Tag zuvor von 1200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr #
+de,Fx11Y4xjDwA,430,000,200,900,00:0,18,0,00:0,24,0,Gestern hatten wir eine Zunahme von \n3000 Neuinfizierten. Am Tag  zuvor von 2000 am Tag zuvor von 1200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr  ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen #
+de,Fx11Y4xjDwA,448,000,300,ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen  dann haben wir und das muss ich jetzt ablesen\nheute 4000 morgen etwa 5300 dann hätten wir übermorgen 7000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39000 Neuinfizierte.#
+de,Fx11Y4xjDwA,454,000,390,dann haben wir und das muss ich jetzt ablesen\nheute 4000 morgen etwa 5300 dann hätten wir übermorgen 7000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39000 Neuinfizierte. Ohne Gegenmaßnahmen bei ungebremsten\nexponentiellem Wachstum mit einem Viertel oder #
+de,Fx11Y4xjDwA,486,500,000,London veröffentlicht hat. Demnach würde es ohne\nGegenmaßnahmen wenn überhaupt nichts gemacht  werden würde in Großbritannien also im Ver-\neinigten Königreich 500000 Leute sterben und in den USA 22 Millionen sogar. Und selbst\ndann wenn es sehr einschränkende Maßnahmen geben #
+de,Fx11Y4xjDwA,505,250,000,sollte in beiden Ländern dann würden sich die \nTodesraten praktisch halbieren. Also man spricht  von 250000 Toten im Vereinigten Königreich in\nGroßbritannien und von 11 Millionen bis  12 Millionen in den USA. Und das Imperial \nCollege teilt mit dass selbst bei optimaler#
 de,y-MBg5PlpmE,262,150,Der ganze Vorgang über den wir hier sprechen ist\nals physikalischer Vorgang wohl definiert. Wir haben in 150mio Kilometer Entfernung \neinen Kernfusionsreaktor den nennen wir "Sonne". Seine Oberflächentemperatur ist knapp 6000 Kelvin.\nDas heißt er schickt sichtbares Licht zur Erde#
 de,y-MBg5PlpmE,267,6000,Wir haben in 150mio Kilometer Entfernung \neinen Kernfusionsreaktor den nennen wir "Sonne". Seine Oberflächentemperatur ist knapp 6000 Kelvin.\nDas heißt er schickt sichtbares Licht zur Erde Dieses sichtbare Licht hat eine hohe Energie \nund kann den Erdkörper erwärmen.#
 de,y-MBg5PlpmE,410,1824,1800,Und das ist schon sehr lange bekannt.\nEs beginnt das ist eine irre Geschichte... Wir haben ja Zeit hier also 1824. Ja also um \n1800 rum hat man zum ersten Mal verstanden es muss mal Eiszeiten gegeben haben. Und damals \nhat man sich gefragt ja Menschenskinder #
@@ -200,13 +200,13 @@ de,y-MBg5PlpmE,449,1824,Erde abgibt speichert. Also praktisch wie so ein\nWärme
 de,y-MBg5PlpmE,455,1856,1856,ansonsten wäre die Erde gar nicht wieder auf- \ngetaut! Das war 1824 Jean Baptiste Fourier. Und im Jahr 1856 macht Eunice Foote \nzum allerersten Mal 1856  Experimente mit Glaszylindern mit unter- \nschiedlicher Luftzusammensetzung und lässt da #
 de,y-MBg5PlpmE,476,200,erwärmt. Ist das nicht unglaublich? Ich meine \nwir feiern quasi in gewisser Weise in 5 Jahren 200-jähriges Jubiläum \nder Erkenntnis des Treibhauseffekts! [Übergangsmusik]#
 de,y-MBg5PlpmE,651,5730,verbrannt und so weiter aber das alles passiert \nnatürlich auf Zeitskalen die so kurz sind dass dabei der Kohlenstoff-14-Gehalt sich \npraktisch nicht verändert. 5730 Jahre ist die  Halbwertszeit das ist also praktisch das\nTicken der C14-Uhr. Also nach 10 Halbwertszeiten#
-de,y-MBg5PlpmE,669,60.0,wäre fast nichts mehr an Kohlenstoff-14 in einem\nzum Beispiel... in einer Probe da. Also wenn etwas 60.000 Jahre alt ist \ndann sollte das so gut wie kein Kohlenstoff-14 Isotop mehr zu finden sein.\nUnd wenn wir uns mal kurz fragen:#
+de,y-MBg5PlpmE,669,600,wäre fast nichts mehr an Kohlenstoff-14 in einem\nzum Beispiel... in einer Probe da. Also wenn etwas 60000 Jahre alt ist \ndann sollte das so gut wie kein Kohlenstoff-14 Isotop mehr zu finden sein.\nUnd wenn wir uns mal kurz fragen:#
 de,y-MBg5PlpmE,684,300,Wie alt sind denn die fossilen Ressourcen\ndie wir verbrennen? Also Öl Kohle und Gas. die sind viele Millionen Jahre alt.\nEinige sogar 300 Millionen Jahre alt. Stammen also aus dem Karbon also\nschon lange her. Das heißt#
 de,imTFizzJ3P8,27,1800,[Intro-Musik] Wir sind hier in der Ausstellung "Natur-\nwissenschaften um 1800" und hier kann man lernen wie Naturwissenschaften um 1800 angefangen\nhaben sich mit dem Sichtbaren und dem Unsichtbaren#
 de,imTFizzJ3P8,34,1800,Wir sind hier in der Ausstellung "Natur-\nwissenschaften um 1800" und hier kann man lernen wie Naturwissenschaften um 1800 angefangen\nhaben sich mit dem Sichtbaren und dem Unsichtbaren zu beschäftigen. Das Spektrum hier von\nJoseph von Frauenhofer 1814 veröffentlicht #
 de,imTFizzJ3P8,40,1814,wie Naturwissenschaften um 1800 angefangen\nhaben sich mit dem Sichtbaren und dem Unsichtbaren zu beschäftigen. Das Spektrum hier von\nJoseph von Frauenhofer 1814 veröffentlicht  stammt eigentlich aus einer Untersuchung darüber\nwie man Linsen optimal schleifen kann sodass#
-de,imTFizzJ3P8,125,700,000,700,offenbar hat die Sonne noch eine Atmosphäre die\nsogenannte Photosphäre. Die Sonne ist ein ziemlich großer Gas-Ball - 700.000 km Radius und eine\nTemperatur von über 5.700 Kelvin. Und über ihr ist eine Atmosphäre aus dünnerem Gas. Also das dichte\nGas der Sonne produziert ein kontinuierliches#
-de,imTFizzJ3P8,446,100,000,toller: Man kann anhand bestimmter Linien\ngar die Rotation von Galaxien beobachten. Also die Gesamtbewegung eines Objektes\ndas mehrere 100.000 Lichtjahre groß ist. Und man kann sehen wie sich das Material um\nschwarze Löcher herum bewegt und vieles anderes mehr.#
+de,imTFizzJ3P8,125,700,000,700,offenbar hat die Sonne noch eine Atmosphäre die\nsogenannte Photosphäre. Die Sonne ist ein ziemlich großer Gas-Ball - 700000 km Radius und eine\nTemperatur von über 5700 Kelvin. Und über ihr ist eine Atmosphäre aus dünnerem Gas. Also das dichte\nGas der Sonne produziert ein kontinuierliches#
+de,imTFizzJ3P8,446,100,000,toller: Man kann anhand bestimmter Linien\ngar die Rotation von Galaxien beobachten. Also die Gesamtbewegung eines Objektes\ndas mehrere 100000 Lichtjahre groß ist. Und man kann sehen wie sich das Material um\nschwarze Löcher herum bewegt und vieles anderes mehr.#
 de,N5nhZrN7Gd4,6,2019,[Intro] Am 11. Juli 2019 präsentierten\ndie Vereinten Nationen die Zahl der "Centenarians".\nDas sind Menschen die Hundert Jahre#
 de,N5nhZrN7Gd4,14,533,die Zahl der "Centenarians".\nDas sind Menschen die Hundert Jahre oder älter sind. Es sind 533 Tausend.\nDas ist ein enormer Zuwachs. Im Vergleich zum Jahr 2000\ndamals waren es nur 150 Tausend.#
 de,N5nhZrN7Gd4,19,2000,150,oder älter sind. Es sind 533 Tausend.\nDas ist ein enormer Zuwachs. Im Vergleich zum Jahr 2000\ndamals waren es nur 150 Tausend. Offenbar gibt es immer mehr Menschen\ndie ein immer besseres Leben#
@@ -216,22 +216,22 @@ de,eberAOdTgXM,5,8462852,Vor über drei Jahren haben wir in einem\nder ersten Vi
 de,eberAOdTgXM,21,8462852,"[Intro-Musik] KIC8462852 auch bekannt als Tabbys Star\noder unter den Expertinnen und Experten als Boyajians Star was ein bisschen schwer ist.\nDie Entdeckerin war Tabetha Boyajian und Tabbys Star"]#
 de,eberAOdTgXM,669,317,Es ist nicht nur so dass unsere Sonne ein G-\nStern ist ein bisschen kleiner also weniger Masse sondern die Tatsache dass da draußen der Jupiter\nhängt mit 317 Erdmassen doppelt so schwer wie alle anderen Planeten zusammen und hinter ihm noch\nder Saturn ist der ca. ein Drittel Jupitermasse hat#
 de,YjHoztHwF3M,27,1977,[Intro-Musik] 1977 sind die zwei Sonden losgeschickt worden.\nDer Erwartungswert der NASA war dass die nach vier Jahren ihre Instrumente abschalten\nund den Dienst nach Vorschrift erledigt haben.#
-de,YjHoztHwF3M,46,61.0,55.0,Hätten Voyager 1 und 2 also Dienst\nnach Vorschrift gemacht wären die längst tot. Aber sie haben nicht aufgehört. Sie fliegen heute\nVoyager 1 mit 61.000 km/h Voyager 2 mit 55.000 km/h weg vom Sonnensystem\nhinaus ins interstellare Nichts.#
+de,YjHoztHwF3M,46,610,550,Hätten Voyager 1 und 2 also Dienst\nnach Vorschrift gemacht wären die längst tot. Aber sie haben nicht aufgehört. Sie fliegen heute\nVoyager 1 mit 61000 km/h Voyager 2 mit 55000 km/h weg vom Sonnensystem\nhinaus ins interstellare Nichts.#
 de,YjHoztHwF3M,104,1980,dann kommt Neptun. Früher gab’s noch Pluto\nder wird heute aber zu den Zwergplaneten gezählt. Sie sind 1977 losgeflogen sind erst zum Jupiter dann\nzum Saturn und schon beim Saturn 1980 war es so dass eine der beiden Sonden die Ebene der Planeten\nund somit praktisch das Sonnensystem verlassen.#
 de,YjHoztHwF3M,116,1980,dass eine der beiden Sonden die Ebene der Planeten\nund somit praktisch das Sonnensystem verlassen. Wenn das das Sonnensystem wäre wo nur die\nPlaneten sind. Dann ist der seit 1980 auf dem Weg raus. Der andere ist aber 1989 an Neptun vorbeigeflogen\nund hat seitdem die Biege in Richtung Süden gemacht#
 de,YjHoztHwF3M,124,1989,Wenn das das Sonnensystem wäre wo nur die\nPlaneten sind. Dann ist der seit 1980 auf dem Weg raus. Der andere ist aber 1989 an Neptun vorbeigeflogen\nund hat seitdem die Biege in Richtung Süden gemacht Das heißt der eine ist in Richtung Norden und der\nandere in Richtung Süden vom Sonnensystem weggeflogen.#
-de,YjHoztHwF3M,170,000,hundert AE dabei und offenbar durchkreuzen\nsie die Ebene auf der die Planeten sind. Da hinten beginnt das Reich des Dunklen. Da sind nur\nnoch ca. 1.000 Zwergplaneten die wir bis heute kennen. Der Einfluss der Wärme und der Strahlung der\nSonne wird so weit außen immer weniger aber#
-de,YjHoztHwF3M,194,000,der von der Sonne übrig\ngebliebene Sonnenwind ist noch da. Die Sonne ist ein Gas-Ball mit einer Oberflächentem-\nperatur von 6.000 K. Von ihr strömt der Sonnenwind ab. Das ist ein geladenes Gas ein sogenanntes Plasma\nmit einer gewissen Geschwindigkeit und Dichte#
+de,YjHoztHwF3M,170,000,hundert AE dabei und offenbar durchkreuzen\nsie die Ebene auf der die Planeten sind. Da hinten beginnt das Reich des Dunklen. Da sind nur\nnoch ca. 1000 Zwergplaneten die wir bis heute kennen. Der Einfluss der Wärme und der Strahlung der\nSonne wird so weit außen immer weniger aber#
+de,YjHoztHwF3M,194,000,der von der Sonne übrig\ngebliebene Sonnenwind ist noch da. Die Sonne ist ein Gas-Ball mit einer Oberflächentem-\nperatur von 6000 K. Von ihr strömt der Sonnenwind ab. Das ist ein geladenes Gas ein sogenanntes Plasma\nmit einer gewissen Geschwindigkeit und Dichte#
 de,YjHoztHwF3M,302,2012,wenn sie durch diese Heliosphärengrenze\nalso durch die Heliopause geflogen wären. Und das ist im Jahr 2012 passiert. Viele der Instrumente sind noch\naktiv und messen beispielsweise Dichte-Erhöhungen. Diese Dichte-Erhöhung ist im 2012 bei Voyager 1\npassiert. Das heißt diese Sonde hat festgestellt#
 de,YjHoztHwF3M,315,2012,im Jahr 2012 passiert. Viele der Instrumente sind noch\naktiv und messen beispielsweise Dichte-Erhöhungen. Diese Dichte-Erhöhung ist im 2012 bei Voyager 1\npassiert. Das heißt diese Sonde hat festgestellt dass bei den Messungen keine Teilchen mehr von der\nSonne kamen sondern nur noch vom interstellaren Medium.#
-de,YjHoztHwF3M,354,333,000,vor allem durch die Schwerkraft der Sonne\ndefiniert wird also nicht nur durch den Sonnenwind. Die Sonne hat 333.000 Erdmassen ist die dominante Gravi-\ntationsquelle im 
+de,YjHoztHwF3M,354,333,000,vor allem durch die Schwerkraft der Sonne\ndefiniert wird also nicht nur durch den Sonnenwind. Die Sonne hat 333000 Erdmassen ist die dominante Gravi-\ntationsquelle im 
 de,qdAH4019or0,301,238,239,schnelle Neutronen. Schnelle Neutronen produzieren\nSpaltprodukte von 238 von Uran 238. Das ist toll. Die anderen Uran 238 werden durch das Einfangen eines\nNeutrons in ein Uran 239 verwandelt. Wirst du sagen: "Naja und?" Ja Uran 239 zerfällt in Neptunium. "Na\nund?" Ja Neptunium zerfällt wieder in Plutonium und#
 de,qdAH4019or0,309,239,Die anderen Uran 238 werden durch das Einfangen eines\nNeutrons in ein Uran 239 verwandelt. Wirst du sagen: "Naja und?" Ja Uran 239 zerfällt in Neptunium. "Na\nund?" Ja Neptunium zerfällt wieder in Plutonium und Plutonium ist die ürsprungliche Quelle der schnellen\nNeutronen. So und jetzt heißt: man könnte sich ein#
 de,qdAH4019or0,327,239,Reaktorkonzept überlegen dass man ein bisschen\nPlutonium umgibt in einem großen Behälter also mit Uran 238. Von dem Plutonium kommen jetzt schnelle\nNeutronen in das Uran 238. Die einen machen Uran 239 Neptunium Plutonium. Das heißt wir haben eine\nQuelle eine Dauerquelle für schnelle Neutronen.#
 de,qdAH4019or0,342,238,Neptunium Plutonium. Das heißt wir haben eine\nQuelle eine Dauerquelle für schnelle Neutronen. Andererseits sind die schnellen Neutronen aber\nauch in der Lage Uran 238 zu spalten und aus den Spaltprodukten kommt dann die Energie oder bei dem\nSpalten dieser großen Atomkerne wird die Energie#
 de,qdAH4019or0,367,238,Und das ist das Prinzip des Laufwellenreaktors\ndass man nämlich durch eine kleine Menge von Plutonium beginnt praktisch systematisch\nläuft das wie so eine Welle durch das Uran 238. Erstens werden die Spaltprodukte erzeugt durch\ndie schnelle Neutronen aber zugleich auch Plutonium#
 de,qdAH4019or0,502,440,Plutnonium kann ja für nukleare Waffensysteme\nverwendet werden. Und dann kommt das größte Problem. Wir haben 440 Atomkraftwerke auf der\nWelt und es fallen pro Jahr 8300 Tonnen an hochradioaktivem Materialen. Es gibt kein\neinziges Endlager auf der Welt. Also das heißt#
-de,Iaa5B6PAZ7Q,142,243,fünf prozent würden wir kleinen rechnerisch 243.000 menschen verlieren nur die risikogruppen über so einen#
+de,Iaa5B6PAZ7Q,142,243,fünf prozent würden wir kleinen rechnerisch 243000 menschen verlieren nur die risikogruppen über so einen#
 de,Iaa5B6PAZ7Q,420,300,nachdem es aber immer wieder kritik gehabt und sich 300 experten in einem offenen brief gegen eine zentrale#
 de,Iaa5B6PAZ7Q,800,41 million,containment zu betreiben das sind mehr als 41000000en menschen in deutschland die sich alle eine app#
 de,Iaa5B6PAZ7Q,807,2018,57 million,statistik hier hatten in deutschland 2018 nur 57000000en menschen ein smartphone#
@@ -240,11 +240,11 @@ de,Iaa5B6PAZ7Q,855,2015,dieses system funktioniert aber nicht auf freiwilliger b
 de,Iaa5B6PAZ7Q,904,2015,südkorea hat das tracking von smartphones 2015 eingeführt und benutzt es jetzt wieder wenn auch zu einem#
 de,Iaa5B6PAZ7Q,922,2001,ich an erkenntnissen gewinnen wir sind jetzt 20 jahre seit den anschlägen 2001 wo der staat eine sicherheitsmaßnahme#
 de,Iaa5B6PAZ7Q,1041,4000,gesundheitsämter aufzustocken berichten zufolge sollen 4000 fünfköpfige team ist im überblick über#
-de,Iaa5B6PAZ7Q,1045,20.0,fünfköpfige team ist im überblick über jeweils 20.000 bürger behalten ohne hilfsmittel wird das schwierig waren#
+de,Iaa5B6PAZ7Q,1045,200,fünfköpfige team ist im überblick über jeweils 20000 bürger behalten ohne hilfsmittel wird das schwierig waren#
 de,qq0fjl0LQXo,394,100,leben das heißt nicht 100 prozent des stromes denn ich von denen die#
 de,qq0fjl0LQXo,511,200,300,der eine neue und größere anlage bereits 200 bis 300 liter kraftstoff am tag herstellen soll#
 de,qq0fjl0LQXo,515,2025,herstellen soll und ab 2025 soll dann in der dritten phase eine vorindustrielle version#
-de,sXJ1srxDOXQ,106,10.0,20.0,das ist eine kleine power bank mit 10.000 oder 20.000 milliamperestunden und der hersteller zeigt sich#
+de,sXJ1srxDOXQ,106,100,200,das ist eine kleine power bank mit 10000 oder 20000 milliamperestunden und der hersteller zeigt sich#
 de,sXJ1srxDOXQ,361,2016,ionen batterien diese ankündigung kam aber schon 2016 seitdem herrscht um das konzept#
 de,sXJ1srxDOXQ,436,2020,im neuen video erzähle ich euch wie der aktuelle stand von e autos im jahr 2020 aussieht dass videos gerade ganz frisch#
 de,FL92N6ozRI4,88,2004,noch ganz nebenbei meinem kanal denn es mit der irre leiten 2004 haben die beiden wissenschaftler andre geim#
@@ -263,30 +263,30 @@ de,7pwYjOfDFz0,564,420,000000en plastikteilchen verantwortlich und ich nehme jed
 de,L8N2VTD-btg,39,2011,das was ich spannend findet der film kam 2011 raus und hat damals schon extrem viel vorhergesagt von der heutigen#
 de,L8N2VTD-btg,88,2000,großteil der menschlichen erreger sind jahr 2000 also gerade wenn irgendwo über neue erreger reden in regel kommen die#
 de,L8N2VTD-btg,296,1800,einfach wahnsinnig viele menschen engagiert haben 1800 teams gehabt von fünf oder mehr menschen in jedem team#
-de,L8N2VTD-btg,955,30.0,ganze zeit das virus mit dem es im moment zu tun haben hat knapp 30.000 basenpaare und über die 30.000#
-de,L8N2VTD-btg,957,30.0,moment zu tun haben hat knapp 30.000 basenpaare und über die 30.000 basenpaare zwei bis vier mutationen im#
-de,L8N2VTD-btg,1260,100,000,menschen ich kann ich selbst exponenten 100.000 menschen nicht unbedingt finden die#
+de,L8N2VTD-btg,955,300,ganze zeit das virus mit dem es im moment zu tun haben hat knapp 30000 basenpaare und über die 30000#
+de,L8N2VTD-btg,957,300,moment zu tun haben hat knapp 30000 basenpaare und über die 30000 basenpaare zwei bis vier mutationen im#
+de,L8N2VTD-btg,1260,100,000,menschen ich kann ich selbst exponenten 100000 menschen nicht unbedingt finden die#
 de,cfT6FhA4NFE,9,100,seit meinem allerersten video habe ich knapp 100 weitere videos hochgeladen die von euch über neun 000000en mal#
 de,cfT6FhA4NFE,74,164,traffics aus allein auf netflix werden jeden tag 164000000en filme und serienfolgen gestreamt das sind ungefähr#
-de,cfT6FhA4NFE,80,500,000,serienfolgen gestreamt das sind ungefähr 500.000 terabyte jeden tag und alles was du online macht kostet energie#
+de,cfT6FhA4NFE,80,500,000,serienfolgen gestreamt das sind ungefähr 500000 terabyte jeden tag und alles was du online macht kostet energie#
 de,cfT6FhA4NFE,117,2014,und sind die weltweit größte ansammlung von rechenzentren 2014 hat amazon angekündigt in zukunft mehr server mit#
 de,cfT6FhA4NFE,133,2009,energien keine spur 2009 10 wurden nur zwölf prozent der amazon server in virginia mit grüner#
 de,cfT6FhA4NFE,264,195,pro minute bei einer länge von 13 minuten also 1195 megabyte die vom rechenzentrum zu dir nach hause auf den#
 de,cfT6FhA4NFE,297,000,smartphone erreicht hat dann hat es trommelwirbel bitter ganze 0000 04 09 5 kilowattstunden verbraucht zum vergleich#
 de,cfT6FhA4NFE,306,300,den diesem handy akku hier steckt ungefähr 300 mal so viel energie sollte dieses video hier aber nicht nur#
-de,cfT6FhA4NFE,310,50.0,sollte dieses video hier aber nicht nur einen aufruf sondern vielleicht 50.000 aufrufe bekommen dann sind das schon#
+de,cfT6FhA4NFE,310,500,sollte dieses video hier aber nicht nur einen aufruf sondern vielleicht 50000 aufrufe bekommen dann sind das schon#
 de,cfT6FhA4NFE,315,114,ganze zwei kilowattstunden das sind immerhin schon 114 handy akkus im zweifel verbrauch dieses video aber#
 de,cfT6FhA4NFE,351,100,niederlanden belgien oder dänemark nach eigenen angaben werden diese mit 100 prozent erneuerbare energie betrieben#
 de,cfT6FhA4NFE,376,174,um hochrechnungen aber laut einer statistik liegen wir bei 4174 gramm co2 pro verbrauchter kilowattstunde ja groß#
-de,cfT6FhA4NFE,384,50.0,stößt in dieses video hier pro klick 001 gramm co2 aus bei 50.000 aufrufen sind das immerhin schon 970 gramm co2#
-de,cfT6FhA4NFE,387,970, gramm co2 aus bei 50.000 aufrufen sind das immerhin schon 970 gramm co2 also fast ein kilogramm#
+de,cfT6FhA4NFE,384,500,stößt in dieses video hier pro klick 001 gramm co2 aus bei 50000 aufrufen sind das immerhin schon 970 gramm co2#
+de,cfT6FhA4NFE,387,970, gramm co2 aus bei 50000 aufrufen sind das immerhin schon 970 gramm co2 also fast ein kilogramm#
 de,cfT6FhA4NFE,416,360,180,4k oder auch nur full hd sondern vielleicht sogar nun 360 ps oder 180 p weil sonst die internetverbindung nicht#
 de,cfT6FhA4NFE,444,100,einfach den verbrauch dieses videos mit 100 multiplizieren schließlich sind die videos auf diesem kanal unterschiedlich#
 de,cfT6FhA4NFE,493,750,bei ungefähr 14 megawatt pro minute wurden also für diesen kanal knapp 750 terabyte an daten verschickt und#
 de,cfT6FhA4NFE,611,018,wir mit aktuellen zahlen dann kommen netflix auf knapp 0018 mega tonnen co2 pro jahr#
 de,cfT6FhA4NFE,617,2009,915,im vergleich der globale flugverkehr hat 2009/10 bei 915 mega tonnen co2 die kinder werden kosten und rufen auf das#
-de,M2b2cTVluFY,54,000,Und abonniert gerne diesen Kanal um kein neues Video von mir zu verpassen! Wusstet ihr dass ihr laut statistischem Bundesamt\nim Durchschnitt über 1.000€ vom Finanzamt zurückbekommt wenn ihr eure Steuererklärung\nabgebt?#
-de,M2b2cTVluFY,91,000,Wenn du weniger zurückbekommst dann ist\nTaxfix komplett Gratis. Du gehst also kein Risiko ein kriegst durchschnittlich\nfür 22 Minuten Arbeit über 1.000€ und hilfst sogar noch meinem Kanal wenn du den\nallerersten Link in der Videobeschreibung#
+de,M2b2cTVluFY,54,000,Und abonniert gerne diesen Kanal um kein neues Video von mir zu verpassen! Wusstet ihr dass ihr laut statistischem Bundesamt\nim Durchschnitt über 1000€ vom Finanzamt zurückbekommt wenn ihr eure Steuererklärung\nabgebt?#
+de,M2b2cTVluFY,91,000,Wenn du weniger zurückbekommst dann ist\nTaxfix komplett Gratis. Du gehst also kein Risiko ein kriegst durchschnittlich\nfür 22 Minuten Arbeit über 1000€ und hilfst sogar noch meinem Kanal wenn du den\nallerersten Link in der Videobeschreibung#
 de,M2b2cTVluFY,109,2100,In nur drei Jahren sollen es schon 8 Milliarden\nsein. Für 2100 prognostiziert die UN 11 Milliarden. Solange ich mich erinnern kann wächst die\nBevölkerung.#
 de,M2b2cTVluFY,147,1870,Heute hat ein Säugling vierzigmal bessere\nChancen seinen ersten Geburtstag zu feiern als 1870. Doch natürlich hörten die Menschen nicht\nsofort auf Kinder zu bekommen.#
 de,M2b2cTVluFY,176,2070,Wachstum. Eine Forschergruppe um den Wiener Professor\nWolfgang Lutz sagt voraus dass schon 2070 Schluss mit dem weltweiten Wachstum ist.#
@@ -295,26 +295,26 @@ de,M2b2cTVluFY,332,1789,Die Menschheit wird untergehen sage ich euch. Das dachte
 de,M2b2cTVluFY,368,1952,Er wollte nicht aufgeben und stand jahrzehntelang\nbei glühender Hitze auf einem Acker in Mexiko. 1952 gelang ihm dann der Durchbruch zu etwas\ndas so vielen Menschen das Leben retten sollte dass er dafür Jahre später den Nobelpreis\nerhielt.#
 de,M2b2cTVluFY,437,2100,Tatsächlich steht uns der große Wendepunkt\nkurz bevor. Denn das Interessante an den Zahlen der UN\nist nicht die Bevölkerungszahl für 2100 – es ist das was danach passiert.#
 de,M2b2cTVluFY,531,100,2060,Das hier war übrigens die Generation der\nBabyboomer und hier wurde die Pille eingeführt. Derzeit „bezahlen“ 100 Arbeiter 36 Rentner.\n2060 könnten das schon 51 Rentner sein. Das heißt: Immer weniger Arbeiter müssen\nimmer mehr Rentner finanzieren.#
-de,M2b2cTVluFY,561,2000,77.0,selbst herausbekommen werden. Eine Schätzung hat ergeben dass Menschen\naus dem Jahrgang 2000 bereits 77.000€ mehr in die Rentenkasse einzahlen werden als sie\nspäter ausbezahlt bekommen.#
+de,M2b2cTVluFY,561,2000,770,selbst herausbekommen werden. Eine Schätzung hat ergeben dass Menschen\naus dem Jahrgang 2000 bereits 77000€ mehr in die Rentenkasse einzahlen werden als sie\nspäter ausbezahlt bekommen.#
 de,M2b2cTVluFY,590,2012,In Südkorea ist die Entwicklung besonders\nkrass denn dort ist man bei dieser Entwicklung noch ein wenig weiter als wir. 2012 war Südkorea\nnoch das Land mit der drittjüngsten Bevölkerung unter den OECD-Ländern.#
 de,M2b2cTVluFY,597,2030,unter den OECD-Ländern. OECD das ist eine Organisation der hauptsächlich\nIndustrienationen angehören. 2030 wird es wahrscheinlich das mit der Zweitältesten\nsein.#
-de,M2b2cTVluFY,891,000,Dennoch brauchen wir dringend Ansätze wie\nwir unsere Gesellschaft neu gestalten wollen. Vergesst nicht euch durchschnittlich 1.000€\nvom Finanzamt zurückzuholen. Das ist der erst Link unten in der Videobeschreibung.#
+de,M2b2cTVluFY,891,000,Dennoch brauchen wir dringend Ansätze wie\nwir unsere Gesellschaft neu gestalten wollen. Vergesst nicht euch durchschnittlich 1000€\nvom Finanzamt zurückzuholen. Das ist der erst Link unten in der Videobeschreibung.#
 de,kH3EWhpSDO0,367,360,Das zeigt auch die Autoindustrie wo man nur\nmit Gesten schon die Lautstärke das Navi und eine 360°-Kamera steuern kann. Und auch Microsofts Hololens hat schon gezeigt\ndass der Einsatz der Hände einfach die natürlichste#
 de,kH3EWhpSDO0,442,2018,Und auch sprechen können die Assistenten\nschon sehr überzeugend. Im Mai 2018 stellte Google das neue Feature\ndes Assistenten vor der für dich Termine beim Friseur machen kann und dabei wie ein\nechter Mensch klingt.#
 de,WVPgrfSYEiM,79,2002,um kein neues Video zu verpassen! 2002 hat der US-Amerikaner Jack Whittaker\nden damals größten Jackpot der US-Geschichte gewonnen 315 Millionen Dollar.#
 de,WVPgrfSYEiM,84,315 hat der US-Amerikaner Jack Whittaker\nden damals größten Jackpot der US-Geschichte gewonnen 315 Millionen Dollar. Schon vor dem Gewinn war Whittaker eigentlich\nfinanziell sehr gut aufgestellt.#
-de,WVPgrfSYEiM,134,550,So wurde ein Jahr später in sein Auto eingebrochen. Hier erbeuteten Diebe knapp 550.000 Dollar. Auf die Frage hin warum er so viel Geld mit\nin den Strip Club nehmen würde antwortete#
-de,WVPgrfSYEiM,149,200,zu vergiften. Nur ein Jahr später wurden durch einen zweiten\nEinbruch weitere 200.000 Dollar erbeutet. Zu dieser Zeit hat Whittaker sein Geld noch\nschlau angelegt.#
+de,WVPgrfSYEiM,134,550,So wurde ein Jahr später in sein Auto eingebrochen. Hier erbeuteten Diebe knapp 550000 Dollar. Auf die Frage hin warum er so viel Geld mit\nin den Strip Club nehmen würde antwortete#
+de,WVPgrfSYEiM,149,200,zu vergiften. Nur ein Jahr später wurden durch einen zweiten\nEinbruch weitere 200000 Dollar erbeutet. Zu dieser Zeit hat Whittaker sein Geld noch\nschlau angelegt.#
 de,WVPgrfSYEiM,189,1997,Billie Bob Harell Jr. Gewann 1997 31 Millionen Dollar. Nur zwei Jahre später nahm Harell sich das\nLeben nach endlosen Betellein durch Freunde#
 de,WVPgrfSYEiM,202,1988,noch gesagt haben. William Post hat 1988 16 Millionen Dollar\ngewonnen. Ein Jahr später beauftragte sein Bruder einen\nAuftragsmörder um ihn und seine Frau zu#
 de,WVPgrfSYEiM,219,1996,nachdem er auf einen Schuldeneintreiber geschossen\nhatte. 1996 gewann Jeffrey Damper 20 Millionen Dollar. Zehn Jahre später wurde er von seiner Schwägerin\nund ihrem Mann entführt und ermordet.#
-de,WVPgrfSYEiM,293,20,reichen um deine Liebsten abzusichern. So musst du dich nicht mit der Frage auseinandersetzen\nob du deinem Onkel Jürgen 20.000 Euro für den Start seines Aquarium-Fachhandels oder\nwas auch immer schenken möchtest.#
-de,WVPgrfSYEiM,367,166,über die Runden zu kommen. Mit jährlichen Zinsen von 4% würdest du\nzum Beispiel jeden Monat 166.000€ bekommen. Klar darauf muss man dann noch Steuern zahlen\naber dieses Geld bekommst du jeden Monat für#
+de,WVPgrfSYEiM,293,20,reichen um deine Liebsten abzusichern. So musst du dich nicht mit der Frage auseinandersetzen\nob du deinem Onkel Jürgen 20000 Euro für den Start seines Aquarium-Fachhandels oder\nwas auch immer schenken möchtest.#
+de,WVPgrfSYEiM,367,166,über die Runden zu kommen. Mit jährlichen Zinsen von 4% würdest du\nzum Beispiel jeden Monat 166000€ bekommen. Klar darauf muss man dann noch Steuern zahlen\naber dieses Geld bekommst du jeden Monat für#
 de,WVPgrfSYEiM,473,1978,wird damit sie sehen können dass es nicht\ndie Antwort ist.” Eine Studie zum Thema Glück aus dem Jahr\n1978 hat 22 Lotterie-Gewinner mit 29 Menschen verglichen die bei einem Unfall gelähmt\nwurden.#
-de,WVPgrfSYEiM,555,200,die Wahrscheinlichkeit in diesen 20 Jahren\neinmal den Jackpot zu gewinnen immer noch bei grob 1:200.000. Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt.#
-de,WVPgrfSYEiM,558,11,Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11.000€ in Lottoscheine gesteckt. Ein klares Verlustgeschäft.#
-de,WVPgrfSYEiM,574,30,Wenn du in den letzten 20 Jahren jeden Monat\ndas Geld der vier Lottoscheine also 48 Euro investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen.#
-de,WVPgrfSYEiM,577,11,investiert hättest dann hättest du jetzt\nknapp 30.000 Euro. Hier hast du auch nur 11.000 investiert der\nRest kommt durch die Zinsen deiner Anlagen. Ihr seht also: Glücksspiel lohnt sich nicht.#
+de,WVPgrfSYEiM,555,200,die Wahrscheinlichkeit in diesen 20 Jahren\neinmal den Jackpot zu gewinnen immer noch bei grob 1:200000. Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11000€ in Lottoscheine gesteckt.#
+de,WVPgrfSYEiM,558,11,Gleichzeitig hast du in diesen 20 Jahren aber\nüber 11000€ in Lottoscheine gesteckt. Ein klares Verlustgeschäft.#
+de,WVPgrfSYEiM,574,30,Wenn du in den letzten 20 Jahren jeden Monat\ndas Geld der vier Lottoscheine also 48 Euro investiert hättest dann hättest du jetzt\nknapp 30000 Euro. Hier hast du auch nur 11000 investiert der\nRest kommt durch die Zinsen deiner Anlagen.#
+de,WVPgrfSYEiM,577,11,investiert hättest dann hättest du jetzt\nknapp 30000 Euro. Hier hast du auch nur 11000 investiert der\nRest kommt durch die Zinsen deiner Anlagen. Ihr seht also: Glücksspiel lohnt sich nicht.#
 de,dQfzbhdR9JE,17,2016,2017,Jeden Tag hören wir von Ungerechtigkeit\nKatastrophen Morden Skandalen oder Diktatur. Schon 2016 wurde vom “schlimmsten Jahr aller\nZeiten” gesprochen .... bis 2017 kam. Danach wurde 2018 als schlimmstes Jahr aller\nZeiten für den Finanzmarkt bezeichnet.#
 de,dQfzbhdR9JE,155,2020,Und es wird kontinuierlich an besseren Methoden\ngearbeitet. Stand 2020 hat die Welt noch nie so viel Akzeptanz\nfür gleichgeschlechtliche Ehen und Partnerschaften gezeigt.#
 de,dQfzbhdR9JE,160,1994,gezeigt. Und das obwohl Homosexualität in Deutschland\nbis 1994 strafbar war und die Ehe für alle erst seit 2017 legal ist.#
@@ -322,16 +322,16 @@ de,dQfzbhdR9JE,166,2017,Und das obwohl Homosexualität in Deutschland\nbis 1994 
 de,dQfzbhdR9JE,186,1946,Hautfarbe oder Religion zu bekämpfen. Weltweit genießen seit 1946 wesentlich mehr\nMenschen Menschenrechte. Natürlich ist es bei vielen dieser Themen\nnoch ein langer Weg bis Gerechtigkeit einkehrt#
 de,dQfzbhdR9JE,239,27,0,Mittlerweile sind es 34 Milliarden Menschen. Pro Stunde sind mehr als 27000 neue Nutzer\nonline. Seit Beginn dieses Videos sind das also knapp\nneue 2000 Leute die jetzt Zugriff auf das#
 de,dQfzbhdR9JE,243,2000,Pro Stunde sind mehr als 27000 neue Nutzer\nonline. Seit Beginn dieses Videos sind das also knapp\nneue 2000 Leute die jetzt Zugriff auf das Internet haben.#
-de,dQfzbhdR9JE,302,192,000,Mangelnder Zugriff hängt auch oft mit fehlender Infrastruktur oder Armut zusammen. Aber allein seit gestern ist die Zahl der Menschen die in extremer Armut leben um 192.000 gesunken. Ich sag’s nochmal: Seit gestern leben 192.000 Menschen nicht mehr in extremer Armut.#
-de,dQfzbhdR9JE,309,192,000,Aber allein seit gestern ist die Zahl der Menschen die in extremer Armut leben um 192.000 gesunken. Ich sag’s nochmal: Seit gestern leben 192.000 Menschen nicht mehr in extremer Armut. Das könnte eigentlich jeden Tag in den Nachrichten stehen.#
+de,dQfzbhdR9JE,302,192,000,Mangelnder Zugriff hängt auch oft mit fehlender Infrastruktur oder Armut zusammen. Aber allein seit gestern ist die Zahl der Menschen die in extremer Armut leben um 192000 gesunken. Ich sag’s nochmal: Seit gestern leben 192000 Menschen nicht mehr in extremer Armut.#
+de,dQfzbhdR9JE,309,192,000,Aber allein seit gestern ist die Zahl der Menschen die in extremer Armut leben um 192000 gesunken. Ich sag’s nochmal: Seit gestern leben 192000 Menschen nicht mehr in extremer Armut. Das könnte eigentlich jeden Tag in den Nachrichten stehen.#
 de,dQfzbhdR9JE,334,900,Heute lebt das ärmste Drittel der Weltbevölkerung mit mehr als 10 Dollar am Tag. Eine Prognose des Oxford Institutes rechnet mit 900 Millionen Menschen die in den nächsten 10 Jahren über 10 Dollar am Tag verdienen werden. Ein deutlicher Aufwärtstrend.#
 de,dQfzbhdR9JE,368,100,Wir arbeiten weniger haben mehr Freizeit als noch vor 100 Jahren. Zusätzlich wachsen wir; wortwörtlich:#
 de,dQfzbhdR9JE,372,200,Zusätzlich wachsen wir; wortwörtlich: seit mehr als 200 Jahren werden Menschen immer größer. Das ist zurückzuführen auf bessere Ernährung und Lebensstandards.#
 de,dQfzbhdR9JE,381,1990,dank besserer Medizin: in Europa leben wir im Vergleich zu 1990 6 Jahre länger! Wir leben in einer Zeit von großer Veränderung.#
 de,dQfzbhdR9JE,391,2020,Leider bleiben trotzdem viele schlechte Entwicklungen bestehen. Es besitzen auch noch 2020 1% der Weltbevölkerung mehr Geld als die unteren 50%. Der Klimawandel könnte unseren Planeten unbewohnbar machen.#
 de,bTXsWuAJdGo,194,2003,Die Regeln hier sind sehr streng. 2003 haben Eric Johnson und Dan Goldstein\neine interessante Studie durchgeführt. Manchen Teilnehmern der Studie haben sie gesagt\ndass der “Default” also die Standardeinstellung#
-de,LOf6qme_aS0,18,200,anderen nackten menschen wir leben also wieder wie vor 200.000 jahren die einzige möglichkeit die wir#
-de,LOf6qme_aS0,69,12.0,kleine gruppe menschen die es weiß nämlich die über 12.000 apple mitarbeiter auf dem apple campus in#
+de,LOf6qme_aS0,18,200,anderen nackten menschen wir leben also wieder wie vor 200000 jahren die einzige möglichkeit die wir#
+de,LOf6qme_aS0,69,120,kleine gruppe menschen die es weiß nämlich die über 12000 apple mitarbeiter auf dem apple campus in#
 de,LOf6qme_aS0,291,250,von der software überhaupt beginnen sagen wir also mal 250 jahre bis wir das iphone hergestellt haben#
 de,LOf6qme_aS0,375,2020,konstruktion des iphones arbeiten wollen wir also zurück ins jahr 2020 dann ist konflikt unvermeidbar wahrscheinlich#
 de,kP1STzQ3c4s,68,2000,ausgeübt und wie sieht es heute aus das jahr 2000 ist nun inzwischen schon 20 jahre her#
@@ -352,7 +352,7 @@ de,QiCv_p0GA04,230,15 million,erfolgreiche fusion entsteht im etat aber erst ab 
 de,QiCv_p0GA04,274,2025,sein werden nach geplanter fertigstellung 2025 sollen dann zehn jahre lang tests#
 de,QiCv_p0GA04,280,2030,stattfinden vielleicht sehen wir also bis 2030 erst der erfolgreiche kernfusion iter und somit einen weiteren#
 de,QiCv_p0GA04,301,2030,menschen vergrößert bis 2030 soll sie 86000000000en erreichen eine wachsende weltbevölkerung#
-de,QiCv_p0GA04,375,90.0,fleisch aktuell am preis für einen kilo müsst ihr bis zu 90.000 euro in die hand nehmen zur zeit benötigt die produktion#
+de,QiCv_p0GA04,375,900,fleisch aktuell am preis für einen kilo müsst ihr bis zu 90000 euro in die hand nehmen zur zeit benötigt die produktion#
 de,QiCv_p0GA04,380,3000,nehmen zur zeit benötigt die produktion einer wurst stolze 3000 petrischalen kommerzialisierung und massenproduktion#
 de,QiCv_p0GA04,387,2030,lassen aber ja bekanntlich preise sinken können wir also bis 2030 mit einer großflächig angelegten produktion von#
 de,QiCv_p0GA04,395,2030,eine reihe von labor fleisch startups möchte bis 2030 in massenproduktion gehen oftmals benutzen diese startup#
@@ -391,7 +391,7 @@ de,YkITe8lxlCw,588,2009,zu vereinigen das war für mich das highlight des jahres
 de,YkITe8lxlCw,673,110,geben scheint der planet k2 strich 18b ist 110 lichtjahre entfernt und der bisher einzige bekannte planet außerhalb#
 de,YkITe8lxlCw,701,286,so verliert grünland inzwischen jährlich 286000000000en tonnen eis vor 20 jahren war es nicht einmal ein fünftel davon#
 de,YkITe8lxlCw,714,2100,anderem das steigen des meeresspiegels bis 2100 um zehn zentimeter nach oben korrigiert wurde#
-de,YkITe8lxlCw,723,500,warnte außerdem davor dass in den nächsten jahrzehnten 500.000 bis eine 000000en tier und pflanzenarten vor dem#
+de,YkITe8lxlCw,723,500,warnte außerdem davor dass in den nächsten jahrzehnten 500000 bis eine 000000en tier und pflanzenarten vor dem#
 de,YkITe8lxlCw,747,2018,erfolg schaut euch hier oben gerne an was 2018 die größten ereignisse der wissenschaft#
 de,p_fJPh11thM,117,2050,zurück und überließen der ki die entscheidung heute im jahr 2050 herrscht das alpha net es gibt keinen aspekt#
 de,p_fJPh11thM,416,13 0,[Musik] 13 07 ein programmierer der smart factory#
@@ -414,10 +414,10 @@ de,Emp3u8okUlE,24,2015,eine vernichtende statistik umso überraschender im jahre
 de,Emp3u8okUlE,40,180,gesorgt dass innerhalb von sechs jahren eine komplette 180 grad wende stattgefunden hat trotz all der burnout#
 de,Emp3u8okUlE,220,1000,thema glück im leben nannten mehr als die hälfte der 1000 teilnehmer innen die familie im allgemeinen beziehungsweise#
 de,Emp3u8okUlE,352,200,restaurantbesuch für 20 euro und einem für 200 kurz gesagt bedeutet mehr geld auch mehr glück mit genau dieser frage#
-de,Emp3u8okUlE,411,68.0,es ab einem jahreseinkommen von ca 68.000 euro keinen zusammenhang mehr zu geben zwischen geld und glück und wenn#
+de,Emp3u8okUlE,411,680,es ab einem jahreseinkommen von ca 68000 euro keinen zusammenhang mehr zu geben zwischen geld und glück und wenn#
 de,f2cSz14Y_wY,96,110,wir bestehen aus einzelnen zellen also unsere gewebe sind aus 110 zellen aufgebaut für die zellen sind wie#
-de,GQlzGnG9eOY,259,2018,verändert den Kunstbegriff. Im Oktober 2018 wurde zum Beispiel das mit KI erstellte Gemälde "Edmond de Belamy" in new york für stolze 432.000 dollar versteigert. KI ist hier definitiv angekommen.#
-de,GQlzGnG9eOY,266,432,000,Im Oktober 2018 wurde zum Beispiel das mit KI erstellte Gemälde "Edmond de Belamy" in new york für stolze 432.000 dollar versteigert. KI ist hier definitiv angekommen. Man könnte aber auch argumentieren dass künstliche intelligenz nur das Werkzeug der menschlichen Künstler ist. Sie ist etwas indirekter als ein Pinsel#
+de,GQlzGnG9eOY,259,2018,verändert den Kunstbegriff. Im Oktober 2018 wurde zum Beispiel das mit KI erstellte Gemälde "Edmond de Belamy" in new york für stolze 432000 dollar versteigert. KI ist hier definitiv angekommen.#
+de,GQlzGnG9eOY,266,432,000,Im Oktober 2018 wurde zum Beispiel das mit KI erstellte Gemälde "Edmond de Belamy" in new york für stolze 432000 dollar versteigert. KI ist hier definitiv angekommen. Man könnte aber auch argumentieren dass künstliche intelligenz nur das Werkzeug der menschlichen Künstler ist. Sie ist etwas indirekter als ein Pinsel#
 de,GQlzGnG9eOY,520,2019,Das hier ist das vierte und letzte Video von mir im Wissenschaftsjahr 2019: Künstliche Intelligenz. Wenn ihr hier oben klickt dann kommt ihr zu einer Playlist mit allen KI Videos von mir#
 de,k_PD9w85Wlk,38,150,aber vielleicht ist das ja erst der anfang wenn wir in 150 jahren von den hier zu den hier gekommen sind wir sehen#
 de,k_PD9w85Wlk,45,150,hier zu den hier gekommen sind wir sehen dann erst die nächsten 150 jahre aus herzlich willkommen zu einem neuen video#
@@ -434,19 +434,18 @@ de,hJE5XLqz6FU,537,2000,channel und das hat noch mal ihr habt nicht nur über 20
 de,hJE5XLqz6FU,556,250,recruiting wie er mit seiner company tsx über 250 mitarbeiter rekruten was ihr braucht deshalb noch mal für euch und#
 de,hJE5XLqz6FU,691,192,schneiden senkrecht ihr packt sofort die vokabel aus dem 192 s technik das 1 m steigung zu finden der ersten ableitung#
 de,hJE5XLqz6FU,713,2020,ist der tipp nochmal glasklar für euch warum jetzt im jahr 2020 matte kein problem mehr sein solltet ihr habt den#
-de,hJE5XLqz6FU,805,999,ist bekannt bei euch franken würde die leben 999 franken höri gelegen nächste woche bin ich bei frank theelen podcast#
-de,hJE5XLqz6FU,1103,404,470,ehrlich ich gehe jetzt hier mit dabei sind es sind 404 und 470 online keiner sollte im romantischen traum wäre#
-de,hJE5XLqz6FU,1161,14.0,überzeugen gewusst hatte fragen gilt es über 14.000 nennen zehn prozent sind echt gute helfern#
+de,hJE5XLqz6FU,1103,404,ehrlich ich gehe jetzt hier mit dabei sind es sind 404 und 470 online keiner sollte im romantischen traum wäre#
+de,hJE5XLqz6FU,1161,140,überzeugen gewusst hatte fragen gilt es über 14000 nennen zehn prozent sind echt gute helfern#
 de,hJE5XLqz6FU,1238,1000,gucken noch ein video auf youtube hochladen irgendwie 1000 lose in der ersten stunde#
-de,hJE5XLqz6FU,1244,50.0,keiner sollte mehr mathe scheitern ist mit den schnell an wechselnde 50.000 abonnenten und auch tik tok jetzt auf#
-de,hJE5XLqz6FU,1251,100,000,einmal so innerhalb von kurzer zeit knapp 100.000 user jetzt im video geht auf eine halbe 000000 muss ich frage#
+de,hJE5XLqz6FU,1244,500,keiner sollte mehr mathe scheitern ist mit den schnell an wechselnde 50000 abonnenten und auch tik tok jetzt auf#
+de,hJE5XLqz6FU,1251,100,000,einmal so innerhalb von kurzer zeit knapp 100000 user jetzt im video geht auf eine halbe 000000 muss ich frage#
 de,hJE5XLqz6FU,1319,20 3,profil irgendwann warum rekrutieren die anders als vor zehn 20 30 40 das ist extrem wichtig und das versuche#
 de,hJE5XLqz6FU,1532,100,neben mathematik wo alles sortiert ist startseite 100 playlisten themen alles drin#
 de,hJE5XLqz6FU,1608,3 million,haben wo man zum beispiel jetzt ihr anwalt anguckt 13000000en follower tick tock junis 53000000en follower#
 de,hJE5XLqz6FU,1610,3 million,anwalt anguckt 13000000en follower tick tock junis 53000000en follower branche in einem video projekt gut weil#
-de,hJE5XLqz6FU,1661,80.0,[Musik] 80.000 user hat er glaube ich auf youtube mehr um die mathematik habe ich#
+de,hJE5XLqz6FU,1661,800,[Musik] 80000 user hat er glaube ich auf youtube mehr um die mathematik habe ich#
 de,hJE5XLqz6FU,1802,2000,hast du schon geguckt auf der startseite bei den über 2000 videos von mir durch das halte ich durchaus ali kur habe ich#
-de,hJE5XLqz6FU,1910,3 million,beigebracht habe noch mal hier an der stelle ist mit 53000000en followers tik tok einen podcast machen der den bei#
+de,hJE5XLqz6FU,1910,3 million,beigebracht habe noch mal hier an der stelle ist mit 53000000 followers tik tok einen podcast machen der den bei#
 de,hJE5XLqz6FU,1947,400,für alle die jetzt noch mit dabei sind grad 400 im live stream im 10 jahren ca 60 prozent jobs die es heute noch nicht#
 de,hJE5XLqz6FU,2291,100000,luzie ab wie ich immer sage ja knapp 100000 super kooperationen mit super großen pick pack an#
 de,hJE5XLqz6FU,2350,100,hat glaub damals für apple so die erste sprache entwickelt damals noch mit 100 mb speicherplatz aber als mehrere#
@@ -455,21 +454,21 @@ de,hJE5XLqz6FU,2360,100,hunderttausend dollar wert 100 mb könig das vorstellen 
 de,hJE5XLqz6FU,2458,187,gegen sie und wie groß sind sie nicht mit 187 und ich glaube ich wiege mich gar nicht ich will das gar nicht#
 de,hJE5XLqz6FU,2788,2020,dann lies dir arbeiten relativ viel wie 2020 was ich davon halte ich sollte mir das angst ich vom#
 de,hJE5XLqz6FU,2811,2020,jetzt stattfindet ihr habt alles ihr seit dem jahr 2020 hat alle digitalen möglichkeiten hier nochmal klarer aufruf#
-de,hJE5XLqz6FU,2904,18.0,kein hahn kräht mir danach ob ihr genau mit 24 schon 18.000 abschlüsse habt größter ehrenmann vielen dank was hast#
+de,hJE5XLqz6FU,2904,180,kein hahn kräht mir danach ob ihr genau mit 24 schon 18000 abschlüsse habt größter ehrenmann vielen dank was hast#
 de,hJE5XLqz6FU,3035,30 4,nimmst du mit es ist ja nicht so dass du 30 40 jahre beim unternehmen bleiben wahrscheinlich also erwerb fähigkeiten#
 de,hJE5XLqz6FU,3103,1000,letzten zehn jahre an fortschritt kassiert ist noch mal hoch hoch 1000 es ist wahnsinn was passieren wird welche#
-de,hJE5XLqz6FU,3299,298,ansonsten videos zu allem hier ich gucke 298 habe mit ihm gesprochen er hatte zu dem zeitpunkt 200250.000 live#
-de,hJE5XLqz6FU,3303,200,250,000,ich gucke 298 habe mit ihm gesprochen er hatte zu dem zeitpunkt 200250.000 live 250.000 das wird auch mein ziel hat#
-de,hJE5XLqz6FU,3308,250,000,hatte zu dem zeitpunkt 200250.000 live 250.000 das wird auch mein ziel hat 250.000 life um mathe zu feiern und das#
-de,hJE5XLqz6FU,3311,250,000,250.000 das wird auch mein ziel hat 250.000 life um mathe zu feiern und das projekt keiner sollte mehr an mathe#
-de,hJE5XLqz6FU,3464,200,230,abonnieren sollte nicht richtig mit ich habe jetzt 200230 000000en views aber in ansprechen nur 607 40.000 ich glaube#
-de,hJE5XLqz6FU,3467,607,40.0,habe jetzt 200230 000000en views aber in ansprechen nur 607 40.000 ich glaube viele haben nicht abonnieren oder#
+de,hJE5XLqz6FU,3299,298,ansonsten videos zu allem hier ich gucke 298 habe mit ihm gesprochen er hatte zu dem zeitpunkt 200250000 live#
+de,hJE5XLqz6FU,3303,200,250,000,ich gucke 298 habe mit ihm gesprochen er hatte zu dem zeitpunkt 200250000 live 250000 das wird auch mein ziel hat#
+de,hJE5XLqz6FU,3308,250,000,hatte zu dem zeitpunkt 200250000 live 250000 das wird auch mein ziel hat 250000 life um mathe zu feiern und das#
+de,hJE5XLqz6FU,3311,250,000,250000 das wird auch mein ziel hat 250000 life um mathe zu feiern und das projekt keiner sollte mehr an mathe#
+de,hJE5XLqz6FU,3464,200,230,abonnieren sollte nicht richtig mit ich habe jetzt 200230 000000en views aber in ansprechen nur 607 40000 ich glaube#
+de,hJE5XLqz6FU,3467,607,400,habe jetzt 200230 000000en views aber in ansprechen nur 607 40000 ich glaube viele haben nicht abonnieren oder#
 de,hJE5XLqz6FU,3833,2020,was passiert wenn es kommt macht es hier seit dem jahr 2020 hat alle möglichkeiten zu lernen#
 de,hJE5XLqz6FU,4262,4300,video auf platz eins bei den youtube fans ich glaube das wird nichts 4300 aufrufen für keiner sollte mehr warum#
 de,hJE5XLqz6FU,4427,2000,youtube über all die tv facebook bei youtube sowieso schon über 2000 sondern regelmäßig auch interessante gäste#
-de,YKvWUIfLDhc,111,80.0,youtube kanal ja du bist bei ich glaube über 80.000 abonnenten das also da muss man mal#
-de,YKvWUIfLDhc,119,600,000,sagen wir mich immer fragt wofür mathematik über 600.000 sagt ich war auch für informatik deutsche informatik#
-de,YKvWUIfLDhc,125,80.0,auch für informatik deutsche informatik tutorials über 80.000 seit wann ist die entwicklung#
+de,YKvWUIfLDhc,111,800,youtube kanal ja du bist bei ich glaube über 80000 abonnenten das also da muss man mal#
+de,YKvWUIfLDhc,119,600,000,sagen wir mich immer fragt wofür mathematik über 600000 sagt ich war auch für informatik deutsche informatik#
+de,YKvWUIfLDhc,125,800,auch für informatik deutsche informatik tutorials über 80000 seit wann ist die entwicklung#
 de,YKvWUIfLDhc,147,3000,tatsächlich jetzt irgendwie im letzten monat über 3000 dazu gekommen und es steigt einfach nur steigern ich habe#
 de,YKvWUIfLDhc,327,20 2,ab welche programmiersprachen sollte man in 20 20 erlernen wenn jetzt da draußen einer ist und sich sagt so ich möchte#
 de,YKvWUIfLDhc,813,1950,dahinter ich glaube das erste paper war von 1950 an irgendwie und damals halt einfach die rechenleistung noch nicht da#
@@ -486,11 +485,11 @@ de,T1tOWzvVDac,24,100,100,wir haben jetzt hier erstmal ganz klassischen ansatz +
 de,DpubLaj3YYo,25,100,sein - 10 fällt beim ableiten weg das heißt ich hätte hier auch +100 hinschreiben können wir das tafelbild#
 de,DpubLaj3YYo,28,100,hinschreiben können wir das tafelbild genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder#
 de,DpubLaj3YYo,30,1000,genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder welche zahl auch immer und das werde ich#
-de,DpubLaj3YYo,49,100,hier sieht man jetzt schon ich könnte ja bei der stamm funktion entweder plus 100 plus 10.000 - 1000 oder was auch immer#
-de,DpubLaj3YYo,53,10.0,bei der stamm funktion entweder plus 100 plus 10.000 - 1000 oder was auch immer hin schreiben und das vielleicht noch#
+de,DpubLaj3YYo,49,100,hier sieht man jetzt schon ich könnte ja bei der stamm funktion entweder plus 100 plus 10000 - 1000 oder was auch immer#
+de,DpubLaj3YYo,53,100,bei der stamm funktion entweder plus 100 plus 10000 - 1000 oder was auch immer hin schreiben und das vielleicht noch#
 de,DpubLaj3YYo,73,2000,drei wäre ein viertel xo 4 - 4 x iks wäre - ein halb x 4 x iks hoch 2000 in dem fall wäre plus 1000x das wäre eine#
 de,DpubLaj3YYo,78,1000,wäre - ein halb x 4 x iks hoch 2000 in dem fall wäre plus 1000x das wäre eine mögliche stamm funktion ihr könnt euch#
-de,5WjMyCP-a4w,634,47,bei wie viele follower nummern sondern ich glaube irgendwie um die 47.000 oder irgendwie so also ist sind jedoch nicht#
+de,5WjMyCP-a4w,634,47,bei wie viele follower nummern sondern ich glaube irgendwie um die 47000 oder irgendwie so also ist sind jedoch nicht#
 de,5WjMyCP-a4w,873,100,plötzlich sind dann irgendwie keine ahnung 100 schüler oder so 100 abschlussschüler bei uns in häuslicher#
 de,5WjMyCP-a4w,1231,20,sagen bei all dem chaos was da ist wir sind in 20 20 und nie zuvor gab es so viel content im internet das kann#
 de,5WjMyCP-a4w,1637,19,offensichtlich auch thema job zukunft das sollte doch eigentlich 19 11 21 co2 wie was auch immer dann auf dauer dann#
@@ -532,20 +531,20 @@ de,SfjzfWSfxpY,58,381,in deutschland 481 kundgebungen hat es gegeben mit 3811000
 de,SfjzfWSfxpY,64,2020,das war letztes jahr über den ersten mai 2020 nils schneider kampfgeist euphorie zum ersten mal sieht anders aus abstand#
 de,SfjzfWSfxpY,119,230,die firma in der nähe von dresden hat knapp 230 mitarbeiter fast alle derzeit in kurzarbeit#
 de,SfjzfWSfxpY,213,1000,noch versammlungen auf der straße mehr als 1000 menschen im bezirk kreuzberg die polizei ist mit einem großaufgebot#
-de,SfjzfWSfxpY,356,60.0,stolz auf unsere arbeit stark stolz angesichts von weit über 60.000 toten im land mit leichenwagen protestieren sie#
-de,SfjzfWSfxpY,531,500,deutlich besser im moment bekomme ich 5.500 dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die#
+de,SfjzfWSfxpY,356,600,stolz auf unsere arbeit stark stolz angesichts von weit über 60000 toten im land mit leichenwagen protestieren sie#
+de,SfjzfWSfxpY,531,500,deutlich besser im moment bekomme ich 5500 dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die#
 de,SfjzfWSfxpY,534,3700,dollar die woche in viertel waren es 37004000 dollar gefahrenzulage die woche für new york aber um das geld#
 de,SfjzfWSfxpY,655,163,in deutschland sind nach angaben der johns hopkins universität mehr als 1631000 infizierte durch tests bestätigt#
 de,SfjzfWSfxpY,658,1000,johns hopkins universität mehr als 1631000 infizierte durch tests bestätigt fast 1271000 davon sind wieder genesen#
 de,SfjzfWSfxpY,661,127,infizierte durch tests bestätigt fast 1271000 davon sind wieder genesen 6632 menschen sind in verbindung mit#
 de,SfjzfWSfxpY,665,6632,fast 1271000 davon sind wieder genesen 6632 menschen sind in verbindung mit cupid 19 gestorben#
-de,SfjzfWSfxpY,706,000,die fluggesellschaft ryanair will wegen der korona krise bis zu 3.000 stellen abbauen#
-de,SfjzfWSfxpY,1005,15.0,auf dem balkon ich kann nur knapp 15.000 euro kostet solch eine tour für den truck die#
+de,SfjzfWSfxpY,706,000,die fluggesellschaft ryanair will wegen der korona krise bis zu 3000 stellen abbauen#
+de,SfjzfWSfxpY,1005,150,auf dem balkon ich kann nur knapp 15000 euro kostet solch eine tour für den truck die#
 de,hHoCHIOmGIQ,268,150,eröffnung der wallfahrt saison feiern können es dieses jahr nicht mehr als 150 menschen seien um allen#
 de,hHoCHIOmGIQ,356,1500,universität gibt es einen leichten rückgang bei den neuinfektionen 1500 menschen haben sich neu angesteckt seit#
 de,hHoCHIOmGIQ,364,2000,einer woche ist dieser wert täglich unter 2000 geblieben zur stunde sind mehr als 1631000#
 de,hHoCHIOmGIQ,366,163,unter 2000 geblieben zur stunde sind mehr als 1631000 infizierte durch tests bestätigt davon#
-de,hHoCHIOmGIQ,372,127,infizierte durch tests bestätigt davon gelten fast 127.000 betroffener als genesen#
+de,hHoCHIOmGIQ,372,127,infizierte durch tests bestätigt davon gelten fast 127000 betroffener als genesen#
 de,hHoCHIOmGIQ,376,6623,genesen 6623 menschen sind in verbindung mit cupid 19 gestorben#
 de,hHoCHIOmGIQ,731,1993,beiden eine ex mitarbeiterin hatte gesagt er habe sie 1993 sexuell angegriffen#
 de,hHoCHIOmGIQ,793,128,gleichzeitig auf der bühne sein statt des sonst so opulenten 128 köpfigen orchesters corona zum trotz#
@@ -561,50 +560,50 @@ de,OGrptks2qwI,1462,100,also ich bin immer dafür auf die praxis zu sein und wen
 de,z73ry-eZNAw,333,10,maßnahme haben deutschlands unternehmen bis zum sonntag für 101000000en menschen angemeldet noch mehr als#
 de,z73ry-eZNAw,340,3 million,befürchtet und mehr als in der finanzkrise da gab es 33000000en anmeldungen#
 de,z73ry-eZNAw,366,26 million,sind in den vereinigten staaten von amerika 26000000en jobs verschwunden in deutschland werden 000000en von#
-de,z73ry-eZNAw,378,644,arbeitslosen corona bedingt gestiegen im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im#
-de,z73ry-eZNAw,382,308,im april waren zwei 000000en 644.000 menschen ohne job 308.000 mehr als im märz die quote legte liegt nun bei 58#
-de,z73ry-eZNAw,406,100,mehr die situation erleben wo wir auf einmal zu wechsel von 100.000 haben davon gehen wir nicht aus also ich#
+de,z73ry-eZNAw,378,644,arbeitslosen corona bedingt gestiegen im april waren zwei 000000en 644000 menschen ohne job 308000 mehr als im#
+de,z73ry-eZNAw,382,308,im april waren zwei 000000en 644000 menschen ohne job 308000 mehr als im märz die quote legte liegt nun bei 58#
+de,z73ry-eZNAw,406,100,mehr die situation erleben wo wir auf einmal zu wechsel von 100000 haben davon gehen wir nicht aus also ich#
 de,z73ry-eZNAw,438,650,förderbank kfw vergibt die zinslosen darlehen über monatlich bis zu 650 euro ab dem 8 mai den antrag soll es online#
-de,z73ry-eZNAw,482,860,laboren die test kapazitäten liegen dort so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000#
-de,z73ry-eZNAw,485,467,so hoch wie nie 860.000 standen letzte woche zur verfügung davon wurden 467.000 genutzt ich sehe es als eine positive#
+de,z73ry-eZNAw,482,860,laboren die test kapazitäten liegen dort so hoch wie nie 860000 standen letzte woche zur verfügung davon wurden 467000#
+de,z73ry-eZNAw,485,467,so hoch wie nie 860000 standen letzte woche zur verfügung davon wurden 467000 genutzt ich sehe es als eine positive#
 de,z73ry-eZNAw,550,1600,der johns hopkins universität gab es 1600 neue infektionen stand 18 uhr 30 waren demnach in deutschland fast#
-de,z73ry-eZNAw,556,162,waren demnach in deutschland fast 162.000 corona infizierte durch tests bestätigt davon gelten mehr als 123.000#
-de,z73ry-eZNAw,558,123,corona infizierte durch tests bestätigt davon gelten mehr als 123.000 als genesen 6504 menschen sind in#
-de,z73ry-eZNAw,562,6504,bestätigt davon gelten mehr als 123.000 als genesen 6504 menschen sind in verbindung mit dem virus gestorben#
+de,z73ry-eZNAw,556,162,waren demnach in deutschland fast 162000 corona infizierte durch tests bestätigt davon gelten mehr als 123000#
+de,z73ry-eZNAw,558,123,corona infizierte durch tests bestätigt davon gelten mehr als 123000 als genesen 6504 menschen sind in#
+de,z73ry-eZNAw,562,6504,bestätigt davon gelten mehr als 123000 als genesen 6504 menschen sind in verbindung mit dem virus gestorben#
 de,z73ry-eZNAw,580,1000,ebola virus entwickelt worden jetzt wurde es an 1000 corona patienten klinisch getestet wissenschaftler in den#
 de,z73ry-eZNAw,634,1000,ebola-virus im rahmen einer studie wurden rund 1000 corona patienten das medikament intravenös verabreicht im#
 de,z73ry-eZNAw,666,200,deutlich kleiner angelegte studie in china mit rund 200 patienten konnte rim der sie wir keinen nutzen#
-de,z73ry-eZNAw,702,21.0,verbindung mit dem virus deutlich nach oben korrigiert und zwar von rund 21.000 auf mehr als 26.000 menschen nur italien#
-de,z73ry-eZNAw,706,26.0,oben korrigiert und zwar von rund 21.000 auf mehr als 26.000 menschen nur italien meldet in europa mehr tote#
-de,z73ry-eZNAw,736,100,packt mit an eine drive through teststation im norden londons 100.000 corona test täglich hat die regierung#
+de,z73ry-eZNAw,702,210,verbindung mit dem virus deutlich nach oben korrigiert und zwar von rund 21000 auf mehr als 26000 menschen nur italien#
+de,z73ry-eZNAw,706,260,oben korrigiert und zwar von rund 21000 auf mehr als 26000 menschen nur italien meldet in europa mehr tote#
+de,z73ry-eZNAw,736,100,packt mit an eine drive through teststation im norden londons 100000 corona test täglich hat die regierung#
 de,z73ry-eZNAw,879,400,konzerts ist das kerngeschäft weggebrochen bis zu 400 veranstaltungen im jahr organisiert die event-agentur#
-de,z73ry-eZNAw,906,39,bundesweit bieten die arbeitgeber rund 39.000 ausbildungsplätze weniger an als im vorjahr das könnte zu einer#
+de,z73ry-eZNAw,906,39,bundesweit bieten die arbeitgeber rund 39000 ausbildungsplätze weniger an als im vorjahr das könnte zu einer#
 de,z73ry-eZNAw,1266,100,haben noch einen richtig runden geburtstag tom moore ist 100 jahre alt geworden#
 de,z73ry-eZNAw,1286,140000,überflug über sein haus mit original jagd pflege und mehr als 140000 geburtstagskarten gesungen wurde#
-de,1t4I_Zr6wYM,76,17.0,rüsselsheim die meisten der 17.000 deutschen opel mitarbeiter sind in kurzarbeit wie auch#
+de,1t4I_Zr6wYM,76,170,rüsselsheim die meisten der 17000 deutschen opel mitarbeiter sind in kurzarbeit wie auch#
 de,1t4I_Zr6wYM,160,100,auch demnächst wissen und es ist dazu nahezu 100% corona als ursache auch die zahl der arbeitslosen geht nach oben im#
-de,1t4I_Zr6wYM,165,644,zahl der arbeitslosen geht nach oben im april waren zwei 000000en 644.000 menschen ohne job die arbeitslosenquote#
-de,1t4I_Zr6wYM,176,415,vorjahresmonat eine steigerung um 415.000 die entwicklung zeigte könnens wir unser land auch in unserem land#
-de,1t4I_Zr6wYM,631,162,sehen heute so aus tests haben mehr als 162.000 infektionen bestätigt das sind die aktuellen zahlen der#
+de,1t4I_Zr6wYM,165,644,zahl der arbeitslosen geht nach oben im april waren zwei 000000en 644000 menschen ohne job die arbeitslosenquote#
+de,1t4I_Zr6wYM,176,415,vorjahresmonat eine steigerung um 415000 die entwicklung zeigte könnens wir unser land auch in unserem land#
+de,1t4I_Zr6wYM,631,162,sehen heute so aus tests haben mehr als 162000 infektionen bestätigt das sind die aktuellen zahlen der#
 de,1t4I_Zr6wYM,635,123,die aktuellen zahlen der johns-hopkins-universität davon sind 1231500 menschen inzwischen wieder genesen#
 de,1t4I_Zr6wYM,638,1500,johns-hopkins-universität davon sind 1231500 menschen inzwischen wieder genesen 6500 18 menschen starben#
 de,1t4I_Zr6wYM,641,6500,1500 menschen inzwischen wieder genesen 6500 18 menschen starben in verbindung mit cupid 19 die#
 de,1t4I_Zr6wYM,925,2009,befugnisse der kassen kritisch prüfen ende 2009 10 hatte der bundestag grünes licht dafür gegeben dass bestimmte#
-de,1t4I_Zr6wYM,977,34.0,vier weitere europäische länder etwas mehr als 34.000 asylanträge 43 prozent weniger als im februar#
+de,1t4I_Zr6wYM,977,340,vier weitere europäische länder etwas mehr als 34000 asylanträge 43 prozent weniger als im februar#
 de,1t4I_Zr6wYM,1163,10 million,vier wände und sei es nur stundenweise über 10000000en kinder unter 14 jahren gibt es in deutschland auch ihre rechte#
-de,1t4I_Zr6wYM,1216,26.0,00 7,laut johns hopkins universität auf mehr als 26.000700 nach oben korrigiert in die statistik sind nun auch todesfälle#
+de,1t4I_Zr6wYM,1216,260,00 7,laut johns hopkins universität auf mehr als 26000700 nach oben korrigiert in die statistik sind nun auch todesfälle#
 de,1t4I_Zr6wYM,1282,800,und thüringen haben beschlossen jetzt auch geschäfte mit mehr als 800 quadratmetern fläche wieder zu öffnen#
 de,1t4I_Zr6wYM,1392,500,dann haben wir das risiko minimiert die pro tag gibt es nach wie vor 500 zurückweisungen es mag ich mir nicht#
-de,1t4I_Zr6wYM,1616,10.0,00 8,prozent und beendet den handel mit 10.000862 punkten am nachmittag kam das - passend zu den#
+de,1t4I_Zr6wYM,1616,100,00 8,prozent und beendet den handel mit 10000862 punkten am nachmittag kam das - passend zu den#
 de,1t4I_Zr6wYM,1626,30 million,seit ausbruch der korona krise haben dort 30000000en amerikaner einen erstantrag auf arbeitslosenhilfe#
-de,1t4I_Zr6wYM,1662,30.0,mit dem autobauer 30.000 anträge hat vw nach eigenen angaben bereits positiv geprüft 17.000#
-de,1t4I_Zr6wYM,1664,17.0,anträge hat vw nach eigenen angaben bereits positiv geprüft 17.000 fälle würden noch bearbeitet#
+de,1t4I_Zr6wYM,1662,300,mit dem autobauer 30000 anträge hat vw nach eigenen angaben bereits positiv geprüft 17000#
+de,1t4I_Zr6wYM,1664,170,anträge hat vw nach eigenen angaben bereits positiv geprüft 17000 fälle würden noch bearbeitet#
 de,1t4I_Zr6wYM,1671,1350,die betroffenen kunden erhalten demnach je nach fahrzeug zwischen 1350 und 6250 euro ab morgen müssen postkunden weniger#
 de,1t4I_Zr6wYM,1734,100,britische veteran aus dem zweiten weltkrieg wird 100 der mann ist zur berühmtheit geworden in der korona krise#
 de,1t4I_Zr6wYM,1739,100,berühmtheit geworden in der korona krise und zum vorbild 100 runden hat captain mo durch seinen garten gezogen 1000#
 de,1t4I_Zr6wYM,1743,1000,und zum vorbild 100 runden hat captain mo durch seinen garten gezogen 1000 pfund wollte er so für pfleger und ärzte#
 de,1t4I_Zr6wYM,1748,30 million,sammeln es wurden über 30000000en pfund weltrekord und anders für die luftwaffe#
-de,1t4I_Zr6wYM,1762,125,überreichen ein paar ist gut es sind über 125.000 geburtstagskarten darunter auch eine von#
+de,1t4I_Zr6wYM,1762,125,überreichen ein paar ist gut es sind über 125000 geburtstagskarten darunter auch eine von#
 de,1t4I_Zr6wYM,1830,2009,februar recht viel geregnet hat ähnlich wie im juli 2009 10 wir müssen das natürlich aber im#
 de,1t4I_Zr6wYM,1836,1981,vergleich setzen zu dem was im klimatologischen mittel der jahre 1981 bis 2010#
 de,1t4I_Zr6wYM,1839,2010,klimatologischen mittel der jahre 1981 bis 2010 normalerweise unterkommt und da sieht#
@@ -616,15 +615,15 @@ de,FXrceFOwk4I,2009,400,von unter 1500 fällen dort mehrere tage lang wir haben 
 de,FXrceFOwk4I,2278,500,also jeder hat gesagt wir haben jetzt rettungsmaßnahmen in höhe von 500000000000en dort genauso wie mir#
 de,FXrceFOwk4I,2676,14 1,natürlich ein unterschied wenn ich nachher mal bei 14 15 tagen will und auf einem wir haben angefangen daran hatten#
 de,FXrceFOwk4I,2683,3000,wir die ersten schließungen haben wir gemacht haben wir 3000 infizierte gehabt binnen weniger tage waren wir bei 9000#
-de,FXrceFOwk4I,2685,9000,gemacht haben wir 3000 infizierte gehabt binnen weniger tage waren wir bei 9000 dabei 18.000 heute sind wir aktuell bei#
-de,FXrceFOwk4I,2687,18.0,binnen weniger tage waren wir bei 9000 dabei 18.000 heute sind wir aktuell bei 40.000 infizierten und einer gesamtzeit#
-de,FXrceFOwk4I,2691,40.0,dabei 18.000 heute sind wir aktuell bei 40.000 infizierten und einer gesamtzeit von 1150 160000 die verdopplung zahl#
+de,FXrceFOwk4I,2685,9000,gemacht haben wir 3000 infizierte gehabt binnen weniger tage waren wir bei 9000 dabei 18000 heute sind wir aktuell bei#
+de,FXrceFOwk4I,2687,180,binnen weniger tage waren wir bei 9000 dabei 18000 heute sind wir aktuell bei 40000 infizierten und einer gesamtzeit#
+de,FXrceFOwk4I,2691,400,dabei 18000 heute sind wir aktuell bei 40000 infizierten und einer gesamtzeit von 1150 160000 die verdopplung zahl#
 de,FXrceFOwk4I,2693,150,infizierten und einer gesamtzeit von 1150 160000 die verdopplung zahl also ein punkt aber immer für jeden#
-de,FXrceFOwk4I,2737,40.0,kommen natürlich hinzu denn wir 40.000 infizierte haben und jeden tag 1500 neue infizierte#
-de,FXrceFOwk4I,2741,1500,denn wir 40.000 infizierte haben und jeden tag 1500 neue infizierte dann können 400 gesundheitsämter das#
+de,FXrceFOwk4I,2737,400,kommen natürlich hinzu denn wir 40000 infizierte haben und jeden tag 1500 neue infizierte#
+de,FXrceFOwk4I,2741,1500,denn wir 40000 infizierte haben und jeden tag 1500 neue infizierte dann können 400 gesundheitsämter das#
 de,FXrceFOwk4I,2743,400,jeden tag 1500 neue infizierte dann können 400 gesundheitsämter das verfolgen das war schon immer das ziel#
 de,FXrceFOwk4I,2785,1519,wir jetzt nur ein gesundheits einleiten und die müssen 1519 vierte nacht vollziehen würde es natürlich nicht#
-de,FXrceFOwk4I,2794,20.0,qualifizieren verstärken 20.000 menschen ein team die das nachvollziehen#
+de,FXrceFOwk4I,2794,200,qualifizieren verstärken 20000 menschen ein team die das nachvollziehen#
 de,FXrceFOwk4I,2811,100,können liegt drin wir haben fast 100 prozent der intensivbetten jetzt erfasst#
 de,FXrceFOwk4I,3231,800,nehmen ein beispiel 800 quadratmeter grenze das ist in bayern gefallen hamburger#
 de,FXrceFOwk4I,3257,800,beschleunigung bekommen und was heißt das für diese 800 quadratmeter grenze wird die möglicherweise nächste woche#
@@ -635,64 +634,64 @@ de,FXrceFOwk4I,3413,800,800,gesamtbewertung einbeziehen also wie gesagt die 8008
 de,FXrceFOwk4I,3465,800,sehr gut zu begründen wir haben ja die 800 quadratmeter die schon ein kompromiss waren nicht deshalb#
 de,FXrceFOwk4I,3471,850,gewählt weil wir nicht glauben dass man bei 850 quadratmetern nicht mehr im laden den abstand machen kann sondern#
 de,FXrceFOwk4I,3618,100,aber nicht nie wieder einheit das cool sofort 100 prozent all dessen hat was vor der hungerkrise war also das wären#
-de,NgjMv1rmIXc,93,60.0,umsetzen der deutsche profifußball längst auch virus opfer fast 60.000 arbeitsplätze sind betroffen#
+de,NgjMv1rmIXc,93,600,umsetzen der deutsche profifußball längst auch virus opfer fast 60000 arbeitsplätze sind betroffen#
 de,NgjMv1rmIXc,155,4 million,putzarbeiten beschäftigen fast alle der 24000000en beschäftigten im gastgewerbe sind von den corona#
 de,NgjMv1rmIXc,633,448,die von der helmholtz initiative gefundenen kriterien bei 0448 das ist der zweitbeste wert in deutschland und#
 de,9mkuXPjkRsM,235,1919,jährige sterben sehr viel drin ist an kubicki sieht dass ich profi mai 1919 sterben auch viele bald das#
 de,9mkuXPjkRsM,551,17 1,ist wenn sie über 65 sind da reden wir über 17 18 prozent das ist ein viertel ein drittel dieses landes in der praxis#
 de,9mkuXPjkRsM,707,50 5,bei den jüngeren bei den jüngeren gibt es so viele mit risiko es gilt die 50 50 liegen#
-de,9mkuXPjkRsM,733,100,intensiv plätze auch alle überlastet wir würden wahrscheinlich um die 100.000 todesopfer unter 65 beklagen müssen#
+de,9mkuXPjkRsM,733,100,intensiv plätze auch alle überlastet wir würden wahrscheinlich um die 100000 todesopfer unter 65 beklagen müssen#
 de,miEvuY-vqXc,97,30 0,kurz den stand deutschland der ist vom 30 04 00 uhr mit dem stand im ausland gehen wir wie immer einen tag früher#
 de,miEvuY-vqXc,119,58 1,400,mehr als eine 000000en gemeldete fälle dort und darunter haben wir 581400 todesfälle zu beklagen#
 de,miEvuY-vqXc,132,210,1800,vereinigten staaten von 58 prozent schauen wir nach europa spanien 2101800 fälle offiziell gemeldet inzwischen und#
-de,miEvuY-vqXc,141,23.8,fälle offiziell gemeldet inzwischen und hier sind 23.800 menschen als verstorben im rahmen der kurve 19 infektionen#
+de,miEvuY-vqXc,141,238,fälle offiziell gemeldet inzwischen und hier sind 23800 menschen als verstorben im rahmen der kurve 19 infektionen#
 de,miEvuY-vqXc,149,11,3,gemeldet worden das sind in dem fall 113 prozent und das vereinigte königreich haben wir 161#
 de,miEvuY-vqXc,153,161,das sind in dem fall 113 prozent und das vereinigte königreich haben wir 1611000 fälle rund und hier ist es so dass#
-de,miEvuY-vqXc,157,1000,das vereinigte königreich haben wir 1611000 fälle rund und hier ist es so dass 21.700 als offiziell verstorben gemeldet#
-de,miEvuY-vqXc,161,21.7 fälle rund und hier ist es so dass 21.700 als offiziell verstorben gemeldet wurden das ist dann eine prozentzahl von#
+de,miEvuY-vqXc,157,1000,das vereinigte königreich haben wir 1611000 fälle rund und hier ist es so dass 21700 als offiziell verstorben gemeldet#
+de,miEvuY-vqXc,161,217 fälle rund und hier ist es so dass 21700 als offiziell verstorben gemeldet wurden das ist dann eine prozentzahl von#
 de,miEvuY-vqXc,168,13,5,wurden das ist dann eine prozentzahl von 135 prozent und wenn wir das mit deutschland vergleichen#
-de,miEvuY-vqXc,176,159,dann sehen wir dass wir hier heute 159.000100 fälle offiziell an das robert-koch-institut von den ländern und#
+de,miEvuY-vqXc,176,159,dann sehen wir dass wir hier heute 159000100 fälle offiziell an das robert-koch-institut von den ländern und#
 de,miEvuY-vqXc,186,6300,haben und in deutschland haben wir momentan 6300 todesfälle offiziell gemeldet bekommen im rahmen der kurve 19#
-de,miEvuY-vqXc,245,100,59.0,00 1,status 30 der 40 uhr exakt 100 59.000119 kurve 19 fälle übermittelt#
+de,miEvuY-vqXc,245,100,590,00 1,status 30 der 40 uhr exakt 100 59000119 kurve 19 fälle übermittelt#
 de,miEvuY-vqXc,251,1478,übermittelt das sind 1478 mehr als gestern und darunter eben 6288 todesfälle#
 de,miEvuY-vqXc,256,6288,das sind 1478 mehr als gestern und darunter eben 6288 todesfälle das sind 173 mehr als sie uns gestern#
 de,miEvuY-vqXc,260,173,darunter eben 6288 todesfälle das sind 173 mehr als sie uns gestern offiziell gemeldet wurden wenn sie sich#
 de,miEvuY-vqXc,272,1000,1500,zurück erinnern dann haben wir in dieser woche circa 1000 bis 1500 fälle pro tag übermittelt bekommen#
 de,miEvuY-vqXc,284,2000,in der letzten woche hatten wir so immer rund 2000 fälle am tag aber nach wie vor haben wir eben jeden tag noch neue fälle#
-de,miEvuY-vqXc,295,123,vorliegenden informationen dass inzwischen rund 123.000519 infiziert auch wieder genesen sind und die#
+de,miEvuY-vqXc,295,123,vorliegenden informationen dass inzwischen rund 123000519 infiziert auch wieder genesen sind und die#
 de,miEvuY-vqXc,382,129000,übermittelten fälle das sind dann auf die pfalz haben bezogen 129000 und von denen haben wir klinische informationen#
 de,miEvuY-vqXc,441,6288,lungenentzündung entwickelt die todesfälle 6288 personen wie gesagt die zahl der todesfälle und der anteil der#
-de,miEvuY-vqXc,549,860hatten wir in der vergangenen woche eine kapazität von rund 860.000 tests erreicht#
-de,miEvuY-vqXc,563,467,viele tests durchgeführt und von rund 467.000 von diesen tests wurden rund 25.000 positiv getestet das sind 54#
-de,miEvuY-vqXc,568,25.0,467.000 von diesen tests wurden rund 25.000 positiv getestet das sind 54 prozent das heißt also die anderen tests#
-de,miEvuY-vqXc,581,467,personen mehrfach getestet wurden das heißt diese 467.000 sind nicht 467.000 einzelpersonen unbedingt das ist eine#
+de,miEvuY-vqXc,549,860hatten wir in der vergangenen woche eine kapazität von rund 860000 tests erreicht#
+de,miEvuY-vqXc,563,467,viele tests durchgeführt und von rund 467000 von diesen tests wurden rund 25000 positiv getestet das sind 54#
+de,miEvuY-vqXc,568,250,467000 von diesen tests wurden rund 25000 positiv getestet das sind 54 prozent das heißt also die anderen tests#
+de,miEvuY-vqXc,581,467,personen mehrfach getestet wurden das heißt diese 467000 sind nicht 467000 einzelpersonen unbedingt das ist eine#
 de,miEvuY-vqXc,913,252,und wie das immunsystem mit einer saß co wird 252 infektionen umgeht es gibt keinerlei hinweis dass dort eine#
 de,miEvuY-vqXc,2127,100000,ein unterschiede der infektionszahlen 24 pro 100000 mecklenburg vorpommern 43 aus nicht welche gibt es gründe wie maske#
 de,miEvuY-vqXc,3008,100,beziehungsweise insgesamt weniger symptome zeigen das heißt von 100 erkrankten kindern zeigen eben weniger#
 de,miEvuY-vqXc,3577,3 million,virus hat inzwischen weltweit wirklich viele menschen getötet haben 3000000en fälle bereits und da sind ja nur die#
 de,58M_K9eK_Jg,1741,1933,dachau galt als modell für spätere konzentrationslager zwischen 1933 45 inhaftierten die nationalsozialisten#
-de,58M_K9eK_Jg,1747,200,inhaftierten die nationalsozialisten dort mehr als 200.000 menschen und dann haben wir noch die lottozahlen#
+de,58M_K9eK_Jg,1747,200,inhaftierten die nationalsozialisten dort mehr als 200000 menschen und dann haben wir noch die lottozahlen#
 de,58M_K9eK_Jg,1754,15 7,32 3,und dann haben wir noch die lottozahlen wie immer ohne gewähr 15 7 32 36 41 superzahlen neun weitere gewinnzahlen#
 de,58M_K9eK_Jg,1766,55 7,finden sie auf lotto zdf de und im zdf text auf seite 55 7 jetzt ist der moment gekommen an dem wir#
 de,K8YIjxHNar0,360,190,werden ohnehin bestehen in fast allen der rund 190 staaten der welt strenge einreiseverbote für touristen und#
 de,sUdtpRChANM,0,177,hamburg der ambulante pflegedienst care vital mitbetreut 177 senioren zwischen 70 und 90 jahren#
 de,sUdtpRChANM,309,121,zurückgreifen die in österreich mittlerweile etabliert ist das bei 121 grad die masken heißdampf schädlich#
-de,sUdtpRChANM,354,1500,hochrechnen würde dann anspruch auf die 2.000 krankenhäuser oder auf die 1500 aufbereitungs einheiten er dann liegen#
+de,sUdtpRChANM,354,1500,hochrechnen würde dann anspruch auf die 2000 krankenhäuser oder auf die 1500 aufbereitungs einheiten er dann liegen#
 de,sUdtpRChANM,358,15 million,aufbereitungs einheiten er dann liegen gegenüber 15000000en masken in der woche wiesbaden der helios konzern#
 de,sUdtpRChANM,364,100,woche wiesbaden der helios konzern betreibt knapp 100 kliniken in ganz deutschland entsprechend groß der bedarf#
 de,sUdtpRChANM,404,8000,personalisierte werden dadurch kann der konzern 8000 masken pro tag wieder nutzbar machen#
-de,H2LJwVGS4YI,272,50.0,täglichen neuinfektionen wenn wir 50.000 fälle am tag hätten nehmen wir mal diese zahl der bislang#
-de,H2LJwVGS4YI,279,6000,nie hatten die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und#
-de,H2LJwVGS4YI,281,50.0,hatten waren rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und jeden tag wieder 50.000 dann hätten wir#
-de,H2LJwVGS4YI,283,50.0,aber wenn wir 50.000 pro tag hätten und jeden tag wieder 50.000 dann hätten wir über die zeit auch einen r von 1 das#
+de,H2LJwVGS4YI,272,500,täglichen neuinfektionen wenn wir 50000 fälle am tag hätten nehmen wir mal diese zahl der bislang#
+de,H2LJwVGS4YI,279,6000,nie hatten die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50000 pro tag hätten und#
+de,H2LJwVGS4YI,281,500,hatten waren rund 6000 pro tag aber wenn wir 50000 pro tag hätten und jeden tag wieder 50000 dann hätten wir#
+de,H2LJwVGS4YI,283,500,aber wenn wir 50000 pro tag hätten und jeden tag wieder 50000 dann hätten wir über die zeit auch einen r von 1 das#
 de,H2LJwVGS4YI,324,159,1000,laut der johns hopkins universität sind mehr als 1591000 infizierte durch tests bestätigt 117000 sind chinesen 6161#
 de,H2LJwVGS4YI,327,117000,6161,mehr als 1591000 infizierte durch tests bestätigt 117000 sind chinesen 6161 menschen sind in verbindung mit cupid 19#
-de,H2LJwVGS4YI,361,28.0,stationen umgebaut bis dahin also vor corona kappes 28.000 intensivbetten mit 20.000 beatmungs#
-de,H2LJwVGS4YI,365,20.0,bis dahin also vor corona kappes 28.000 intensivbetten mit 20.000 beatmungs möglichkeiten jetzt stehen 40 tausend#
-de,H2LJwVGS4YI,370,30.0,möglichkeiten jetzt stehen 40 tausend betten mit 30.000 beatmungs plätzen laut krankenhausgesellschaft zur verfügung#
-de,H2LJwVGS4YI,796,62.0,mit den bisherigen schutzmaßnahmen sei es gelungen in einem monat 62.000 menschen lebend zu retten#
-de,H2LJwVGS4YI,817,400,nachweislich mit dem corona virus an mehr als 6.400 und auch die zahl der toten stieg so stark wie nie auf 867 die#
-de,H2LJwVGS4YI,820,867,mehr als 6.400 und auch die zahl der toten stieg so stark wie nie auf 867 die angst vor einem kollaps der kliniken ist#
+de,H2LJwVGS4YI,361,280,stationen umgebaut bis dahin also vor corona kappes 28000 intensivbetten mit 20000 beatmungs#
+de,H2LJwVGS4YI,365,200,bis dahin also vor corona kappes 28000 intensivbetten mit 20000 beatmungs möglichkeiten jetzt stehen 40 tausend#
+de,H2LJwVGS4YI,370,300,möglichkeiten jetzt stehen 40 tausend betten mit 30000 beatmungs plätzen laut krankenhausgesellschaft zur verfügung#
+de,H2LJwVGS4YI,796,620,mit den bisherigen schutzmaßnahmen sei es gelungen in einem monat 62000 menschen lebend zu retten#
+de,H2LJwVGS4YI,817,400,nachweislich mit dem corona virus an mehr als 6400 und auch die zahl der toten stieg so stark wie nie auf 867 die#
+de,H2LJwVGS4YI,820,867,mehr als 6400 und auch die zahl der toten stieg so stark wie nie auf 867 die angst vor einem kollaps der kliniken ist#
 de,H2LJwVGS4YI,944,2020,präsidentenpalast in neu delhi an einem normalen tag und im april 2020 im kampf gegen die erderwärmung reicht das aber#
 de,H2LJwVGS4YI,1018,2030,zwischen ziels für die europäische union bis 2030 emissionen auf 50 bis 55 prozent gegenüber 1990 zu reduzieren#
 de,H2LJwVGS4YI,1022,1990,bis 2030 emissionen auf 50 bis 55 prozent gegenüber 1990 zu reduzieren die industrie fürchtet dass deutschland#
@@ -700,7 +699,7 @@ de,H2LJwVGS4YI,1150,2011,eigentlich sollte er schon im herbst 2011 in betrieb ge
 de,H2LJwVGS4YI,1188,1800,ausgezeichnet allen voran das strategiespiel anno 1800 verliehen wurden die preise corona bedingt#
 de,H2LJwVGS4YI,1208,1800,als bestes deutsches computerspiel wurde anno 1800 gekürt der neueste ableger einer schon über 20 jahre andauernden#
 de,H2LJwVGS4YI,1239,1800,detailreichen spielverlauf und mit über einer 000000 spielern ist anno 1800 ein riesiger publikumserfolg#
-de,H2LJwVGS4YI,1267,590,macht insgesamt vergab die jury preisgelder von 590.000 euro an computerspiele made in germany und dabei#
+de,H2LJwVGS4YI,1267,590,macht insgesamt vergab die jury preisgelder von 590000 euro an computerspiele made in germany und dabei#
 de,jfekYwDfdto,0,2020,koch institut heute ist dienstag der 28 april 2020 heute ist auch wieder professor wieder#
 de,jfekYwDfdto,20,2000,die lage in deutschland anschauen in den letzten wochen wurden rund 2000 fälle pro tag an das robert koch#
 de,jfekYwDfdto,31,1000,weniger als in den vorwochen und vorgestern und gestern wurden rund 1000 fälle pro tag an das robert koch#
@@ -708,14 +707,14 @@ de,jfekYwDfdto,70,100,todesfälle ist weiterhin hoch es wurden immer noch zwisch
 de,jfekYwDfdto,73,300,es wurden immer noch zwischen 100 und 300 fälle todesfälle pro tag übermittelt und das zeigt sich dann auch in dem#
 de,jfekYwDfdto,140,28 0,in deutschland und das ist der stand vom 28 04 00 uhr und der stand der anderen länder der ist ja immer ein wenig#
 de,jfekYwDfdto,157,966,1000,setzen können in den vereinigten staaten wurden bis dato und 9661000 fälle gemeldet und dort liegt die anzahl der#
-de,jfekYwDfdto,168,55.0,toten unter den gemeldeten fällen bei 57 prozent das sind rund 55.000 personen in den vereinigten staaten in spanien#
-de,jfekYwDfdto,176,210,den vereinigten staaten in spanien hier wurden bislang rund 210.000 fälle gemeldet und hier ist die anzahl der#
-de,jfekYwDfdto,183,23.0,gemeldet und hier ist die anzahl der todesfälle 23.000 rund hier liegt also die rate bei 111 prozent#
-de,jfekYwDfdto,186,11,1,todesfälle 23.000 rund hier liegt also die rate bei 111 prozent und wenn wir uns das vereinigte#
-de,jfekYwDfdto,195,153,königreich anschauen dann wohnen dort bislang rund 153.000 fälle gemeldet davon rund 20.000 todesfälle#
-de,jfekYwDfdto,199,20.0,bislang rund 153.000 fälle gemeldet davon rund 20.000 todesfälle dann ergibt das eine prozentzahl unter#
+de,jfekYwDfdto,168,550,toten unter den gemeldeten fällen bei 57 prozent das sind rund 55000 personen in den vereinigten staaten in spanien#
+de,jfekYwDfdto,176,210,den vereinigten staaten in spanien hier wurden bislang rund 210000 fälle gemeldet und hier ist die anzahl der#
+de,jfekYwDfdto,183,230,gemeldet und hier ist die anzahl der todesfälle 23000 rund hier liegt also die rate bei 111 prozent#
+de,jfekYwDfdto,186,11,1,todesfälle 23000 rund hier liegt also die rate bei 111 prozent und wenn wir uns das vereinigte#
+de,jfekYwDfdto,195,153,königreich anschauen dann wohnen dort bislang rund 153000 fälle gemeldet davon rund 20000 todesfälle#
+de,jfekYwDfdto,199,200,bislang rund 153000 fälle gemeldet davon rund 20000 todesfälle dann ergibt das eine prozentzahl unter#
 de,jfekYwDfdto,205,13,6,dann ergibt das eine prozentzahl unter den gemeldeten und 136 prozent wenn wir uns deutschland im vergleich#
-de,jfekYwDfdto,211,156,dazu anschauen hier haben wir rund 156.000300 fälle gemeldet und darunter wurden uns zur#
+de,jfekYwDfdto,211,156,dazu anschauen hier haben wir rund 156000300 fälle gemeldet und darunter wurden uns zur#
 de,jfekYwDfdto,219,5900,gemeldet und darunter wurden uns zur kenntnis gegeben 5900 todesfälle das sind 38 prozent also im vergleich#
 de,jfekYwDfdto,232,9 million,die ganz gut aussehend momentan weltweit sind rund 29000000en menschen als kurve 19 erkrankt identifiziert worden#
 de,jfekYwDfdto,278,28 4,156,1337,betrachtet ich sagte schon dass wir bis 28 40 uhr 1561337 cupid fälle übermittelt bekommen und das sind rund#
@@ -724,20 +723,20 @@ de,jfekYwDfdto,292,5900,war darunter liegen insgesamt 5900 13 todesfälle#
 de,jfekYwDfdto,297,163,todesfälle das sind 163 mehr als am vortag und wir haben eine gesamt inzidenz das#
 de,jfekYwDfdto,305,100000,und wir haben eine gesamt inzidenz das vorkommen also pro 100000 das liegt in deutschland bei uns 188 fällen zur zeit#
 de,jfekYwDfdto,308,188,vorkommen also pro 100000 das liegt in deutschland bei uns 188 fällen zur zeit da gibt es regionale unterschiede#
-de,jfekYwDfdto,319,117,100,das ist nach wie vor so bayern hat momentan 3117 fälle pro 100.000 einwohner und mecklenburg vorpommern 42#
-de,jfekYwDfdto,325,100,einwohner und mecklenburg vorpommern 42 fälle pro 100.000 einwohner die zahl der gelesenen schätzen wir#
+de,jfekYwDfdto,319,117,100,das ist nach wie vor so bayern hat momentan 3117 fälle pro 100000 einwohner und mecklenburg vorpommern 42#
+de,jfekYwDfdto,325,100,einwohner und mecklenburg vorpommern 42 fälle pro 100000 einwohner die zahl der gelesenen schätzen wir#
 de,jfekYwDfdto,331,117,1400,die zahl der gelesenen schätzen wir momentan auf rund 1171400 tschuldigung ich habe gerade ein technisches problem#
-de,jfekYwDfdto,433,117,also wir hatten die zahl der chinesen mit 117.000400 geschätzt momentan startet heute und ihre produktionszahl#
+de,jfekYwDfdto,433,117,also wir hatten die zahl der chinesen mit 117000400 geschätzt momentan startet heute und ihre produktionszahl#
 de,jfekYwDfdto,479,125000,wir klinische informationen also rund 80% 125000 hier ist es nach wie vor so dass husten mit 50 prozent und fiebere#
-de,jfekYwDfdto,508,21.5,124,krankenhaus behandelt das entspricht rund 21.500 fällen von den 124.000 die wir dazu übergehen dazu die#
+de,jfekYwDfdto,508,215,124,krankenhaus behandelt das entspricht rund 21500 fällen von den 124000 die wir dazu übergehen dazu die#
 de,jfekYwDfdto,532,5913,die todesfälle in deutschland sind momentan 5913 personen die uns bekannt sind dass sie im rahmen einer kur wird#
 de,jfekYwDfdto,1212,100,jahr den erwert das heißt also nach mathematischen regeln 100 man ja wenn es unter 05 ist unter und über 05 hoch der#
-de,jfekYwDfdto,1410,50.0,er kann ja zum beispiel eins sein wenn wir 50.000 fälle am tag hätten nehmen wir mal diese zahl bislang nie hatten#
-de,jfekYwDfdto,1416,6000,die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und#
-de,jfekYwDfdto,1417,50.0,rund 6000 pro tag aber wenn wir 50.000 pro tag hätten und jeden tag wieder 50.000 dann hätten wir#
-de,jfekYwDfdto,1420,50.0,aber wenn wir 50.000 pro tag hätten und jeden tag wieder 50.000 dann hätten wir über die zeit auch einen r von 1 das#
+de,jfekYwDfdto,1410,500,er kann ja zum beispiel eins sein wenn wir 50000 fälle am tag hätten nehmen wir mal diese zahl bislang nie hatten#
+de,jfekYwDfdto,1416,6000,die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50000 pro tag hätten und#
+de,jfekYwDfdto,1417,500,rund 6000 pro tag aber wenn wir 50000 pro tag hätten und jeden tag wieder 50000 dann hätten wir#
+de,jfekYwDfdto,1420,500,aber wenn wir 50000 pro tag hätten und jeden tag wieder 50000 dann hätten wir über die zeit auch einen r von 1 das#
 de,jfekYwDfdto,1500,1000,das sagten sie auch eben aber wir würden mal gehen etwa von einer zahl von 1000 pro tag also grob ich kann das nicht#
-de,jfekYwDfdto,1529,10.1,gibt wo man dann pro fall 10.15 bis zu 20 personen nachvollziehen muss und das ist kann er sehr#
+de,jfekYwDfdto,1529,101,gibt wo man dann pro fall 1015 bis zu 20 personen nachvollziehen muss und das ist kann er sehr#
 de,jfekYwDfdto,1619,100,denn das rkw alles um die test kapazitäten ikone abstrich tests zu 100 prozent aus zu sehen#
 de,jfekYwDfdto,3564,800,geschäfte über alternativen unter acht nationen über 800 natürlich bauen wir den berufen kinos dürfen mich#
 de,jfekYwDfdto,3599,800,herabsetzen und die will ich ja klar bei über 800 also unsere rolle ist ja die dass für empfehlungen geben und wir sind#
@@ -754,7 +753,7 @@ de,Exr_v64oUdo,1071,7000,damit man sie aufs festland bringt in dem camp und drum
 de,Exr_v64oUdo,1098,184,eines der schärfsten der welt so wurden im vergangenen jahr 184 menschen hingerichtet so viele wie nie ab morgen#
 de,Exr_v64oUdo,1129,320,geahndet wer keine rettungsgasse bildet riskiert bis zu 320 euro und zwei punkte und auch raser werden jetzt schneller#
 de,Exr_v64oUdo,1155,2050,werde werde der nordpol im durchschnitt jeden zweiten sommer bis 2050 weitestgehend abschmelzen#
-de,Exr_v64oUdo,1402,158,in deutschland haben sich laut johns hopkins universität aktuell 158.000213 menschen durch test bestätigt mit dem#
+de,Exr_v64oUdo,1402,158,in deutschland haben sich laut johns hopkins universität aktuell 158000213 menschen durch test bestätigt mit dem#
 de,Exr_v64oUdo,1409,114,1500,menschen durch test bestätigt mit dem virus infiziert davon gelten 1141500 mittlerweile als genesen gestorben sind#
 de,Exr_v64oUdo,1415,6021,mittlerweile als genesen gestorben sind 6021 patienten im zusammenhang mit cupid 19#
 de,Exr_v64oUdo,1556,100,verglichen mit den vormonaten deutlich zu sehen ab märz der korona effekt 100000000000en euro waren in der eurozone im#
@@ -767,16 +766,16 @@ de,7Y3XRpeo42g,207,25 million,ist teil einer bestellung von insgesamt 25000000en
 de,7Y3XRpeo42g,225,800,umstritten ist die masken pflicht ist jedoch die 800 quadratmeter regelung für geschäfte nach einer entscheidung des#
 de,7Y3XRpeo42g,236,800,hier jetzt öffnen wenn sie ihre ladenfläche auf 800 quadratmeter beschränken#
 de,7Y3XRpeo42g,414,6400,waren es anfang april in deutschland fast 6400 neue fälle täglich gestern kamen rund 1300 fälle dazu insgesamt#
-de,7Y3XRpeo42g,418,1300,fast 6400 neue fälle täglich gestern kamen rund 1300 fälle dazu insgesamt sind mehr als 158.000 corona in 40#
-de,7Y3XRpeo42g,422,158,kamen rund 1300 fälle dazu insgesamt sind mehr als 158.000 corona in 40 infizierte durch tests bestätigt davon#
-de,7Y3XRpeo42g,428,114,infizierte durch tests bestätigt davon gelten mehr als 114.000 betroffene als genesen 5.985 menschen sind in#
-de,7Y3XRpeo42g,431,985,gelten mehr als 114.000 betroffene als genesen 5.985 menschen sind in verbindung mit dem virus gestorben die#
-de,7Y3XRpeo42g,510,20.0,neuansteckungen und todesfälle noch zu hoch mehr als 20.000 corona tote zählt das land die eigentliche zahl dürfte#
-de,7Y3XRpeo42g,552,100,das problem der fehlenden schutzkleidung ist ungelöst die versprochenen 100.000 tests täglich bis mai nicht zu schaffen#
+de,7Y3XRpeo42g,418,1300,fast 6400 neue fälle täglich gestern kamen rund 1300 fälle dazu insgesamt sind mehr als 158000 corona in 40#
+de,7Y3XRpeo42g,422,158,kamen rund 1300 fälle dazu insgesamt sind mehr als 158000 corona in 40 infizierte durch tests bestätigt davon#
+de,7Y3XRpeo42g,428,114,infizierte durch tests bestätigt davon gelten mehr als 114000 betroffene als genesen 5985 menschen sind in#
+de,7Y3XRpeo42g,431,985,gelten mehr als 114000 betroffene als genesen 5985 menschen sind in verbindung mit dem virus gestorben die#
+de,7Y3XRpeo42g,510,200,neuansteckungen und todesfälle noch zu hoch mehr als 20000 corona tote zählt das land die eigentliche zahl dürfte#
+de,7Y3XRpeo42g,552,100,das problem der fehlenden schutzkleidung ist ungelöst die versprochenen 100000 tests täglich bis mai nicht zu schaffen#
 de,7Y3XRpeo42g,637,100,der letzte gast bezahlte die hotelkette ist zu 100 angestellte sind in kurzarbeit#
 de,7Y3XRpeo42g,772,550,schnellverfahren einen kfw-kredit von 550000000en euro condor sollte nach der pleite des thomas#
-de,7Y3XRpeo42g,823,63.0,realität leben sie jedoch die menschen im land dort sind mehr als 63.000 infektionen registriert 4298 menschen#
-de,7Y3XRpeo42g,828,4298,im land dort sind mehr als 63.000 infektionen registriert 4298 menschen starben an den folgen#
+de,7Y3XRpeo42g,823,630,realität leben sie jedoch die menschen im land dort sind mehr als 63000 infektionen registriert 4298 menschen#
+de,7Y3XRpeo42g,828,4298,im land dort sind mehr als 63000 infektionen registriert 4298 menschen starben an den folgen#
 de,7Y3XRpeo42g,971,2009,friedensforschungsinstitut sipri demnach haben die staaten 2009 10 fast zwei 000000000en dollar für rüstungsgüter#
 de,7Y3XRpeo42g,985,732,einem budget von 732000000000en us dollar gefolgt von china und indien#
 de,7Y3XRpeo42g,991,49,3,china und indien deutschland hat für sein militär 493000000000en dollar ausgegeben#
@@ -787,32 +786,31 @@ de,7Y3XRpeo42g,1207,2002,vorliegt führen die ermittler noch an dass sich becken
 de,7Y3XRpeo42g,1214,67 million,chef louis dreyfus li und kurz darauf insgesamt 67000000en euro an verschiedene firmen des fifa funktionär#
 de,7Y3XRpeo42g,1221,2006,bin hammam überwies ob das bestechungsgelder für die wm 2006 waren genau diese zentrale frage wird von der#
 de,7Y3XRpeo42g,1256,2006,unaufgeklärte mögliche korruption skandal rund um die wm 2006 der könnte wenn überhaupt in einem noch offenen#
-de,7Y3XRpeo42g,1313,21.4,später gibt es mehr im heute journal um 21.45 mit christian sievers und um 19 uhr ist morgen barbara hahlweg für sie#
-de,bmbjnK2XII4,567,30.0,haben wir die bundeskanzlerin gebeten zum 30.04 uns eine weile diese aussage mit dem#
+de,7Y3XRpeo42g,1313,214,später gibt es mehr im heute journal um 2145 mit christian sievers und um 19 uhr ist morgen barbara hahlweg für sie#
+de,bmbjnK2XII4,567,300,haben wir die bundeskanzlerin gebeten zum 3004 uns eine weile diese aussage mit dem#
 de,bmbjnK2XII4,712,150,im koalitionsausschuss durchgesetzt hat dass es jetzt ein geld gibt 150 euro für sozial benachteiligte kinder zum#
-de,bmbjnK2XII4,1207,157,120,laut aktueller statistik sind in deutschland bislang 157.000120 corona infektionen identifiziert worden#
-de,bmbjnK2XII4,1215,112,gut zwei drittel dieser infizierten 112.000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang#
-de,bmbjnK2XII4,1217,5896,112.000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang mit cupid 19 wurden bislang registriert#
+de,bmbjnK2XII4,1207,157,120,laut aktueller statistik sind in deutschland bislang 157000120 corona infektionen identifiziert worden#
+de,bmbjnK2XII4,1215,112,gut zwei drittel dieser infizierten 112000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang#
+de,bmbjnK2XII4,1217,5896,112000 personen gelten als wieder genesen 5896 todesfälle im zusammenhang mit cupid 19 wurden bislang registriert#
 de,bmbjnK2XII4,1303,450,westfälischen grevenbroich wurde abgeriegelt alle der 450 bewohner auf cupid 19 getestet die behörden ordneten#
 de,bmbjnK2XII4,1668,170,bangladesch im asiatischen ganges delta hat 170000000en einwohner offiziell bisher nur 145 corona tote und überhaupt#
 de,bmbjnK2XII4,1671,145,hat 170000000en einwohner offiziell bisher nur 145 corona tote und überhaupt eine abwehrkräfte so verletzlich sind#
-de,bmbjnK2XII4,1925,11.0,tschernobyl ukrainische behördenangaben zufolge sind bisher 11.000 hektar abgebrannt umweltorganisation gehen von#
+de,bmbjnK2XII4,1925,110,tschernobyl ukrainische behördenangaben zufolge sind bisher 11000 hektar abgebrannt umweltorganisation gehen von#
 de,bmbjnK2XII4,1939,1986,inoffizielle aussagen weckt am 26 april 1986 studierte block 4 des atomkraftwerks von#
 de,bmbjnK2XII4,1988,1986,den einsatz im nuklear verseuchten wald 1986 fiel dieses urteil klar aus der strahlung des offenen reaktorblocks#
-de,bmbjnK2XII4,2144,80.0,sich ohne touristen durchschnittlich 80.000 besuchten die stadt zuvor pro tag wir haben uns über die touristen#
+de,bmbjnK2XII4,2144,800,sich ohne touristen durchschnittlich 80000 besuchten die stadt zuvor pro tag wir haben uns über die touristen#
 de,bmbjnK2XII4,2353,3 million,arbeitslosenzahl von aktuell 23 auf mehr als 3000000en große kundgebungen und demonstrationen#
 de,bmbjnK2XII4,2374,100,verlegen ihren kleinen parteitag am samstag mit 100 delegierten ins internet erstmalig findet ein online parteitag#
-de,eycLRCnCt-I,180,157,000,sind laut johns hopkins universität in deutschland mehr als 157.000 corona infizierte durch tests bestätigt das#
-de,eycLRCnCt-I,186,1600,infizierte durch tests bestätigt das sind gut 1600 mehr als gestern um diese zeit davon gelten fast 110.000#
-de,eycLRCnCt-I,189,110,000,sind gut 1600 mehr als gestern um diese zeit davon gelten fast 110.000 betroffener als genesen 5880 menschen#
-de,eycLRCnCt-I,193,5880,zeit davon gelten fast 110.000 betroffener als genesen 5880 menschen sind bislang in verbindung mit dem virus#
+de,eycLRCnCt-I,180,157,000,sind laut johns hopkins universität in deutschland mehr als 157000 corona infizierte durch tests bestätigt das#
+de,eycLRCnCt-I,186,1600,infizierte durch tests bestätigt das sind gut 1600 mehr als gestern um diese zeit davon gelten fast 110000#
+de,eycLRCnCt-I,189,110,000,sind gut 1600 mehr als gestern um diese zeit davon gelten fast 110000 betroffener als genesen 5880 menschen#
+de,eycLRCnCt-I,193,5880,zeit davon gelten fast 110000 betroffener als genesen 5880 menschen sind bislang in verbindung mit dem virus#
 de,eycLRCnCt-I,485,100,damals sowjetischen atomkraftwerk etwa 100 kilometer entfernt von kiew explodiert block 4#
 de,eycLRCnCt-I,544,1986,willst du die kritik an der politischen führung gab es auch 1986 am 26 april explodierte block 4 des atomkraftwerks#
 de,eycLRCnCt-I,567,137,nicht nur die ukraine sondern auch norwegen leicht erhöhte cäsium 137 werte gesundheitsgefährdend sei die gemessene#
-de,_PHfb4wjNAo,56,32.0,als wäre reichlich reserve da es gibt rund 32.000 einsatzfähige intensivbetten in deutschland knapp 2000 corona#
-de,_PHfb4wjNAo,60,2000,rund 32.000 einsatzfähige intensivbetten in deutschland knapp 2000 corona patienten werden derzeit beatmet fast#
-de,_PHfb4wjNAo,66,17.0,patienten werden derzeit beatmet fast 17.000 betten dienen menschen die an anderen krankheiten leiden als cobit#
-de,_PHfb4wjNAo,70,19.3,13.0,anderen krankheiten leiden als cobit 19.30 13.000 sind also noch frei das ist gut so lange die pandemie unter#
+de,_PHfb4wjNAo,56,320,als wäre reichlich reserve da es gibt rund 32000 einsatzfähige intensivbetten in deutschland knapp 2000 corona#
+de,_PHfb4wjNAo,60,2000,rund 32000 einsatzfähige intensivbetten in deutschland knapp 2000 corona patienten werden derzeit beatmet fast#
+de,_PHfb4wjNAo,70,193,anderen krankheiten leiden als cobit 1930 13000 sind also noch frei das ist gut so lange die pandemie unter#
 de,_PHfb4wjNAo,186,280,extremsituationen zu kämpfen mehr als die hälfte der 280 betten belegt mit corona patienten im moment#
 de,_PHfb4wjNAo,444,20 1,auf eine lange durststrecke ein dass wir wieder auf dem niveau von 20 19 sein werden können wird es sicherlich#
 de,_PHfb4wjNAo,451,2022,sein werden können wird es sicherlich 2022 werden ein teil seiner mitarbeiter nähten und mundschutzmasken den#
@@ -822,40 +820,40 @@ de,_PHfb4wjNAo,483,5819,infektionen identifiziert 1091800 patienten davon sind w
 de,_PHfb4wjNAo,560,7000,öffnen die schulen belgien ist mit fast 7000 toten massiv von der pandemie betroffen#
 de,_PHfb4wjNAo,605,1000,protestierten auf dem rosa-luxemburg-platz etwa 1000 menschen teils sehr nahe beieinander#
 de,_PHfb4wjNAo,659,2018,ernteausfälle zeichnen sich ab schon 2018 war ein dürre jahr corona hat regionen der sogenannten hoch#
-de,_PHfb4wjNAo,782,2008,könnte sich die zahl der malaria todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770.000 verdoppelt#
-de,_PHfb4wjNAo,786,770,000,todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770.000 verdoppelt isabel mayer haben beim ausbruch in#
+de,_PHfb4wjNAo,782,2008,könnte sich die zahl der malaria todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770000 verdoppelt#
+de,_PHfb4wjNAo,786,770,000,todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770000 verdoppelt isabel mayer haben beim ausbruch in#
 de,_PHfb4wjNAo,812,6000,so die bhu im kongo wo seit dem vergangenen jahr mehr als 6000 menschen vor allem kinder an masern gestorben#
 de,_PHfb4wjNAo,830,2500,kontrolle haben bisher registrieren wir weiterhin mehr als 2500 fälle pro woche und masern ist eine durchimpfung#
 de,_PHfb4wjNAo,890,100,tom moore star in großbritannien hat nun kurz vor seinem 100 geburtstag auch noch die britischen charts gestürmt mit#
-de,_PHfb4wjNAo,922,11 1,19 2,ohne gewähr 4 11 17 19 25 30 superzahl 4 weitere gewinnzahlen auf lotto zdf de und im zdf#
+de,_PHfb4wjNAo,922,11,ohne gewähr 4 11 17 19 25 30 superzahl 4 weitere gewinnzahlen auf lotto zdf de und im zdf#
 de,8k1LlIlFfGk,70,2000,intensivstationen um ihr leben kämpfen knapp 2000 kroner patienten in deutschland müssen derzeit beatmet#
-de,8k1LlIlFfGk,83,32.0,insgesamt melden die krankenhäuser heute mehr als 32.000 einsatzfähige intensivbetten davon sind fast 13.000#
-de,8k1LlIlFfGk,86,13.0,mehr als 32.000 einsatzfähige intensivbetten davon sind fast 13.000 frei sibylle bassler torge bode unter#
+de,8k1LlIlFfGk,83,320,insgesamt melden die krankenhäuser heute mehr als 32000 einsatzfähige intensivbetten davon sind fast 13000#
+de,8k1LlIlFfGk,86,130,mehr als 32000 einsatzfähige intensivbetten davon sind fast 13000 frei sibylle bassler torge bode unter#
 de,8k1LlIlFfGk,136,280,extremsituationen zu kämpfen mehr als die hälfte der 280 betten belegt mit corona patienten jetzt gehen#
-de,8k1LlIlFfGk,243,155,000,universität gibt es in deutschland jetzt mehr als 155.000 bestätigte corona infizierte stand vor einer halben stunde#
-de,8k1LlIlFfGk,251,110,000,infizierte stand vor einer halben stunde davon gelten fast 110.000 menschen als genesen und 5802 sind in verbindung mit#
-de,8k1LlIlFfGk,254,5802,davon gelten fast 110.000 menschen als genesen und 5802 sind in verbindung mit dem virus gestorben die zahl der#
+de,8k1LlIlFfGk,243,155,000,universität gibt es in deutschland jetzt mehr als 155000 bestätigte corona infizierte stand vor einer halben stunde#
+de,8k1LlIlFfGk,251,110,000,infizierte stand vor einer halben stunde davon gelten fast 110000 menschen als genesen und 5802 sind in verbindung mit#
+de,8k1LlIlFfGk,254,5802,davon gelten fast 110000 menschen als genesen und 5802 sind in verbindung mit dem virus gestorben die zahl der#
 de,8k1LlIlFfGk,264,7000,neuinfektionen ist gesunken fast 7000 waren es noch anfang des monats nun 1900 seit einer woche stecken#
 de,8k1LlIlFfGk,267,1900,fast 7000 waren es noch anfang des monats nun 1900 seit einer woche stecken sich täglich durchschnittlich etwa 2000#
 de,8k1LlIlFfGk,271,2000,monats nun 1900 seit einer woche stecken sich täglich durchschnittlich etwa 2000 menschen neu an#
-de,8k1LlIlFfGk,354,2200,epidemiologe er bleibt bei seinem kurs obwohl es inzwischen fast 2200 tote und 18.000 infizierte gibt das land steht#
-de,8k1LlIlFfGk,357,18.0,obwohl es inzwischen fast 2200 tote und 18.000 infizierte gibt das land steht bezogen auf die einwohnerzahl viel#
+de,8k1LlIlFfGk,354,2200,epidemiologe er bleibt bei seinem kurs obwohl es inzwischen fast 2200 tote und 18000 infizierte gibt das land steht#
+de,8k1LlIlFfGk,357,180,obwohl es inzwischen fast 2200 tote und 18000 infizierte gibt das land steht bezogen auf die einwohnerzahl viel#
 de,8k1LlIlFfGk,364,2000,schlechter da als etwa dänemark norwegen oder deutschland 2000 wissenschaftler fordern ein umdenken und strengere#
-de,8k1LlIlFfGk,607,4 million,noch nie waren mehr deutsche in kurzarbeit derzeit etwa 4000000en beschäftigte gut 700.000 unternehmen#
-de,8k1LlIlFfGk,611,700,000,kurzarbeit derzeit etwa 4000000en beschäftigte gut 700.000 unternehmen haben kurzarbeit angemeldet also rund#
+de,8k1LlIlFfGk,607,4 million,noch nie waren mehr deutsche in kurzarbeit derzeit etwa 4000000en beschäftigte gut 700000 unternehmen#
+de,8k1LlIlFfGk,611,700,000,kurzarbeit derzeit etwa 4000000en beschäftigte gut 700000 unternehmen haben kurzarbeit angemeldet also rund#
 de,8k1LlIlFfGk,644,100,nach vier wochen die diana eckert komplett zu hause war kurzarbeit zu 100 prozent#
-de,8k1LlIlFfGk,766,224,000,ist in europa das land das mit fast 224.000 infizierten am stärksten von corona virus betroffen ist jetzt gibt es#
-de,8k1LlIlFfGk,893,2008,770,000,der malaria todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770.000 verdoppeln so die#
+de,8k1LlIlFfGk,766,224,000,ist in europa das land das mit fast 224000 infizierten am stärksten von corona virus betroffen ist jetzt gibt es#
+de,8k1LlIlFfGk,893,2008,770,000,der malaria todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770000 verdoppeln so die#
 de,8k1LlIlFfGk,945,1000,derzeit verboten trotzdem haben etwa 1000 menschen gegen die krone einschränkungen protestiert#
 de,A0mA37upj30,92,154,in deutschland sind damit insgesamt laut johns hopkins universität mehr als 1541000 infizierte durch tests bestätigt#
 de,A0mA37upj30,95,1000,johns hopkins universität mehr als 1541000 infizierte durch tests bestätigt 1061800 davon gelten als wieder genesen#
 de,A0mA37upj30,98,106,1800,1000 infizierte durch tests bestätigt 1061800 davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus#
 de,A0mA37upj30,103,5653,1061800 davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus sind registriert#
 de,A0mA37upj30,129,157,in frankfurt ist am vormittag ein flugzeug gelandet das 157 passagiere aus dem südafrikanischen kapstadt zurück#
-de,A0mA37upj30,260,350,000,tag die zahlen zeigen die ganze dramatik 350.000 passagiere hat die lufthansa vor der korona krise geflogen#
+de,A0mA37upj30,260,350,000,tag die zahlen zeigen die ganze dramatik 350000 passagiere hat die lufthansa vor der korona krise geflogen#
 de,A0mA37upj30,267,3000,tag für tag jetzt sind es weniger als 3000 lufthansa-chef spor wandte sich letzte woche an seine mitarbeiter#
 de,A0mA37upj30,357,100,krise schrumpfen wird die flotte wird um etwa 100 flugzeuge verkleinert so lufthansa-chef spur#
-de,A0mA37upj30,382,10.0,bedeutet aber auch dass bei der lufthansa 10.000 mitarbeiter zu viel an bord sind#
+de,A0mA37upj30,382,100,bedeutet aber auch dass bei der lufthansa 10000 mitarbeiter zu viel an bord sind#
 de,A0mA37upj30,402,130,das die globalisierte welt zusammenhält mit 130 tausend starts und landungen am tag#
 de,A0mA37upj30,735,2015,einer strafaktion er soll die fünfjährige 2015 zusammen mit ihrer mutter als sklaven gekauft und beide#
 de,A0mA37upj30,805,500,geschlossen hat betroffen sind alle betriebssystem versionen ab 16 rund 500000000en geräte norbert blüm ist tot#
@@ -883,8 +881,8 @@ de,IEQW8HFWptM,68,100,dann kommt Luft und pustet\nden Sand mit Schmackes vor. Ok
 de,IEQW8HFWptM,809,2020,"Mein Arm ist zu kurz.\nAh ich habe noch nen linken. Untertitel: ARD Text\nim Auftrag von Funk (2020) Wir Spulen das vor."]#
 de,7-4ouWUl0zc,573,150,Ich hab echt ein bisschen Angst.\n-Ob das schwimmt? -Ja. 50 Kilo. -Das Zeug\nsoll angeblich 150 kg halten. Das da?\n-Ja. Wenn wir alles genommen hätten.#
 de,7-4ouWUl0zc,612,150,Das liegt perfekt im Wasser.\n-Kannst du dich drauf stellen? Nein! -150 kg. Die Hälfte sind 70.\nHält. -Nee mach mal jetzt nicht. Wir haben uns echt Mühe gegeben.#
-de,-F6rNTtxE-I,20,85.0,Dann habe ich mal geguckt\nwas die kosten. Und so ein Steinway\nz.B. kostet 85.000 Euro. Jetzt haben wir hier\neinen besorgt für 150 Euro.#
-de,-F6rNTtxE-I,23,150,Und so ein Steinway\nz.B. kostet 85.000 Euro. Jetzt haben wir hier\neinen besorgt für 150 Euro. Der wurde ausgemustert\nwollte man wegschmeißen#
+de,-F6rNTtxE-I,20,850,Dann habe ich mal geguckt\nwas die kosten. Und so ein Steinway\nz.B. kostet 85000 Euro. Jetzt haben wir hier\neinen besorgt für 150 Euro.#
+de,-F6rNTtxE-I,23,150,Und so ein Steinway\nz.B. kostet 85000 Euro. Jetzt haben wir hier\neinen besorgt für 150 Euro. Der wurde ausgemustert\nwollte man wegschmeißen#
 de,-F6rNTtxE-I,37,150,mit einem Flügel\ndurch die Stadt fahren. Und da kommt so ein\n150-Euro-Flügel gerade recht. Und der geht ja noch ein bisschen.#
 de,-F6rNTtxE-I,329,150,D. h. Baut das niemals\nzu etwas Fahrenden um. Wenn es nicht 150 Euro gekostet hat\nund weggeschmissen werden sollte. Waldo komm hier raus\nkomm zu uns lieber Waldo.#
 de,-F6rNTtxE-I,354,300,So hier kommen die Motoren. Wie viel KW hat das Ding?\nDrei? 300? Ne 3 KW. So wie gestern als ich meine\nPaintball-Knarre vorgestellt habe#
@@ -897,7 +895,7 @@ de,zvMnNlrz6Gg,550,500,Nein der muss noch. Wir haben 500 Teile über dann kommt\
 de,zvMnNlrz6Gg,557,15,5,Wir haben jetzt etwa 1 zu 15?\n- Ein bisschen mehr. 1 zu 155 schätze ich. Der Motor wird mit dem Benzin\nund dem Öl direkt geschmiert#
 de,_mqMz5sHEVw,862,17,9,und den kannst du nur\nhier drin zu den nehmen. Ganz cool eigentlich.\n- Kostet auch 1790 €. - Ey ihr macht das Netz\nseit 2 Stunden Brian!#
 de,_mqMz5sHEVw,895,2012,wie es innenpolitisch\nin Deutschland aussieht. Ob Olympia 2012... - Ich würde dir\nviele Schwedenrätsel bringen.#
-de,_mqMz5sHEVw,951,10.8,was der Fleischrechner hier auch\nin 25 Sekunden ausgerechnet hat. - Ich sag dazu dass ich 10.800\nBälle für das große Ding brauche. - Und das kleine sind wie viel?\n- Hätte ich dir auch ausgerechnet!#
+de,_mqMz5sHEVw,951,108,was der Fleischrechner hier auch\nin 25 Sekunden ausgerechnet hat. - Ich sag dazu dass ich 10800\nBälle für das große Ding brauche. - Und das kleine sind wie viel?\n- Hätte ich dir auch ausgerechnet!#
 de,_mqMz5sHEVw,958,1780,- Und das kleine sind wie viel?\n- Hätte ich dir auch ausgerechnet! - Hehe.\n- 1780 oder so. - Nee 1786.\n- Hehehe.#
 de,_mqMz5sHEVw,959,1786,"- Hehe.\n- 1780 oder so. - Nee 1786.\n- Hehehe. Du hast Excel\nich hab nen Fleischrechner."]#
 de,_mqMz5sHEVw,1048,2020,will ich ein Foto davon sehen. Und\nwehe das ist nur schwarz. Geil. Untertitel: ARD Text\nim Auftrag von Funk 2020 Jetzt brauchen wir noch 1 2 3 4.#
@@ -921,7 +919,7 @@ de,8zkc3BayfDo,1009,21,4,Auf jeden Fall sehr leicht. Ich würde sagen 214. 20 we
 de,8zkc3BayfDo,1013,21,4,Ich würde sagen 214. 20 wenn überhaupt. 214.\n*lacht* Geil ey.#
 de,8zkc3BayfDo,1046,42,5,42 km/h ist schon nicht schlecht. 425. Schon gut für das Teil. Viel zu schnell!#
 de,KXq3TgpEb1I,199,100,Hinten habe ich die Federung\nneu gemacht. -Hab ich gesehen geil. Die Akkus wiegen\nungefähr 100 Kilo eine Menge. Dann habe ich noch\nein Differenzial eingebaut.#
-de,KXq3TgpEb1I,245,600,Wie viel Kohle hast du reingesteckt? Akku 600 ich schätze so ...\n-2.000. -Ja genau. Ganz klar ein Einsitzer.\nOder hast du mehrere Leute damit...?#
+de,KXq3TgpEb1I,245,600,Wie viel Kohle hast du reingesteckt? Akku 600 ich schätze so ...\n-2000. -Ja genau. Ganz klar ein Einsitzer.\nOder hast du mehrere Leute damit...?#
 de,KXq3TgpEb1I,298,250,Messen. Wie ist die Frage.\n-Die Magnetfeldstärke. Gewicht? -Ich hab gemessen\n250 Kilo ohne Fahrer. Weißt du wie schnell?\n-Mit vollem Akku fast 70.#
 de,KXq3TgpEb1I,340,70,6,Es war exakt was er gesagt hat.\nEr ist doch kein Lügner. 706. Jetzt kriegen wir endlich\nsaubere Zahlen hier ey.#
 de,KXq3TgpEb1I,410,6667,Aber da ist auch richtig Dampf drauf. Fun-Faktor 96667. So viel geiler\nals ein Verbrenner Alter.#
@@ -942,35 +940,35 @@ de,S8LNk1IF994,485,001,001. 0001. Richtig?#
 de,S8LNk1IF994,488,0012,Richtig? 00012. 12 Milliampere.#
 de,S8LNk1IF994,654,1000,Wir müssen auf Millisekunden runter. Millisekunden sind 1000 Sekunden. Eine Sekunde hat 1000 Millisekunden.#
 de,S8LNk1IF994,656,1000,Millisekunden sind 1000 Sekunden. Eine Sekunde hat 1000 Millisekunden. Genau genommen sogar Mikro.#
-de,S8LNk1IF994,679,570,die Reflektoren drauf.\nMach mal durch. -7570.000 km/h. Da könnte ein Rechenfehler drin sein.#
+de,S8LNk1IF994,679,570,die Reflektoren drauf.\nMach mal durch. -7570000 km/h. Da könnte ein Rechenfehler drin sein.#
 de,S8LNk1IF994,837,23,7,Ah kann jemand schneller? 237! Das Problem ist man müsste\neigentlich an der Hüfte messen.#
 de,OBub3-43_44,581,16:0,Dann schickt uns den einfach zu.\n- Nicht am Wochenende liefern. Cool wäre von Montag bis Freitag\nvon 9:00 bis 16:00 Uhr. Nee ich bin erst ab 10:00 hier.#
 de,OBub3-43_44,584,10:0,Cool wäre von Montag bis Freitag\nvon 9:00 bis 16:00 Uhr. Nee ich bin erst ab 10:00 hier. Erklär mir mal warum das das gleiche\nGeräusch macht wie das andere!#
 de,UUmFBwVrtaE,169,400,Besuchen schöne Projekte.\nHeute waren wir an einer Schule. Gestern und heute noch.\nMit 400 Kids die da rumrennen. Ich habe mit den Musik gemacht.#
-de,UUmFBwVrtaE,294,1978,Primary School. 1978. Um 6.00 Uhr morgens.#
-de,UUmFBwVrtaE,682,500,10.0,Was du jetzt gemacht hast\nuntenrum alles abgeschnitten. Den Frequenzbereich\nzwischen 500 und 10.000 Hertz hast du übrig gelassen.#
+de,UUmFBwVrtaE,294,1978,Primary School. 1978. Um 600 Uhr morgens.#
+de,UUmFBwVrtaE,682,500,100,Was du jetzt gemacht hast\nuntenrum alles abgeschnitten. Den Frequenzbereich\nzwischen 500 und 10000 Hertz hast du übrig gelassen.#
 de,dN2MG5yU1Ls,65,100,Wie schnell ist das? Anfangs hatte ich andere Motoren\nund war dann auf knapp über 100 km/h. Aber das bin ich nie gefahren.\n-Alter!#
-de,dN2MG5yU1Ls,163,400,60.0,"Jury? Wenn sich jemand n Tesla\nleast und du fragst was kostet der sagt der 400 Euro im Monat\noder sagt der 60.000? So gesehen habe ich es\nja geschenkt bekommen."]#
+de,dN2MG5yU1Ls,163,400,"Jury? Wenn sich jemand n Tesla\nleast und du fragst was kostet der sagt der 400 Euro im Monat\noder sagt der 60000? So gesehen habe ich es\nja geschenkt bekommen."]#
 de,dN2MG5yU1Ls,174,3000,Also ich denke der Rollstuhl hat\nich weiß es nicht ... Den Rollstuhl an sich\nwürde ich auf 3000 schätzen. Da sind ja Carbonteile dran\ndas kostet natürlich extra.#
 de,dN2MG5yU1Ls,179,150,Da sind ja Carbonteile dran\ndas kostet natürlich extra. Und ja also die Motoren\nbeide zusammen 150. Dann die Controller zwei davon\neiner 60 das sind nochmal 120.#
 de,dN2MG5yU1Ls,182,120,Und ja also die Motoren\nbeide zusammen 150. Dann die Controller zwei davon\neiner 60 das sind nochmal 120. Sind 270. Dann die Akkus\nzählt nur einer oder beide?#
 de,dN2MG5yU1Ls,187,270,Dann die Controller zwei davon\neiner 60 das sind nochmal 120. Sind 270. Dann die Akkus\nzählt nur einer oder beide? Pro Akku ... -Muss ich\nmeine Hose da mit einrechnen?#
 de,dN2MG5yU1Ls,194,200,400,Pro Akku ... -Muss ich\nmeine Hose da mit einrechnen? Auch noch mal 200 Euro.\nSind wir bei 400 was? 470?#
 de,dN2MG5yU1Ls,199,470,Auch noch mal 200 Euro.\nSind wir bei 400 was? 470? Und dann kommt das eigentliche\nwas ich selber gemacht hab#
-de,dN2MG5yU1Ls,209,3000,Ja ja das sind drei Euro hier\nvier Euro da. Das ist halt die große Frage ob wir\ndie 3000 drauf rechnen müssen. 500 bis 3.500.#
-de,dN2MG5yU1Ls,212,500,500,Das ist halt die große Frage ob wir\ndie 3000 drauf rechnen müssen. 500 bis 3.500. Es gibt doch so Jokerkarten.#
-de,dN2MG5yU1Ls,219,300,500,Gibt es das manchmal mit mehreren\nWerten in einer Geschichte? 300 oder 3.500 je nachdem\nob viel oder wenig gewinnt. Ja das kann man machen.#
+de,dN2MG5yU1Ls,209,3000,Ja ja das sind drei Euro hier\nvier Euro da. Das ist halt die große Frage ob wir\ndie 3000 drauf rechnen müssen. 500 bis 3500.#
+de,dN2MG5yU1Ls,212,500,Das ist halt die große Frage ob wir\ndie 3000 drauf rechnen müssen. 500 bis 3500. Es gibt doch so Jokerkarten.#
+de,dN2MG5yU1Ls,219,300,Gibt es das manchmal mit mehreren\nWerten in einer Geschichte? 300 oder 3500 je nachdem\nob viel oder wenig gewinnt. Ja das kann man machen.#
 de,dN2MG5yU1Ls,477,22,4,Ja ich hab ausgerechnet\nes sind jetzt 30 PS. 224 kW. Und 500 Watt Phasenstrom\nim Motor hinten.#
 de,dN2MG5yU1Ls,480,500,224 kW. Und 500 Watt Phasenstrom\nim Motor hinten. Ich mag eigentlich Strom\nnicht so gerne.#
 de,dN2MG5yU1Ls,502,50-6,Wie eben gerade gesehen. -Ja genau.\nNur halt ein bisschen größer. Das Ding wiegt\nauch 50-60 Kilo bestimmt. Die erste Stufe ist so\ndie *piep*-Stufe.#
 de,dN2MG5yU1Ls,543,60-7,"Ja weil es funktioniert\nund so schnell ist. Und einfach nur krass\nWenn du z.B.bis 60-70 noch gasgibst dann machst du halt immer noch\nn Wheelie. -Wirklich?"]#
-de,dN2MG5yU1Ls,554,000,"Weiß ich nicht setz dich drauf\nund gibst Gas. Soll ich es fahren? Nee. Weißt du was mich interessiert?\nGeld. -5.000 ungefähr? Ich hab mir noch nien Auto\ngekauft was so teuer war."]#
+de,dN2MG5yU1Ls,554,000,"Weiß ich nicht setz dich drauf\nund gibst Gas. Soll ich es fahren? Nee. Weißt du was mich interessiert?\nGeld. -5000 ungefähr? Ich hab mir noch nien Auto\ngekauft was so teuer war."]#
 de,dN2MG5yU1Ls,576,120,Ich hab manchmal hinten\nden Anhänger dran und fahre meine Tochter damit\nnatürlich nur mit 25. -120 Sachen. Durchs Gelände weißt du.#
 de,dN2MG5yU1Ls,588,100,Speed? Was glaubst du\nwas der Topspeed fährt? Also über 100 auf jeden Fall.\n-Ja ne? Wie viel willst du eigentlich?\n-So 78. Und du?#
 de,dN2MG5yU1Ls,594,100,100,Wie viel willst du eigentlich?\n-So 78. Und du? Über 100. Von daher...\n-Wo hast du denn 100 Kilo versteckt? Du bist wie so ein Lithium-Akku ne?#
 de,dN2MG5yU1Ls,908,100,Durch seine Behinderung\nkonnte er das nicht schieben. Und dann habe ich das motorisiert.\nEr ist 100 m gegangen und dann den Rest\nnur noch so gestanden. -Hmm.#
-de,dN2MG5yU1Ls,1032,000,ob ich mal fahren kann.\nAlso du hast es zweimal gebaut? Ich möchte wissen was hat\ndas gekostet? -3.000? Du musstest zwei fertige\nE-Scooter kaufen.#
-de,dN2MG5yU1Ls,1054,500,Super das macht ja auch\nam meisten Bock mit Phasen. Nehmen wir 2.500 Euro. Gewicht?\nDas wiegt ein bisschen. -Ja. Der wiegt 80 kg.\n-Jo kann ich nicht hoch ... aua.#
+de,dN2MG5yU1Ls,1032,000,ob ich mal fahren kann.\nAlso du hast es zweimal gebaut? Ich möchte wissen was hat\ndas gekostet? -3000? Du musstest zwei fertige\nE-Scooter kaufen.#
+de,dN2MG5yU1Ls,1054,500,Super das macht ja auch\nam meisten Bock mit Phasen. Nehmen wir 2500 Euro. Gewicht?\nDas wiegt ein bisschen. -Ja. Der wiegt 80 kg.\n-Jo kann ich nicht hoch ... aua.#
 de,VcVsV9Yn4P4,-2,2090,. Wir schreiben das Jahr 2090\nund die Menschheit steht am Abgrund. Jahrzehntelange\nHitzewellen und Dürren#
 de,VcVsV9Yn4P4,181,1991,Wir können uns dabei\nan der Natur orientieren: Insbesondere an der\nEruption des Pinatubo von 1991 dem zweitgrößte\nVulkanausbruch des 20. Jahrhunderts.#
 de,VcVsV9Yn4P4,189,900,dem zweitgrößte\nVulkanausbruch des 20. Jahrhunderts. Neben der massiven Zerstörung\nund fast 900 Toten haben Wissenschaftler\neine starke Auswirkung#
@@ -983,7 +981,7 @@ de,q6YkYx7-Y_k,472,1100,fast 1600 g Fleisch pro Woche. In Deutschland\nsind es i
 de,NU31mw90re0,-2,2019,. Im Dezember 2019\nberichtete die chinesische Regierung von einem Virus\ndas sich rasant verbreitet.#
 de,Gih8R-f_KMo,126,700,Aber leider nur theoretisch. Es gibt z.B. 20 Millionen Tonnen Gold\nim Wert von etwa 700 Millionen Euro im Wasser aller Ozeane.#
 de,2K4h6O3uTiM,91,120,Doch die Argentinische Ameise\nsetzt auf Masse. Auf 120 Arbeiterinnen\nkommt eine Königin die bis zu 60 Eier am Tag legt.#
-de,2K4h6O3uTiM,221,16.0,Das ist in der Welt der\nAmeisen extrem ungewöhnlich nur die wenigsten\nder 16.000 Ameisenarten haben solche\nSuperkolonien entwickelt.#
+de,2K4h6O3uTiM,221,160,Das ist in der Welt der\nAmeisen extrem ungewöhnlich nur die wenigsten\nder 16000 Ameisenarten haben solche\nSuperkolonien entwickelt.#
 de,2K4h6O3uTiM,280,6000,Zwar sind einzelne\nRossameisen-Arbeiterinnen riesig dafür besteht eine Kolonie aus\nnur etwa 3000 – 6000 Mitglieder. Sie hatten keine Chance gegen\neine sich ausbreitende Superkolonie#
 de,2K4h6O3uTiM,494,2020,oder auf den anderen unzähligen\nSchlachtfeldern rund um die Welt. Untertitel: ARD Text\nim Auftrag von Funk (2020) Wenn ihr hier links klickt#
 de,6DPVWbJAWpY,227,150,Er besteht aus einem CME aus\nMrd von t heißem magnetischen Plasma das die 150 Mio km\nzwischen Sonne und Erde in weniger als einem Tag zurücklegt.#
@@ -991,18 +989,18 @@ de,6DPVWbJAWpY,309,1989,Das ist bereits passiert. 1989 ist nach\neinem starken S
 de,6DPVWbJAWpY,323,1859,Das letzte Mal dass ein Sonnen-Hurricane\nüber die Erde gefegt ist war 1859. Das sogen. Carrington-Ereignis:#
 de,6DPVWbJAWpY,369,2012,Ein Sturm ähnlich stark\nwie das Carrington-Ereignis hat die Erde 2012 nur knapp verfehlt. Studien zufolge wäre\nes zu ernsthaften Schäden#
 de,6DPVWbJAWpY,420,2019,Und es gibt noch\nmehr schlechte Nachrichten. Eine Studie von\n2019 hat herausgefunden dass auch ruhige Sterne\nwie unsere Sonne#
-de,r0Af_AT31tc,33,50.0,Eine Zelle ist ein Lebewesen eine Maschine die aus über 50.000\nverschiedenen Proteinen besteht. Sie hat kein Bewusstsein\nkeinen Willen keine Bestimmung.#
+de,r0Af_AT31tc,33,500,Eine Zelle ist ein Lebewesen eine Maschine die aus über 50000\nverschiedenen Proteinen besteht. Sie hat kein Bewusstsein\nkeinen Willen keine Bestimmung.#
 de,r0Af_AT31tc,126,250,aber fast alle deine Zellen werden\nim Laufe seines Lebens sterben. 250 Millionen deiner Zellen sind\ngestorben seit du angefangen hast dieses Video zu schauen.#
 de,r0Af_AT31tc,200,1951,Eine schaurige Geschichte\nist die von Henrietta Lacks. Sie starb im Jahr 1951\nsehr jung an Krebs. Normalerweise sterben Zellen\nim Labor nach ein paar Tagen#
 de,r0Af_AT31tc,260,1000,Neueste Studien besagen\ndass ein einzelnes Neuron im Gehirn eines Erwachsenen\nüber 1000 Mutationen haben kann die benachbarte Zellen nicht haben.#
 de,7xm21hsJ65c,25,160,Ameisen sind uralte Lebewesen. Es gibt sie\nseit ca. 160 Mio Jahren und sie haben einige ökologische\nNischen so erfolgreich besetzt#
-de,7xm21hsJ65c,35,16.0,dass sie eine der dominierenden\nTierfamilien des Planeten sind. Es gibt mehr als 16.000\nverschiedene Ameisenspezies und über Zehntausend\nBillionen Individuen.#
+de,7xm21hsJ65c,35,160,dass sie eine der dominierenden\nTierfamilien des Planeten sind. Es gibt mehr als 16000\nverschiedene Ameisenspezies und über Zehntausend\nBillionen Individuen.#
 de,7xm21hsJ65c,96,200,Ein Ameisenvolk\nwie gemacht für den Krieg. Es gibt ca. 200 verschiedene\nWanderameisen-Arten. Sie bauen keine dauerhaften Nester#
 de,7xm21hsJ65c,109,100,Wenn sie auf der Jagd sind\nbilden sie lange Heerzüge bis zu 100 Meter lang und töten und zerstückeln alle\nInsekten und kleinen Wirbeltiere#
-de,7xm21hsJ65c,117,500,000,die ihnen über den Weg laufen. Je nach Größe der Kolonie töten\nsie bis zu 500.000 Tiere am Tag. Manche Arten jagen und\nfressen gezielt soziale Insekten#
+de,7xm21hsJ65c,117,500,000,die ihnen über den Weg laufen. Je nach Größe der Kolonie töten\nsie bis zu 500000 Tiere am Tag. Manche Arten jagen und\nfressen gezielt soziale Insekten#
 de,7xm21hsJ65c,262,100,Sie betreiben eine\nhochentwickelte Arbeitsteilung: So sind ihre Soldatinnen etwa 100 Mal\ngrößer als ihre Arbeiterinnen. Die einzige Aufgabe dieser\nSoldatinnen ist es wahrscheinlich#
-de,FNFd559dEAE,-1,1014,. Im Jahr 1014 besiegte der\nbyzantinische Kaiser Basileios II. die bulgarische Armee\nund machte 15.000 Gefangene.#
-de,FNFd559dEAE,3,15.0,Im Jahr 1014 besiegte der\nbyzantinische Kaiser Basileios II. die bulgarische Armee\nund machte 15.000 Gefangene. Er hätte sie alle töten können\nhatte dann aber eine bessere Idee.#
+de,FNFd559dEAE,-1,1014,. Im Jahr 1014 besiegte der\nbyzantinische Kaiser Basileios II. die bulgarische Armee\nund machte 15000 Gefangene.#
+de,FNFd559dEAE,3,150,Im Jahr 1014 besiegte der\nbyzantinische Kaiser Basileios II. die bulgarische Armee\nund machte 15000 Gefangene. Er hätte sie alle töten können\nhatte dann aber eine bessere Idee.#
 de,FNFd559dEAE,14,100,Er wollte seine Feinde\nfür Jahrzehnte schwächen. Deshalb ließ er 99 von 100\nGefangenen die Augen ausstechen. Der 100. sollte ein Auge behalten\num die anderen nach Hause zu führen.#
 de,FNFd559dEAE,18,100,Deshalb ließ er 99 von 100\nGefangenen die Augen ausstechen. Der 100. sollte ein Auge behalten\num die anderen nach Hause zu führen. Dort musste sich die Gemeinschaft#
 de,FNFd559dEAE,153,2020,Und wir haben geschworen die meisten von ihnen\nbis 2020 auszumerzen. Und wir geben wirklich alles.#
@@ -1011,7 +1009,7 @@ de,FNFd559dEAE,162,2018,1985 gab es weltweit\nnoch 35 Mio.Fälle von Dracontiasi
 de,FNFd559dEAE,165,99,9,2018 gab es nur noch 28. Wir haben also 99999 %\nvon diesen Monstern beseitigt. Er wird der erste Parasiten sein#
 de,FNFd559dEAE,191,500,und deshalb am schlechtesten\ngeschützt werden können. Es gibt Dörfer die 500 km von der nächsten medizinischen\nEinrichtung entfernt sind.#
 de,FNFd559dEAE,266,2020,bis diese 10 Krankheiten\nausgerottet sind. Bis 2020 werden Medikamente im Wert\nvon beinahe 18 Mrd.Dollar verteilt. Die größte Medikamentenspende\nin der Geschichte.#
-de,FNFd559dEAE,279,2015,850,dass die Medikamente\nan den richtigen Ort gelangen. 2015 konnten über 850 Mio.Menschen\nbehandelt werden. Das sind etwa so viele wie die\nBevölkerung von EU und USA zusammen.#
+de,FNFd559dEAE,279,2015,dass die Medikamente\nan den richtigen Ort gelangen. 2015 konnten über 850 Mio.Menschen\nbehandelt werden. Das sind etwa so viele wie die\nBevölkerung von EU und USA zusammen.#
 de,FNFd559dEAE,325,2019,Es ist schön sich das hin\nund wieder ins Gedächtnis zu rufen. Untertitel: ARD Text\nim Auftrag von funk (2019) Wenn du enttäuscht bist\nweil in diesem Video#
 de,aMaghFZWq2A,131,1000,Menschen leben circa 50 mal länger und haben 1000 mal mehr Zellen als Mäuse aber die Krebsrate ist bei Menschen und Mäusen in etwa gleich hoch noch komischer ist es bei Blauwalen sie haben etwa 3000 mal so viele Zellen wie Menschen bekommen aber quasi gar keinen Krebs.#
 de,aMaghFZWq2A,139,3000,1000 mal mehr Zellen als Mäuse aber die Krebsrate ist bei Menschen und Mäusen in etwa gleich hoch noch komischer ist es bei Blauwalen sie haben etwa 3000 mal so viele Zellen wie Menschen bekommen aber quasi gar keinen Krebs. Das ist Petos Paradoxon: die verblüffende Erkenntnis dass große Tiere viel viel weniger Krebs haben als man erwartet.#
@@ -1019,82 +1017,82 @@ de,aMaghFZWq2A,169,600,Lösung 1: Entwickle dich weiter oder werde zu einem Kreb
 de,aMaghFZWq2A,395,002,Ein 2 Gramm Tumor macht bei einer Maus schon zehn Prozent ihres Körpergewichts aus bei einem Menschen wären das nur 0002 Prozent und nur 0000002 Prozent bei einem Blauwal aber für jeden dieser drei Tumore ist die gleiche Anzahl von#
 de,aMaghFZWq2A,398,000002,0002 Prozent und nur 0000002 Prozent bei einem Blauwal aber für jeden dieser drei Tumore ist die gleiche Anzahl von Zellteilungen und Zellen nötig. Ein alter Blauwal könnte also voll von kleinen Krebsgeschwüren sein es kümmert ihn nur nicht.#
 de,EpkzT-AeVZU,351,2017,deutlich verbessern kann. 2017 untersuchte\nein Krankenhaus Faktoren die zur Genesung\nvon Patienten beitragen#
-de,5IpAsztfBBA,67,11.0,Und so wurde es\njahrtausendelang gemacht. Bis unsere Vorfahren\nvor ca. 11.000 Jahren anfingen Ackerbau zu betreiben\nund sesshaft wurden.#
+de,5IpAsztfBBA,67,110,Und so wurde es\njahrtausendelang gemacht. Bis unsere Vorfahren\nvor ca. 11000 Jahren anfingen Ackerbau zu betreiben\nund sesshaft wurden.#
 de,5IpAsztfBBA,126,150,keine Laktase mehr. Sie können deshalb täglich nicht mehr\nals 150 ml Milch zu sich nehmen. Diese Laktoseintoleranz ist\nweltweit nicht gleichmäßig verteilt.#
 de,5IpAsztfBBA,249,100,250,Insgesamt scheint\ndie aktuelle Forschung zu zeigen dass man bei einem Milchkonsum\nvon 100-250 ml Milch pro Tag keine Angst vor einem erhöhten\nKrebsrisiko haben muss.#
 de,5IpAsztfBBA,393,1990,Die Milchproduktion hat einen\nrelevanten Einfluss auf unser Klima. Auch wenn der CO2-Ausstoß\ndurch Milchprodukte seit 1990 gesunken ist\nist die Milchindustrie immer noch#
 de,4YsaZQzT7Z8,228,2019,wie schnell Keime durch\ndie Welt getragen werden können. 2019 haben Forscher\nzum Beispiel in der Arktis Bakterien mit sage und schreibe 131\ngenetischen Resistenzen gefunden.#
 de,4YsaZQzT7Z8,231,131,2019 haben Forscher\nzum Beispiel in der Arktis Bakterien mit sage und schreibe 131\ngenetischen Resistenzen gefunden. Man geht davon aus\ndass Zugvögel die Keime#
 de,4YsaZQzT7Z8,316,2015,man möchte ja keinen\nSupererreger erschaffen. Doch 2015 kamen\nschlechte Nachrichten aus China: Man entdeckte\neine Resistenz gegen Colistin#
-de,4YsaZQzT7Z8,369,100,000,Später erreichten\nsie unbemerkt den Menschen. Im Schnitt gibt\nes täglich über 100.000 Flüge und damit quasi eine Verbindung\nzwischen jedem einzelnen Menschen.#
-de,SfbFbIL1oAA,123,2600,und Explosionen geworden. Momentan wissen wir von\netwa 2600 kaputten Satelliten 10.000 Objekte sind\ngrößer als ein Monitor#
-de,SfbFbIL1oAA,127,10.0,Momentan wissen wir von\netwa 2600 kaputten Satelliten 10.000 Objekte sind\ngrößer als ein Monitor 20.000 so groß wie ein Apfel#
-de,SfbFbIL1oAA,130,20.0,10.000 Objekte sind\ngrößer als ein Monitor 20.000 so groß wie ein Apfel 500.000 Teile\nso groß wie eine Murmel#
-de,SfbFbIL1oAA,132,500,000,20.000 so groß wie ein Apfel 500.000 Teile\nso groß wie eine Murmel und mind. Hundert Mio Teile\nsind so klein#
-de,SfbFbIL1oAA,143,30.0,Diese Trümmer\nbewegen sich mit Geschwindigkeiten von bis zu 30.000 km/h und\numkreisen die Erde auf Bahnen die sich mehrmals täglich kreuzen.#
+de,4YsaZQzT7Z8,369,100,000,Später erreichten\nsie unbemerkt den Menschen. Im Schnitt gibt\nes täglich über 100000 Flüge und damit quasi eine Verbindung\nzwischen jedem einzelnen Menschen.#
+de,SfbFbIL1oAA,123,2600,und Explosionen geworden. Momentan wissen wir von\netwa 2600 kaputten Satelliten 10000 Objekte sind\ngrößer als ein Monitor#
+de,SfbFbIL1oAA,127,100,Momentan wissen wir von\netwa 2600 kaputten Satelliten 10000 Objekte sind\ngrößer als ein Monitor 20000 so groß wie ein Apfel#
+de,SfbFbIL1oAA,130,200,10000 Objekte sind\ngrößer als ein Monitor 20000 so groß wie ein Apfel 500000 Teile\nso groß wie eine Murmel#
+de,SfbFbIL1oAA,132,500,so groß wie ein Apfel 500000 Teile\nso groß wie eine Murmel und mind. Hundert Mio Teile\nsind so klein#
+de,SfbFbIL1oAA,143,300,Diese Trümmer\nbewegen sich mit Geschwindigkeiten von bis zu 30000 km/h und\numkreisen die Erde auf Bahnen die sich mehrmals täglich kreuzen.#
 de,SfbFbIL1oAA,193,1100,Wenn nur eine erbsengroße Kugel einen unserer 1100\nfunktionierenden Satelliten trifft wird er sofort zerstört.#
-de,SfbFbIL1oAA,318,30.0,viele davon zu klein\num sie zu tracken mit Geschwindigkeiten\nvon bis zu 30.000 km/h. Wie eine tödliche Barriere die\nmöglicherweise zu gefährlich ist#
+de,SfbFbIL1oAA,318,300,viele davon zu klein\num sie zu tracken mit Geschwindigkeiten\nvon bis zu 30000 km/h. Wie eine tödliche Barriere die\nmöglicherweise zu gefährlich ist#
 de,RLsMTN9_qM4,492,2019,die unser Zuhause sein können. Untertitel: ARD Text für funk (2019) "Vogelgezwitscher\nund sphärische Musik*#
 de,J5LodnKnLYU,71,1700,1870,jeder Industriesektor explodierte\nin punkto Produktivität. Von 1700-1870 stieg die Eisen-\nproduktion in Großbritannien um das 137-fache.#
 de,J5LodnKnLYU,76,137,Von 1700-1870 stieg die Eisen-\nproduktion in Großbritannien um das 137-fache. Die Industrielle Revolution führte#
 de,J5LodnKnLYU,156,250,Der Durchschnittsbürger\nin Deutschland hätte sich vor 250 Jahren\nvielleicht gute Schuhe gewünscht... vor 150 Jahren\nvielleicht ein Fahrrad...#
 de,J5LodnKnLYU,160,150,hätte sich vor 250 Jahren\nvielleicht gute Schuhe gewünscht... vor 150 Jahren\nvielleicht ein Fahrrad... vor 80 Jahren ein Auto...#
 de,J5LodnKnLYU,406,2019,*Tusch* Untertitel: ARD Text für funk (2019) *Vogelgezwitscher\nund sphärische Musik*#
-de,aoMOSa9kXPw,13,40.0,Eine Rakete\nmuss eine Geschwindigkeit von ca. 40.000 km/h erreichen\num der Erde zu entkommen. Raketen bestehen deshalb\nhauptsächlich aus Treibstofftanks#
-de,aoMOSa9kXPw,154,12.0,Am tiefsten Punkt fegt\ndie Spitze des Tethers mit 12.000 km/h\ndurch die Erdatmosphäre. Deshalb können wir den\nSkyhook nicht zu tief herablassen#
+de,aoMOSa9kXPw,13,400,Eine Rakete\nmuss eine Geschwindigkeit von ca. 40000 km/h erreichen\num der Erde zu entkommen. Raketen bestehen deshalb\nhauptsächlich aus Treibstofftanks#
+de,aoMOSa9kXPw,154,120,Am tiefsten Punkt fegt\ndie Spitze des Tethers mit 12000 km/h\ndurch die Erdatmosphäre. Deshalb können wir den\nSkyhook nicht zu tief herablassen#
 de,aoMOSa9kXPw,163,150,denn sonst würde\ndie Reibung ihn zu stark erhitzen. Er reicht deshalb nur auf 80 bis\n150 km/h hinab aber nicht weiter. Unsere Raumschiffe müssen es\nbis dorthin also alleine schaffen.#
-de,aoMOSa9kXPw,177,40.0,als eine riesige Blechbüchse\ngefüllt mit Raketentreibstoff auf 40.000 km/h zu beschleunigen. Das Ende zu\nerwischen ist auch recht knifflig.#
+de,aoMOSa9kXPw,177,400,als eine riesige Blechbüchse\ngefüllt mit Raketentreibstoff auf 40000 km/h zu beschleunigen. Das Ende zu\nerwischen ist auch recht knifflig.#
 de,aoMOSa9kXPw,183,60–9,Das Ende zu\nerwischen ist auch recht knifflig. Es gibt nur ein kurzes\nZeitfenster von 60–90 sec in denen man das winzige Ding\ndas sich mit Mach 12 bewegt#
 de,aoMOSa9kXPw,269,1000,dank der dünnen Marsatmosphäre schon mit 1000 km/h kaum\nschneller als ein Linienflugzeug aufsammeln\nund zurück zur Erde schleudern#
 de,aoMOSa9kXPw,284,84–9,von 9 Monaten auf 5\noder sogar 3 verkürzt und die Größe von Raketen\num 84–96% verringert werden. Menschen könnten\nsogar recht luxuriös reisen#
 de,aoMOSa9kXPw,361,6000,Er ist damit perfekt als Ankerpunkt\nfür einen Super-Tether mit knapp 6000 km Länge geeignet. Das untere Ende schwebt\ndabei knapp über der Marsoberfläche#
-de,_WP9Piwsexo,132,380,000,Die meisten von ihnen\nsind eine Gemeinschaft aus 380.000 Milliarden Bakterien. Sie gehören 5000 verschiedenen\nArten an und leben in unserem Darm.#
-de,_WP9Piwsexo,135,5000,aus 380.000 Milliarden Bakterien. Sie gehören 5000 verschiedenen\nArten an und leben in unserem Darm. Diese Darm-Mikroorganismen\nhelfen uns dabei#
+de,_WP9Piwsexo,132,380,000,Die meisten von ihnen\nsind eine Gemeinschaft aus 380000 Milliarden Bakterien. Sie gehören 5000 verschiedenen\nArten an und leben in unserem Darm.#
+de,_WP9Piwsexo,135,5000,aus 380000 Milliarden Bakterien. Sie gehören 5000 verschiedenen\nArten an und leben in unserem Darm. Diese Darm-Mikroorganismen\nhelfen uns dabei#
 de,_WP9Piwsexo,254,2017,und depressionsähnliche\nSymptome zu zeigen. 2017 konnte eine Studie eine\nVerbindung zwischen Intelligenz und Mikrobiom herstellen:#
-de,4E0dwFS72gk,240,2018,83.0,gegen Masern geimpft. Es gab aber 2018 nur\n83.000 Masernfälle in Europa. Bei so unterschiedlichen Zahlen#
+de,4E0dwFS72gk,240,2018,830,gegen Masern geimpft. Es gab aber 2018 nur\n83000 Masernfälle in Europa. Bei so unterschiedlichen Zahlen#
 de,4E0dwFS72gk,256,1963,die wir gar nicht mehr kennen. Bevor der Masernimpfstoff\n1963 verfügbar wurde hat sich praktisch\njedes Kind auf der Welt#
 de,4E0dwFS72gk,263,1950,135,irgendwann mit Masern angesteckt. Das entsprach in den 1950ern\nnoch ca. 135 Millionen Fällen und zwar jedes Jahr.#
 de,4E0dwFS72gk,270,2019,und zwar jedes Jahr. Aber sind Masern im Jahr 2019\ndenn wirklich so gefährlich? Wir sind doch medizinisch#
-de,4E0dwFS72gk,294,10.0,00.0,Nehmen wir an dass sich dort 10.000.000 Kinder\nmit Masern anstecken. Was passiert?#
-de,4E0dwFS72gk,298,800,000,Was passiert? 9.800.000 oder 98%\nbekommen hohes Fieber und einen unangenehmen Ausschlag.#
-de,4E0dwFS72gk,305,800,000,und einen unangenehmen Ausschlag. Bis zu 800.000 von ihnen oder 8%\nleiden an gefährlichem Durchfall. 700.000 oder 7% bekommen\neine Mittelohrentzündung#
-de,4E0dwFS72gk,311,700,000,Bis zu 800.000 von ihnen oder 8%\nleiden an gefährlichem Durchfall. 700.000 oder 7% bekommen\neine Mittelohrentzündung die zu dauerhaftem\nHörverlust führen kann.#
-de,4E0dwFS72gk,317,600,000,die zu dauerhaftem\nHörverlust führen kann. 600.000 Kinder oder\n6% bekommen eine Lungenentzündung die gefährlichste\nNebenwirkung von Masern.#
-de,4E0dwFS72gk,324,12.0,die gefährlichste\nNebenwirkung von Masern. Sie alleine wird\n12.000 Kinder umbringen. Bis zu 10.000 Kinder oder 01%\nerkranken an Encephalitis.#
-de,4E0dwFS72gk,327,10.0,Sie alleine wird\n12.000 Kinder umbringen. Bis zu 10.000 Kinder oder 01%\nerkranken an Encephalitis. 2.500 Kinder 0025% infizieren\nsich mit SSPE einer Krankheit#
-de,4E0dwFS72gk,332,500,025,Bis zu 10.000 Kinder oder 01%\nerkranken an Encephalitis. 2.500 Kinder 0025% infizieren\nsich mit SSPE einer Krankheit bei der das Masernvirus im\nGehirn der Kinder verbleibt#
-de,4E0dwFS72gk,352,20.0,unter schwereren\nAuswirkungen von Masern leiden. Ca. 20.000 Kinder\nwerden an Masern sterben. Aber damit nicht genug.#
-de,4E0dwFS72gk,383,10.0,00.0,Also zurück zu\nunserem Gedankenexperiment aber jetzt lassen wir 10.000.000\nKinder mit dem MMR-Impfstoff impfen. Was passiert jetzt?#
-de,4E0dwFS72gk,391,10.0,00.0,Nachdem sie geimpft werden bekommen von unseren\n10.000.000 Kindern ca. 10% Fieber. 500.000 5%\nbekommen einen leichten Ausschlag.#
-de,4E0dwFS72gk,394,500,000,bekommen von unseren\n10.000.000 Kindern ca. 10% Fieber. 500.000 5%\nbekommen einen leichten Ausschlag. Bei bis zu 100 oder 0001%#
-de,4E0dwFS72gk,399,100,001,500.000 5%\nbekommen einen leichten Ausschlag. Bei bis zu 100 oder 0001% kann es zu einer ernsten\nallergischen Reaktion kommen#
+de,4E0dwFS72gk,294,100,000,Nehmen wir an dass sich dort 10000000 Kinder\nmit Masern anstecken. Was passiert?#
+de,4E0dwFS72gk,298,800,000,Was passiert? 9800000 oder 98%\nbekommen hohes Fieber und einen unangenehmen Ausschlag.#
+de,4E0dwFS72gk,305,800,000,und einen unangenehmen Ausschlag. Bis zu 800000 von ihnen oder 8%\nleiden an gefährlichem Durchfall. 700000 oder 7% bekommen\neine Mittelohrentzündung#
+de,4E0dwFS72gk,311,700,000,Bis zu 800000 von ihnen oder 8%\nleiden an gefährlichem Durchfall. 700000 oder 7% bekommen\neine Mittelohrentzündung die zu dauerhaftem\nHörverlust führen kann.#
+de,4E0dwFS72gk,317,600,000,die zu dauerhaftem\nHörverlust führen kann. 600000 Kinder oder\n6% bekommen eine Lungenentzündung die gefährlichste\nNebenwirkung von Masern.#
+de,4E0dwFS72gk,324,120,die gefährlichste\nNebenwirkung von Masern. Sie alleine wird\n12000 Kinder umbringen. Bis zu 10000 Kinder oder 01%\nerkranken an Encephalitis.#
+de,4E0dwFS72gk,327,100,Sie alleine wird\n12000 Kinder umbringen. Bis zu 10000 Kinder oder 01%\nerkranken an Encephalitis. 2500 Kinder 0025% infizieren\nsich mit SSPE einer Krankheit#
+de,4E0dwFS72gk,332,500,025,Bis zu 10000 Kinder oder 01%\nerkranken an Encephalitis. 2500 Kinder 0025% infizieren\nsich mit SSPE einer Krankheit bei der das Masernvirus im\nGehirn der Kinder verbleibt#
+de,4E0dwFS72gk,352,200,unter schwereren\nAuswirkungen von Masern leiden. Ca. 20000 Kinder\nwerden an Masern sterben. Aber damit nicht genug.#
+de,4E0dwFS72gk,383,100,000,Also zurück zu\nunserem Gedankenexperiment aber jetzt lassen wir 10000000\nKinder mit dem MMR-Impfstoff impfen. Was passiert jetzt?#
+de,4E0dwFS72gk,391,100,000,Nachdem sie geimpft werden bekommen von unseren\n10000000 Kindern ca. 10% Fieber. 500000 5%\nbekommen einen leichten Ausschlag.#
+de,4E0dwFS72gk,394,500,000,bekommen von unseren\n10000000 Kindern ca. 10% Fieber. 500000 5%\nbekommen einen leichten Ausschlag. Bei bis zu 100 oder 0001%#
+de,4E0dwFS72gk,399,100,001,500000 5%\nbekommen einen leichten Ausschlag. Bei bis zu 100 oder 0001% kann es zu einer ernsten\nallergischen Reaktion kommen#
 de,4E0dwFS72gk,408,0001,die behandelt werden muss. Bis zu 10 Jungen oder 00001% können\neine Genitalentzündung bekommen. Und bei bis zu 10 Kindern\noder 00001%#
 de,4E0dwFS72gk,414,0001,Bis zu 10 Jungen oder 00001% können\neine Genitalentzündung bekommen. Und bei bis zu 10 Kindern\noder 00001% kann die schlimmste Nebenwirkung\nauftreten: Encephalitis.#
-de,4E0dwFS72gk,423,10.0,00.0,kann die schlimmste Nebenwirkung\nauftreten: Encephalitis. Wenn wir also\n10.000.000 Kinder impfen dann haben insgesamt 120\nvon ihnen schwerere Nebenwirkungen.#
-de,4E0dwFS72gk,425,120,Wenn wir also\n10.000.000 Kinder impfen dann haben insgesamt 120\nvon ihnen schwerere Nebenwirkungen. Dank guter medizinischer Versorgung\nin Industrieländern#
+de,4E0dwFS72gk,423,100,000,kann die schlimmste Nebenwirkung\nauftreten: Encephalitis. Wenn wir also\n10000000 Kinder impfen dann haben insgesamt 120\nvon ihnen schwerere Nebenwirkungen.#
+de,4E0dwFS72gk,425,120,Wenn wir also\n10000000 Kinder impfen dann haben insgesamt 120\nvon ihnen schwerere Nebenwirkungen. Dank guter medizinischer Versorgung\nin Industrieländern#
 de,4E0dwFS72gk,450,2019,Literaturhinweise und Videos hierzu\nfindest du in der Videobeschreibung. 2019 steht aber definitiv fest:\nImpfen verursacht nicht Autismus. Und was ist mit Todesfällen?#
 de,4E0dwFS72gk,478,1971,und das bei\nHunderten Millionen Kindern die seit 1971 die\nMMR-Impfung erhalten haben. Masern sind viele viele Tausend Mal\ngefährlicher für unsere Kinder#
-de,4E0dwFS72gk,503,2017,110,000,Während Todesfälle bei Masern sehr\necht und sehr einfach zu finden sind. 2017 sind alleine 110.000 Menschen\nweltweit an Masern gestorben. Statistisch gesehen\nsterben heute 300 Kinder an Masern#
-de,4E0dwFS72gk,509,300,2017 sind alleine 110.000 Menschen\nweltweit an Masern gestorben. Statistisch gesehen\nsterben heute 300 Kinder an Masern eines seit dieses Video begonnen hat.#
+de,4E0dwFS72gk,503,2017,110,000,Während Todesfälle bei Masern sehr\necht und sehr einfach zu finden sind. 2017 sind alleine 110000 Menschen\nweltweit an Masern gestorben. Statistisch gesehen\nsterben heute 300 Kinder an Masern#
+de,4E0dwFS72gk,509,300,2017 sind alleine 110000 Menschen\nweltweit an Masern gestorben. Statistisch gesehen\nsterben heute 300 Kinder an Masern eines seit dieses Video begonnen hat.#
 de,q6fgbYWsMgw,47,200,Und davon leben auch\nnoch 90% nahe an der Oberfläche innerhalb der ersten 200 m. Hier beginnen wir unsere Reise.#
 de,q6fgbYWsMgw,140,332,Beim tiefsten\nGeräte-Tauchgang der Menschheit wurden 332 Meter erreicht. In dieser Tiefe entspricht der Druck#
 de,q6fgbYWsMgw,145,200,In dieser Tiefe entspricht der Druck dem von über 200\naufeinander gestapelten Autos. Und damit haben wir erst\n3% unserer Reise zurückgelegt.#
 de,q6fgbYWsMgw,202,700,Eine andere Überlebenstaktik\nim Dunklen ist Teamwork. In etwa 700 Meter Tiefe\ntreffen wir auf eine Staatsqualle einen Stock aus hunderten Polypen.#
 de,q6fgbYWsMgw,276,1000,Zumindest hinterlassen sie bleibende\nSpuren auf der Haut ihrer Mörder. Wir erreichen nun 1000 m das ist tiefer als das höchste\nBauwerk der Menschheit hoch ist.#
-de,q6fgbYWsMgw,356,300,Er kann mit\nseinem beeindruckenden Gebiss aus 300 nach innen gebogenen Zähnen\ndie Beute unentrinnbar festhalten. Wir sinken noch weiter\nbis auf unter 3.800 Meter.#
-de,q6fgbYWsMgw,362,800,aus 300 nach innen gebogenen Zähnen\ndie Beute unentrinnbar festhalten. Wir sinken noch weiter\nbis auf unter 3.800 Meter. In dieser Tiefe befindet\nsich das Grab der Titanic.#
+de,q6fgbYWsMgw,356,300,Er kann mit\nseinem beeindruckenden Gebiss aus 300 nach innen gebogenen Zähnen\ndie Beute unentrinnbar festhalten. Wir sinken noch weiter\nbis auf unter 3800 Meter.#
+de,q6fgbYWsMgw,362,800,aus 300 nach innen gebogenen Zähnen\ndie Beute unentrinnbar festhalten. Wir sinken noch weiter\nbis auf unter 3800 Meter. In dieser Tiefe befindet\nsich das Grab der Titanic.#
 de,q6fgbYWsMgw,401,4000,seiner aalähnlichen Schwanzflosse\ndurch das Wasser gleitet. In 4000 Meter Tiefe erreichen\nwir wieder den Meeresgrund: Die Abyssal-Ebene.#
 de,q6fgbYWsMgw,443,400,heizt das Magma unter der hier sehr\ndünnen Erdkruste Meerwasser auf. Bis zu 400 Grad heiße dunkle Ströme\naus Wasser und Mineralien steigen in komplexen\nSäulen und Türmen empor.#
 de,q6fgbYWsMgw,464,6000,Sie bilden die Basis für\nganz erstaunliche Ökosysteme. Wir tauchen noch weiter ab\nund erreichen in 6000 Metern Tiefe den tiefsten Punkt\nder Abyssal-Ebene.#
-de,q6fgbYWsMgw,499,000,wie der Pseudoliparis swirei der mit rund 8.000 Metern den\nTiefenrekord unter den Fischen hält. Spitze und scharfe schwarze Steine\nziehen an uns vorbei#
-de,q6fgbYWsMgw,507,10.0,Spitze und scharfe schwarze Steine\nziehen an uns vorbei während wir auf mehr\nals 10.000 Meter absinken. Der letzte Hang liegt vor uns#
-de,q6fgbYWsMgw,526,11.0,Am tiefsten Punkt\ndem Challengertief. 11.000 Meter unter\nder Meeresoberfläche. Der Wasserdruck beträgt 1.086 bar.#
-de,q6fgbYWsMgw,530,086,11.000 Meter unter\nder Meeresoberfläche. Der Wasserdruck beträgt 1.086 bar. Wollte man hier schwimmen#
-de,q6fgbYWsMgw,535,846,Wollte man hier schwimmen wäre das als müsste man das Gewicht\nvon 1.846 Elefanten aushalten. Aber auch hier hat\nsich das Leben eingerichtet.#
+de,q6fgbYWsMgw,499,000,wie der Pseudoliparis swirei der mit rund 8000 Metern den\nTiefenrekord unter den Fischen hält. Spitze und scharfe schwarze Steine\nziehen an uns vorbei#
+de,q6fgbYWsMgw,507,100,Spitze und scharfe schwarze Steine\nziehen an uns vorbei während wir auf mehr\nals 10000 Meter absinken. Der letzte Hang liegt vor uns#
+de,q6fgbYWsMgw,526,110,Am tiefsten Punkt\ndem Challengertief. 11000 Meter unter\nder Meeresoberfläche. Der Wasserdruck beträgt 1086 bar.#
+de,q6fgbYWsMgw,530,086,11000 Meter unter\nder Meeresoberfläche. Der Wasserdruck beträgt 1086 bar. Wollte man hier schwimmen#
+de,q6fgbYWsMgw,535,846,Wollte man hier schwimmen wäre das als müsste man das Gewicht\nvon 1846 Elefanten aushalten. Aber auch hier hat\nsich das Leben eingerichtet.#
 de,q6fgbYWsMgw,563,2018,Und es gibt noch etwas das\nhier elegant durchs Wasser treibt: Plastiktüten die 2018 von\nWissenschaftlern entdeckt wurden. Sogar der entlegenste Ort der Welt#
 de,t_3AvnL10w4,19,20–4,Die NASA und private\nRaumfahrt-Unternehmen schätzen dass wir dafür 20–40 Mrd Dollar\nverteilt über 10 Jahre brauchen würden.#
 de,t_3AvnL10w4,28,2017,im gleichen Zeitraum. Oder dem deutschen\nHaushaltsüberschuss von 2017. Es wäre also gar\nnicht mal so absurd teuer.#
 de,t_3AvnL10w4,142,300,Und zwischen Licht und Schatten herrscht ein\nTemperaturunterschied von 300° C. Es gibt keine Atmosphäre#
 de,t_3AvnL10w4,202,500,Diese erste Siedlung auf dem Mond\nwäre dann vergleichbar mit der ersten europäischen Siedlung\nin der neuen Welt vor 500 Jahren. Es ist teuer\nRaketen zum Mond zu schicken.#
 de,t_3AvnL10w4,457,100,oder die mit\nsehr wenig Wasser auskommen. Vielleicht schafft man es\nauch 100% des Mülls zu recyceln. Alles Technologien die man auch\nauf der Erde gut gebrauchen kann.#
-de,q-06rH59SQM,137,1971,beiden zeigefingern habe sehen sie sich das an 1971 haben dass eindringlinge aus dem weltraum angehängt ja das war ein]
+de,q-06rH59SQM,137,1971,beiden zeigefingern habe sehen sie sich das an 1971 haben dass eindringlinge aus dem weltraum angehängt ja das war ein
