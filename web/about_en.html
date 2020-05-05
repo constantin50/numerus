@@ -1,34 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Page Title</title>
+		<title>About</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/png" href="/icon.png"/>
 			<style>
-			body {
+			
+            body {
 			  font-family: Helvetica, sans-serif;
+              background: #f8f9fa;
 			}
+            
+            
+            .center{
+                background-color: white;
+				width:60%;
+				margin-left:auto; 
+				margin-right:auto;
+            }
 
-			.header {
+.header {
 				padding: 15px; /* some с */
-			 	margin-right: 20%;
-				margin-left: 20%;
+			 	margin-right: 0%;
+				margin-left: 0%;
 				margin-top: 2%;
 				text-align: left; /* center the text */
-				background: #4c8f97; /* green background */
+				background: #7285A5;
 				color: white; /* white text color */
 			}
 
 			/* Increase the font size of the <h1> element */
 			.header h1 {
 			  font-size: 40px;
+              background-color: white;
 			}
 
 			.navbar {
 			  overflow: hidden;
-			  background-color: #4c8f97;
-			  margin-left: 20%;
-  			  margin-right: 20%;
+			  background-color: #7285A5 ;
+			  margin-left: 0%;
+  			  margin-right: 0%;
   			  margin-bottom: 5%;
 			}
 
@@ -102,43 +114,46 @@
 	</head>
 
 	<body>
-
-	<div class="header">
-		<a href="C:\projects\project01\web\main_en.html" style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
-	</div>
-
-	<div class="navbar">
-	  <a href="C:\projects\project01\web\about_en.html" class="right">about</a>
-	  <a href="#" class="left" >language:</a>
-	  <div class="dropdown">
-	  <button class="dropbtn" onclick="myFunction()"><u>english</u>
-	    <i class="fa fa-caret-down"></i>
-	  </button>
-	  <div class="dropdown-content" id="myDropdown">
-	    <a href="#">русский</a>
-		<a href="#">english</a>
-		<a href="#">français</a>
-	  </div>
-	  </div> 
-	</div>
-
-	<div class="about">
-		<p align="right">
-			<i>“Number rules the universe.”</i> <br><br> ― Pythagoras</p>
-
-		<p>One of the hardest part of learning foreing language is listening,
-		especially complex numbers (15100, 0.931, 1201, 9 000 1000 etc.). But clear understanding of them is crucial
-		in economics, physics, geography, history and other sciences that deal with numbers.
-		<br><br>
-		The goal of this web application is to provide an intensive training of comprehension of numbers pronounced in different context:
-		news, lecture, television series, blog, etc.
-		<br><br>
-		So, choose language, listen a video, write the number that you hear, 
-		press check button, see subtitles. Then, go to the next video.
-		<br><br>
-		If you have any questions or problems please contact me: <i>const.werner@gmail.com</i></p>
-	</div>
-
+     <div class="center">
+    	<div class="header">
+    		<a href="/index.html" style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
+    	</div>
+    
+    	<div class="navbar">
+    	  <a href="/about_en.html" class="right">about</a>
+    	  <a href="#" class="left" >language:</a>
+    	  <div class="dropdown">
+    	  <button class="dropbtn" onclick="myFunction()"><u>english</u>
+    	    <i class="fa fa-caret-down"></i>
+    	  </button>
+    	  <div class="dropdown-content" id="myDropdown">
+              <a href="/ru.html">русский</a>
+            <a href="/en.html">english</a>
+            <a href="/fr.html">français</a>
+            <a href="/de.html">deutsch</a>
+    	  </div>
+    	  </div> 
+    	</div>
+  
+    	<div class="about">
+    		<p align="right">
+    			<i>“Number rules the universe.”</i> <br><br> ― Pythagoras</p>
+    
+    		<p>One of the hardest parts of learning a foreign language is listening, especially numbers (15100, 0.931, 1201, 9001210, etc.). But a clear understanding of them is crucial in economics, physics, geography, history and other sciences that deal with numbers.<br><br> 
+    
+    The goal of this web site is to provide intensive training of comprehension of numbers pronounced in different contexts: news, lecture, tv shows, blog, etc.<br><br>
+    
+    So, choose a language, listen to a video, write the number that you hear, press a check button, see subtitles. Then, go to the next video.
+    		<br><br>
+    		
+    		Several others languages are planned to add. If you speak language that is not here and want
+    		to help contact me.<br>
+    		
+    		Also, if you have any questions or problems please contact me: <br><br> <i>const.werner@gmail.com</i></p>
+    		<i>vk.com/constantin_01</i></p>
+    
+    	</div>
+    </div>
 	<script>
 	/* When the user clicks on the button, 
 	toggle between hiding and showing the dropdown content */
@@ -146,17 +161,25 @@
 	  document.getElementById("myDropdown").classList.toggle("show");
 	}
 
-	// Close the dropdown if the user clicks outside of it
-	window.onclick = function(e) {
-	  if (!e.target.matches('.dropbtn')) {
-	  var myDropdown = document.getElementById("myDropdown");
-	    if (myDropdown.classList.contains('show')) {
-	      myDropdown.classList.remove('show');
-	    }
-	  }
-	}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161607781-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161607781-1');
+</script>
 
 	</script>
-
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161545275-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', 'UA-161545275-1');
+            </script>
 	</body>
 </html>
