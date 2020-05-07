@@ -8,7 +8,6 @@ de,t_GbpK0Q-G4,682,480,einrollen verlegen und wieder ausrollen das sind jedes ma
 de,t_GbpK0Q-G4,727,150,kosten die uns einstehen kann euro rechnen mit 150 euro pro hektar pro gang und wenn man bedenkt dass wir schon#
 de,2DFehiS-8oo,179,19 2,immer wieder krank wurde 19 20 in einem mathetest bei mir ist erst einmal wirklich passiert ist dass#
 de,2DFehiS-8oo,417,1969,oberstudiendirektor deutsche lehrerverband abitur 1969 note 2 2 noten sind wichtig in erster#
-de,2DFehiS-8oo,472,1973,die eltern regine schwarzhoff architektin elternverein nrw abitur 1973 note 23 für kinder ist es wichtig dass#
 de,2DFehiS-8oo,520,2017,monika cic schülerinnen schüler union deutschlands abitur 2017 note 34 nun sind natürlich auch motivation also#
 de,2DFehiS-8oo,794,1788,militär und den komplexer werdenden verwaltung daher hatte preußen 1788 ein reifezeugnis eingeführt das die#
 de,2DFehiS-8oo,833,1919,prüfungssystem der zeugnisse und noten immer mehr durch 1919 kamen die zensuren in der letzten noch noten freien bastion#
@@ -231,7 +230,6 @@ de,qdAH4019or0,327,239,Reaktorkonzept überlegen dass man ein bisschen\nPlutoniu
 de,qdAH4019or0,342,238,Neptunium Plutonium. Das heißt wir haben eine\nQuelle eine Dauerquelle für schnelle Neutronen. Andererseits sind die schnellen Neutronen aber\nauch in der Lage Uran 238 zu spalten und aus den Spaltprodukten kommt dann die Energie oder bei dem\nSpalten dieser großen Atomkerne wird die Energie#
 de,qdAH4019or0,367,238,Und das ist das Prinzip des Laufwellenreaktors\ndass man nämlich durch eine kleine Menge von Plutonium beginnt praktisch systematisch\nläuft das wie so eine Welle durch das Uran 238. Erstens werden die Spaltprodukte erzeugt durch\ndie schnelle Neutronen aber zugleich auch Plutonium#
 de,qdAH4019or0,502,440,Plutnonium kann ja für nukleare Waffensysteme\nverwendet werden. Und dann kommt das größte Problem. Wir haben 440 Atomkraftwerke auf der\nWelt und es fallen pro Jahr 8300 Tonnen an hochradioaktivem Materialen. Es gibt kein\neinziges Endlager auf der Welt. Also das heißt#
-de,Iaa5B6PAZ7Q,142,243,fünf prozent würden wir kleinen rechnerisch 243000 menschen verlieren nur die risikogruppen über so einen#
 de,Iaa5B6PAZ7Q,420,300,nachdem es aber immer wieder kritik gehabt und sich 300 experten in einem offenen brief gegen eine zentrale#
 de,Iaa5B6PAZ7Q,800,41 million,containment zu betreiben das sind mehr als 41000000en menschen in deutschland die sich alle eine app#
 de,Iaa5B6PAZ7Q,807,2018,57 million,statistik hier hatten in deutschland 2018 nur 57000000en menschen ein smartphone#
@@ -278,9 +276,8 @@ de,cfT6FhA4NFE,310,500,sollte dieses video hier aber nicht nur einen aufruf sond
 de,cfT6FhA4NFE,315,114,ganze zwei kilowattstunden das sind immerhin schon 114 handy akkus im zweifel verbrauch dieses video aber#
 de,cfT6FhA4NFE,351,100,niederlanden belgien oder dänemark nach eigenen angaben werden diese mit 100 prozent erneuerbare energie betrieben#
 de,cfT6FhA4NFE,376,174,um hochrechnungen aber laut einer statistik liegen wir bei 4174 gramm co2 pro verbrauchter kilowattstunde ja groß#
-de,cfT6FhA4NFE,384,500,stößt in dieses video hier pro klick 001 gramm co2 aus bei 50000 aufrufen sind das immerhin schon 970 gramm co2#
 de,cfT6FhA4NFE,387,970, gramm co2 aus bei 50000 aufrufen sind das immerhin schon 970 gramm co2 also fast ein kilogramm#
-de,cfT6FhA4NFE,416,360,180,4k oder auch nur full hd sondern vielleicht sogar nun 360 ps oder 180 p weil sonst die internetverbindung nicht#
+de,cfT6FhA4NFE,416,360,4k oder auch nur full hd sondern vielleicht sogar nun 360 ps oder 180 p weil sonst die internetverbindung nicht#
 de,cfT6FhA4NFE,444,100,einfach den verbrauch dieses videos mit 100 multiplizieren schließlich sind die videos auf diesem kanal unterschiedlich#
 de,cfT6FhA4NFE,493,750,bei ungefähr 14 megawatt pro minute wurden also für diesen kanal knapp 750 terabyte an daten verschickt und#
 de,cfT6FhA4NFE,611,018,wir mit aktuellen zahlen dann kommen netflix auf knapp 0018 mega tonnen co2 pro jahr#
@@ -329,7 +326,6 @@ de,dQfzbhdR9JE,368,100,Wir arbeiten weniger haben mehr Freizeit als noch vor 100
 de,dQfzbhdR9JE,372,200,Zusätzlich wachsen wir; wortwörtlich: seit mehr als 200 Jahren werden Menschen immer größer. Das ist zurückzuführen auf bessere Ernährung und Lebensstandards.#
 de,dQfzbhdR9JE,381,1990,dank besserer Medizin: in Europa leben wir im Vergleich zu 1990 6 Jahre länger! Wir leben in einer Zeit von großer Veränderung.#
 de,dQfzbhdR9JE,391,2020,Leider bleiben trotzdem viele schlechte Entwicklungen bestehen. Es besitzen auch noch 2020 1% der Weltbevölkerung mehr Geld als die unteren 50%. Der Klimawandel könnte unseren Planeten unbewohnbar machen.#
-de,bTXsWuAJdGo,194,2003,Die Regeln hier sind sehr streng. 2003 haben Eric Johnson und Dan Goldstein\neine interessante Studie durchgeführt. Manchen Teilnehmern der Studie haben sie gesagt\ndass der “Default” also die Standardeinstellung#
 de,LOf6qme_aS0,18,200,anderen nackten menschen wir leben also wieder wie vor 200000 jahren die einzige möglichkeit die wir#
 de,LOf6qme_aS0,69,120,kleine gruppe menschen die es weiß nämlich die über 12000 apple mitarbeiter auf dem apple campus in#
 de,LOf6qme_aS0,291,250,von der software überhaupt beginnen sagen wir also mal 250 jahre bis wir das iphone hergestellt haben#
@@ -594,7 +590,7 @@ de,1t4I_Zr6wYM,1163,10 million,vier wände und sei es nur stundenweise über 100
 de,1t4I_Zr6wYM,1216,260,00 7,laut johns hopkins universität auf mehr als 26000700 nach oben korrigiert in die statistik sind nun auch todesfälle#
 de,1t4I_Zr6wYM,1282,800,und thüringen haben beschlossen jetzt auch geschäfte mit mehr als 800 quadratmetern fläche wieder zu öffnen#
 de,1t4I_Zr6wYM,1392,500,dann haben wir das risiko minimiert die pro tag gibt es nach wie vor 500 zurückweisungen es mag ich mir nicht#
-de,1t4I_Zr6wYM,1616,100,00 8,prozent und beendet den handel mit 10000862 punkten am nachmittag kam das - passend zu den#
+de,1t4I_Zr6wYM,1616,100,prozent und beendet den handel mit 10000862 punkten am nachmittag kam das - passend zu den#
 de,1t4I_Zr6wYM,1626,30 million,seit ausbruch der korona krise haben dort 30000000en amerikaner einen erstantrag auf arbeitslosenhilfe#
 de,1t4I_Zr6wYM,1662,300,mit dem autobauer 30000 anträge hat vw nach eigenen angaben bereits positiv geprüft 17000#
 de,1t4I_Zr6wYM,1664,170,anträge hat vw nach eigenen angaben bereits positiv geprüft 17000 fälle würden noch bearbeitet#
@@ -693,8 +689,6 @@ de,H2LJwVGS4YI,796,620,mit den bisherigen schutzmaßnahmen sei es gelungen in ei
 de,H2LJwVGS4YI,817,400,nachweislich mit dem corona virus an mehr als 6400 und auch die zahl der toten stieg so stark wie nie auf 867 die#
 de,H2LJwVGS4YI,820,867,mehr als 6400 und auch die zahl der toten stieg so stark wie nie auf 867 die angst vor einem kollaps der kliniken ist#
 de,H2LJwVGS4YI,944,2020,präsidentenpalast in neu delhi an einem normalen tag und im april 2020 im kampf gegen die erderwärmung reicht das aber#
-de,H2LJwVGS4YI,1018,2030,zwischen ziels für die europäische union bis 2030 emissionen auf 50 bis 55 prozent gegenüber 1990 zu reduzieren#
-de,H2LJwVGS4YI,1022,1990,bis 2030 emissionen auf 50 bis 55 prozent gegenüber 1990 zu reduzieren die industrie fürchtet dass deutschland#
 de,H2LJwVGS4YI,1150,2011,eigentlich sollte er schon im herbst 2011 in betrieb gehen wegen planungsfehlern baumängeln und#
 de,H2LJwVGS4YI,1188,1800,ausgezeichnet allen voran das strategiespiel anno 1800 verliehen wurden die preise corona bedingt#
 de,H2LJwVGS4YI,1208,1800,als bestes deutsches computerspiel wurde anno 1800 gekürt der neueste ableger einer schon über 20 jahre andauernden#
@@ -743,7 +737,6 @@ de,jfekYwDfdto,3599,800,herabsetzen und die will ich ja klar bei über 800 also 
 de,jfekYwDfdto,3735,2012,gibt zumindest aus dem gesundheitsbericht der taten von 2012 wo es heißt das mit ihren prozentpunkt#
 de,Exr_v64oUdo,313,330,verkaufte ferngesteuerte vibratoren und bis zu 330 prozent plus bei lieferdiensten für lebensmittel#
 de,Exr_v64oUdo,341,10 million,auflauf heute am flughafen leipzig die verteidigungsministerin im 10000000en schutzmasken aus china in empfang und#
-de,Exr_v64oUdo,543,210,kann nicht jeder ein lehrer nehmen euch glauben das läuft nicht die 210 klässler kommen zeitversetzt dadurch der andrang#
 de,Exr_v64oUdo,729,800,verwaltungsgerichtshofs in bayern der sagt die 800 quadratmeter grenze bis zu der geschäfte wieder öffnen dürfen#
 de,Exr_v64oUdo,753,800,die kriterien jeweils im einzelfall also 800 quadratmeter zum beispiel genau auch da geht es um einen einzelfall nämlich#
 de,Exr_v64oUdo,1014,2009,kein service die globalen militärausgaben sind 2009 10 so stark gestiegen wie seit zehn jahren nicht#
@@ -906,11 +899,11 @@ de,8zkc3BayfDo,207,300,350,Mit den Akkus\ndie sind ja von der Firma. Ich selber 
 de,8zkc3BayfDo,247,500,Wie ihr das immer aus dem Ärmel ... Ich weiß nie wiegt ein Paket Butter\n20 Kilo oder 500. Alter ja. 65.#
 de,8zkc3BayfDo,379,500,"Dieses schöne Teil\ndiesmal elektrisch angetrieben von 500 Watt 24-Volt-Motor. Das istn richtiger Kackhaufen!\nAber schön geschweißt."]#
 de,8zkc3BayfDo,401,180,Der Motor und die Schaltung der\nController gehört alles zusammen. Was kostet so ein Set?\n-Um die 180 Euro. Das ist so geil\nstell dir das mal vor.#
-de,8zkc3BayfDo,567,42,5,Schwerer als das Moped. Was hast du\nbeim Moped gesagt? -425. Ja das sind 30 Kilo oder so. 35?#
+de,8zkc3BayfDo,567,5,Schwerer als das Moped. Was hast du\nbeim Moped gesagt? -425. Ja das sind 30 Kilo oder so. 35?#
 de,8zkc3BayfDo,587,500,Ich sag 36. PS wie viel? -500 Watt. Mehr kann das umrechnen du bestimmt.#
 de,8zkc3BayfDo,592,500,Mehr kann das umrechnen du bestimmt. 500 Watt in PS? Das ging schnell 08.\nWoher weißt du das? Wie viel?#
-de,8zkc3BayfDo,603,675,135. 0675 PS. 135 ist der Faktor von KW in PS.#
-de,8zkc3BayfDo,664,16,6,*rufen* 166! Jetzt kriegen wir endlich\nsaubere Nachkommastellen.#
+de,8zkc3BayfDo,603,675, 135 ist der Faktor von KW in PS.#
+de,8zkc3BayfDo,664,16,*rufen* 166! Jetzt kriegen wir endlich\nsaubere Nachkommastellen.#
 de,8zkc3BayfDo,937,125,"Wenn du hier noch\neine fettere Federung drin hättest sone 125er von der Cross\ndas stelle ich mir ganz geil vor. Du musst einen eigenen Rahmen bauen\nund andere Räder nehmen"]#
 de,8zkc3BayfDo,967,100,Das ist wirklich sehr selten\nwas Sie hier sehen. Normalerweise sind alle Karren\nim Karrenquartett zu 100% auf Funktion ausgelegt siehe diese\ngrüne ... wie nochmal? Scheißhaufen?#
 de,8zkc3BayfDo,994,100,154,Wie viel hast du reingesteckt?\n-Mal rechnen. 100 und der Austauschmotor 54.\nAlso 154. -Ok. Plus Kleinscheiß. 160 Euro.#
@@ -921,10 +914,10 @@ de,8zkc3BayfDo,1046,42,5,42 km/h ist schon nicht schlecht. 425. Schon gut für d
 de,KXq3TgpEb1I,199,100,Hinten habe ich die Federung\nneu gemacht. -Hab ich gesehen geil. Die Akkus wiegen\nungefähr 100 Kilo eine Menge. Dann habe ich noch\nein Differenzial eingebaut.#
 de,KXq3TgpEb1I,245,600,Wie viel Kohle hast du reingesteckt? Akku 600 ich schätze so ...\n-2000. -Ja genau. Ganz klar ein Einsitzer.\nOder hast du mehrere Leute damit...?#
 de,KXq3TgpEb1I,298,250,Messen. Wie ist die Frage.\n-Die Magnetfeldstärke. Gewicht? -Ich hab gemessen\n250 Kilo ohne Fahrer. Weißt du wie schnell?\n-Mit vollem Akku fast 70.#
-de,KXq3TgpEb1I,340,70,6,Es war exakt was er gesagt hat.\nEr ist doch kein Lügner. 706. Jetzt kriegen wir endlich\nsaubere Zahlen hier ey.#
+de,KXq3TgpEb1I,340,70,Es war exakt was er gesagt hat.\nEr ist doch kein Lügner. 706. Jetzt kriegen wir endlich\nsaubere Zahlen hier ey.#
 de,KXq3TgpEb1I,410,6667,Aber da ist auch richtig Dampf drauf. Fun-Faktor 96667. So viel geiler\nals ein Verbrenner Alter.#
 de,KXq3TgpEb1I,543,100,"Testen wir gleich. Kohle kannst du\nwahrscheinlich nicht sagen. Weil das seit 100 Jahren\nverschenkt wird. Der Vadder hat das Teil für 20 Mark\nbei nem 15-Jährigen gekauft."]#
-de,KXq3TgpEb1I,639,32,5,"Nein das sind mehr.\nDas ist ein richtig fettes Baby. Dann 325. -O.k. Vielleicht sollten wir uns\nauch noch ne Waage anlegen."]#
+de,KXq3TgpEb1I,639,32,"Nein das sind mehr.\nDas ist ein richtig fettes Baby. Dann 325. -O.k. Vielleicht sollten wir uns\nauch noch ne Waage anlegen."]#
 de,KXq3TgpEb1I,644,32,5,"Vielleicht sollten wir uns\nauch noch ne Waage anlegen. Ok. 325. Lets test! Wenn du die Kupplung drehst\ndann jault die richtig."]#
 de,KXq3TgpEb1I,670,34,4,Viel zu viel Anlauf der Tank\nist leer bis der hier ankommt. Wooo. 344. Nicht schlecht. * ruft unverständlich *#
 de,KXq3TgpEb1I,712,576,Damit kannst du\njetzt nicht ins Gelände. Aber durch die Federung 5576 ... Also 5576 Spaßfaktor.#
