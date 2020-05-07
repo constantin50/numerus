@@ -863,7 +863,6 @@ fr,hJZpVTTC4mc,562,2019,la classe 2019 ce sera encore des partenariats a choisi 
 fr,hJZpVTTC4mc,565,2019,vous verrez de temps en temps ma tête à la télévision sur france3 2019 va demander beaucoup d'investissement mais#
 fr,hJZpVTTC4mc,575,2010,suivre mon travail que moi à le réaliser merci beaucoup pour cette année 2010 8 merci beaucoup de me suivre de me faire#
 fr,2HY1eXsQVgw,6,1918,il y a tout juste un siècle le 11 novembre 1918 l'armistice est signé dans un wagon dans la forêt de compiègne il#
-fr,2HY1eXsQVgw,21,123,indépendance après avoir été rayé de la carte durant 123 ans ah oui quand même alors c'est vrai qu'on#
 fr,2HY1eXsQVgw,35,123,est une histoire passionnante et durant ses 123 ans même si sur le papier la pologne#
 fr,2HY1eXsQVgw,68,1569,chopin a marqué la culture polonaise il faut remonter dans le temps en 1569 alors que le royaume de pologne devient#
 fr,2HY1eXsQVgw,137,1733,ainsi commence la guerre de succession de pologne entre 1733 et 1738 dans laquelle une grande partie du continent#
@@ -1230,7 +1229,6 @@ fr,q852DH7jEI4,1353,100,le hangar à dirigeables des causes ville il a 100 ans e
 fr,q852DH7jEI4,1476,101,hésité et puis finalement je me suis rappelé que cette vidéo s'appelant 101 lieux les plus fous et insolites de#
 fr,q852DH7jEI4,1480,3000,lieux les plus fous et insolites de france ne pas inclure 3000 énorme pierre levée il ya 6000 ans est bon dans ce cas#
 fr,q852DH7jEI4,1482,6000,france ne pas inclure 3000 énorme pierre levée il ya 6000 ans est bon dans ce cas qu'est ce que c'est qu'un lieu insolite#
-fr,q852DH7jEI4,1524,2000,la nièvre bibracte la capitale du peuple celte des et du vin il y à plus de 2000 ans on y trouve d'ailleurs amusé qui#
 fr,q852DH7jEI4,1683,140,observatoire astronomique depuis plus de 140 ans mais alors mon nouveau coup de coeur dans cette vidéo et ça va être#
 fr,q852DH7jEI4,1779,200,improbable au xviie siècle un château vieux de 200 ou 300 ans et démantelé bien pendant la démolition une tour se#
 fr,q852DH7jEI4,1879,400,fontaine des éléphants dans chambéry également surnommés les 400 culs encore des montagnes et donc des gouffres et#
@@ -4877,12 +4875,6 @@ fr,1aufw4JzSWA,194,1973,"la population s’oppose à l’adhésion
 du pays. En 1973 l’Irlande le Royaume Uni et le
 Danemark rejoignent la Communauté. A Paris les chefs d’États et de gouvernements
 se mettent d’accords pour créer le Conseil européen."#
-fr,1aufw4JzSWA,223,1979,"les trois pays demandent leur adhésion à la
-Communauté. En 1979 pour la première fois les députés
-du Parlement européen sont élus par suffrage universel direct."#
-fr,1aufw4JzSWA,230,1981,"sont élus par suffrage universel direct. En 1981 la Grèce intègre la Communauté
-alors que l’année suivante après un référendum le Groenland qui a obtenu plus d’autonomie
-du Danemark choisi de la quitter."#
 fr,1aufw4JzSWA,241,1984,"le Groenland qui a obtenu plus d’autonomie
 du Danemark choisi de la quitter. En 1984 le Royaume-Uni de Margaret Thatcher
 estimant ne pas bénéficier suffisamment des financements de la PAC qui représente
