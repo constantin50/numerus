@@ -172,25 +172,22 @@ de,0MmgBPbz8m4,189,2018,die wirtschaftsmetropole ich favorisiere christus agent 
 de,0MmgBPbz8m4,211,2015,länder mit der größten einkommensungleichheit 2015 entfiel auf die reichsten zehn prozent der#
 de,0MmgBPbz8m4,237,30 million,und der südosten sind auch die reichsten vor allem das 30000000en einwohner zählende dreieck zwischen sao paulo rio#
 de,0MmgBPbz8m4,253,55 million,bevölkerungsmäßig die zweitgrößte region mit 55000000en einwohnern macht aber nur 13 prozent der landesweiten#
-de,Fx11Y4xjDwA,77,2009,2010,Also um mal zu verstehen wie man auf diese Idee\nkommen kann dass es einen weltweiten Hype um  einen Virus geben könnte: Es gab im Jahr 2009/2010\ndie sogenannte Schweinegrippe. Und da hat die  Weltgesundheitsorganisation auch eine Pandemie\nausgerufen. Also praktisch genauso wie jetzt. Nur#
+de,Fx11Y4xjDwA,77,2009,Also um mal zu verstehen wie man auf diese Idee\nkommen kann dass es einen weltweiten Hype um  einen Virus geben könnte: Es gab im Jahr 2009/2010\ndie sogenannte Schweinegrippe. Und da hat die  Weltgesundheitsorganisation auch eine Pandemie\nausgerufen. Also praktisch genauso wie jetzt. Nur#
 de,Fx11Y4xjDwA,96,000,es hat sich gar keine entwickelt. Es war eine der\nschwächsten Grippewellen aller Zeiten. Also es gab gerade mal in Europa 3000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im#
 de,Fx11Y4xjDwA,102,500,Also es gab gerade mal in Europa 3000 Tote dazu.\nIn ganz Europa. Und bei uns in Deutschland  sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja#
 de,Fx11Y4xjDwA,107,400,sterben jeden Tag 2500 Personen. Und bei einer \nnormalen Grippewelle zum Beispiel sind eben im Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung#
 de,Fx11Y4xjDwA,114,000,Winter schonmal 40000 Tote mehr. Und wie ist es\njetzt aktuell? Wie sind jetzt die Zahlen? Naja in ganz Europa sind 4000 Leute gestorben. Das ist\ndoch alles noch irgendwie in der Größenordnung die erwartbar ist. Das ist das Argument derjenigen\ndie meinen das alles sei alles Hysterie. #
 de,Fx11Y4xjDwA,140,000,den Grund. Normalerweise sterben in Italien bei\neiner Gesamtbevölkerung von 60 Millionen Menschen jeden Tag etwa 2000 Personen. Das schwankt na-\ntürlich mit den Jahreszeiten.  Gestern am 18. März 2020 \nwaren es 475 Tote mehr.#
-de,Fx11Y4xjDwA,304,00:0,11,0,00:0,16,0,Wie weit sind wir in Deutschland von der Situation\nder Triage entfernt? Dazu muss man wissen dass\n \n51\n00:04:57000 --> 00:05:05000\nungefähr 5% der an COVID-19 erkrankten Patienten\nbeatmungspflichtig sind. Und dazu muss man nun wieder wissen dass eine Beatmung alles andere als\neine einfache "ja ich geb\ dir ein bisschen mehr\n \n53\n00:05:11000 --> 00:05:16000\nSauerstoff" ist. Sondern Beatmung ist eine Me-\ndizinische Hochleistung die nur von  Expertinnen und Experten durchgeführt werden kann.\nUnd die sehr empfindlich ist und der kleinste #
 de,Fx11Y4xjDwA,325,280,Fehler kann für den Patienten tödlich sein. Eine\nBeatmung ist eine traumatische Erfahrung das will man eigentlich nicht. Nach Angaben der Experten \nhaben wir in Deutschland 28000 Intensivbetten in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes-#
-de,Fx11Y4xjDwA,335,100,00:0,43,0,00:0,48,0,in den Krankenhäusern. Die meisten sind inzwischen\nmit Beatmungsgeräten ausgerüstet. Die Bundes- regierung hat gerade 10000 neue Beatmungsgeräte \ngeordert. Das wird sich allerdings über das Jahr\n \n59\n00:05:43000 --> 00:05:48000\nhinziehen. Ja und dann haben wir zurzeit nach\nAngaben von Experten eine Auslastung von rund  80 % dieser Intensivbetten. Und wiederrum die \nKrankenhäuser teilen mit wenn man also #
 de,Fx11Y4xjDwA,359,140,verschiebbare Operationen verschiebt dann lässt\nsich ungefähr die Hälfte der Intensivbetten  jetzt zur Verfügung stellen für diese Epidemie.\nDas heißt wir hätten in Deutschland 14000  Intensivbetten mit Beatmungsapparaten zur Ver-\nfügung. Jetzt kann man sich die Frage stellen #
 de,Fx11Y4xjDwA,389,000,"zusammenbricht? Dazu ist es notwendig zu wissen\nwie lange ein Patient beatmet werden muss im Allgemeinen ist das so um ne Woche herum. \nDann können pro Tag 2000 neue Patienten in diese in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt"]#
 de,Fx11Y4xjDwA,401,100,in dieses Gesundheitssystem eingebracht werden \nund die können beatmet werden. Wenn wir jetzt von den 5 % nämlich den 2000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40000 #
 de,Fx11Y4xjDwA,408,400,von den 5 % nämlich den 2000 pro Tag hochrech-\nnen auf 100 % dann können wir damit die Grenze für das deutsche Gesundheitssystem definieren. \nNämlich: 40000  Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die?#
 de,Fx11Y4xjDwA,422,000,Neuinfizierte am Tag. Das ist die Grenze.\nUnd wann erreichen wir die? Gestern hatten wir eine Zunahme von \n3000 Neuinfizierten. Am Tag  zuvor von 2000 am Tag zuvor von 1200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr #
-de,Fx11Y4xjDwA,430,000,200,900,00:0,18,0,00:0,24,0,Gestern hatten wir eine Zunahme von \n3000 Neuinfizierten. Am Tag  zuvor von 2000 am Tag zuvor von 1200 am Tag\nzuvor von 900. Das heißt wir haben einen\n \n74\n00:07:18000 --> 00:07:24000\nAnstieg in der Neuansteckungsrate oder in der \nInfizierten Rate wie man will von ungefähr  ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen #
 de,Fx11Y4xjDwA,448,000,ja zwischen einem Viertel und einem Drittel.\nWenn wir jetzt mal mit einem Drittel rechnen  dann haben wir und das muss ich jetzt ablesen\nheute 4000 morgen etwa 5300 dann hätten wir übermorgen 7000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39000 Neuinfizierte.#
-de,Fx11Y4xjDwA,454,000,390,dann haben wir und das muss ich jetzt ablesen\nheute 4000 morgen etwa 5300 dann hätten wir übermorgen 7000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39000 Neuinfizierte. Ohne Gegenmaßnahmen bei ungebremsten\nexponentiellem Wachstum mit einem Viertel oder #
-de,Fx11Y4xjDwA,486,500,000,London veröffentlicht hat. Demnach würde es ohne\nGegenmaßnahmen wenn überhaupt nichts gemacht  werden würde in Großbritannien also im Ver-\neinigten Königreich 500000 Leute sterben und in den USA 22 Millionen sogar. Und selbst\ndann wenn es sehr einschränkende Maßnahmen geben #
-de,Fx11Y4xjDwA,505,250,000,sollte in beiden Ländern dann würden sich die \nTodesraten praktisch halbieren. Also man spricht  von 250000 Toten im Vereinigten Königreich in\nGroßbritannien und von 11 Millionen bis  12 Millionen in den USA. Und das Imperial \nCollege teilt mit dass selbst bei optimaler#
+de,Fx11Y4xjDwA,454,000,dann haben wir und das muss ich jetzt ablesen\nheute 4000 morgen etwa 5300 dann hätten wir übermorgen 7000 usw. und so geht es immer weiter\nund in 8 Tagen hätten wir 39000 Neuinfizierte. Ohne Gegenmaßnahmen bei ungebremsten\nexponentiellem Wachstum mit einem Viertel oder #
+de,Fx11Y4xjDwA,486,500,London veröffentlicht hat. Demnach würde es ohne\nGegenmaßnahmen wenn überhaupt nichts gemacht  werden würde in Großbritannien also im Ver-\neinigten Königreich 500000 Leute sterben und in den USA 22 Millionen sogar. Und selbst\ndann wenn es sehr einschränkende Maßnahmen geben #
+de,Fx11Y4xjDwA,505,250,sollte in beiden Ländern dann würden sich die \nTodesraten praktisch halbieren. Also man spricht  von 250000 Toten im Vereinigten Königreich in\nGroßbritannien und von 11 Millionen bis  12 Millionen in den USA. Und das Imperial \nCollege teilt mit dass selbst bei optimaler#
 de,y-MBg5PlpmE,262,150,Der ganze Vorgang über den wir hier sprechen ist\nals physikalischer Vorgang wohl definiert. Wir haben in 150mio Kilometer Entfernung \neinen Kernfusionsreaktor den nennen wir "Sonne". Seine Oberflächentemperatur ist knapp 6000 Kelvin.\nDas heißt er schickt sichtbares Licht zur Erde#
 de,y-MBg5PlpmE,267,6000,Wir haben in 150mio Kilometer Entfernung \neinen Kernfusionsreaktor den nennen wir "Sonne". Seine Oberflächentemperatur ist knapp 6000 Kelvin.\nDas heißt er schickt sichtbares Licht zur Erde Dieses sichtbare Licht hat eine hohe Energie \nund kann den Erdkörper erwärmen.#
 de,y-MBg5PlpmE,410,1824,1800,Und das ist schon sehr lange bekannt.\nEs beginnt das ist eine irre Geschichte... Wir haben ja Zeit hier also 1824. Ja also um \n1800 rum hat man zum ersten Mal verstanden es muss mal Eiszeiten gegeben haben. Und damals \nhat man sich gefragt ja Menschenskinder #
@@ -269,7 +266,6 @@ de,cfT6FhA4NFE,74,164,traffics aus allein auf netflix werden jeden tag 164000000
 de,cfT6FhA4NFE,80,500,serienfolgen gestreamt das sind ungefähr 500000 terabyte jeden tag und alles was du online macht kostet energie#
 de,cfT6FhA4NFE,117,2014,und sind die weltweit größte ansammlung von rechenzentren 2014 hat amazon angekündigt in zukunft mehr server mit#
 de,cfT6FhA4NFE,133,2009,energien keine spur 2009 10 wurden nur zwölf prozent der amazon server in virginia mit grüner#
-de,cfT6FhA4NFE,264,195,pro minute bei einer länge von 13 minuten also 1195 megabyte die vom rechenzentrum zu dir nach hause auf den#
 de,cfT6FhA4NFE,297,000,smartphone erreicht hat dann hat es trommelwirbel bitter ganze 0000 04 09 5 kilowattstunden verbraucht zum vergleich#
 de,cfT6FhA4NFE,306,300,den diesem handy akku hier steckt ungefähr 300 mal so viel energie sollte dieses video hier aber nicht nur#
 de,cfT6FhA4NFE,310,500,sollte dieses video hier aber nicht nur einen aufruf sondern vielleicht 50000 aufrufe bekommen dann sind das schon#
@@ -477,7 +473,7 @@ de,78RO4FVP7hs,104,1234,"pünktchen ich versuchs mal so ungefähr grafisch deutl
 de,78RO4FVP7hs,116,123456,hier deutlich 45 dass sein fall sein hier 123456 die würde dieser punkt lauten müsste also in der lage sein zu#
 de,78RO4FVP7hs,123,146,lauten müsste also in der lage sein zu sagen das wäre der schnittpunkt 146 wert und 45#
 de,T1tOWzvVDac,2,100,die gleichungen lösen mit e-books und ich nehme mal 0 gleich 20 mal eu 4x -100 was sieht man da jetzt und ich halte das#
-de,T1tOWzvVDac,24,100,100,wir haben jetzt hier erstmal ganz klassischen ansatz +100 bleibt 100 gleich 20 mal hoch 4x wir isolieren also#
+de,T1tOWzvVDac,24,100,wir haben jetzt hier erstmal ganz klassischen ansatz +100 bleibt 100 gleich 20 mal hoch 4x wir isolieren also#
 de,DpubLaj3YYo,25,100,sein - 10 fällt beim ableiten weg das heißt ich hätte hier auch +100 hinschreiben können wir das tafelbild#
 de,DpubLaj3YYo,28,100,hinschreiben können wir das tafelbild genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder#
 de,DpubLaj3YYo,30,1000,genauso aussehen ich noch -100 einschreiben können oder plus 1000 oder welche zahl auch immer und das werde ich#
@@ -497,7 +493,6 @@ de,bk7dbKqRLaE,263,2012,den hintern nicht hochgekriegt und bin dann schließlich
 de,bk7dbKqRLaE,276,2012,vorteile denn ich habe dort praktisch dann 2012 ganz ganz viele erfahrungen aus meinem unterricht einbringen können#
 de,bk7dbKqRLaE,341,2014,finde die idee gut ja und das war dann wohl erst 2014 entschuldigung 2014 war soweit und ich#
 de,bk7dbKqRLaE,343,2014,ja und das war dann wohl erst 2014 entschuldigung 2014 war soweit und ich trete ich mal eben rein war das finde#
-de,bk7dbKqRLaE,416,100,papier beschrieben so sind seine ersten 100 videos völlig ohne jegliche vorbereitung entstanden ich wollte nur#
 de,bk7dbKqRLaE,474,20 3,habe mich jetzt sogar noch mal extra für ich weiß garnicht 20 30 euro sondern sondern sein sohn handyhalter geholt und#
 de,bk7dbKqRLaE,1250,067,nicht auf einem server zusammen egal ob ich jetzt in der 5067 ersten halbjahr die bruchrechnung mache die#
 de,bk7dbKqRLaE,2140,100,indikator sind ich über das sage ich mal so oft wenn das einmaleins nicht 100% sitzt dann ist da auf jeden fall noch#
@@ -674,7 +669,6 @@ de,sUdtpRChANM,0,177,hamburg der ambulante pflegedienst care vital mitbetreut 17
 de,sUdtpRChANM,309,121,zurückgreifen die in österreich mittlerweile etabliert ist das bei 121 grad die masken heißdampf schädlich#
 de,sUdtpRChANM,354,1500,hochrechnen würde dann anspruch auf die 2000 krankenhäuser oder auf die 1500 aufbereitungs einheiten er dann liegen#
 de,sUdtpRChANM,358,15 million,aufbereitungs einheiten er dann liegen gegenüber 15000000en masken in der woche wiesbaden der helios konzern#
-de,sUdtpRChANM,364,100,woche wiesbaden der helios konzern betreibt knapp 100 kliniken in ganz deutschland entsprechend groß der bedarf#
 de,sUdtpRChANM,404,8000,personalisierte werden dadurch kann der konzern 8000 masken pro tag wieder nutzbar machen#
 de,H2LJwVGS4YI,272,500,täglichen neuinfektionen wenn wir 50000 fälle am tag hätten nehmen wir mal diese zahl der bislang#
 de,H2LJwVGS4YI,279,6000,nie hatten die höchsten zahlen die wir hatten waren rund 6000 pro tag aber wenn wir 50000 pro tag hätten und#
@@ -735,24 +729,6 @@ de,jfekYwDfdto,1619,100,denn das rkw alles um die test kapazitäten ikone abstri
 de,jfekYwDfdto,3564,800,geschäfte über alternativen unter acht nationen über 800 natürlich bauen wir den berufen kinos dürfen mich#
 de,jfekYwDfdto,3599,800,herabsetzen und die will ich ja klar bei über 800 also unsere rolle ist ja die dass für empfehlungen geben und wir sind#
 de,jfekYwDfdto,3735,2012,gibt zumindest aus dem gesundheitsbericht der taten von 2012 wo es heißt das mit ihren prozentpunkt#
-de,Exr_v64oUdo,313,330,verkaufte ferngesteuerte vibratoren und bis zu 330 prozent plus bei lieferdiensten für lebensmittel#
-de,Exr_v64oUdo,341,10 million,auflauf heute am flughafen leipzig die verteidigungsministerin im 10000000en schutzmasken aus china in empfang und#
-de,Exr_v64oUdo,729,800,verwaltungsgerichtshofs in bayern der sagt die 800 quadratmeter grenze bis zu der geschäfte wieder öffnen dürfen#
-de,Exr_v64oUdo,753,800,die kriterien jeweils im einzelfall also 800 quadratmeter zum beispiel genau auch da geht es um einen einzelfall nämlich#
-de,Exr_v64oUdo,1014,2009,kein service die globalen militärausgaben sind 2009 10 so stark gestiegen wie seit zehn jahren nicht#
-de,Exr_v64oUdo,1024,917,verzeichnete rüstungs investitionen von 1917000000000en dollar 36 prozent mehr als im jahr davor#
-de,Exr_v64oUdo,1039,49 3,deutschland liegt auf dem siebten platz mit 49 3000000000en dollar ein plus von zehn prozent#
-de,Exr_v64oUdo,1071,7000,damit man sie aufs festland bringt in dem camp und drum herum leben fast 7000 menschen zehnmal mehr als vorgesehen#
-de,Exr_v64oUdo,1098,184,eines der schärfsten der welt so wurden im vergangenen jahr 184 menschen hingerichtet so viele wie nie ab morgen#
-de,Exr_v64oUdo,1129,320,geahndet wer keine rettungsgasse bildet riskiert bis zu 320 euro und zwei punkte und auch raser werden jetzt schneller#
-de,Exr_v64oUdo,1155,2050,werde werde der nordpol im durchschnitt jeden zweiten sommer bis 2050 weitestgehend abschmelzen#
-de,Exr_v64oUdo,1402,158,in deutschland haben sich laut johns hopkins universität aktuell 158000213 menschen durch test bestätigt mit dem#
-de,Exr_v64oUdo,1409,114,1500,menschen durch test bestätigt mit dem virus infiziert davon gelten 1141500 mittlerweile als genesen gestorben sind#
-de,Exr_v64oUdo,1415,6021,mittlerweile als genesen gestorben sind 6021 patienten im zusammenhang mit cupid 19#
-de,Exr_v64oUdo,1556,100,verglichen mit den vormonaten deutlich zu sehen ab märz der korona effekt 100000000000en euro waren in der eurozone im#
-de,Exr_v64oUdo,1623,550,und das land hessen bürgen für kfw kredite von insgesamt 550000000en euro das hat die eu im schnellverfahren#
-de,Exr_v64oUdo,1647,2006,schweizer prozess um die vergabe der fussball-wm 2006 wird eingestellt denn mit dem heutigen tag sind die vorwürfe#
-de,Exr_v64oUdo,1820,100,befreundeten familie ihren königs tag 100 dass fast alle niederländer drin geblieben sind wir sind eigentlich ein#
 de,7Y3XRpeo42g,79,150,hoch die geldbuße ist wenn man ohne erwischt wird in bayern drohen 150 euro strafe in rheinland pfalz nur 10 euro#
 de,7Y3XRpeo42g,157,90 9,strafe der erfahrung von heute hat gezeigt in den fahrzeugen 90 95 prozent hatten mund nasenschutz an auf den#
 de,7Y3XRpeo42g,207,25 million,ist teil einer bestellung von insgesamt 25000000en masken zu dem termin war auch verteidigungsministerin kramp#
@@ -833,17 +809,17 @@ de,8k1LlIlFfGk,354,2200,epidemiologe er bleibt bei seinem kurs obwohl es inzwisc
 de,8k1LlIlFfGk,357,180,obwohl es inzwischen fast 2200 tote und 18000 infizierte gibt das land steht bezogen auf die einwohnerzahl viel#
 de,8k1LlIlFfGk,364,2000,schlechter da als etwa dänemark norwegen oder deutschland 2000 wissenschaftler fordern ein umdenken und strengere#
 de,8k1LlIlFfGk,607,4 million,noch nie waren mehr deutsche in kurzarbeit derzeit etwa 4000000en beschäftigte gut 700000 unternehmen#
-de,8k1LlIlFfGk,611,700,000,kurzarbeit derzeit etwa 4000000en beschäftigte gut 700000 unternehmen haben kurzarbeit angemeldet also rund#
+de,8k1LlIlFfGk,611,700,kurzarbeit derzeit etwa 4000000en beschäftigte gut 700000 unternehmen haben kurzarbeit angemeldet also rund#
 de,8k1LlIlFfGk,644,100,nach vier wochen die diana eckert komplett zu hause war kurzarbeit zu 100 prozent#
-de,8k1LlIlFfGk,766,224,000,ist in europa das land das mit fast 224000 infizierten am stärksten von corona virus betroffen ist jetzt gibt es#
+de,8k1LlIlFfGk,766,224,ist in europa das land das mit fast 224000 infizierten am stärksten von corona virus betroffen ist jetzt gibt es#
 de,8k1LlIlFfGk,893,2008,770,000,der malaria todesfälle in diesem jahr gegenüber 2008 10 auf knapp 770000 verdoppeln so die#
 de,8k1LlIlFfGk,945,1000,derzeit verboten trotzdem haben etwa 1000 menschen gegen die krone einschränkungen protestiert#
 de,A0mA37upj30,92,154,in deutschland sind damit insgesamt laut johns hopkins universität mehr als 1541000 infizierte durch tests bestätigt#
 de,A0mA37upj30,95,1000,johns hopkins universität mehr als 1541000 infizierte durch tests bestätigt 1061800 davon gelten als wieder genesen#
-de,A0mA37upj30,98,106,1800,1000 infizierte durch tests bestätigt 1061800 davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus#
-de,A0mA37upj30,103,5653,1061800 davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus sind registriert#
+de,A0mA37upj30,98,106,1000 infizierte durch tests bestätigt 1061800 davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus#
+de,A0mA37upj30,103,5653, davon gelten als wieder genesen 5653 tote im zusammenhang mit dem virus sind registriert#
 de,A0mA37upj30,129,157,in frankfurt ist am vormittag ein flugzeug gelandet das 157 passagiere aus dem südafrikanischen kapstadt zurück#
-de,A0mA37upj30,260,350,000,tag die zahlen zeigen die ganze dramatik 350000 passagiere hat die lufthansa vor der korona krise geflogen#
+de,A0mA37upj30,260,350,tag die zahlen zeigen die ganze dramatik 350000 passagiere hat die lufthansa vor der korona krise geflogen#
 de,A0mA37upj30,267,3000,tag für tag jetzt sind es weniger als 3000 lufthansa-chef spor wandte sich letzte woche an seine mitarbeiter#
 de,A0mA37upj30,357,100,krise schrumpfen wird die flotte wird um etwa 100 flugzeuge verkleinert so lufthansa-chef spur#
 de,A0mA37upj30,382,100,bedeutet aber auch dass bei der lufthansa 10000 mitarbeiter zu viel an bord sind#
@@ -859,8 +835,7 @@ de,3hfhI0BvYM0,539,750,Zum Laub wegmachen.\n- Zum Laub wegmachen. Wenn du nur 75
 de,UCXno7mfziM,340,200,"Dann hat man so nen Bauchtrainer. Den gabs früher bei Cooper C\nfür 200 Euro. Aua!\n- Halt noch mal fest."]#
 de,whJN4YxrNCA,720,2020,Bringt einen neuen Hinterreifen mit.\nVergesst den nicht. Untertitel:\nARD Text im Auftrag von Funk (2020) Wir haben schon mal\naus drei Fahrrädern eins gebaut.#
 de,o-D_XAGnfgY,290,1350,(Fynn atmet entnervt aus.) 1350 Umdrehungen die Minute\nbei 50 Hertz. Ok nehmen wir den.#
-de,o-D_XAGnfgY,930,2020,*Abspannmusik* Untertitel: ARD Text\nim Auftrag von funk (2020) Ich habe das Gefühl\nwir arbeiten heute extremst sauber.#
-de,EUw6flmttFI,41,500,250,200,Wir knastern heute\nmit der Jolle durch Harburg. Wir haben Magneten\n500250 kg und 200 kg. Da ziehen wir ein paar\nschöne Metallschätze raus.#
+de,EUw6flmttFI,410,200,Wir knastern heute\nmit der Jolle durch Harburg. Wir haben Magneten\n500250 kg und 200 kg. Da ziehen wir ein paar\nschöne Metallschätze raus.#
 de,EUw6flmttFI,136,1800,War auch viel größer damals. 1800 irgendwas\nwar das ein Riesenhafen. Hier wurde\nrichtig viel drin gearbeitet.#
 de,EUw6flmttFI,255,500,Nein! Das war nicht ernsthaft\nder 500-Kilo-Magnet du Flöte? Alter ey.\nDer kostet ein paar Hundert Euro.#
 de,EUw6flmttFI,1126,2020,Wir sehen uns im Hafen. Untertitel: ARD Text\nim Auftrag von Funk 2020. *Abspann-Musik*#
