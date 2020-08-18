@@ -23,22 +23,22 @@
 				margin-left:auto; 
 				margin-right:auto;
             }
+            
 
 .header {
-				padding: 18px; /* some с */
+				padding: 18px;
 			 	margin-right: 0%;
 				margin-left: 0%;
 				margin-top: 2%;
-				text-align: left; /* center the text */
+				text-align: left;
 				background: #7285A5;
-				color: white; /* white text color */
+				color: white;
 			}
-            	/* Right-aligned link */
+            	
 			.navbar a.right {
 			  float: right;
 			}
 
-			/* Increase the font size of the <h1> element */
 			.header h1 {
 			  font-size: 40px;
               background-color: white;
@@ -51,8 +51,14 @@
   			  margin-right: 0%;
   			  margin-bottom: 5%;
 			}
-
-			/* Style the navigation bar links */
+			
+            			.about {
+				text-align: left;
+				color: black; 
+				margin-left: 23%;
+  			  	margin-right: 23%;
+			}
+	
 			.navbar a {
 			  float: left;
 			  display: block;
@@ -62,26 +68,26 @@
 			  text-decoration: none;
 			}
 
+						.button-container {
+    width: 520px;
+    background: white;
+    margin-left: 23%;
+  	margin-right: 26%;
+    overflow-y: auto;
+}
 
-
-			.about {
-				text-align: left; /* center the text */
-				color: black; /* white text color */
-				margin-left: 23%;
-  			  	margin-right: 23%;
-			}
-            
-            .button {
-			  background-color: #7285A5; /* Green */
-			  border: none;
-			  color: white;
-			  padding: 10px 28px;
-			  text-align: center;
-              text-decoration: none;
-			  font-size: 16px;
-			  margin: 14px 12px;
-			  cursor: pointer;
-			}
+.button-container > a {
+    width: 100px;
+    height: 30px;
+    float: left;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    border: 4px solid #7285A5;
+    background: #7285A5;
+    text-decoration: none;
+    margin: 6px;
+}
 
 			</style>
 			<script src="redirect.js"></script>
@@ -114,16 +120,22 @@
             
     	<br><br></p>
          </div>
-         
-                 <p align="center">
-    	<a href="/en.html" class="button">English</a>
-        <a href="/fr.html" class="button">Français</a>
-        <a href="/ru.html" class="button">Русский</a>
-        <a href="/de.html" class="button">Deutsch</a>
         
-        
-        
+        <p align="center">
+        <div class="menu-container">
+    	<div class="button-container">
+       	<a href="/en.html" class="button1">English</a>
+        <a href="/fr.html" class="button1">Français</a>
+        <a href="/it.html" class="button1">Italiano</a>
+        <a href="/de.html" class="button1">Deutsch</a>
+        <a href="/ru.html" class="button_ru">Русский</a>
+        <a href="/es.html" class="button_es">Español</a>
+        <a href="/ns.html" class="button_ns">Norsk</a>
+        <a href="/pl.html" class="button_pl"> Polski</a>
+    	</div>
+		</div>
         </p>
+        
         <div class="about">
     		<p align="right">
     
@@ -131,17 +143,18 @@
             
     	<br><br></p>
          </div>
+         
+         
          </div>
-	<script>
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161607781-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161545275-1"></script>
-            <script>
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-            
-              gtag('config', 'UA-161545275-1');
-            </script>
+  gtag('config', 'UA-161607781-1');     
+    </script>
+    
 	</body>
 </html>
