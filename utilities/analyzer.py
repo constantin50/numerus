@@ -76,23 +76,7 @@ class Analyzer:
 		except Exception:
 			print("subs are't found");
 		
-		pttrn = '';
-		if (lang=='en'):
-			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\smillion|\d{1,}\smillions|\d{1,}\sthousand\
-				|\d{1,}\sthousands|\d{1,}\sbillion|\d{1,}\sbillions)'
-
-		if (lang=='ru'):
-			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\sмиллион|\d{1,}\sмиллионов|\d{1,}\sтысяча\
-				|\d{1,}\sтысячи|\d{1,}\sмиллиард|\d{1,}\sмиллиард)'
-
-		if (lang=='fr'):
-			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\smillion|\d{1,}\smillions|\d{1,}\smille\
-				|\d{1,}\smilles|\d{1,}\s|\d{1,}\smilliards|\d{1,}\smilliard)'
-
-		if (lang=='de'):
-			print("de")
-			pttrn = r'(\d{3,}|\d{2,}.\d|\d{1,}\smillion|\d{1,}\smillions|\d{1,}\sthousand\
-				|\d{1,}\sthousands|\d{1,}\sbillion|\d{1,}\sbillions)'
+		pttrn = '\d+';
 
 		for i in range(len(text)):
 			if (re.findall(pttrn,text[i]["text"])):
@@ -102,26 +86,6 @@ class Analyzer:
 					t = str(int(text[i]["start"])-2);
 					phrase =phrase.replace(',', '')
 
-					phrase =phrase.replace('million', '000000')
-					phrase =phrase.replace('millions', '000000')
-					phrase =phrase.replace('thousand', '000')
-					phrase =phrase.replace('thousands', '000')
-					phrase =phrase.replace('billion', '000000000')
-					phrase =phrase.replace('billions', '000000000')
-
-					phrase =phrase.replace('миллион', '000000')
-					phrase =phrase.replace('миллионов', '000000')
-					phrase =phrase.replace('тысяча', '000')
-					phrase =phrase.replace('тысяч', '000')
-					phrase =phrase.replace('миллиард', '000000000')
-					phrase =phrase.replace('миллиардов', '000000000')
-
-					phrase =phrase.replace('million', '000000')
-					phrase =phrase.replace('millions', '000000')
-					phrase =phrase.replace('mille', '000')
-					phrase =phrase.replace('milles', '000')
-					phrase =phrase.replace('milliard', '000000000')
-					phrase =phrase.replace('milliards', '000000000')
 
 					# formate numers
 					ptr = r'\d\s\d{3,}'
