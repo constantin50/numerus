@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Numerus | Italiano</title>
+<meta charset="UTF-8">
+<meta name="viewport" 
+
+<body>
+
+<style>
+      body {
+        font-family: Helvetica, sans-serif;
+      }
+.header {
+    background: #7285A5;
+    color: white;
+        overflow: hidden;
+        padding: 54px;
+        font-size: 80px;  
+        text-align: left;
+}
+
+      .navbar {
+        overflow: hidden;
+        background-color: #7285A5 ;
+      }
+
+      /* Style the navigation bar links */
+      .navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+      }
+
+
+      /* Right-aligned link */
+      .navbar a.right {
+        float: right;
+              padding: 54px;
+      }
+
+      .dropdown {
+        float: left;
+        overflow: hidden;
+              padding: 54px;
+      }
+
+      .dropdown .dropbtn {
+        cursor: pointer;
+        font-size: 16px;  
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 200px;
+        font-size: 40px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+
+      .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+      }
+
+      .dropdown-content a:hover {
+        background-color: #ddd;
+      }
+            
+                  .show {
+        display: block;
+      }
+
+      .player{
+              position: absolute; 
+                left: 0; 
+                right: 0; 
+                margin-left: auto; 
+                margin-right: auto;
+                margin-top: 5%;
+                margin-bottom: 10%;
+        border: 8px solid #FFFFFF
+      }
+
+      .subs{
+        text-align: center; /* center the text */
+        position: absolute; 
+                left: 0; 
+                right: 0;
+                bottom: 28%;
+                margin-left: auto; 
+                margin-right: auto;
+                margin-top: auto;
+                margin-bottom: auto;
+            padding: 32px 10px;
+            background-color: #f0f0f0;
+            display: none;
+                width: 580px;
+                color: black;
+                font-size: 30px;
+  
+      }
+
+      .next_button {
+        background-color: #7285A5; /* Green */
+        color: white;
+        padding: 40px 85px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        position: absolute; 
+              left: 0; 
+              right: 0;
+            bottom: 20%;
+              margin-left: auto; 
+              margin-right: auto;
+              width: 130px; /* Need a specific value to work */
+      }
+
+      .report_button {
+        background-color: white; /* Green */
+        border: none;
+        color: grey;
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        position: absolute; 
+        left: 0; 
+        right: 0;
+        bottom:10%;
+        margin-left: auto; 
+        margin-right: auto;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        display: none;
+      }
+
+      .check_button {
+        background-color: #7285A5; /* Green */
+        color: white;
+        padding: 40px 85px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        position: absolute; 
+              left: 0; 
+              right: 0;
+            bottom: 20%;
+              margin-left: auto; 
+              margin-right: auto;
+              width: 130px; 
+      }
+
+      input[type=text], select {
+           position: absolute; 
+                 padding: 45px 100px;
+                  left: 0; 
+                  right: 0;
+                  bottom: 35%;
+                  margin-left: auto; 
+                  margin-right: auto;
+                  margin-top: auto;
+                  margin-bottom:auto;
+                  width: 130px; /* Need a specific value to work */
+          display: inline-block;
+          text-align: center;
+          font-size: 28px;
+      }
+
+      .right_answer{
+        color: #73f06f;
+        text-align: center; /* center the text */
+        position: absolute; 
+                left: 0; 
+                right: 0;
+                bottom: 15%;
+                margin-top: auto;
+                margin-bottom: auto;
+                margin-left: 44%; 
+                margin-right: 20%;
+          display: none;
+              width: 20px;
+      }
+
+      .wrong_answer{
+        color: #f06f6f;
+              position: absolute; 
+                left: 0; 
+                right: 0;
+                bottom: 15%;
+                margin-top: auto;
+                margin-bottom: auto;
+                margin-left: 44%; 
+                margin-right: 20%;
+        text-align: center; /* center the text */     
+          display: none;
+              width: 20px;
+      }
+</style>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161607781-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161607781-1');
+</script>
+<div class="header">
+  <a href='/m/main.html' style='text-decoration: none'><font color='white'>Numerus<font></a>
+</div>
+
+  <div class="navbar">
+    <a href="/m/about.html" class="right"><font size='8'>about</font></a>
+    <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()"><u><font size='8'>italiano</font></u>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content" id="myDropdown">
+    <a href="/m/ru.html">русский</a>
+    <a href="/m/en.html">english</a>
+    <a href="/m/fr.html">français</a>
+    <a href="/m/de.html">deutsch</a>
+    <a href="/m/pl.html">polski</a>
+    <a href="/m/no.html">norsk</a>
+    <a href="/m/es.html">español</a>
+    </div>
+    </div> 
+  </div>
+
+  
+  <div class = "player" id="player"></div>
+  <div class = "subs" id="subs"></div>
+
+  <form id="num">
+      <input type="text" placeholder="digits only">
+  </form>
+
+  <div class="next_button" id="bt1"><font size='8'>Next<font></div>
+  <div class="check_button" id="bt2"><font size='8'>Check<font></div>
+
+
+  <div class="right_answer" id="ans1"><b>right</b></div>
+  <div class="wrong_answer" id="ans2"><b>wrong</b></div>
+
+  <div class="report_button" id="bt3"><u><font size='6'>Report_an_Error</u><font></div>
+</div>
+
+
+<script>
+
+
+  /* When the user clicks on the button, 
+  toggle between hiding and showing the dropdown content */
+  function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+  }
+
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(e) {
+    if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+    }
+  }
+
+  var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '415',
+          width: '690',
+          videoId: video,
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+
+        });
+      }
+
+      function onPlayerReady(event) {
+      player.loadVideoById({'videoId':video, 
+                    'startSeconds':timecode_start, 
+                    'endSeconds':timecode_end, 
+                    'suggestedQuality':'low'})
+        player.playVideo();
+      }
+
+     
+      function onPlayerStateChange(event) {
+         if (event.data != YT.PlayerState.PLAYING) {
+           player.seekTo(timecode_start);
+
+         }
+      }  
+
+      function stopVideo() {
+        player.stopVideo();
+      }
+
+
+    async function /*Promise<string>*/ getTextAsync(url) {
+    let response = await fetch(url);
+    if (response.ok) {
+        let text = await response.text();
+        return text;
+    }
+    else throw new Error(`${response.status}: ${response.statusText}`);
+  }
+
+  var video;
+  var timecode_start;
+  var timecode_end;
+  var phrase;
+
+  (async function main() {
+
+    let str = await getTextAsync("https://raw.githubusercontent.com/constantin50/numerus/master/data/data_it.txt");
+    console.log(str);
+    data_en = str.split('#')
+    for (i = 0; i < data_en.length; i++) 
+      data_en[i] = data_en[i].split(',')
+    var id = Math.floor(Math.random() * data_en.length);
+    
+    video = data_en[id][1];
+    timecode_start = parseInt(data_en[id][2]);
+    timecode_end = timecode_start + 8;
+      phrase = data_en[id][4];
+
+
+
+    document.getElementById('subs').innerHTML='<br>'+phrase +'<br>'
+    
+    document.getElementById("bt1").addEventListener("click", function(){
+        
+        /* to clear previous input */
+        document.getElementById("num").reset();
+
+        var a1 = document.getElementById("ans1");
+        a1.style.display = 'none'
+        var a2 = document.getElementById("ans2");
+        a2.style.display = 'none'
+
+        /* check-button is shown */
+        var x = document.getElementById("bt2");
+        x.style.display = 'inline';
+
+        /* form is shown */
+        var v = document.getElementById("num");
+        v.style.display = 'inline';
+
+        /* next-button is hidden */
+        var y = document.getElementById("bt1");
+        y.style.display = 'none';
+
+        /* subs are hidden */
+        var z = document.getElementById("subs");
+      z.style.display = 'none';
+
+      /* report-buttom is hidden */
+      var u = document.getElementById("bt3");
+      u.style.display = 'none';
+
+        /* pick a random video */
+        var id = Math.floor(Math.random() * data_en.length);
+    
+      video = data_en[id][1];
+      timecode_start = parseInt(data_en[id][2]);
+        timecode_end = timecode_start + 8;
+      phrase = data_en[id][4];
+
+      document.getElementById('subs').innerHTML='<br>'+phrase
+      player.loadVideoById({'videoId':video, 
+                        'startSeconds':timecode_start, 
+                        'endSeconds':timecode_end, 
+                        'suggestedQuality':'low'})
+
+      });
+
+    document.getElementById("bt2").addEventListener("click", function(){
+            
+
+      /* take numbers issued by user */
+      var input = document.getElementById("num");
+
+      /* check-button is hidden */
+      var x = document.getElementById("bt2");
+      x.style.display = 'none';
+
+      /* report-button is shown */
+      var h = document.getElementById("bt3");
+      h.style.display = 'inline';
+
+      /* subs is shown */
+    var z = document.getElementById("subs");
+     z.style.display = 'block';
+
+      /* next-button is shown */
+      var y = document.getElementById("bt1");
+      y.style.display = 'inline';
+      /* form is hidden */
+      input.style.display = 'none';
+
+
+      phrase = data_en[id][4];
+      var flag = 0;
+      for (i = 0; i < input.length ;i++) {
+        if (z.innerHTML.includes(input.elements[i].value) & 
+          input.elements[i].value != ""){
+          var a1 = document.getElementById("ans1");
+          a1.style.display = 'block'
+          flag = 1;
+        }
+    }
+
+    if (flag == 0){
+      var a2 = document.getElementById("ans2");
+        a2.style.display = 'block'
+    }
+
+    document.getElementById("bt3").addEventListener("click", function(){
+
+      alert("Report was sent. Thank you!");
+    
+      });
+    });
+
+   })();
+
+   
+  </script>
+
+</body>
+</html>
