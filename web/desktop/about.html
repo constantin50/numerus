@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>About</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/png" href="/icon.png"/>
+			<style>
+			
+            body {
+			  font-family: Helvetica, sans-serif;
+              background: #f8f9fa;
+			}
+            
+            
+            .center{
+                background-color: white;
+				width:60%;
+				margin-left:auto; 
+				margin-right:auto;
+            }
+
+.header {
+				padding: 15px; /* some с */
+			 	margin-right: 0%;
+				margin-left: 0%;
+				margin-top: 2%;
+				text-align: left; /* center the text */
+				background: #7285A5;
+				color: white; /* white text color */
+			}
+
+			/* Increase the font size of the <h1> element */
+			.header h1 {
+			  font-size: 40px;
+              background-color: white;
+			}
+
+			.navbar {
+			  overflow: hidden;
+			  background-color: #7285A5 ;
+			  margin-left: 0%;
+  			  margin-right: 0%;
+  			  margin-bottom: 5%;
+			}
+
+			/* Style the navigation bar links */
+			.navbar a {
+			  float: left;
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 20px;
+			  text-decoration: none;
+			}
+
+
+			/* Right-aligned link */
+			.navbar a.right {
+			  float: right;
+			}
+
+			.dropdown {
+			  float: left;
+			  overflow: hidden;
+			}
+
+			.dropdown .dropbtn {
+			  cursor: pointer;
+			  font-size: 16px;  
+			  border: none;
+			  outline: none;
+			  color: white;
+			  padding: 14px 16px;
+			  background-color: inherit;
+			  font-family: inherit;
+			  margin: 0;
+			}
+
+			.dropdown-content {
+			  display: none;
+			  position: absolute;
+			  background-color: #f9f9f9;
+			  min-width: 160px;
+			  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			  z-index: 1;
+			}
+
+			.dropdown-content a {
+			  float: none;
+			  color: black;
+			  padding: 12px 16px;
+			  text-decoration: none;
+			  display: block;
+			  text-align: left;
+			}
+
+			.dropdown-content a:hover {
+			  background-color: #ddd;
+			}
+			
+			.show {
+			  display: block;
+			}
+
+			.about {
+				text-align: left; /* center the text */
+				color: black; /* white text color */
+				margin-left: 23%;
+  			  	margin-right: 23%;
+			}
+
+			</style>
+	</head>
+
+	<body>
+     <div class="center">
+    	<div class="header">
+    		<a href="/index.html" style="text-decoration:none;"><font size="15" color='white'>Numerus</font></a>
+    	</div>
+    
+    	<div class="navbar">
+    	  <a href="/about_en.html" class="right">about</a>
+    	  <a href="#" class="left" >language:</a>
+    	  <div class="dropdown">
+    	  <button class="dropbtn" onclick="myFunction()"><u>english</u>
+    	    <i class="fa fa-caret-down"></i>
+    	  </button>
+    	  <div class="dropdown-content" id="myDropdown">
+              <a href="/ru.html">русский</a>
+            <a href="/en.html">english</a>
+            <a href="/fr.html">français</a>
+            <a href="/de.html">deutsch</a>
+    	  </div>
+    	  </div> 
+    	</div>
+  
+    	<div class="about">
+    		<p align="right">
+    			<i>“Number rules the universe.”</i> <br><br> ― Pythagoras</p>
+    
+    		<p>One of the hardest parts of learning a foreign language is listening, especially numbers (15100, 0.931, 1201, 9001210, etc.). But a clear understanding of them is crucial in economics, physics, geography, history and other sciences that deal with numbers.<br><br> 
+    
+    The goal of this web site is to provide intensive training of comprehension of numbers pronounced in different contexts: news, lecture, tv shows, blog, etc.<br><br>
+    
+    So, choose a language, listen to a video, write the number that you hear, press a check button, see subtitles. Then, go to the next video.
+    		<br><br>
+    		
+    		Several others languages are planned to add. If you speak language that is not here and want
+    		to help contact me.<br>
+    		
+    		Also, if you have any questions or problems please contact me: <br><br> <i>const.werner@gmail.com</i></p>
+    		<i>vk.com/constantin_01</i></p>
+    
+    	</div>
+    </div>
+	<script>
+	/* When the user clicks on the button, 
+	toggle between hiding and showing the dropdown content */
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161607781-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161607781-1');
+</script>
+
+	</script>
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161545275-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', 'UA-161545275-1');
+            </script>
+	</body>
+</html>
